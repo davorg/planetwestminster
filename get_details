@@ -1,0 +1,22 @@
+#!/usr/bin/perl -CSD
+
+use strict;
+use warnings;
+use 5.024;
+
+use XML::Feed;
+use Text::CSV_XS;
+
+my $csv = Text::CSV_XS->new({ binary => 1, auto_diag => 1 });
+
+while (my $row = $csv->getline(*STDIN)) {
+  next unless $row->[12] eq 'True';
+
+  my @feeds;
+  if ($row->[18]) {
+    @feeds = XML::Feed->find_feeds($row->[18]);
+  }
+  # say "Found " . @feeds . " feeds";
+
+  say join "\t", $row->[1], $row->[8], $row->[10], $row->[18] // '', @feeds;
+}

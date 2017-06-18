@@ -1,0 +1,59 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use 5.024;
+
+use YAML;
+
+my $data = {
+  title => 'Planet Westminster',
+  description => "Aggregating MPs' Blogs",
+  url => 'http://mps.theplanetarium.org/',
+  author => {
+    email => 'dave@dave.org.uk',
+    name => 'Dave Cross',
+  },
+  entries => 60,
+  opml => 'opml.xml',
+  page => {
+    file => 'index.html',
+    template => 'index.tt',
+  },
+  feed => {
+    file => 'atom.xml',
+    format => 'Atom',
+  },
+  cache_dir => '/tmp/mps',
+  entries_per_feed => 1,
+  feeds => [],
+};
+
+my %party = (
+  'Conservative and Unionist Party' => 'con',
+  'Labour Party' => 'lab',
+  'Labour and Co-operative Party' => 'lab',
+  'Speaker seeking re-election' => 'speaker',
+  'Scottish National Party (SNP)' => 'snp',
+  'Plaid Cymru - The Party of Wales' => 'pc',
+  'Liberal Democrats' => 'ld',
+);
+
+my @cols = qw[name party constituency web feed ];
+while (<>) {
+  chomp;
+  my %row;
+  @row{@cols} = split /\t/;
+
+  next unless $row{feed};
+
+  $row{party} = $party{$row{party}} // $row{party};
+
+  push @{$data->{feeds}}, {
+    title => join(': ', @row{qw[party constituency name]}),
+    url   => $row{feed},
+    web   => $row{web},
+  };
+}
+
+say Dump($data);
