@@ -1,0 +1,48 @@
+body {
+  padding-top: 75px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+nav.navbar-fixed-top {
+  background: url(hoc_fade.jpg);
+}
+
+.navbar {
+  background-image: none;
+}
+
+.navbar-default {
+  background-color: white;
+}
+
+/*
+
+.lab .panel-heading, .lab .panel-footer {
+  background-color: #f66;
+}
+
+.lab a:link {
+  color: #900;
+}
+
+.con .panel-heading, .con .panel-footer {
+  background-color: #66f;
+}
+
+.con a:link {
+  color: #009;
+}
+
+.ld .panel-heading, .ld .panel-footer {
+  background-color: #ff6;
+}
+
+.ld a:link {
+  color: #990;
+}
+
+*/
