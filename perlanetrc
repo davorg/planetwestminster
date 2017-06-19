@@ -217,6 +217,9 @@ feeds:
   - title: 'lab: Kirkcaldy and Cowdenbeath: Lesley Laird'
     url: http://www.lesleylaird.com/feed/
     web: http://www.lesleylaird.com/
+  - title: 'Democratic Unionist Party - D.U.P.: Lagan Valley: Jeffrey M. Donaldson'
+    url: http://www.jeffreydonaldson.org/blog/feed
+    web: http://www.jeffreydonaldson.org/
   - title: 'lab: Leicester East: Keith Vaz'
     url: http://www.keithvaz.net/feed/
     web: http://www.keithvazmp.com/
@@ -277,6 +280,9 @@ feeds:
   - title: 'lab: Newcastle upon Tyne North: Catherine McKinnell'
     url: https://www.catherinemckinnellmp.co.uk/feed/
     web: http://www.catherinemckinnell.co.uk/
+  - title: 'Democratic Unionist Party - D.U.P.: North Antrim: Ian Paisley Jnr'
+    url: http://www.ianpaisleymp.co.uk/feed/
+    web: http://www.ianpaisleymp.co.uk/
   - title: 'lab: North Durham: Kevan Jones'
     url: http://kevanjonesmp.org.uk/./rss.xml
     web: http://www.kevanjonesmp.org.uk/
