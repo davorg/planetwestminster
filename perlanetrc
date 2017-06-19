@@ -58,9 +58,6 @@ feeds:
   - title: 'lab: Birmingham, Selly Oak: Steve McCabe'
     url: http://www.stevemccabe.org/rss.xml
     web: http://www.stevemccabe.org
-  - title: 'lab: Blackley and Broughton: Graham Stringer'
-    url: http://www.labour.org.uk/news/rss
-    web: http://www.labour.org.uk/people/detail/graham-stringer
   - title: 'lab: Bolton South East: Yasmin Qureshi'
     url: http://www.yasminqureshi.org.uk/bolton.rss
     web: http://yasminqureshi.org.uk/
