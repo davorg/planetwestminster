@@ -28,6 +28,12 @@ feeds:
   - title: 'con: Amber Valley: Nigel Mills'
     url: http://www.nigelmillsmp.com/feed/atom/
     web: http://www.nigelmillsmp.com/
+  - title: "snp: Argyll and Bute: Brendan O'Hara"
+    url: http://www.brendanoharamp.scot/feed/
+    web: http://www.brendanoharamp.scot/
+  - title: 'con: Arundel and South Downs: Nick Herbert'
+    url: http://feeds.feedburner.com/NickHerbertNewsAndBlog
+    web: http://www.nickherbert.com/
   - title: 'lab: Ashfield: Gloria De Piero'
     url: http://www.gloria-de-piero.co.uk/feed/
     web: http://www.gloria-de-piero.co.uk/
