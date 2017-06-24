@@ -263,8 +263,8 @@ feeds:
     url: http://www.georgefreeman.co.uk/rss.xml
     web: http://www.georgefreeman.co.uk/
   - title: 'con: Milton Keynes North: Mark Lancaster'
-    url: http://marklancastermp.org/home/rss
-    web: http://marklancastermp.org/
+    url: http://lancaster4mk.org/home/rss
+    web: http://lancaster4mk.org/
   - title: 'snp: Na h-Eileanan an Iar: Angus MacNeil'
     url: https://angusmacneilsnp.com/feed/
     web: https://angusmacneilsnp.com/
