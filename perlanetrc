@@ -49,12 +49,51 @@ feeds:
   - title: 'lab: Barking: Margaret Hodge'
     url: http://margaret-hodge.co.uk/feed/
     web: http://margaret-hodge.co.uk/
+  - title: 'lab: Barnsley Central: Dan Jarvis'
+    url: http://www.danjarvis.org/news.rss
+    web: http://www.danjarvis.org/
+  - title: 'con: Basingstoke: Maria Miller'
+    url: https://www.maria4basingstoke.co.uk/news/feed
+    web: https://www.maria4basingstoke.co.uk/
+  - title: 'lab: Bassetlaw: John Mann'
+    url: http://www.mann4bassetlaw.com/blog1.rss
+    web: http://www.mann4bassetlaw.com/
   - title: 'lab: Batley and Spen: Tracy Brabin'
     url: https://tracybrabinmp.com/feed/
     web: https://tracy4batleyandspen.com/
+  - title: 'con: Beaconsfield: Dominic Grieve'
+    url: https://www.dominicgrieve.org.uk/news/feed
+    web: http://www.dominicgrieve.org.uk/
+  - title: 'con: Beckenham: Bob Stewart'
+    url: https://www.bobstewart.org.uk/news/feed
+    web: https://www.bobstewart.org.uk/
+  - title: 'con: Berwick-upon-Tweed: Anne-Marie Trevelyan'
+    url: https://www.teamtrevelyan.co.uk/news/feed
+    web: https://www.teamtrevelyan.co.uk/
+  - title: 'con: Berwickshire, Roxburgh and Selkirk: John Lamont'
+    url: http://www.johnlamont.org/news/feed
+    web: http://www.johnlamont.org/
+  - title: 'lab: Bethnal Green and Bow: Rushanara Ali'
+    url: http://www.rushanaraali.org/latest_news.rss
+    web: http://www.rushanaraali.org/
+  - title: 'con: Beverley and Holderness: Graham Stuart'
+    url: https://www.grahamstuart.com/feed/
+    web: http://www.grahamstuart.com/
+  - title: 'con: Bexleyheath and Crayford: David Evennett'
+    url: https://www.bexleyheathandcrayford.com/news/feed
+    web: http://bexleyheathandcrayford.com/
+  - title: 'lab: Birkenhead: Frank Field'
+    url: http://www.frankfield.co.uk/newsfeed.aspx
+    web: http://www.frankfield.co.uk/
   - title: 'lab: Birmingham, Edgbaston: Preet Gill'
     url: http://preetkaurgill.com/feed/
     web: http://www.preetkaurgill.com/
+  - title: 'lab: Birmingham, Erdington: Jack Dromey'
+    url: http://www.jackdromey.org/blog.rss
+    web: http://www.jackdromey.org/
+  - title: 'lab: Birmingham, Hall Green: Roger Godsiff'
+    url: http://feeds.feedburner.com/RogerGodsiffsRssFeed
+    web: http://www.rogergodsiffmp.co.uk/
   - title: 'lab: Birmingham, Hodge Hill: Liam Byrne'
     url: http://liambyrne.co.uk/feed/
     web: http://liambyrne.co.uk/
@@ -64,6 +103,12 @@ feeds:
   - title: 'lab: Birmingham, Selly Oak: Steve McCabe'
     url: http://www.stevemccabe.org/rss.xml
     web: http://www.stevemccabe.org
+  - title: 'lab: Blackburn: Kate Hollern'
+    url: http://www.katehollern.org/blog.rss
+    web: http://www.katehollern.org
+  - title: 'lab: Blackpool South: Gordon Marsden'
+    url: http://www.gordonmarsden.com/blog.rss
+    web: http://www.gordonmarsden.com/
   - title: 'lab: Bolton South East: Yasmin Qureshi'
     url: http://www.yasminqureshi.org.uk/bolton.rss
     web: http://yasminqureshi.org.uk/
