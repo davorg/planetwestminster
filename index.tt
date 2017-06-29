@@ -7,6 +7,8 @@
     green => 'other',
     ind   => 'other',
     pc    => 'other',
+    sf    => 'other',
+    speaker => 'other',
   } -%]
 <!DOCTYPE html>
 <html>
@@ -56,8 +58,9 @@
           <h2>Sources</h2>
           <ul>
 [% FOR f IN cfg.feeds;
-   bits = f.title.split(':\s*') -%]
-            <li><a href="[% f.web | html %]">[% bits.2 %], [% bits.1 %] ([% bits.0 %])</a></li>
+   bits = f.title.split(':\s*');
+   party = bits.0 -%]
+            <li class="link link-[% page.$party %]"><a href="[% f.web | html %]">[% bits.2 %], [% bits.1 %] ([% bits.0 %])</a></li>
 [% END -%]
           </ul>
         </div><!-- col-md-2 -->
@@ -139,7 +142,9 @@ $( document ).ready(function() {
       $(".panel").show(400);
     } else {
       $(".panel").hide(400);
+      $(".link").hide(400);
       $(".page-" + this.id).show(400);
+      $(".link-" + this.id).show(400);
     }
   })
 });

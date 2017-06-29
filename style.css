@@ -1,5 +1,5 @@
 body {
-  padding-top: 75px;
+  padding-top: 135px;
 }
 
 img {
@@ -8,7 +8,10 @@ img {
 }
 
 nav.navbar-fixed-top {
-  background: url(hoc_fade.jpg);
+  background-image: url(hoc_fade.jpg);
+  background-position: top right;
+  background-repeat: no-repeat;
+  height: 135px;
 }
 
 .navbar {
