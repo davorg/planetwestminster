@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gdrive export 1mX1n8nt0ljemigiqwrXVra1acHKZlNMqDqL_yXx1h3g --mime text/tab-separated-values --force
