@@ -41,6 +41,9 @@ my %party = (
 );
 
 my @cols = qw[name party constituency web feed ];
+
+<>; # Ignore the header line
+
 while (<>) {
   chomp;
   my %row;

@@ -1,4 +1,4 @@
 #!/bin/bash
 
 ./get_feeds
-./create_yaml < feeds.tsv > perlanetrc
+./create_yaml < MPs\ Feeds.tsv > perlanetrc
