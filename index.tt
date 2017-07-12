@@ -20,6 +20,7 @@
     <link href="/style.css" rel="stylesheet">
     <link rel="alternate" type="application/atom+xml" title="Atom" href="http://davorg.theplanetarium.org/atom.xml" />
     <meta property="og:title" content="[% feed.title %]" />
+    <meta property="og:description" content="Aggregating the web feeds of Westminster MPs" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://mps.theplanetarium.org/" />
     <meta property="og:image" content="http://mps.theplanetarium.org/hoc_fade.jpg" />
