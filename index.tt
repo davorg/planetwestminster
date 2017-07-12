@@ -80,7 +80,7 @@
      END -%]
           <div class="panel panel-default [% party %] page-[% page.$party %]">
             <div class="panel-heading">
-              <h2><a href="[% entry.link %]">[% title | html %]</a></h2>
+              <h2><a href="[% entry.link %]">[% title %]</a></h2>
               <h3>[% mp %] ([% constit %])</h3>
             </div><!-- panel-heading -->
             <div class="panel-body">
