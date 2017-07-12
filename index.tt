@@ -23,7 +23,7 @@
     <meta property="og:description" content="Aggregating the web feeds of Westminster MPs" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://mps.theplanetarium.org/" />
-    <meta property="og:image" content="http://mps.theplanetarium.org/hoc_fade.jpg" />
+    <meta property="og:image" content="http://mps.theplanetarium.org/hoc_fade_og.jpg" />
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top">
