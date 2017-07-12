@@ -38,6 +38,7 @@ my %party = (
   'Plaid Cymru - The Party of Wales' => 'pc',
   'Liberal Democrats' => 'ld',
   'Democratic Unionist Party - D.U.P.' => 'dup',
+  'Independent' => 'ind',
 );
 
 my @cols = qw[name party constituency web feed ];

@@ -331,6 +331,9 @@ feeds:
   - title: 'lab: Newcastle upon Tyne North: Catherine McKinnell'
     url: https://www.catherinemckinnellmp.co.uk/feed/
     web: http://www.catherinemckinnell.co.uk/
+  - title: 'ind: Newton Abbot: Anne Marie Morris'
+    url: https://www.annemariemorris.co.uk/news/feed
+    web: http://www.annemariemorris.co.uk/
   - title: 'dup: North Antrim: Ian Paisley Jnr'
     url: http://www.ianpaisleymp.co.uk/feed/
     web: http://www.ianpaisleymp.co.uk/
