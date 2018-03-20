@@ -41,7 +41,7 @@ feeds:
     url: https://www.damiangreen.co.uk/news/feed
     web: http://www.damiangreen.co.uk/
   - title: 'lab: Ashton-under-Lyne: Angela Rayner'
-    url: http://www.angelarayner.com/news_blog.rss
+    url: http://www.angelarayner.com/news.rss
     web: http://www.angelarayner.com/
   - title: 'con: Banbury: Victoria Prentis'
     url: http://victoriaprentis.com/feed/
@@ -86,7 +86,7 @@ feeds:
     url: http://www.frankfield.co.uk/newsfeed.aspx
     web: http://www.frankfield.co.uk/
   - title: 'lab: Birmingham, Edgbaston: Preet Gill'
-    url: http://preetkaurgill.com/feed/
+    url: http://preetkaurgill.com/taxonomy/term/36/feed/
     web: http://www.preetkaurgill.com/
   - title: 'lab: Birmingham, Erdington: Jack Dromey'
     url: http://www.jackdromey.org/blog.rss
@@ -134,8 +134,8 @@ feeds:
     url: http://www.charleswalker.org/rss.xml
     web: http://www.charleswalker.org/
   - title: 'speaker: Buckingham: John Bercow'
-    url: http://bercow4buckingham.org/feed/
-    web: http://bercow4buckingham.org/
+    url: http://www.johnbercow.co.uk/rss.xml
+    web: http://www.johnbercow.co.uk/
   - title: 'lab: Bury South: Ivan Lewis'
     url: http://www.burysouthlabour.co.uk/feed/
     web: http://www.ivanlewis.org.uk/
@@ -245,7 +245,7 @@ feeds:
     url: http://www.jesse4hereford.com/home.rss
     web: http://www.jesse4hereford.com/
   - title: 'lab: Heywood and Middleton: Liz McInnes'
-    url: http://lizmcinnes.org.uk/feed/
+    url: http://lizmcinnes.org.uk/blog.rss
     web: http://www.lizmcinnes.org.uk/
   - title: 'lab: High Peak: Ruth George'
     url: http://ruthforhighpeak.co.uk/feed/
