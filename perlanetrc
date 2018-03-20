@@ -163,9 +163,6 @@ feeds:
   - title: 'lab: Dagenham and Rainham: Jon Cruddas'
     url: http://joncruddas.org.uk/rss.xml
     web: http://joncruddas.org.uk/
-  - title: 'lab: Delyn: David Hanson'
-    url: http://www.davidhanson.org.uk/feed/
-    web: http://www.davidhanson.org.uk
   - title: 'lab: Denton and Reddish: Andrew Gwynne'
     url: https://andrewgwynne.co.uk/feed/
     web: http://www.andrewgwynne.co.uk/
