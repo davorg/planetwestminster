@@ -338,7 +338,7 @@ feeds:
     url: http://kevanjonesmp.org.uk/./rss.xml
     web: http://www.kevanjonesmp.org.uk/
   - title: 'con: North East Bedfordshire: Alistair Burt'
-    url: http://www.alistair-burt.co.uk/index.php?format=feed&type=atom
+    url: http://www.alistair-burt.co.uk/news/feed
     web: http://www.alistair-burt.co.uk/
   - title: 'con: North East Somerset: Jacob Rees-Mogg'
     url: http://www.jacobreesmogg.com/feed/
