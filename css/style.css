@@ -8,7 +8,7 @@ img {
 }
 
 nav.navbar-fixed-top {
-  background-image: url(hoc_fade.jpg);
+  background-image: url(/image/hoc_fade.jpg);
   background-position: top right;
   background-repeat: no-repeat;
   height: 135px;
