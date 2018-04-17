@@ -2,6 +2,7 @@
 author:
   email: dave@dave.org.uk
   name: Dave Cross
+  twitter: davorg
 cache_dir: /tmp/mps
 description: Aggregating MPs' Blogs
 entries: 60
