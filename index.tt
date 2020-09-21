@@ -72,12 +72,12 @@
         <div class="col-md-8">
 [% FOREACH entry IN feed.entries;
      title = entry.title;
-     IF (title.match(':'));
-       bits = title.split(':\s*', 4);
+     feedtitle = entry.feed.title;
+     IF (feedtitle.match(':'));
+       bits = feedtitle.split(':\s*', 3);
        party = bits.0;
        constit = bits.1;
        mp = bits.2;
-       title = bits.3;
      END -%]
           <div class="panel panel-default [% party %] page-[% page.$party %]">
             <div class="panel-heading">
