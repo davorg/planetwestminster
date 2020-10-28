@@ -12,14 +12,11 @@ feed:
   format: Atom
 feeds:
   - title: 'lab: Aberavon: Stephen Kinnock'
-    url: http://www.stephenkinnock.co.uk/press_releases_and_articles.rss
-    web: http://www.stephenkinnock.co.uk/
-  - title: 'con: Aberconwy: Guto Bebb'
-    url: https://www.gutobebb.org.uk/news/feed
-    web: https://www.gutobebb.org.uk/
-  - title: 'con: Aberdeen South: Ross Thomson'
-    url: http://rossthomson.net/content/?feed=atom
-    web: http://rossthomson.net/
+    url: https://www.stephenkinnock.co.uk/category/pressandarticles/feed/
+    web: https://www.stephenkinnock.co.uk/
+  - title: 'con: Aberconwy: Robin Millar'
+    url: https://www.robin-millar.org.uk/news/feed
+    web: https://www.robin-millar.org.uk/
   - title: 'con: Aldridge-Brownhills: Wendy Morton'
     url: http://wendymorton.co.uk/feed/
     web: http://wendymorton.co.uk/
@@ -35,15 +32,15 @@ feeds:
   - title: 'con: Arundel and South Downs: Nick Herbert'
     url: http://feeds.feedburner.com/NickHerbertNewsAndBlog
     web: http://www.nickherbert.com/
-  - title: 'lab: Ashfield: Gloria De Piero'
-    url: http://www.gloria-de-piero.co.uk/feed/
-    web: http://www.gloria-de-piero.co.uk/
+  - title: 'con: Ashfield: Lee Anderson'
+    url: https://www.leeanderson.org.uk/news/feed
+    web: https://www.leeanderson.org.uk/
   - title: 'con: Ashford: Damian Green'
     url: https://www.damiangreen.co.uk/news/feed
     web: http://www.damiangreen.co.uk/
   - title: 'lab: Ashton-under-Lyne: Angela Rayner'
-    url: http://www.angelarayner.com/news.rss
-    web: http://www.angelarayner.com/
+    url: https://www.angelarayner.co.uk/feed/atom
+    web: https://www.angelarayner.co.uk/
   - title: 'con: Banbury: Victoria Prentis'
     url: http://victoriaprentis.com/feed/
     web: http://victoriaprentis.com/
