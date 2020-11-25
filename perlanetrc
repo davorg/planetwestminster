@@ -8,7 +8,7 @@ description: Aggregating MPs' Blogs
 entries: 60
 entries_per_feed: 1
 feed:
-  file: atom.xml
+  file: docs/atom.xml
   format: Atom
 feeds:
   - title: 'lab: Aberavon: Stephen Kinnock'
@@ -481,7 +481,7 @@ feeds:
     web: http://www.stevebaker.info/
 opml: opml.xml
 page:
-  file: index.html
+  file: docs/index.html
   template: index.tt
 title: Planet Westminster
 url: http://mps.theplanetarium.org/
