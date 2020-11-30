@@ -7,9 +7,19 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-11-30T11:44:13Z</updated>
+  <updated>2020-11-30T12:56:06Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Anne Marie's Weekly Column</title>
+    <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-98" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Last Wednesday, the Chancellor of the Exchequer, Rishi Sunak, set out the 2020 Spending Review. Given that we find ourselves in the middle of a pandemic, it is quite right that much of the focus was on supporting businesses and individuals through Covid-19 and our recovery the other side.…</div>
+    </content>
+    <id>https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-98</id>
+    <published>2020-11-30T12:00:00Z</published>
+    <updated>2020-11-30T12:00:00Z</updated>
+  </entry>
   <entry>
     <title>The credibility of the science</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2020/11/30/the-credibility-of-the-science/" type="text/html"/>
@@ -543,18 +553,6 @@ Funding of £1,500 is on offer through the ‘…</div>
 Reassurance was sought after a number of people contacted their local politicians when they heard about people being stopped by police.…</div>
     </content>
     <id>https://www.johnlamont.org/news/scottish-government-confirm-essential-shopping-allowed</id>
-    <published>2020-11-27T12:00:00Z</published>
-    <updated>2020-11-27T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Tier System: General Response </title>
-    <link rel="alternate" href="https://www.annemariemorris.co.uk/news/tier-system-general-response" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A number of constituents have now been in touch regarding the new Tier system. My response to this can be found below:
-Thank you for taking the time to write to me.
-Since the first lockdown, I have ardently lobbied against further strict restrictions. Alongside the impact of Covid-19 itself, these…</div>
-    </content>
-    <id>https://www.annemariemorris.co.uk/news/tier-system-general-response</id>
     <published>2020-11-27T12:00:00Z</published>
     <updated>2020-11-27T12:00:00Z</updated>
   </entry>
@@ -1699,7 +1697,7 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="3e06d30840"  data-nonce-time="1606735956" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="aa962d7bb7"  data-nonce-time="1606740297" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
