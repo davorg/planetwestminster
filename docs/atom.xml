@@ -7,9 +7,75 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-02T08:48:26Z</updated>
+  <updated>2020-12-02T09:45:06Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Dunne welcomes commitment to publish rural proofing report</title>
+    <link rel="alternate" href="https://www.philipdunne.com/news/dunne-welcomes-commitment-publish-rural-proofing-report" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="6846" class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      
+            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">2 December 2020</div>
+      
+      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Dunne welcomes commitment to publish rural proofing report</span></div>
+      
+            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span><span>A commitment from government to publish a report into the impact of policies on rural areas has been welcomed by South Shropshire MP, Philip Dunne. </span></span></span></p>
+
+<p><span><span><span>Defra Minister, Lord Gardiner of Kimble, confirmed in Parliament on Tuesday that a report into rural proofing would be published shortly. Mr Dunne, who Chairs the All Party Parliamentary Group for Rural Services, has called for such a study, so that government departments are truly aware of how rurality can impact the cost and impact of their policies. </span></span></span></p>
+
+<p><span><span><span>Mr Dunne said: </span></span></span></p>
+
+<p><span><span><span>“As Chair of the APPG for Rural Services, we have called for years for the government to publish a report into rural proofing, to ensure that departments give real consideration to the impact of policies in rural areas. </span></span></span></p>
+
+<p><span><span><span>This commitment to publish shortly the first annual rural proofing report is welcome, and I look forward to reading how the government intends to put in place its levelling up agenda for rural areas.”</span></span></span></p></div>
+      
+      </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+</div>
+    </content>
+    <author>
+      <name>jon</name>
+    </author>
+    <id>6846 at https://www.philipdunne.com</id>
+    <published>2020-12-02T09:34:03Z</published>
+    <updated>2020-12-02T09:34:03Z</updated>
+  </entry>
+  <entry>
+    <title>Statement on Covid-19 Restrictions</title>
+    <link rel="alternate" href="https://www.jonathandjanogly.com/content/statement-covid-19-restrictions" type="text/html"/>
+    <content type="html">&lt;p&gt;The move from national lockdown to the tier system is going to continue to see many people living under very severe restrictions. &lt;span class='read-more'&gt;&lt;a href="https://www.jonathandjanogly.com/content/statement-covid-19-restrictions" target="_blank"&gt;&lt;strong&gt;&amp;nbsp;read&amp;nbsp;more&amp;nbsp;&amp;raquo;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Admin</name>
+    </author>
+    <id>5016 at https://www.jonathandjanogly.com</id>
+    <published>2020-12-02T09:03:47Z</published>
+    <updated>2020-12-02T09:03:47Z</updated>
+  </entry>
+  <entry>
+    <title>Kent in COVID Tier 3</title>
+    <link rel="alternate" href="https://damiancollins.com/kent-in-covid-tier-3/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This week sees the end of the national covid lockdown and all parts of the country will experience positive changes to community life. High Street shops will be able to re-open including hairdressers and nail salons. Churches and other places of worship will open their doors once more. Outdoor activities like golf will be able […]</div>
+    </content>
+    <author>
+      <name>pierre</name>
+    </author>
+    <id>https://damiancollins.com/?p=5413</id>
+    <published>2020-12-02T08:42:00Z</published>
+    <updated>2020-12-02T08:42:00Z</updated>
+    <category term="Weekly Blog"/>
+  </entry>
   <entry>
 		<author>
 			<name>Team JP</name>
@@ -71,18 +137,6 @@
     <published>2020-12-02T05:10:00Z</published>
     <updated>2020-12-02T05:10:00Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Jonathan Djanogly calls on the Government to act against illegal hare coursing</title>
-    <link rel="alternate" href="https://www.jonathandjanogly.com/content/jonathan-djanogly-calls-government-act-against-illegal-hare-coursing" type="text/html"/>
-    <content type="html">&lt;p&gt;Jonathan Djanogly calls on the Government to act nationally against illegal hare coursing events which are streamed online for illegal gambling all around the country. &lt;span class='read-more'&gt;&lt;a href="https://www.jonathandjanogly.com/content/jonathan-djanogly-calls-government-act-against-illegal-hare-coursing" target="_blank"&gt;&lt;strong&gt;&amp;nbsp;read&amp;nbsp;more&amp;nbsp;&amp;raquo;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <author>
-      <name>Admin</name>
-    </author>
-    <id>5015 at https://www.jonathandjanogly.com</id>
-    <published>2020-12-01T22:00:00Z</published>
-    <updated>2020-12-01T22:00:00Z</updated>
   </entry>
   <entry>
     <title>Havering Volunteer Centre Christmas Appeal</title>
@@ -370,70 +424,6 @@ The Self-Employed Income Support Scheme was announced at the beginning of the co
 		<category term="Local News"/>
 		<category term="Local News"/>
 	</entry>
-  <entry>
-    <title>Philip Dunne broadly welcomes agricultural transition plan but highlights some concerns</title>
-    <link rel="alternate" href="https://www.philipdunne.com/parliament/philip-dunne-broadly-welcomes-agricultural-transition-plan-highlights-some-concerns" type="text/html"/>
-    <content type="html">  &lt;div data-history-node-id="6845" class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      
-            &lt;div class="field field--name-field-date field--type-datetime field--label-hidden field--item"&gt;30 November 2020&lt;/div&gt;
-      
-      &lt;div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items"&gt;
-              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
-          
-            &lt;div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"&gt;&lt;span&gt;Philip Dunne broadly welcomes agricultural transition plan but highlights some concerns&lt;/span&gt;&lt;/div&gt;
-      
-            &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;p&gt;Following the statement to the House of Commons on the Government’s agricultural transition plan, Philip Dunne raises concerns about farming viability for those who will miss out on the environmental land management scheme pilots and that the scheme for new entrants risks consolidation of farming businesses into larger holdings.&lt;/p&gt;&lt;/div&gt;
-      
-      &lt;/div&gt;
-&lt;/div&gt;
-              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--video paragraph--view-mode--default"&gt;
-            
-        &lt;div class="video-relative"&gt;
-            
-            &lt;div class="field field--name-field-video field--type-video-embed-field field--label-hidden field--item"&gt;&lt;div class="video-embed-field-provider-youtube video-embed-field-responsive-video form-group"&gt;&lt;iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" class="embed-video" id="embed-video-22632" allowscriptaccess="always" src="https://www.youtube-nocookie.com/embed/oXJnhg6WxEA?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1"&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-      
-            &lt;div class="overlay"&gt;
-                &lt;div class="paragraph-image-wrapper" style="background-image: url()"&gt;&lt;/div&gt;
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class="caption"&gt;
-            
-        &lt;/div&gt;
-      &lt;/div&gt;
-&lt;/div&gt;
-              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
-          
-            &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;h3&gt;&lt;a href="https://hansard.parliament.uk/search/MemberContributions?house=Commons&amp;memberId=1542"&gt;Philip Dunne (Ludlow) (Con) [V]&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;I broadly welcome the thrust of these transition arrangements to improve the environment, although as a farmer I am concerned about farming viability—given the phased 50% cut in support over the next three to four years—for those who will miss out on the environmental land management scheme pilots for 5,500 successful applicants, until the new ELM scheme comes in from 2024. The Secretary of State is offering a lump sum exit scheme to encourage farmers to retire and a new scheme for new entrants from 2022, but in view of the high costs of mechanisation and the time to achieve the viability of a new enterprise, does that not risk continuing the process of consolidation of farming businesses into larger holdings, in particular in disadvantaged areas?&lt;/p&gt;
-
-&lt;h3&gt;&lt;a href="https://hansard.parliament.uk/search/MemberContributions?house=Commons&amp;memberId=3934"&gt;George Eustice &lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;My right hon. Friend makes an important point, and we are considering that in the design of our schemes. We are working with county farms across the country to improve the offer that county farms have, to create opportunities for new entrants and to encourage them into partnership with other landowners so that there can be more opportunities for those new entrants and to create an incubator model for these new entrants.&lt;/p&gt;
-
-&lt;p&gt;In terms of the viability of farms as we progressively reduce the basic payment scheme, it is important to recognise that this is an evolution, not a revolution. It is the case that from 2022 we will open the sustainable farming incentive to all farmers.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://hansard.parliament.uk/commons/2020-11-30/debates/d1556108-a152-4c24-a9a0-58c1c17c632e/CommonsChamber#contribution-234043E0-04DA-4E06-B3FF-DA54BB1B21C1"&gt;Hansard&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-      &lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-  
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-</content>
-    <author>
-      <name>jon</name>
-    </author>
-    <id>6845 at https://www.philipdunne.com</id>
-    <published>2020-11-30T22:00:00Z</published>
-    <updated>2020-11-30T22:00:00Z</updated>
-  </entry>
   <entry>
     <title>RELEASE: MP praises CAB for their Fair Delivery Charges campaign</title>
     <link rel="alternate" href="https://www.drewhendrymp.scot/release-mp-praises-citizens-advice-bureau-for-their-local-fair-delivery-charges-campaign/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=release-mp-praises-citizens-advice-bureau-for-their-local-fair-delivery-charges-campaign" type="text/html"/>
@@ -1025,20 +1015,6 @@ protected.&lt;/p&gt;
     <category term="Uncategorized"/>
   </entry>
   <entry>
-    <title>Return of grassroots sports</title>
-    <link rel="alternate" href="https://damiancollins.com/return-of-grassroots-sports/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">On Monday this week I was in the chamber of the House of Commons to hear the Prime Minister announce that the national COVID lockdown will end on 2 December to be replaced with a tiered system. This is obviously very good news, and this easing of the restrictions is a result of the success […]</div>
-    </content>
-    <author>
-      <name>pierre</name>
-    </author>
-    <id>https://damiancollins.com/?p=5408</id>
-    <published>2020-11-25T08:30:00Z</published>
-    <updated>2020-11-25T08:30:00Z</updated>
-    <category term="Weekly Blog"/>
-  </entry>
-  <entry>
     <title>Preet questions the Foreign Secretary about cuts to UK Aid</title>
     <link rel="alternate" href="https://preetkaurgill.com/content/preet-questions-foreign-secretary-about-cuts-uk-aid" type="text/html"/>
     <content type="xhtml">
@@ -1627,12 +1603,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="cf6c622e5e"  data-nonce-time="1606898460" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="cf6c622e5e"  data-nonce-time="1606901858" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Name&lt;/label&gt;&lt;input type="text" name="name" value="" autocomplete="off"&gt;
+&lt;label&gt;Url&lt;/label&gt;&lt;input type="text" name="url" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
