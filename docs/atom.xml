@@ -7,14 +7,121 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-02T09:45:06Z</updated>
+  <updated>2020-12-02T10:44:58Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
-    <title>Dunne welcomes commitment to publish rural proofing report</title>
-    <link rel="alternate" href="https://www.philipdunne.com/news/dunne-welcomes-commitment-publish-rural-proofing-report" type="text/html"/>
+    <title>MP Urges Action Over Human Rights Abuses in Nigeria</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/mp-urges-action-over-human-rights-abuses-nigeria" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="6846" class="layout layout--onecol">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/DSC_1479_1.JPG?itok=b2rYXFz-" width="740" height="423" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p> </p>
+              <p>At the end of October Jon Cruddas MP signed a letter calling on the Government to break its silence and speak out against the recent violence surrounding protests in Nigeria. The letter was sent in response to the incident that took place in Lagos on 21 October. The full letter which was led by Kate Osamor MP can be read <a href="https://joncruddas.org.uk/sites/default/files/Letter%20to%20FS%20re%20Lagos%20Massacre%2022%20October%202020%20%281%29.pdf"><strong>HERE</strong></a></p>
+              <p><strong>Jon Cruddas MP for Dagenham and Rainham said:</strong> <em><br/></em></p>
+              <p>
+                <em>“The</em>
+                <em> recent reports of violence during protests in Nigeria were deeply concerning, particularly in instances where lives were tragically lost. Many of my constituents have raised this with me which is why on October 22nd following the massacre of peaceful protesters in Lagos, I joined 59 cross party MPs in calling on the Government to take a stronger stance.</em>
+              </p>
+              <p>
+                <em>“The actions of Nigerian Security forces in response to peaceful protest flies in the face of international human rights legislation. Some of the images coming from the region over the course of the last month have been truly harrowing and the Government have been too quiet on this issue.</em>
+              </p>
+              <p>
+                <em>“Unfortunately, I was unable to attend the debate on this topic due to other commitments. However, I am urging the Government to consider measures which utilise the Global Human Rights sanctions regime, to effectively hold those involved in serious human rights abuses to account.”</em>
+              </p>
+              <p>
+                <strong>The Government’s Minister for Africa, James Duddridge MP has responded stating;</strong>
+              </p>
+              <p>
+                <em>“The UK Government will continue to push for the Nigerian police to uphold human rights and the rule of law in all operations, and for any reported incidents of brutality to be investigated and those responsible held to account.”</em>
+              </p>
+              <p>Since the events of October President Buhari has taken the decision to disband the Federal Special Anti-Robbery Squad (FSARS) and establish a judicial panel to investigate the alleged incidents of brutality carried out by the security services. Officials have stressed that all incidents must be investigated including those in Lagos, and that the police and military must be fully compliant with the inquiry.</p>
+              <p>Jon Cruddas along with other MPs are asking the Government to seek further assurances that these panels will be truly independent and that failing action from the Nigerian Government, the UK must seriously consider sanctions to hold Nigerian officials and those responsible for human rights abuses to account.</p>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dagenham</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/tags/africa" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Africa</a>
+            </li>
+            <li class="taxonomy-term-reference-3">
+              <a href="/tags/nigeria" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nigeria</a>
+            </li>
+            <li class="taxonomy-term-reference-4">
+              <a href="/tags/sanctions" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sanctions</a>
+            </li>
+            <li class="taxonomy-term-reference-5">
+              <a href="/tags/human-rights" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Human Rights</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>andrew</name>
+    </author>
+    <id>1430 at https://joncruddas.org.uk</id>
+    <published>2020-12-02T10:35:21Z</published>
+    <updated>2020-12-02T10:35:21Z</updated>
+  </entry>
+  <entry>
+    <title>Covid-19 Tier Restrictions</title>
+    <link rel="alternate" href="http://www.ianmearns.org.uk/2020/12/02/covid-19-tier-restrictions/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Yesterday (01/12/20), Parliament was presented with a simple, for or against, choice to vote on the renewed ‘Tier’ restrictions which have subsequently come into place this morning and the additional financial support package on offer to businesses, workers and households across Gateshead and the North East.</p>
+<p><span style="font-style: inherit; font-weight: inherit;">I wanted to take some time to explain my position on this matter and why I voted against the imposition of this package yesterday.</span></p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>At the outset, I absolutely agree with experts here in Gateshead and Nationally that we must prevent the spread of Covid-19 throughout our communities.</p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>I also agree that the best way to do this is through limiting social interaction especially among meetings of multiple households.</p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>The package of restrictions are not perfect, they appear to be ever more complicated and the allocation of tiers to different regions appears to be unequal at first glance, with areas in the North and North East subjected to greater levels of restrictions compared to other parts of the UK with similar or higher rates of incidence of Covid-19.</p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>To this end, I have formally requested the Government publish the criteria used and set out some clarity on how regions will move between tiers while we await the rollout of a number of vaccine programmes.</p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>The restrictions in place since the spring, closing large numbers of businesses across Gateshead and limiting the trade of so many others, have had an incredibly damaging impact on the lives and livelihoods and overall wellbeing of so many people.</p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>The Government has a duty and the means to provide proper financial support to these businesses and their employees, and to this end, I firmly believe they have failed. While the initial business rate grant scheme and the furlough scheme seemed generous, many millions of people have been left without any support whatsoever and continue to be ignored 9 months on.</p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>In addition, businesses in Gateshead which have either had to remain closed or have been once again forced to close – hospitality, fitness suites and retail particularly – alongside many self employed workers; have been left with meagre amounts of support, if any, as many businesses enter what would traditionally be their busiest trading period.</p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>The Government appear to have prioritised funnelling billions of pounds of tax payer money into, sometimes selective, elements of the private sector to provide inadequate PPE and an ineffective test, track and trace system. Instead, they should be prioritising financial support for businesses, employees and families affected.</p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>Failure to do so has not only had a detrimental impact on the health and wellbeing of so many people, but it has had a detrimental impact on adherence to the restrictions. The Government must understand that many people can not work from home and do not have ready access to utilities and food, and many can not afford to withstand repeated periods of self isolation without proper financial support – Statutory Sick Pay is simply totally inadequate.</p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span>Notwithstanding the urgent need to restrict the spread of Covid-19, I voted against the motion yesterday evening, as I firmly believe the Government can and must do more to provide adequate financial support for every person and business affected.</p>
+<p><span style="font-style: inherit; font-weight: inherit;">I have raised the inadequate financial support with the Government since the spring and will continue to do so until they meet their responsibility in full.</span></p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span><span style="font-style: inherit; font-weight: inherit;">Now that the North East is officially subject to tier 3 restrictions, I would urge all residents to follow the rules closely, as this is the only way we can reduce the spread of the virus enough to move down the tier system. With our infection rates declining, because of everyone’s efforts and with positive news of vaccinations in the very near future, it is imperative that we all do whatever we can to further drive down the spread of Covid-19.</span></p>
+<p><span style="font-style: inherit; font-weight: inherit;"> </span><span style="font-style: inherit; font-weight: inherit;">I hope this sets out my view clearly, however, if you have any further questions please do contact my office.</span></p>
+<p>Stay safe,</p>
+<p>Ian Mearns MP</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Yesterday (01/12/20), Parliament was presented with a simple, for or against, choice to vote on the renewed ‘Tier’ restrictions which have subsequently come into place this morning and the additional</div>
+    </summary>
+    <author>
+      <name>Ian Mearns</name>
+    </author>
+    <id>http://www.ianmearns.org.uk/?p=20754</id>
+    <published>2020-12-02T10:10:07Z</published>
+    <updated>2020-12-02T10:10:07Z</updated>
+    <category term="Gateshead"/>
+    <category term="Ians views"/>
+    <category term="Ians votes"/>
+    <category term="COVID-19"/>
+  </entry>
+  <entry>
+    <title>Dunne welcomes Pfizer vaccine approval</title>
+    <link rel="alternate" href="https://www.philipdunne.com/news/dunne-welcomes-pfizer-vaccine-approval" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="6847" class="layout layout--onecol">
     <div class="layout__region layout__region--content">
       
             <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">2 December 2020</div>
@@ -22,17 +129,23 @@
       <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
               <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
           
-            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Dunne welcomes commitment to publish rural proofing report</span></div>
+            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Dunne welcomes Pfizer vaccine approval</span></div>
       
-            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span><span>A commitment from government to publish a report into the impact of policies on rural areas has been welcomed by South Shropshire MP, Philip Dunne. </span></span></span></p>
+            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span><span>Former Health Minister Philip Dunne has welcomed approval of the Pfizer/BioNTech vaccine by the regulator, allowing the COVID19 vaccination programme to begin next week. </span></span></span></p>
 
-<p><span><span><span>Defra Minister, Lord Gardiner of Kimble, confirmed in Parliament on Tuesday that a report into rural proofing would be published shortly. Mr Dunne, who Chairs the All Party Parliamentary Group for Rural Services, has called for such a study, so that government departments are truly aware of how rurality can impact the cost and impact of their policies. </span></span></span></p>
+<p><span><span><span>Britain is the first country in the world to have a clinically authorised vaccine, following testing by the Medicines and Healthcare products Regulatory Agency (MHRA). The UK has secured 40 million doses, with the first 800,000 arriving within days. </span></span></span></p>
 
-<p><span><span><span>Mr Dunne said: </span></span></span></p>
+<p><span><span><span>The Joint Committee on Vaccination and Immunisation, a panel of independent experts, will shortly advise on the way in which the vaccine will be prioritised, including for care homes, health staff, over 80s, and the rest of the general public. </span></span></span></p>
 
-<p><span><span><span>“As Chair of the APPG for Rural Services, we have called for years for the government to publish a report into rural proofing, to ensure that departments give real consideration to the impact of policies in rural areas. </span></span></span></p>
+<p><span><span><span>The vaccine has an efficacy of 95%, and has been tested on over 43,500 people in six countries, with no safety concerns raised. </span></span></span></p>
 
-<p><span><span><span>This commitment to publish shortly the first annual rural proofing report is welcome, and I look forward to reading how the government intends to put in place its levelling up agenda for rural areas.”</span></span></span></p></div>
+<p><span><span><span>Mr Dunne said: “This is fantastic news, and is a credit to the UK that we are the first country to clinically authorise a vaccine against COVID19. </span></span></span></p>
+
+<p><span><span><span>On a day where more freedoms are returned to us, this offers even greater hope for the future, and the return to some sense of normality we all crave. </span></span></span></p>
+
+<p><span><span><span>I pay tribute to all the scientists and volunteers who have helped to bring about this success, and to the Vaccine Task Force for identifying this as the most promising candidate and securing doses at scale. To go from discovering a new virus, to an approved vaccine rolling out safely across the UK, in less than a year, is a truly incredible feat.”</span></span></span></p>
+
+<p><span><span> </span></span></p></div>
       
       </div>
 </div>
@@ -46,9 +159,49 @@
     <author>
       <name>jon</name>
     </author>
-    <id>6846 at https://www.philipdunne.com</id>
-    <published>2020-12-02T09:34:03Z</published>
-    <updated>2020-12-02T09:34:03Z</updated>
+    <id>6847 at https://www.philipdunne.com</id>
+    <published>2020-12-02T10:01:57Z</published>
+    <updated>2020-12-02T10:01:57Z</updated>
+  </entry>
+  <entry>
+    <title>My contribution to the debate on Public Health, 1 December 2020</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2020/12/02/my-contribution-to-the-debate-on-public-health-1-december-2020/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p><strong>Sir John Redwood (Wokingham) (Con):</strong> Many of my constituents are very angry that west Berkshire and Wokingham have been placed in tier 2 when we were in tier 1 before the national lockdown and we still have very low figures. On all the evidence that the Government say they look at—case numbers, trends in cases and available hospital capacity—there seems a very clear case that we should not be worse off as we come out of national lockdown than we were when we went in, and my constituents will expect me to reflect their anger in the way that I vote tonight.</p>
+
+
+
+<p>I would far rather work with the Government, and I think that on the whole they are doing a very good job in a very difficult circumstance, but they could make life easier for themselves if they identified more policies that both bear down on the virus problem and allow the much-needed economic recovery so that we rescue and encourage more livelihoods.</p>
+
+
+
+<p>The first policy is this: why can we not have expanded isolation capacity in the NHS to deal with covid-19, with volunteers properly backed up with all the equipment and safety protocols they need so that we free up many more of the district generals to do the general work that they need to do and free up their staff from the possibility of cross-infection and cross-contamination? One of the problems in the NHS at the moment is that there are too many staff who have had to self-isolate. Can we not do better on infection control, isolation, and specialisation? Money is no longer a problem, I am pleased to see. I am very happy for more money to go into the health service, but it must buy the staff and make sure that the staff are properly looked after, so that we have that extra capacity.</p>
+
+
+
+<p>The second issue is the capacity of our hospitality industry. I encouraged the Department for Business, Energy and Industrial Strategy and the Department of Health and Social Care to do work some time ago on safer methods of extracting air quickly from hospitality venues, so that more people can use a hospitality venue safely. I believe that some of that work has shown some fruit, and that experts agree that we can create much safer environments if we reverse overflows and extract air quickly. We are now told by the experts that the main transmission threat is aerial transmission by being in an enclosed space with people with the disease. Can we not have more public prominence for that work? Perhaps we could have some grant systems for small businesses and proper technical assistance from the Government and from those the Government retain so that more venues can trade sensibly and profitably without being threatening in any way.</p>
+
+
+
+<p>Can we please also have a proper package for all the self-employed and the small business people? Why do some groups of the self-employed get omitted from the packages every time? These are the people who go the extra distance, provide the flexible service, work all the hours God made, and do not often get much reward for it. These are also the people who have suffered the most from these compulsory closures. If a person works for a large company, they are, in many cases, paid their salary, even if that company cannot operate properly, but if they work for their own business, there is no income coming in. They cannot put food on the table unless they get public support or can trade profitably. I urge the Government to look again at their totally inadequate packages for the self-employed and small businesses and understand just how much we are going to need them when we get into recovery mode proper.</p>
+
+
+
+<p>My final point in the brief time allotted is that we desperately need to give people hope about livelihoods and economic growth again. We desperately need to have a full recovery programme sector by sector, including for small businesses and the self-employed, and understand that some people will need to retrain and some will need to go from the employment they have lost into self-employment. Can we not hear a lot more about this and be positive? We need to cheer up the country up as well as control the virus.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Sir John Redwood (Wokingham) (Con): Many of my constituents are very angry that west Berkshire and Wokingham have been placed in tier 2 when we were in tier 1 before the national lockdown and we still have very low figures. On all the evidence that the Government say they look at—case numbers, trends in cases […]</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>http://johnredwoodsdiary.com/?p=29139</id>
+    <published>2020-12-02T09:50:02Z</published>
+    <updated>2020-12-02T09:50:02Z</updated>
+    <category term="Debates"/>
+    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Statement on Covid-19 Restrictions</title>
@@ -99,142 +252,6 @@
 ]]></content>
 		
 			</entry>
-  <entry>
-    <title>Tiers at vote time</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2020/12/02/tiers-at-vote-time/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>Yesterday in the debate I urged the government to take those measures which both help control the virus and allow economic recovery. </p>
-
-
-
-<p>I pressed the government again on where are the results of the tests of other drugs that might help treat CV 19 patients. After the good break-through with the steroid it would be good to hear about other possibilities.</p>
-
-
-
-<p>I urged them to work harder with the hospitality industry on air extraction and other measures which would enable safer working in inside spaces, as many hospitality businesses will only survive if they can earn more money soon.</p>
-
-
-
-<p>I asked them to reconsider the issue of compensation and support for the self employed, where many small business owners who work in their own business do not qualify for the support. </p>
-
-
-
-<p>I have regularly raised the issue of creating specialist isolation hospitals for CV 19 so there is more capacity in the District Generals for all other medical problems. This of course means continuing the extra recruitment of staff the government has promised, and requires suitable Training and protective clothing for the volunteers staffing the CV 19 facilities. </p>
-
-
-
-<p>I raised the issue that many of my constituents feel  strongly about. Why are West Berkshire and Wokingham in Tier 2 when numbers are quite low and we were in Tier 1 before the lockdown.  I voted against the Regulations.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Yesterday in the debate I urged the government to take those measures which both help control the virus and allow economic recovery. I pressed the government again on where are the results of the tests of other drugs that might help treat CV 19 patients. After the good break-through with the steroid it would be […]</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=29136</id>
-    <published>2020-12-02T05:10:00Z</published>
-    <updated>2020-12-02T05:10:00Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Havering Volunteer Centre Christmas Appeal</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/havering-volunteer-centre-christmas-appeal" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/hvc.png?itok=0Z2B6Deo" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p> </p>
-              <p>Havering Volunteer Centre has been providing vital support for elderly and vulnerable residents across the borough throughout the pandemic. This year they are calling on local people to donate items from the list below so that they can deliver some Christmas cheer to those that are in need. Donations will also be used to raise funds to support the ongoing work of the Havering Volunteer Centre. Items requested are:</p>
-              <ul>
-                <li>
-                  <em>·        - Mince pies</em>
-                </li>
-                <li>
-                  <em>·        - Christmas puddings</em>
-                </li>
-                <li>
-                  <em>·        - Chocolate selection boxes</em>
-                </li>
-                <li>
-                  <em>·        - Panatone</em>
-                </li>
-                <li>
-                  <em>·        - Christmas decorations</em>
-                </li>
-                <li>
-                  <em>·        - Boxes of biscuits</em>
-                </li>
-                <li>
-                  <em>·        - Unused bath sets</em>
-                </li>
-                <li>
-                  <em>·        - Christmas crackers</em>
-                </li>
-                <li>
-                  <em>·        - Wrapping paper</em>
-                </li>
-                <li>
-                  <em>·        - Cranberry sauce</em>
-                </li>
-                <li>
-                  <em>·        - Bottles of alcohol</em>
-                </li>
-              </ul>
-              <p>If you would like to donate, please drop items off to Havering Volunteer Centre, 32-34 High Street, Romford, RM1 1HR by Monday 14 December.</p>
-              <p><strong>Jon Cruddas MP said:</strong> “Havering Volunteer Centre have been fantastic over the last year and have supported thousands of local people. I have had good reports from my constituents who have benefitted from their schemes to tackle isolation. This Christmas will be like any other in living memory, so I would encourage people to support the centre and the work they are doing to deliver some festive cheer to those that need it most this year.”</p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/christmas" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Christmas</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/volunteers" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Volunteers</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/fundraising" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Fundraising</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/covid" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Covid</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/coronavirus" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Coronavirus</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/tags/hamper" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Hamper</a>
-            </li>
-            <li class="taxonomy-term-reference-7">
-              <a href="/tags/support" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Support</a>
-            </li>
-            <li class="taxonomy-term-reference-8">
-              <a href="/tags/community" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">community</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1429 at https://joncruddas.org.uk</id>
-    <published>2020-12-01T15:56:50Z</published>
-    <updated>2020-12-01T15:56:50Z</updated>
-  </entry>
   <entry>
   <title>MP warns DEFRA Secretary that Government plans could destroy the landscape of the Lake District and the Yorkshire Dales</title>
   <link rel="alternate" href="http://timfarron.co.uk/en/article/2020/1385682/mp-warns-defra-secretary-that-government-plans-could-destroy-the-landscape-of-the-lake-district-and-the-yorkshire-dales"/>
@@ -1496,28 +1513,6 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <updated>2020-11-04T17:19:00Z</updated>
   </entry>
   <entry>
-    <title>Financial support for those in the North</title>
-    <link rel="alternate" href="http://www.ianmearns.org.uk/2020/11/04/financial-support-for-those-in-the-north/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>It could not be more clear that the North is being treated completely differently to the South. I took the opportunity yesterday to question the Chief Secretary to the Treasury, Steve Barclay, about what financial support package would be available to businesses and workers going forward:</p>
-<blockquote><p>Prior to this lockdown announcement, we had had almost universal calls for an extension to the full furlough scheme in areas with tighter restrictions, which Ministers had rejected for months. Despite that, the Government saw fit to announce a new version of this on Saturday, only hours before the previous furlough was due to be replaced by an inferior scheme for us in the north, as further restrictions were becoming inevitable in many areas. Many people in the north therefore now believe that until workers in the south were to be affected by the national lockdown, they were somehow thought to be worth less. Businesses in Gateshead and elsewhere are desperate for clarity and certainty to help them in planning and so that they know whether and how they can survive. Will the Chief Secretary commit today to publishing details of a comprehensive, ongoing financial support package available to businesses and their workers in areas that will continue to need it, where tiers of restrictions might, sadly, have to continue after 2 December?</p></blockquote>
-<p>The full debate can be found at: <a href="https://www.theyworkforyou.com/debates/?id=2020-11-03a.162.0&amp;s=ian+mearns#g174.0">https://www.theyworkforyou.com/debates/?id=2020-11-03a.162.0&amp;s=ian+mearns#g174.0</a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It could not be more clear that the North is being treated completely differently to the South. I took the opportunity yesterday to question the Chief Secretary to the Treasury,</div>
-    </summary>
-    <author>
-      <name>Ian Mearns</name>
-    </author>
-    <id>http://www.ianmearns.org.uk/?p=20751</id>
-    <published>2020-11-04T11:53:24Z</published>
-    <updated>2020-11-04T11:53:24Z</updated>
-    <category term="Gateshead"/>
-    <category term="Ians views"/>
-    <category term="Spoken Contributions"/>
-  </entry>
-  <entry>
     <title>ROBERT JENRICK DAILY TELEGRAPH OP-ED 2.11.2020</title>
     <link rel="alternate" href="http://robertjenrick.com/dailytelegraph2-11-20/" type="text/html"/>
     <content type="xhtml">
@@ -1603,12 +1598,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="cf6c622e5e"  data-nonce-time="1606901858" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="cf6c622e5e"  data-nonce-time="1606905425" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Url&lt;/label&gt;&lt;input type="text" name="url" value="" autocomplete="off"&gt;
+&lt;label&gt;Company&lt;/label&gt;&lt;input type="text" name="company" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
