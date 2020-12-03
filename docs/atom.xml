@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-03T17:52:25Z</updated>
+  <updated>2020-12-03T19:00:25Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -20,6 +20,139 @@ On Wednesday, the Government set out an ambitious plan that focuses on levelling
     <id>https://www.maria4basingstoke.co.uk/news/local-mp-welcomes-spending-review-helping-basingstoke-fight-coronavirus-and-investing-recovery</id>
     <published>2020-12-25T12:00:00Z</published>
     <updated>2020-12-25T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Christmas COVID rules</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/christmas-covid-rules" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <form class="webform-client-form webform-client-form-1432" action="/rss.xml" method="post" id="webform-client-form-1432" accept-charset="UTF-8">
+          <div><fieldset class="webform-component-fieldset webform-component--civicrm-1-contact-1-fieldset-fieldset form-wrapper"><legend><span class="fieldset-legend">Your contact details</span></legend><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-civicrm_contact static webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-existing">
+<input data-hide-method="hide" data-no-hide-blank="0" class="civicrm-enabled" data-civicrm-field-key="civicrm_1_contact_1_contact_existing" type="hidden" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_existing]" value=""/>
+
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-first-name">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="First Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_first_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_first_name]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-last-name">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Last Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_last_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_last_name]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-street-address">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address">Street Address </label>
+ <input placeholder="Street address" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_street_address" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_street_address]" value="" size="60" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-city">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city">City </label>
+ <input placeholder="City" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_city" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_city]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-postal-code">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code">Postal Code <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Postal Code" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_address_postal_code" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_postal_code]" value="" size="7" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-email webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-email-email">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email">Email </label>
+ <input class="email civicrm-enabled form-text form-email" placeholder="Email" data-civicrm-field-key="civicrm_1_contact_1_email_email" type="email" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_email_email]" size="20"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-phone-phone">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone">Phone Number </label>
+ <input placeholder="Phone number" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_phone_phone]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-2-phone-phone">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone">Mobile </label>
+ <input placeholder="Mobile" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_2_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_2_phone_phone]" value="" size="20" maxlength="128"/>
+</div>
+</div></fieldset>
+<div class="form-item webform-component webform-component-markup webform-component--spacer3">
+ 
+</div>
+<fieldset class="webform-component-fieldset webform-component--civicrm-1-activity-1-fieldset-fieldset form-wrapper"><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg52-custom-349">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-349">Do you think that a tiered approach after December 2 (similar to what was in place before lockdown 2) is a good idea? </label>
+ <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg52_custom_349" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-349" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg52_custom_349]"><option value="" selected="selected">- None -</option><option value="1">Yes</option><option value="2">No</option><option value="3">Not sure</option></select>
+</div>
+<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg52-custom-350">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-350">There is currently a debate about what to do at Christmas. Which of the following comes closest to your view? </label>
+ <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg52_custom_350" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-350" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg52_custom_350]"><option value="" selected="selected">- None -</option><option value="1">The virus doesn't care about Christmas. We must not relax restrictions at all</option><option value="2">Some restrictions should be lifted as the Government has suggested</option><option value="3">All restrictions should be lifted for Christmas</option><option value="4">None of the above</option></select>
+</div>
+<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg52-custom-351">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-351">How concerned are you about getting coronavirus on a scale of 1 to 5 where 1 is not concerned at all and 5 is very concerned? </label>
+ <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg52_custom_351" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-351" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg52_custom_351]"><option value="" selected="selected">- None -</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+</div>
+<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg52-custom-352">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-352">When the vaccinations have been approved, do you plan to be vaccinated? </label>
+ <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg52_custom_352" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-352" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg52_custom_352]"><option value="" selected="selected">- None -</option><option value="1">Yes</option><option value="2">No</option><option value="3">Not sure</option></select>
+</div>
+<div class="form-item webform-component webform-component-textarea webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg52-custom-353">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-353">Please use this space to give me any other views about the current coronavirus pandemic </label>
+ <div class="form-textarea-wrapper resizable"><textarea class="civicrm-enabled form-textarea" data-civicrm-field-key="civicrm_1_activity_1_cg52_custom_353" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg52-custom-353" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg52_custom_353]" cols="60" rows="4"/></div>
+</div>
+</div></fieldset>
+<div class="form-item webform-component webform-component-markup webform-component--spacer">
+ 
+</div>
+<fieldset class="webform-component-fieldset webform-component--group-fieldset form-wrapper"><legend><span class="fieldset-legend">Can Jon update you about news and campaigns?</span></legend><div class="fieldset-wrapper"><div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-228">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">Can Jon stay in contact by email <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1">Yes Jon can email me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2">No Jon cannot email me </label>
+
+</div>
+</div>
+</div>
+<div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-226">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">Can Jon stay in contact by phone? <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_226" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_226]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-1">Yes Jon can phone me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_226" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_226]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-2">No Jon cannot phone me </label>
+
+</div>
+</div>
+</div>
+<div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-227">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">Can Jon stay in contact by SMS? <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_227" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_227]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-1">Yes Jon can SMS me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_227" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_227]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-2">No Jon cannot SMS me </label>
+
+</div>
+</div>
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--opt-out-at-any-time">
+ <p>You can opt out at any time. You can find my privacy policy <a href="https://joncruddas.org.uk/legal-and-privacy">here</a>. Any previous opting information you have given Jon will display on this petition form</p>
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--spacer2">
+ 
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--spacer1">
+ 
+</div>
+</div></fieldset>
+<input type="hidden" name="details[sid]"/>
+<input type="hidden" name="details[page_num]" value="1"/>
+<input type="hidden" name="details[page_count]" value="1"/>
+<input type="hidden" name="details[finished]" value="0"/>
+<input type="hidden" name="form_build_id" value="form-nT6_HiJLkXHyFsOFCodVz3SYRRCnCZ8YQku0iqkuN3Y"/>
+<input type="hidden" name="form_id" value="webform_client_form_1432"/>
+<div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
+        </form>
+      </div>
+    </content>
+    <author>
+      <name>Jon</name>
+    </author>
+    <id>1432 at https://joncruddas.org.uk</id>
+    <published>2020-12-03T18:03:16Z</published>
+    <updated>2020-12-03T18:03:16Z</updated>
   </entry>
   <entry>
     <title>Gwynne signs Commons motion marking International Day of People with Disabilities</title>
@@ -140,82 +273,6 @@ On Wednesday, the Government set out an ambitious plan that focuses on levelling
     <id>4999 at https://www.harriettbaldwin.com</id>
     <published>2020-12-03T14:45:12Z</published>
     <updated>2020-12-03T14:45:12Z</updated>
-  </entry>
-  <entry>
-    <title>C2C Adapted Service Update</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/c2c-adapted-service-update" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/DSC_1474.JPG?itok=-pyYu2Jz" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p> </p>
-              <p>Over the course of the last few months c2c have been in the process of adapting services to meet the needs of customers. Covid-19 has seen a significant drop in journeys. In October, the number of daily travellers had risen to a high of 42% of pre-Covid levels. By the end of November that figure had fallen back down to 30%.</p>
-              <p>A recent update sent to Jon Cruddas MP outlined the following measures:</p>
-              <ul type="disc">
-                <ul>
-                  <li>
-                    <em>Protecting trains that arrive in central London before 08.00, and there will be more carriages running at the start of the day than at present.</em>
-                  </li>
-                  <li>
-                    <em>Due to changing work patterns rush hour now results in a pre-18.00 peak so c2c are prioritising capacity at these new peak times.</em>
-                  </li>
-                  <li>
-                    <em>Due to high demand from school students travelling from east London and Essex into Southend on certain trains in the morning, there will now be five successive 12-car services that will arrive in the Southend area between 07.20 and 08.40.</em>
-                  </li>
-                </ul>
-              </ul>
-              <p>At other times however, like off-peak and late-night services, demand has fallen away significantly so there will be significant reductions. However, all trains will be 8-carriages to maximise space to support social distancing.</p>
-              <p>A number of residents raised their concerns and Jon Cruddas sought assurances on issues relating to staff face coverings, increase in service usage when lockdown ends and shops reopen over Christmas, and c2c were also asked when residents could expect a normal service to resume.</p>
-              <p><strong>Jon said:</strong> “there were a number of concerns about the new timetable and service being run on the line through Dagenham Dock and Rainham. I feel confident that all of these issues were addressed by c2c. Their staff are exempt from face coverings as they work incredibly long shifts, but there are very strict protocols in place to protect staff and passengers. Additional services have been added to the timetable to manage anticipated journey increases over the Christmas period.”</p>
-              <p>C2c stated that it is too early to give an indication of when a normal service would resume as they are currently working hard to adapt to a constantly changing environment.</p>
-              <p>Find out all about the changes and how they may affect you here: <strong><a href="https://www.c2c-online.co.uk/our-network/timetables-and-service-alterations/">c2c Timetables &amp; Service Alterations | Latest timetable information (c2c-online.co.uk)</a></strong></p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/rainham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rainham</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/travel" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Travel</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/c2c" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">C2C</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/transport" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Transport</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/trains" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Trains</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/tags/journey" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Journey</a>
-            </li>
-            <li class="taxonomy-term-reference-7">
-              <a href="/tags/commute" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Commute</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1431 at https://joncruddas.org.uk</id>
-    <published>2020-12-03T14:24:12Z</published>
-    <updated>2020-12-03T14:24:12Z</updated>
   </entry>
   <entry>
     <title>Christmas Travel Window</title>
@@ -670,55 +727,6 @@ Speaking during today's debate in Parliament on COVID restrictions, Tim said: "P
     <category term="Transport"/>
     <category term="York"/>
   </entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>Lachlan Skinner</name>
-					</author>
-
-		<title type="html"><![CDATA[Walker welcomes approval of Pfizer/BioNTech COVID-19 vaccine as Worcestershire moves into Tier 2 restrictions  ]]></title>
-		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2020/12/walker-welcomes-approval-of-pfizer-biontech-covid-19-vaccine-as-worcestershire-moves-into-tier-2-restrictions/"/>
-
-		<id>https://www.walker4worcester.com/?p=2081</id>
-		<updated>2020-12-02T13:47:57Z</updated>
-		<published>2020-12-02T13:47:57Z</published>
-		<category scheme="https://www.walker4worcester.com" term="Coronavirus"/><category scheme="https://www.walker4worcester.com" term="News"/><category scheme="https://www.walker4worcester.com" term="coronavirus"/><category scheme="https://www.walker4worcester.com" term="Pfizer/BioNTech vaccine"/><category scheme="https://www.walker4worcester.com" term="Tier 2"/>
-		<summary type="html"><![CDATA[Worcester MP, Robin Walker has celebrated the positive news that the UK has become the first country in the world to approve the Pfizer/BioNTech coronavirus vaccine, paving the way for nationwide vaccination, as Worcestershire moves out of national restrictions into Tier 2. The decision made by the UK Regulatory Authority (MHRA) was made with advice from [&#8230;]]]></summary>
-
-					<content type="html" xml:base="https://www.walker4worcester.com/2020/12/walker-welcomes-approval-of-pfizer-biontech-covid-19-vaccine-as-worcestershire-moves-into-tier-2-restrictions/"><![CDATA[<p>Worcester MP, Robin Walker has celebrated the positive news that the UK has become the first country in the world to approve the Pfizer/BioNTech coronavirus vaccine, paving the way for nationwide vaccination, as Worcestershire moves out of national restrictions into Tier 2.</p>
-<p>The decision made by the UK Regulatory Authority (MHRA) was made with advice from the Commission on Human Medicines, the government&#8217;s independent expert scientific advisory body, after carrying out a rigorous, scientific, and detailed review of all the available data.</p>
-<p>The first 800,000 doses will be available in the UK from next week and elderly people in care homes and care home staff have been placed top of the priority list, followed by over-80s and health and care staff.</p>
-<p>With regular reviews of the tiered system, Robin is hopeful that the approval of the Pfizer/BioNTech vaccine will be a significant step in making restrictions a thing of the past, however recognising the need to ensure that we reduce the impact on people’s lives and on the economy in the meantime by taking a careful approach.</p>
-<p>The rate of infection in Worcestershire has been falling in recent weeks and Robin has spoken to Ministerial colleagues to make the point that Worcestershire’s rates are below the England average, which will give the area the best chance to get into a lower tier sooner. The roll-out of mass vaccination will help to provide a pathway for Worcestershire to move into Tier 1.</p>
-<p>As well as the positive news of the approval of the vaccine, Robin is pleased that the Government has taken on-board some of the lessons of earlier approaches which needed to be reviewed, such as the 10pm curfew and the closure of gyms &amp; pools and adjusted the tiers accordingly. He has consistently pressed for support to ensure that as many people as possible keep their jobs and livelihoods and Robin will continue to do so.</p>
-<p>Speaking after the news of the vaccine approval, Robin said:</p>
-<p>“I strongly welcome the news that the Pfizer/BioNTech coronavirus vaccine has been approved for roll out starting next week. It is a phenomenal step forward and a moment the UK should be extremely proud of. It is a testament to the UK’s scientific expertise and commitment to produce this vaccine.”</p>
-<p>“I voted for the tiered system yesterday because I think it is the best-balanced approach to support lives and livelihoods for the time being and to prepare for the roll out of vaccines and mass testing which will hopefully take us out of this situation entirely.”</p>
-<p>“Hospital admissions tend to trail the peak of infections by about two weeks so whilst it is welcome news that the number of covid-19 infections has been falling locally for the last couple of weeks, it is sadly the case that the number of people in hospital with covid-19 has remained high over this period and is now higher at 82 than it was one or two weeks ago. This has been a key factor for me in accepting that a position in tier 2 is justified for Worcester at this stage.”</p>
-<p>“The Opposition’s approach of abstaining on the vote in the Chamber rather than proposing any alternative shows a complete lack of conviction and whilst I respect many of the colleagues who have decided to vote against the measures for one reason or another, I note none of them have proposed a viable alternative. Governments do not have the luxury of sitting on the side lines and commenting, they must take decisions and recognise that those decisions have consequences. I can assure you that I have thought through the consequences of mine.”</p>
-<p>“As the Prime Minister rightly said this morning, it is the protection of vaccines that will ultimately allow us to reclaim our lives and get our economy moving again.”</p>
-<p>A Department of Health and Social Care spokesperson said:</p>
-<p>“The government has today accepted the recommendation from the independent Medicines and Healthcare products Regulatory Agency (MHRA) to approve Pfizer/BioNTech’s COVID-19 vaccine for use. This follows months of rigorous clinical trials and a thorough analysis of the data by experts at the MHRA who have concluded that the vaccine has met its strict standards of safety, quality and effectiveness.”</p>
-<p>“The Joint Committee on Vaccinations and Immunisations (JCVI) will shortly publish its final advice for the priority groups to receive the vaccine, including care home residents, health and care staff, the elderly and the clinically extremely vulnerable.”</p>
-<p>“The vaccine will be made available across the UK from next week. The NHS has decades of experience in delivering large-scale vaccination programmes and will begin putting their extensive preparations into action to provide care and support to all those eligible for vaccination.”</p>
-<p>“To aid the success of the vaccination programme it is vital everyone continues to play their part and abide by the necessary restrictions in their area so we can further suppress the virus and allow the NHS to do its work without being overwhelmed.”</p>
-<p>MHRA Chief Executive Dr June Raine said:</p>
-<p>“We have carried out a rigorous scientific assessment of all the available evidence of quality, safety and effectiveness. The public’s safety has always been at the forefront of our minds – safety is our watchword.”</p>
-<p>“I’m really pleased to say that the UK is now one step closer to providing a safe and effective vaccine to help in the fight against COVID-19 – a virus that has affected each and every one of us in some way &#8211; and in helping to save lives.”</p>
-<p>“We are globally recognised for requiring high standards of safety, quality and effectiveness for any vaccine. Our expert scientists and clinicians worked tirelessly, around the clock, carefully, scientifically, robustly and rigorously poring over hundreds of pages and tables of data, methodically reviewing the data.”</p>
-<p>“Vaccines are the most effective way to prevent infectious diseases. They save millions of lives worldwide.”</p>
-<p>ENDS</p>
-<p>Notes to editors</p>
-<p>For more information on the vaccine approval announcement, please see:</p>
-<p><a href="https://www.gov.uk/government/news/uk-authorises-pfizer-biontech-covid-19-vaccine" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://www.gov.uk/government/news/uk-authorises-pfizer-biontech-covid-19-vaccine</a></p>
-<p><a href="https://www.gov.uk/government/news/uk-medicines-regulator-gives-approval-for-first-uk-covid-19-vaccine" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://www.gov.uk/government/news/uk-medicines-regulator-gives-approval-for-first-uk-covid-19-vaccine</a></p>
-<p>For guidance on Tier 2 restrictions please see:</p>
-<p><a href="https://www.gov.uk/guidance/tier-2-high-alert" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://www.gov.uk/guidance/tier-2-high-alert</a></p>
-]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2020/12/walker-welcomes-approval-of-pfizer-biontech-covid-19-vaccine-as-worcestershire-moves-into-tier-2-restrictions/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2020/12/walker-welcomes-approval-of-pfizer-biontech-covid-19-vaccine-as-worcestershire-moves-into-tier-2-restrictions/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry>
     <title>Covid-19 Tier Restrictions</title>
     <link rel="alternate" href="http://www.ianmearns.org.uk/2020/12/02/covid-19-tier-restrictions/" type="text/html"/>
@@ -1070,22 +1078,6 @@ The Self-Employed Income Support Scheme was announced at the beginning of the co
     <category term="Government"/>
     <category term="Pension"/>
     <category term="Win"/>
-  </entry>
-  <entry>
-    <title>CHRISTMAS GUIDANCE</title>
-    <link rel="alternate" href="http://martindocherty.scot/christmas-guidance/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The Scottish Government has agreed a cautious and limited relaxation of the rules on household meetings to support people over the Christmas period. First Minister Nicola Sturgeon stressed it is clear that there is a risk inherent in any relaxation … <a href="http://martindocherty.scot/christmas-guidance/">Continue reading <span class="meta-nav">→</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/christmas-guidance/">CHRISTMAS GUIDANCE</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Martin Docherty-Hughes</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1470708</id>
-    <published>2020-11-25T15:42:40Z</published>
-    <updated>2020-11-25T15:42:40Z</updated>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Letter on Israeli-Palestinian Peace</title>
@@ -1767,12 +1759,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="a6fb810f40"  data-nonce-time="1607017519" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="a6fb810f40"  data-nonce-time="1607021359" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Company&lt;/label&gt;&lt;input type="text" name="company" value="" autocomplete="off"&gt;
+&lt;label&gt;Url&lt;/label&gt;&lt;input type="text" name="url" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
@@ -1920,5 +1912,184 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <published>2020-08-19T16:04:10Z</published>
     <updated>2020-08-19T16:04:10Z</updated>
     <category term="Uncategorized"/>
+  </entry>
+  <entry>
+    <title>Cash is a vital payment method for businesses and residents in St Helens North</title>
+    <link rel="alternate" href="http://www.conormcginn.co.uk/cash-is-a-vital-payment-method-for-businesses-and-residents-in-st-helens-north/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I am concerned that the shift towards contactless and chip &amp; pin payments, hastened by COVID-19, is disadvantaging older and vulnerable people locally who still use cash. Cash is a vital payment method for businesses and residents in St Helens North, as it is for 18 million people who regularly rely on it across the UK. Yet, one in ten have recently had cash refused in stores and ATM transactions […]</div>
+    </content>
+    <author>
+      <name>Conor McGinn MP</name>
+    </author>
+    <id>http://www.conormcginn.co.uk/?p=4636</id>
+    <published>2020-07-30T09:41:39Z</published>
+    <updated>2020-07-30T09:41:39Z</updated>
+    <category term="Conor in St Helens"/>
+    <category term="News"/>
+  </entry>
+  <entry>
+    <title>New Hospital in Sutton Confirmed</title>
+    <link rel="alternate" href="http://www.scully.org.uk/news/new-hospital-in-sutton-confirmed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-hospital-in-sutton-confirmed" type="text/html"/>
+    <content type="html">
+&lt;p&gt;I am delighted to write and tell you that local NHS leaders have confirmed plans for a new hospital to be built in Sutton and to upgrade facilities at St Helier. This represents a &lt;strong&gt;£500 MILLION plan&lt;/strong&gt; that will not only &lt;strong&gt;build a brand new state of the art hospital&lt;/strong&gt; near to the Royal Marsden by 2025, but ALSO &lt;strong&gt;invest AT LEAST £80 MILLION into upgrades at St Helier&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;The new specialist emergency care hospital, just a few minutes from St Helier, would treat the sickest 15% of patients, those normally arriving by ambulance. This larger specialist team would be available 24 hours a day to diagnose what is wrong with patients more rapidly, start the best treatment faster, and help patients recover more quickly. St Helier and Epsom Hospitals will remain open 24/7, with updated and improved facilities, providing all the other services that they currently do.&lt;/p&gt;
+
+
+
+&lt;p&gt;My children were born at St. Helier so healthcare provision in Sutton has been an issue that is a very personal one to me. Ever since being a councillor in Carshalton, some 14 years ago, I have been campaigning for a solution that protects the future of St. Helier whilst ensuring that Sutton residents have access to the very best treatment in cutting edge modern healthcare facilities. I believe that this decision can finally put to rest the political arguments so that we can get on with doing what’s best for residents across the whole of the borough of Sutton.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;With this plan, the refurbished St Helier Hospital is here to stay providing the majority of local health services, and the sickest patients will get state-of-the-art treatment in the brand-new specialist emergency hospital right here in our area.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;You can find out more about the plans, including the answers to some frequently asked questions at the NHS’ website: &lt;a href="http://www.improvinghealthcaretogether.org.uk"&gt;www.improvinghealthcaretogether.org.uk&lt;/a&gt;. You can also contact them at &lt;a href="mailto:hello@improvinghealthcaretogether.org.uk"&gt;hello@improvinghealthcaretogether.org.uk&lt;/a&gt;, or get in touch with me with any queries.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;IMPORTANT QUESTIONS &amp;amp; ANSWERS ABOUT THESE PROPOSALS&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Why is this being done?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;To improve the care that we receive. As St Helier’s buildings continue to age over time, it’s necessary to upgrade our healthcare facilities to improve outcomes. Surviving illness and recovering quickly is the number one priority.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Is St Helier closing?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;No, quite the opposite. St Helier is here to stay with a multi-million-pound improvement package.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Is a new hospital being built?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Yes. A new specialist emergency care hospital will be built in Sutton, in addition to improving St Helier hospital.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Is St Helier getting an upgrade?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Yes. At least £80 million of the funding promised will go towards improving the facilities at St Helier hospital.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Who developed these proposals?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;For the first time, we have a plan that was developed by local clinicians, not national bureaucrats or politicians. Local healthcare professionals made the case for funding to deliver this improvement, which has been rewarded with a £500 million investment. Sutton Council also supported the proposals last year.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Will I have to travel outside my area for services now?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;At the moment, if you have a stroke or heart attack you will be taken past St. Helier to be treated at St. George&amp;#8217;s. This plan means that we will still be able to treat people within the local area, not moving more services away from Sutton.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Will we still use St Helier?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Yes. From 2025, Epsom hospital, St Helier hospital and the new hospital at Sutton will all have a 24/7 Urgent Treatment Centre (UTC) (which already treats the vast majority of people going to St. Helier in an emergency). Under the plans, 85% of services will remain at St Helier. Both Epsom and St Helier hospitals will still have a 24/7 UTC.&lt;/p&gt;
+
+
+
+&lt;p&gt;Diagnostic tests, such as MRI, x-ray or ultrasound, the heart problem diagnosis unit, the dialysis unit, Croft Ward (which takes care of patients who are stable but not ready to leave hospital), the eye care unit, the gastroenterology unit, and so many more services are staying put at Epsom and St Helier hospitals.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;What about bed numbers?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The NHS have calculated that they will need the same number of beds as they do now.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;What about A&amp;amp;E?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Unlike previous plans, which saw A&amp;amp;E diverted away into Tooting, A&amp;amp;E is now staying right here in our Borough at the new hospital. Most of the time you will still use St Helier for matters requiring immediate medical attention like broken limbs or cuts. Major trauma cases needing a blue light ambulance transfer will be treated in Sutton at the new state-of-the-art hospital next to The Royal Marsden.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;What about maternity services?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Maternity services have also been protected and kept locally. Post-natal and ante-natal care are staying put at Epsom and St Helier hospitals, and births will take place in the brand-new maternity unit at the new hospital in Sutton built to the very latest healthcare standards. Women need the very best care and facilities when giving birth, and the new plans will provide that.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Where will children services be provided?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Most children will continue to receive care and treatment in the same place as they do now. Care for children who need to stay in hospital overnight – as a result of a serious illness or complex problems – will be treated at the new specialist emergency care hospital. This includes children’s surgery. &amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;What will happen until the new hospital in Sutton is built?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;All services will continue to be carried out at Epsom and St Helier hospitals until such time the new hospital in Sutton is ready for patients.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Where will the new hospital be built?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;After consulting residents, patient groups and healthcare professionals, the decision was taken to build a brand-new specialist emergency care hospital in Sutton. This will be combined with the necessary infrastructure and transport links to ensure the site of the new hospital is accessible to all that need to use it.&lt;/p&gt;
+
+
+
+&lt;p&gt;For more facts, and to find out what this multi-million-pound government investment in our local NHS will mean for you and your family, visit the following website: &lt;a href="http://www.improvinghealthcaretogether.org.uk/faq"&gt;www.improvinghealthcaretogether.org.uk/faq&lt;/a&gt;.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I am delighted to write and tell you that local NHS leaders have confirmed plans for a new hospital to be built in Sutton and to upgrade facilities at St Helier. This represents a £500 MILLION plan that will not only build a brand new state of the art hospital near to the Royal Marsden […]</div>
+    </summary>
+    <author>
+      <name>Paul Scully</name>
+    </author>
+    <id>http://www.scully.org.uk/?p=5400</id>
+    <published>2020-07-17T10:14:25Z</published>
+    <updated>2020-07-17T10:14:25Z</updated>
+    <category term="News"/>
+    <category term="Healthcare"/>
+    <category term="Here For St Helier"/>
+    <category term="Sutton"/>
   </entry>
 </feed>
