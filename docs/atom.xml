@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-04T10:55:07Z</updated>
+  <updated>2020-12-04T11:51:45Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -31,6 +31,22 @@ Lamont and Hamilton say the plans unveiled by Scottish Conservative party leader
     <id>https://www.johnlamont.org/news/backing-plans-review-beeching-cuts-borders</id>
     <published>2020-12-04T12:00:00Z</published>
     <updated>2020-12-04T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Proposed End to Live Animal Exports</title>
+    <link rel="alternate" href="https://www.roystonsmith.co.uk/proposed-end-to-live-animal-exports/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The Government is proposing to ban the export of animals for slaughter and fattening abroad. Many have long called for an end to this practice where livestock and even horses are subject to long journeys in cramped conditions just to be fattened up or killed overseas. These plans also intend to cut the amount [...]</p>
+<p>The post <a rel="nofollow" href="https://www.roystonsmith.co.uk/proposed-end-to-live-animal-exports/">Proposed End to Live Animal Exports</a> appeared first on <a rel="nofollow" href="https://www.roystonsmith.co.uk">Royston Smith - At the heart of Southampton</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Royston Smith</name>
+    </author>
+    <id>https://www.roystonsmith.co.uk/?p=3005</id>
+    <published>2020-12-04T10:55:53Z</published>
+    <updated>2020-12-04T10:55:53Z</updated>
+    <category term="Uncategorised"/>
   </entry>
   <entry>
     <title>Help us plan your services, have your say </title>
@@ -453,22 +469,6 @@ The scheme –…</div>
 		<category term="Local News"/>
 		<category term="Local News"/>
 	</entry>
-  <entry>
-    <title>My Thoughts on the New Tier System</title>
-    <link rel="alternate" href="https://www.roystonsmith.co.uk/my-thoughts-on-the-new-tier-system/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>This is my take on the relative merits and weaknesses of the tier system which I voted on earlier this week. Let’s consider what happens when someone contracts Covid-19. Some people don’t show symptoms, others die. Some patients who survive coronavirus suffer from significant and long-term impacts to their health. Spending days and weeks [...]</p>
-<p>The post <a rel="nofollow" href="https://www.roystonsmith.co.uk/my-thoughts-on-the-new-tier-system/">My Thoughts on the New Tier System</a> appeared first on <a rel="nofollow" href="https://www.roystonsmith.co.uk">Royston Smith - At the heart of Southampton</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Royston Smith</name>
-    </author>
-    <id>https://www.roystonsmith.co.uk/?p=3000</id>
-    <published>2020-12-03T08:46:43Z</published>
-    <updated>2020-12-03T08:46:43Z</updated>
-    <category term="Uncategorised"/>
-  </entry>
   <entry>
     <title>Why we need the Online Harms Bill</title>
     <link rel="alternate" href="https://damiancollins.com/why-we-need-the-online-harms-bill/" type="text/html"/>
@@ -1718,7 +1718,7 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="711ef0168d"  data-nonce-time="1607078870" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="711ef0168d"  data-nonce-time="1607082264" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
