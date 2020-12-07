@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-07T21:54:07Z</updated>
+  <updated>2020-12-07T23:00:57Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -170,24 +170,6 @@
     <updated>2020-12-07T05:00:00Z</updated>
     <category term="Uncategorized"/>
   </entry>
-  <entry>
-		<title>The Lister hospital needs more new toys for the Children's wards, see how to donate here</title>
-		<link rel="alternate" type="text/html" href="https://www.stephen-mcpartland.com/news/1721-the-lister-hospital-needs-more-new-toys-for-the-children-s-wards-see-how-to-donate-here"/>
-		<published>2020-12-06T10:34:42+00:00</published>
-		<updated>2020-12-06T10:34:42+00:00</updated>
-		<id>https://www.stephen-mcpartland.com/news/1721-the-lister-hospital-needs-more-new-toys-for-the-children-s-wards-see-how-to-donate-here</id>
-		<author>
-			<name>Webmaster</name>
-			<email>kathie@stephen-mcpartland.com</email>
-		</author>
-		<summary type="html">&lt;div class="feed-description"&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;The Lister hospital needs more new toys for the Children&amp;#39;s wards. Their wishlist is: &lt;a href="https://t.co/880OCK75Pj"&gt;https://t.co/880OCK75Pj&lt;/a&gt; and see how to donate here: &lt;a href="https://t.co/uWYcNMHigk"&gt;https://t.co/uWYcNMHigk&lt;/a&gt; Be careful, as I almost had the toys delivered to my home instead of the hospital 😊 &lt;a href="https://twitter.com/enherts?ref_src=twsrc%5Etfw"&gt;@enherts&lt;/a&gt; &lt;a href="https://twitter.com/ENHHCharity?ref_src=twsrc%5Etfw"&gt;@ENHHCharity&lt;/a&gt; &lt;a href="https://twitter.com/ENHertsCCG?ref_src=twsrc%5Etfw"&gt;@ENHertsCCG&lt;/a&gt;&lt;/p&gt;&amp;mdash; Stephen McPartland (@SMcPartland) &lt;a href="https://twitter.com/SMcPartland/status/1335530131633410049?ref_src=twsrc%5Etfw"&gt;December 6, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-&lt;p&gt;Please take a moment to let me know what you think &lt;a href="https://www.stephen-mcpartland.com/90-second-survey" target="_blank" rel="noopener noreferrer" title="90 Second Survey"&gt;here&lt;/a&gt;&lt;br /&gt;Sign up to my &lt;a href="https://www.stephen-mcpartland.com/newsletter" target="_blank" rel="noopener noreferrer" title="Newsletter"&gt;newsletter&lt;/a&gt; and click &lt;a href="https://www.stephen-mcpartland.com/help-stephen" target="_blank" rel="noopener noreferrer" title="Help Stephen"&gt;here&lt;/a&gt; if you would like to help me make a difference&lt;/p&gt;&lt;/div&gt;</summary>
-		<content type="html">&lt;div class="feed-description"&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;The Lister hospital needs more new toys for the Children&amp;#39;s wards. Their wishlist is: &lt;a href="https://t.co/880OCK75Pj"&gt;https://t.co/880OCK75Pj&lt;/a&gt; and see how to donate here: &lt;a href="https://t.co/uWYcNMHigk"&gt;https://t.co/uWYcNMHigk&lt;/a&gt; Be careful, as I almost had the toys delivered to my home instead of the hospital 😊 &lt;a href="https://twitter.com/enherts?ref_src=twsrc%5Etfw"&gt;@enherts&lt;/a&gt; &lt;a href="https://twitter.com/ENHHCharity?ref_src=twsrc%5Etfw"&gt;@ENHHCharity&lt;/a&gt; &lt;a href="https://twitter.com/ENHertsCCG?ref_src=twsrc%5Etfw"&gt;@ENHertsCCG&lt;/a&gt;&lt;/p&gt;&amp;mdash; Stephen McPartland (@SMcPartland) &lt;a href="https://twitter.com/SMcPartland/status/1335530131633410049?ref_src=twsrc%5Etfw"&gt;December 6, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-&lt;p&gt;Please take a moment to let me know what you think &lt;a href="https://www.stephen-mcpartland.com/90-second-survey" target="_blank" rel="noopener noreferrer" title="90 Second Survey"&gt;here&lt;/a&gt;&lt;br /&gt;Sign up to my &lt;a href="https://www.stephen-mcpartland.com/newsletter" target="_blank" rel="noopener noreferrer" title="Newsletter"&gt;newsletter&lt;/a&gt; and click &lt;a href="https://www.stephen-mcpartland.com/help-stephen" target="_blank" rel="noopener noreferrer" title="Help Stephen"&gt;here&lt;/a&gt; if you would like to help me make a difference&lt;/p&gt;&lt;/div&gt;</content>
-		<category term="Featured"/>
-		<category term="Local News"/>
-		<category term="Local News"/>
-	</entry>
   <entry>
     <title>Council response to severe weather</title>
     <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13056/council-response-to-severe-weather" type="text/html"/>
@@ -1869,12 +1851,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="f14ba04f00"  data-nonce-time="1607377578" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="f14ba04f00"  data-nonce-time="1607381634" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Company&lt;/label&gt;&lt;input type="text" name="company" value="" autocomplete="off"&gt;
+&lt;label&gt;Twitter&lt;/label&gt;&lt;input type="text" name="twitter" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
@@ -2010,5 +1992,20 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <published>2020-08-19T16:04:10Z</published>
     <updated>2020-08-19T16:04:10Z</updated>
     <category term="Uncategorized"/>
+  </entry>
+  <entry>
+    <title>Cash is a vital payment method for businesses and residents in St Helens North</title>
+    <link rel="alternate" href="http://www.conormcginn.co.uk/cash-is-a-vital-payment-method-for-businesses-and-residents-in-st-helens-north/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I am concerned that the shift towards contactless and chip &amp; pin payments, hastened by COVID-19, is disadvantaging older and vulnerable people locally who still use cash. Cash is a vital payment method for businesses and residents in St Helens North, as it is for 18 million people who regularly rely on it across the UK. Yet, one in ten have recently had cash refused in stores and ATM transactions […]</div>
+    </content>
+    <author>
+      <name>Conor McGinn MP</name>
+    </author>
+    <id>http://www.conormcginn.co.uk/?p=4636</id>
+    <published>2020-07-30T09:41:39Z</published>
+    <updated>2020-07-30T09:41:39Z</updated>
+    <category term="Conor in St Helens"/>
+    <category term="News"/>
   </entry>
 </feed>
