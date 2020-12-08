@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-08T11:53:17Z</updated>
+  <updated>2020-12-08T13:04:35Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -20,6 +20,27 @@ Research by USwitch, a price comparison website, found that the Roxburghshire vi
     <id>https://www.johnlamont.org/news/borders-street-revealed-among-worst-broadband-scotland</id>
     <published>2020-12-08T12:00:00Z</published>
     <updated>2020-12-08T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Vaccine Breakthrough!</title>
+    <link rel="alternate" href="http://wendymorton.co.uk/vaccine-breakthrough/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Last week we were all delighted at the news that the UK became the first country in the world to approve the Pfizer-BioNTech Covid-19 vaccine.</p>
+<p>I am therefore equally pleased that the vaccine has now arrived in the West Midlands and in the Borough of Walsall.</p>
+<p>No one underestimates the extent of the challenge ahead of us to roll out the vaccine to the whole population, but we now have light at the end of the tunnel and a route map out of the pandemic.</p>
+<p>It is important however to remember and recognise thought that whilst the vaccine is being rolled out it remains we must continue to follow the rules as a Tier 3 area and observe the basics of – Hands, Face and Space! It is incumbent upon us all to continue to play our part in tackling the Covid-19 pandemic.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Last week we were all delighted at the news that the UK became the first country in the world to approve the Pfizer-BioNTech Covid-19 vaccine. I am therefore equally pleased that the vaccine has now arrived in the West Midlands and in the Borough of Walsall. No one underestimates the extent of the challenge ahead […]</div>
+    </summary>
+    <author>
+      <name>Wendy Morton MP</name>
+    </author>
+    <id>http://wendymorton.co.uk/?p=3480</id>
+    <published>2020-12-08T11:44:35Z</published>
+    <updated>2020-12-08T11:44:35Z</updated>
+    <category term="News"/>
   </entry>
   <entry>
     <title>Graham Stuart MP discusses the 2021 A-level exams with Beverley Sixth Form students</title>
@@ -709,7 +730,7 @@ The roadmap outlines changes that will come into force over a period of seven ye
 <input type="hidden" name="details[page_num]" value="1"/>
 <input type="hidden" name="details[page_count]" value="1"/>
 <input type="hidden" name="details[finished]" value="0"/>
-<input type="hidden" name="form_build_id" value="form-Y6K_XjqPBcilYcw8mp5FcFoR_09wqfIETb3SCDhbAXc"/>
+<input type="hidden" name="form_build_id" value="form-IrB_6F_W87fnS34-zFta5cxH4QX09AvBMnx6z0fmA_8"/>
 <input type="hidden" name="form_id" value="webform_client_form_1432"/>
 <div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
         </form>
@@ -1423,26 +1444,6 @@ protected.&lt;/p&gt;
     <updated>2020-11-24T18:08:27Z</updated>
   </entry>
   <entry>
-    <title>Big Spending Boost for Defence!</title>
-    <link rel="alternate" href="http://wendymorton.co.uk/big-spending-boost-for-defence/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Last week’s announcement of an additional £16.5 billion boost for defence represents the biggest spending boost for our Armed Forces for more than 30-years.</p>
-<p>This will result in 10,000 new jobs a year, it will help revitalise UK shipbuilding, help the UK to become a world leader in cyber and space as well as allowing us to invest more resources in research and development.</p>
-<p>Our Armed Forces do a tremendous job from keeping us safe to assisting with humanitarian operations. Their sense of duty and their professionalism is an example to us all and this additional support for defence spending is very welcomed news.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Last week’s announcement of an additional £16.5 billion boost for defence represents the biggest spending boost for our Armed Forces for more than 30-years. This will result in 10,000 new jobs a year, it will help revitalise UK shipbuilding, help the UK to become a world leader in cyber and space as well as allowing […]</div>
-    </summary>
-    <author>
-      <name>Wendy Morton MP</name>
-    </author>
-    <id>http://wendymorton.co.uk/?p=3474</id>
-    <published>2020-11-24T11:28:28Z</published>
-    <updated>2020-11-24T11:28:28Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>We’re halfway there, so well done</title>
     <link rel="alternate" href="https://debbieabrahams.org.uk/were-halfway-there-so-well-done/" type="text/html"/>
     <content type="xhtml">
@@ -1868,12 +1869,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="22de78afdf"  data-nonce-time="1607427975" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="3651c02943"  data-nonce-time="1607432264" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Order Number&lt;/label&gt;&lt;input type="text" name="order_number" value="" autocomplete="off"&gt;
+&lt;label&gt;Email&lt;/label&gt;&lt;input type="text" name="email" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
