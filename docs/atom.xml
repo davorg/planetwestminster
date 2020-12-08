@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-08T18:00:38Z</updated>
+  <updated>2020-12-08T18:57:08Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -95,6 +95,35 @@ in our own communities.&lt;/p&gt;
     <updated>2020-12-08T14:01:47Z</updated>
     <category term="News"/>
   </entry>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>Jack Gebhard</name>
+					</author>
+
+		<title type="html"><![CDATA[Worcester’s MP hails vaccine rollout]]></title>
+		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2020/12/worcesters-mp-hails-vaccine-rollout/"/>
+
+		<id>https://www.walker4worcester.com/?p=2086</id>
+		<updated>2020-12-08T13:57:38Z</updated>
+		<published>2020-12-08T13:57:38Z</published>
+		<category scheme="https://www.walker4worcester.com" term="Coronavirus"/><category scheme="https://www.walker4worcester.com" term="News"/>
+		<summary type="html"><![CDATA[From today healthcare professionals across the UK are administering a new vaccine to protect against infection from Covid 19. The Worcester MP Robin Walker has hailed the rollout of the programme, stating that the vaccines will be ‘lifechanging’ for residents in his constituency. The current vaccine is produced by Pfizer and was approved for use [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://www.walker4worcester.com/2020/12/worcesters-mp-hails-vaccine-rollout/"><![CDATA[<p>From today healthcare professionals across the UK are administering a new vaccine to protect against infection from Covid 19. The Worcester MP Robin Walker has hailed the rollout of the programme, stating that the vaccines will be ‘lifechanging’ for residents in his constituency.</p>
+<p>The current vaccine is produced by Pfizer and was approved for use in the UK by the medicines regulator the MHRA after a strenuous programme of testing, last week. 800,000 doses will be given over the coming weeks, with up to 4 million more expected by the end of the month.</p>
+<p>There were jubilant scenes at University Hospital Coventry where 90 year old Margaret Keenan, originally from Fermanagh in Northern Ireland, received the first dose of the vaccine. Seventy Vaccination Centres have been set up at hospitals across the country, with Care Home residents and their carers at the top of the list of those to be protected.</p>
+<p>Worcester residents will be able to receive the vaccine from next week. Those eligible will be contacted directly by the NHS with the top priorities being NHS staff and the over 80s.</p>
+<p>Robin said:</p>
+<p>“This really will be lifechanging for many people in Worcester. The Covid crisis has taken over all aspects of our lives so the rapid national rollout of a vaccine which has been proven to be effective and safe is a symbol of hope that we are finally on the path back to some kind of normality.”</p>
+<p>“It is only fair that vulnerable people and those on the front line of the fight against the virus are first in the queue to receive the vaccination. I will definitely be getting the vaccine, but only when it is my turn. I will encourage each member my family to get one as soon as they become eligible along with any constituents who may be entitled. It’s important that people remember that it isn’t only themselves that they are protecting by getting vaccinated, it could be for loved ones or anyone with whom you come into contact.”</p>
+<p>“The UK has some of the most rigorous testing processes and our regulator has been following the research process from the beginning to ensure the vaccine’s safety.  I know that the MHRA is renowned around the world for the quality of its assessments. It is therefore an incredible achievement to be able to roll this out within a year of research beginning.</p>
+<p>“As case numbers continue to fall across Worcestershire I hope we will soon be able to move to the lowest tier of restrictions, but as always we continue to be led by the science. Sadly the arrival of the vaccine doesn’t mean an immediate end to the impact of the pandemic on our lives but it marks a major step forward. It will take some time for it to reach all of the most vulnerable people and longer still to produce immunity across the population so for the time being we must continue to take sensible precautions. I am hopeful though that the rollout of this vaccine faster than any other country in the world will help the U.K. as a whole deliver a stronger, faster recovery in 2021.”</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2020/12/worcesters-mp-hails-vaccine-rollout/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2020/12/worcesters-mp-hails-vaccine-rollout/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
   <entry>
     <title>Borders street revealed as among worst broadband in Scotland</title>
     <link rel="alternate" href="https://www.johnlamont.org/news/borders-street-revealed-among-worst-broadband-scotland" type="text/html"/>
@@ -745,7 +774,7 @@ The roadmap outlines changes that will come into force over a period of seven ye
 <input type="hidden" name="details[page_num]" value="1"/>
 <input type="hidden" name="details[page_count]" value="1"/>
 <input type="hidden" name="details[finished]" value="0"/>
-<input type="hidden" name="form_build_id" value="form-UceoIhSQ5fx_NxoDHPBHVPjpHGprwEpfTFWp7TweKjQ"/>
+<input type="hidden" name="form_build_id" value="form-HJa_6P-h5edhGjlgEgFVUWdTDcPY0fVS7M9-JAh58p4"/>
 <input type="hidden" name="form_id" value="webform_client_form_1432"/>
 <div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
         </form>
@@ -1122,6 +1151,22 @@ Mae’r mesurau newydd yn cael eu cyflwyno wrth i achosion o’r coronafeirws gy
     <category term="Government"/>
     <category term="Pension"/>
     <category term="Win"/>
+  </entry>
+  <entry>
+    <title>CHRISTMAS GUIDANCE</title>
+    <link rel="alternate" href="http://martindocherty.scot/christmas-guidance/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The Scottish Government has agreed a cautious and limited relaxation of the rules on household meetings to support people over the Christmas period. First Minister Nicola Sturgeon stressed it is clear that there is a risk inherent in any relaxation … <a href="http://martindocherty.scot/christmas-guidance/">Continue reading <span class="meta-nav">→</span></a></p>
+<p>The post <a rel="nofollow" href="http://martindocherty.scot/christmas-guidance/">CHRISTMAS GUIDANCE</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Martin Docherty-Hughes</name>
+    </author>
+    <id>http://martindocherty.scot/?p=1470708</id>
+    <published>2020-11-25T15:42:40Z</published>
+    <updated>2020-11-25T15:42:40Z</updated>
+    <category term="News"/>
   </entry>
   <entry>
     <title>Letter on Israeli-Palestinian Peace</title>
@@ -1726,12 +1771,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="3651c02943"  data-nonce-time="1607449755" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="3651c02943"  data-nonce-time="1607453423" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Company&lt;/label&gt;&lt;input type="text" name="company" value="" autocomplete="off"&gt;
+&lt;label&gt;Name&lt;/label&gt;&lt;input type="text" name="name" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
@@ -1867,184 +1912,5 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <published>2020-08-19T16:04:10Z</published>
     <updated>2020-08-19T16:04:10Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Cash is a vital payment method for businesses and residents in St Helens North</title>
-    <link rel="alternate" href="http://www.conormcginn.co.uk/cash-is-a-vital-payment-method-for-businesses-and-residents-in-st-helens-north/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I am concerned that the shift towards contactless and chip &amp; pin payments, hastened by COVID-19, is disadvantaging older and vulnerable people locally who still use cash. Cash is a vital payment method for businesses and residents in St Helens North, as it is for 18 million people who regularly rely on it across the UK. Yet, one in ten have recently had cash refused in stores and ATM transactions […]</div>
-    </content>
-    <author>
-      <name>Conor McGinn MP</name>
-    </author>
-    <id>http://www.conormcginn.co.uk/?p=4636</id>
-    <published>2020-07-30T09:41:39Z</published>
-    <updated>2020-07-30T09:41:39Z</updated>
-    <category term="Conor in St Helens"/>
-    <category term="News"/>
-  </entry>
-  <entry>
-    <title>New Hospital in Sutton Confirmed</title>
-    <link rel="alternate" href="http://www.scully.org.uk/news/new-hospital-in-sutton-confirmed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-hospital-in-sutton-confirmed" type="text/html"/>
-    <content type="html">
-&lt;p&gt;I am delighted to write and tell you that local NHS leaders have confirmed plans for a new hospital to be built in Sutton and to upgrade facilities at St Helier. This represents a &lt;strong&gt;£500 MILLION plan&lt;/strong&gt; that will not only &lt;strong&gt;build a brand new state of the art hospital&lt;/strong&gt; near to the Royal Marsden by 2025, but ALSO &lt;strong&gt;invest AT LEAST £80 MILLION into upgrades at St Helier&lt;/strong&gt;.&lt;/p&gt;
-
-
-
-&lt;p&gt;The new specialist emergency care hospital, just a few minutes from St Helier, would treat the sickest 15% of patients, those normally arriving by ambulance. This larger specialist team would be available 24 hours a day to diagnose what is wrong with patients more rapidly, start the best treatment faster, and help patients recover more quickly. St Helier and Epsom Hospitals will remain open 24/7, with updated and improved facilities, providing all the other services that they currently do.&lt;/p&gt;
-
-
-
-&lt;p&gt;My children were born at St. Helier so healthcare provision in Sutton has been an issue that is a very personal one to me. Ever since being a councillor in Carshalton, some 14 years ago, I have been campaigning for a solution that protects the future of St. Helier whilst ensuring that Sutton residents have access to the very best treatment in cutting edge modern healthcare facilities. I believe that this decision can finally put to rest the political arguments so that we can get on with doing what’s best for residents across the whole of the borough of Sutton.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;With this plan, the refurbished St Helier Hospital is here to stay providing the majority of local health services, and the sickest patients will get state-of-the-art treatment in the brand-new specialist emergency hospital right here in our area.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;You can find out more about the plans, including the answers to some frequently asked questions at the NHS’ website: &lt;a href="http://www.improvinghealthcaretogether.org.uk"&gt;www.improvinghealthcaretogether.org.uk&lt;/a&gt;. You can also contact them at &lt;a href="mailto:hello@improvinghealthcaretogether.org.uk"&gt;hello@improvinghealthcaretogether.org.uk&lt;/a&gt;, or get in touch with me with any queries.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;IMPORTANT QUESTIONS &amp;amp; ANSWERS ABOUT THESE PROPOSALS&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Why is this being done?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;To improve the care that we receive. As St Helier’s buildings continue to age over time, it’s necessary to upgrade our healthcare facilities to improve outcomes. Surviving illness and recovering quickly is the number one priority.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Is St Helier closing?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;No, quite the opposite. St Helier is here to stay with a multi-million-pound improvement package.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Is a new hospital being built?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Yes. A new specialist emergency care hospital will be built in Sutton, in addition to improving St Helier hospital.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Is St Helier getting an upgrade?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Yes. At least £80 million of the funding promised will go towards improving the facilities at St Helier hospital.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Who developed these proposals?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;For the first time, we have a plan that was developed by local clinicians, not national bureaucrats or politicians. Local healthcare professionals made the case for funding to deliver this improvement, which has been rewarded with a £500 million investment. Sutton Council also supported the proposals last year.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Will I have to travel outside my area for services now?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;At the moment, if you have a stroke or heart attack you will be taken past St. Helier to be treated at St. George&amp;#8217;s. This plan means that we will still be able to treat people within the local area, not moving more services away from Sutton.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Will we still use St Helier?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Yes. From 2025, Epsom hospital, St Helier hospital and the new hospital at Sutton will all have a 24/7 Urgent Treatment Centre (UTC) (which already treats the vast majority of people going to St. Helier in an emergency). Under the plans, 85% of services will remain at St Helier. Both Epsom and St Helier hospitals will still have a 24/7 UTC.&lt;/p&gt;
-
-
-
-&lt;p&gt;Diagnostic tests, such as MRI, x-ray or ultrasound, the heart problem diagnosis unit, the dialysis unit, Croft Ward (which takes care of patients who are stable but not ready to leave hospital), the eye care unit, the gastroenterology unit, and so many more services are staying put at Epsom and St Helier hospitals.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;What about bed numbers?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;The NHS have calculated that they will need the same number of beds as they do now.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;What about A&amp;amp;E?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Unlike previous plans, which saw A&amp;amp;E diverted away into Tooting, A&amp;amp;E is now staying right here in our Borough at the new hospital. Most of the time you will still use St Helier for matters requiring immediate medical attention like broken limbs or cuts. Major trauma cases needing a blue light ambulance transfer will be treated in Sutton at the new state-of-the-art hospital next to The Royal Marsden.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;What about maternity services?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Maternity services have also been protected and kept locally. Post-natal and ante-natal care are staying put at Epsom and St Helier hospitals, and births will take place in the brand-new maternity unit at the new hospital in Sutton built to the very latest healthcare standards. Women need the very best care and facilities when giving birth, and the new plans will provide that.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Where will children services be provided?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Most children will continue to receive care and treatment in the same place as they do now. Care for children who need to stay in hospital overnight – as a result of a serious illness or complex problems – will be treated at the new specialist emergency care hospital. This includes children’s surgery. &amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;What will happen until the new hospital in Sutton is built?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;All services will continue to be carried out at Epsom and St Helier hospitals until such time the new hospital in Sutton is ready for patients.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Where will the new hospital be built?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;After consulting residents, patient groups and healthcare professionals, the decision was taken to build a brand-new specialist emergency care hospital in Sutton. This will be combined with the necessary infrastructure and transport links to ensure the site of the new hospital is accessible to all that need to use it.&lt;/p&gt;
-
-
-
-&lt;p&gt;For more facts, and to find out what this multi-million-pound government investment in our local NHS will mean for you and your family, visit the following website: &lt;a href="http://www.improvinghealthcaretogether.org.uk/faq"&gt;www.improvinghealthcaretogether.org.uk/faq&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I am delighted to write and tell you that local NHS leaders have confirmed plans for a new hospital to be built in Sutton and to upgrade facilities at St Helier. This represents a £500 MILLION plan that will not only build a brand new state of the art hospital near to the Royal Marsden […]</div>
-    </summary>
-    <author>
-      <name>Paul Scully</name>
-    </author>
-    <id>http://www.scully.org.uk/?p=5400</id>
-    <published>2020-07-17T10:14:25Z</published>
-    <updated>2020-07-17T10:14:25Z</updated>
-    <category term="News"/>
-    <category term="Healthcare"/>
-    <category term="Here For St Helier"/>
-    <category term="Sutton"/>
   </entry>
 </feed>
