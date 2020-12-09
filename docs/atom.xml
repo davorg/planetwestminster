@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-09T14:55:56Z</updated>
+  <updated>2020-12-09T15:58:52Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -227,6 +227,24 @@ Currently, Borders textile mills are heavily penalised by the US Government when
     <id>6853 at https://www.philipdunne.com</id>
     <published>2020-12-08T15:29:57Z</published>
     <updated>2020-12-08T15:29:57Z</updated>
+  </entry>
+  <entry>
+    <title>WEST DUNBARTONSHIRE MOVES TO LEVEL 3 COVID RESTRICTIONS</title>
+    <link rel="alternate" href="http://martindocherty.scot/west-dunbartonshire-moves-to-level-3-covid-restrictions/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>It has been announced today (8 December 2020) that West Dunbartonshire is to move into Level 3 Covid-19 restrictions, alongside the other Scottish local authority areas currently subject to the highest Level 4 restrictions. The easing of restrictions will come … <a href="http://martindocherty.scot/west-dunbartonshire-moves-to-level-3-covid-restrictions/">Continue reading <span class="meta-nav">→</span></a></p>
+<p>The post <a rel="nofollow" href="http://martindocherty.scot/west-dunbartonshire-moves-to-level-3-covid-restrictions/">WEST DUNBARTONSHIRE MOVES TO LEVEL 3 COVID RESTRICTIONS</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Communications Officer</name>
+    </author>
+    <id>http://martindocherty.scot/?p=1477501</id>
+    <published>2020-12-08T14:46:37Z</published>
+    <updated>2020-12-08T14:46:37Z</updated>
+    <category term="Campaign Emails"/>
+    <category term="Latest Issues"/>
+    <category term="News"/>
   </entry>
   <entry>
     <title>Buy local this Christmas to help Llanelli businesses survive pandemic</title>
@@ -846,7 +864,7 @@ The roadmap outlines changes that will come into force over a period of seven ye
 <input type="hidden" name="details[page_num]" value="1"/>
 <input type="hidden" name="details[page_count]" value="1"/>
 <input type="hidden" name="details[finished]" value="0"/>
-<input type="hidden" name="form_build_id" value="form-E-yWYiSE3ovs1MRFUkVZhKTC4PkelY5nuAdZq1LZb3g"/>
+<input type="hidden" name="form_build_id" value="form-LHSxINLNt5rN1p6E2Frb0cWlxUUde_oKf4vjbGAq6vE"/>
 <input type="hidden" name="form_id" value="webform_client_form_1432"/>
 <div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
         </form>
@@ -1209,22 +1227,6 @@ Mae’r mesurau newydd yn cael eu cyflwyno wrth i achosion o’r coronafeirws gy
     <category term="Government"/>
     <category term="Pension"/>
     <category term="Win"/>
-  </entry>
-  <entry>
-    <title>CHRISTMAS GUIDANCE</title>
-    <link rel="alternate" href="http://martindocherty.scot/christmas-guidance/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The Scottish Government has agreed a cautious and limited relaxation of the rules on household meetings to support people over the Christmas period. First Minister Nicola Sturgeon stressed it is clear that there is a risk inherent in any relaxation … <a href="http://martindocherty.scot/christmas-guidance/">Continue reading <span class="meta-nav">→</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/christmas-guidance/">CHRISTMAS GUIDANCE</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Martin Docherty-Hughes</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1470708</id>
-    <published>2020-11-25T15:42:40Z</published>
-    <updated>2020-11-25T15:42:40Z</updated>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Letter on Israeli-Palestinian Peace</title>
@@ -1819,12 +1821,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="3d29305411"  data-nonce-time="1607525347" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="3d29305411"  data-nonce-time="1607529089" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Twitter&lt;/label&gt;&lt;input type="text" name="twitter" value="" autocomplete="off"&gt;
+&lt;label&gt;Phone&lt;/label&gt;&lt;input type="text" name="phone" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
