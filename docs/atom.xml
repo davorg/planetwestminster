@@ -7,9 +7,68 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-10T13:55:20Z</updated>
+  <updated>2020-12-10T14:58:46Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Rainham Foodbank Virtual Christmas Party</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/rainham-foodbank-virtual-christmas-party" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/Virtual%20Christmas%20Party%20Poster%202020%20-%20Copy.jpg?itok=RIeuvQGz" width="740" height="423" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p> </p>
+              <p>On Monday 14 December the Trussell Trust Rainham Foodbank are hosting ‘A Hope for the Season’ via YouTube. The event will be a virtual Christmas party for the community, and in particular those that rely on the services they provide throughout the year.</p>
+              <p><strong>The event will be broadcast live via YouTube here:</strong> <strong><a href="https://bit.ly/3qhqoaa">https://bit.ly/3qhqoaa</a></strong></p>
+              <p>It will <strong>start at 6.30pm</strong> and <strong>finish by 8.00pm</strong>. More details can be found on the promotional poster by clicking <a href="https://joncruddas.org.uk/file/virtual-christmas-party-poster-2020jpg"><strong>HERE</strong></a> </p>
+              <p>‘A Hope for the Season’ will be a time to sing Christmas Carols, enjoy speakers and musicians and get yourself in the Christmas spirit. The foodbank based in South Hornchurch (3-4 Mick Fury House, Lowen Road, Rainham, RM13 8HT) are also offering a range of festive treats for foodbank users throughout the week beginning Monday 14 December. There will be Christmas gifts, coats, and hampers available and users are asked to call <strong>01708 397484 </strong>or <strong>07367 335970</strong> to arrange a 20-minute collection slot.</p>
+              <p><strong>Jon Cruddas MP said:</strong> “I am incredibly thankful for the vital support Rainham Foodbank offers my constituents, and this event is another excellent example of them giving back and bringing the community together. Every year my office processes numerous referrals to Rainham Foodbank, and I know the extra effort they have put in to ensure that the most vulnerable have not been left without help during the pandemic.”</p>
+              <p><strong>Tune in to the event from 6.30pm on Monday 14 December here:</strong> <strong><a href="https://bit.ly/3qhqoaa">https://bit.ly/3qhqoaa</a></strong></p>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/rainham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rainham</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/tags/foodbank" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Foodbank</a>
+            </li>
+            <li class="taxonomy-term-reference-3">
+              <a href="/tags/christmas" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Christmas</a>
+            </li>
+            <li class="taxonomy-term-reference-4">
+              <a href="/tags/event" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Event</a>
+            </li>
+            <li class="taxonomy-term-reference-5">
+              <a href="/tags/carols" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Carols</a>
+            </li>
+            <li class="taxonomy-term-reference-6">
+              <a href="/tags/community" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">community</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>andrew</name>
+    </author>
+    <id>1434 at https://joncruddas.org.uk</id>
+    <published>2020-12-10T13:55:37Z</published>
+    <updated>2020-12-10T13:55:37Z</updated>
+  </entry>
   <entry>
     <title>Graham Stuart MP sings praises of local businesses on Small Business Saturday</title>
     <link rel="alternate" href="https://www.grahamstuart.com/2020/12/graham-stuart-mp-sings-praises-of-local-businesses-on-small-business-saturday/" type="text/html"/>
@@ -76,65 +135,6 @@
     <updated>2020-12-10T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>Urgent Brexit Question 07/12/20</title>
-    <link rel="alternate" href="https://whitford.scot/2020/12/10/brexit-deal/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;I raised just a few of the challenges created by the UK Government failing to reach a deal with the EU. Given the fish export service will go live two days before the end of transition, the UK Government&amp;#8217;s own IT systems aren&amp;#8217;t even ready. &lt;/p&gt;
-
-
-
-&lt;p&gt;Even if there’s a deal at this late stage, it will be a very thin deal which will inflict customs costs and delays on sectors already struggling just to survive&lt;a href="https://twitter.com/hashtag/COVID19?src=hashtag_click"&gt; &lt;/a&gt;Covid.&lt;/p&gt;
-
-
-
-&lt;p&gt;You can watch my full contribution here:&lt;a href="https://www.youtube.com/watch?v=tuX0bCk_yfc"&gt; https://www.youtube.com/watch?v=tuX0bCk_yfc&lt;/a&gt;&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-&lt;iframe title="07/12 Urgent Brexit Question" width="770" height="433" src="https://www.youtube.com/embed/tuX0bCk_yfc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/figure&gt;
-
-
-
-&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Dr Philippa Whitford&lt;/p&gt;&lt;/blockquote&gt;
-
-
-
-&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Even if there is a deal at this eleventh hour, it will be very thin, inflicting customs costs and delays on sectors that are already struggling to survive covid. The Minister has called on businesses to get ready, but the Government’s own IT systems are not ready; indeed, the fish export service will go live just two days before the end of transition. Does the fact that this Government are having to plan military flights to bring in medical supplies, including the vaccine, not make them pause for thought before such an act of self-harm?&lt;/p&gt;&lt;/blockquote&gt;
-
-
-
-&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Penny Mordaunt&lt;/p&gt;&lt;/blockquote&gt;
-
-
-
-&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;It is right that we prepare for every possible contingency. There are all sorts of things that we have not mentioned this afternoon that are part of the Government’s in-tray—all sorts of contingencies that we have to think about. In the Cabinet Office, for example, I look after cyber issues. There are many things that we have to think about and many things that we have to prepare for, and it is right, particularly on medicines and medical devices, that we ensure that we have every contingency in place.&lt;/p&gt;&lt;/blockquote&gt;
-
-
-
-&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;However, I would also point out to the hon. Lady that the border operating model and many things that businesses will need to do to get ready are not contingent on the final negotiations going on. We have invested heavily in support services for traders, businesses and citizens, and it has been right to do so. Again, if colleagues have issues with their constituents or businesses, please talk to me and I will do my best to get an official to talk to the business and put it in touch with the many webinars that are going on to help support businesses and citizens to make this transition.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;a class="a2a_button_facebook a2a_counter" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F12%2F10%2Fbrexit-deal%2F&amp;amp;linkname=Urgent%20Brexit%20Question%2007%2F12%2F20" title="Facebook" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F12%2F10%2Fbrexit-deal%2F&amp;amp;linkname=Urgent%20Brexit%20Question%2007%2F12%2F20" title="Facebook Messenger" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F12%2F10%2Fbrexit-deal%2F&amp;amp;linkname=Urgent%20Brexit%20Question%2007%2F12%2F20" title="WhatsApp" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F12%2F10%2Fbrexit-deal%2F&amp;amp;linkname=Urgent%20Brexit%20Question%2007%2F12%2F20" title="Twitter" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F12%2F10%2Fbrexit-deal%2F&amp;amp;linkname=Urgent%20Brexit%20Question%2007%2F12%2F20" title="Copy Link" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwhitford.scot%2F2020%2F12%2F10%2Fbrexit-deal%2F&amp;#038;title=Urgent%20Brexit%20Question%2007%2F12%2F20" data-a2a-url="https://whitford.scot/2020/12/10/brexit-deal/" data-a2a-title="Urgent Brexit Question 07/12/20"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="https://whitford.scot/2020/12/10/brexit-deal/"&gt;Urgent Brexit Question 07/12/20&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://whitford.scot"&gt;Dr Philippa Whitford&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>I raised just a few of the challenges created by the UK Government failing to ... <a title="Urgent Brexit Question 07/12/20" class="read-more" href="https://whitford.scot/2020/12/10/brexit-deal/">Click to Read More</a></p>
-<p>The post <a rel="nofollow" href="https://whitford.scot/2020/12/10/brexit-deal/">Urgent Brexit Question 07/12/20</a> appeared first on <a rel="nofollow" href="https://whitford.scot">Dr Philippa Whitford</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Intern</name>
-    </author>
-    <id>https://whitford.scot/?p=1969</id>
-    <published>2020-12-10T11:06:21Z</published>
-    <updated>2020-12-10T11:06:21Z</updated>
-    <category term="Brexit"/>
-    <category term="Questions, Speeches &amp; Motions"/>
-    <category term="Westminster"/>
-    <category term="COVID"/>
-    <category term="Fishing"/>
-    <category term="Vaccine"/>
-  </entry>
-  <entry>
   <title>MP warns Gove that hundreds of family farms are at risk of collapse under Government plans</title>
   <link rel="alternate" href="http://timfarron.co.uk/en/article/2020/1386254/mp-warns-gove-that-hundreds-of-family-farms-are-at-risk-of-collapse-under-government-plans"/>
   <updated>2020-12-10T10:25:00Z</updated>
@@ -186,70 +186,6 @@ Speaking in Parliament, Tim said: "95% of Cumbrian farm exports are to the singl
     <published>2020-12-10T09:42:24Z</published>
     <updated>2020-12-10T09:42:24Z</updated>
     <category term="News"/>
-  </entry>
-  <entry>
-    <title>Air Quality in Rainham Takes a Blow</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/air-quality-rainham-takes-blow" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/IMG_3418_0.png?itok=izjP3z47" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p> </p>
-              <p>After over two years fighting against a second mass waste incinerator in Belvedere the case is finally closed, and the Government approved site will now go ahead. Jon Cruddas MP launched a campaign against the proposals back in 2018 when all reports suggested it would damage air quality, human health, and biodiversity across the south of Dagenham and Rainham.</p>
-              <p>The campaign attracted far reaching support from the Mayor of London, neighbouring MPs such as Abena Oppong-Asare and environmental groups including Greenpeace and the Wildlife Trusts.</p>
-              <p>Back in summer 2020 the Mayor of London secured a Judicial Review of the decision to approve the waste incinerator, but this was then withdrawn due to the huge cost to taxpayers and the low likelihood of success.</p>
-              <p><strong>Jon Cruddas said: </strong>“throughout this campaign I have been reminded of the late Bob Crow who said; ‘if you fight you won’t always win. But if you don’t fight you will always lose.’ That is why when the judicial review was withdrawn, I worked with Abena in Erith to find other sources of funding to push ahead. Greenpeace pledged their support as did others, but by that point there was no way to reopen the process for a legal challenge.”</p>
-              <p>Construction of the Riverside Energy Park begins next year, and the site will become fully operational in 2024. The opposition to the project was extensive and whilst there is disappointment there is still ongoing work in holding Cory to account on their environmental standards.</p>
-              <p><strong>Jon added: </strong>“we fought tooth and nail against the Government to try and stop this. It is a very disappointing outcome that lines up with Tory environmental attitudes and flies in the face of air quality, recycling, and biodiversity targets. However, the work is not over. I will continue to monitor the project through construction and operation to ensure that every necessary action is being taken to protect the health of my constituents and our environment.”</p>
-              <p>You can find out more about the project via their website: <strong><a href="https://riversideenergypark.com/">Cory Riverside Energy Park (en-GB)</a></strong></p>
-              <p>And you can see all of the concerns that were raised by Jon Cruddas MP here: <strong><a href="https://joncruddas.org.uk/sites/default/files/JC%20Final%20Written%20Representation%20-%20Planning%20Inspectorate%20REF.%20EN010093.pdf">https://joncruddas.org.uk/sites/default/files/JC%20Final%20Written%20Representation%20-%20Planning%20Inspectorate%20REF.%20EN010093.pdf</a></strong></p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/rainham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rainham</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/air-quality" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Air Quality</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/pollution" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Pollution</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/waste" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Waste</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/incinerator" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Incinerator</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/tags/campaign" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Campaign</a>
-            </li>
-            <li class="taxonomy-term-reference-7">
-              <a href="/tags/petition" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Petition</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1433 at https://joncruddas.org.uk</id>
-    <published>2020-12-10T09:26:11Z</published>
-    <updated>2020-12-10T09:26:11Z</updated>
   </entry>
   <entry>
     <title>My speech during the debate on the Taxation (Post-transition Period) Bill, 10 December 2020</title>
@@ -1116,6 +1052,78 @@ Mae’r mesurau newydd yn cael eu cyflwyno wrth i achosion o’r coronafeirws gy
     <updated>2020-12-01T12:00:00Z</updated>
   </entry>
   <entry>
+    <title>Covid Statement 26/11/20</title>
+    <link rel="alternate" href="https://whitford.scot/2020/11/30/test-trace-isolate-support/" type="text/html"/>
+    <content type="html">
+&lt;p&gt;Today I asked the UK Secretary of State for Health a series of questions about the UK Government&amp;#8217;s response to the Covid crisis; specifically, the suitability of the new tier approach to restrictions in England and how much support is being made available for Covid contacts to isolate.&lt;/p&gt;
+
+
+
+&lt;p&gt;A recent King&amp;#8217;s College study found the vast majority of Covid contacts are failing to isolate. Failing to improve the existing &amp;#8216;test, trace, isolate&amp;#8217; strategy risks limiting progress in suppressing new Covid cases.&lt;/p&gt;
+
+
+
+&lt;p&gt;He also completely ignored my question about the logic of allowing 1000 people at indoor events in high risk areas in England from next week. With only 15 allowed to attend weddings, it is hard to grasp the logic of this.&lt;/p&gt;
+
+
+
+&lt;p&gt;You can watch my full contribution to the statement here: &lt;a href="https://www.youtube.com/watch?v=AUa_zUJIFRg"&gt;https://www.youtube.com/watch?v=AUa_zUJIFRg&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="26/11 Covid Statement" width="770" height="433" src="https://www.youtube.com/embed/AUa_zUJIFRg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Dr Philippa Whitford&lt;/p&gt;&lt;/blockquote&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Many scientists have expressed concern that the easing of restrictions at Christmas could lead to another surge of&amp;nbsp;&lt;em&gt;covid&lt;/em&gt;&amp;nbsp;cases in January. With cases still over 80% of the level at the start of lockdown, is the Secretary of State not worried that allowing outdoor events of 2,000 participants and indoor events of 1,000 in level 2 high-risk areas could drive up infection rates ahead of Christmas? Although lateral flow testing is very welcome, given how it increases capacity, the Secretary of State previously stated that the mass testing in Liverpool was a pilot and would be evaluated before being rolled out elsewhere. As the city has also been under tight restrictions and then lockdown, how will the impact of mass testing alone be evaluated? How does he plan to counter the lower uptake among deprived communities—the very ones at highest risk, as seen in Liverpool—and with no clinical evaluation yet published, how can he justify putting out contract tenders for an eye-watering £43 billion and rolling out this approach to 67 other areas? Should this strategy not be compared with investing money and energy in getting the traditional test, trace and isolate system working properly? Currently, over 40% of contacts in England are still not even informed that they should be isolating.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Finally, the Secretary of State knows that it is not testing, but isolation, that stops the spread of the virus. If people who are infected or could be carriers are not isolating, no amount of testing will stop viral spread. A study by King’s College London that suggested that fewer than a quarter were isolating when advised was incredibly worrying, so what assessment are the Government doing to clarify current isolation rates and understand the reasons why people may not follow the advice they are given?&lt;/p&gt;&lt;/blockquote&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Matt Hancock&lt;/p&gt;&lt;/blockquote&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Of course, we are constantly evaluating the impact of people isolating, and how many people isolate when asked to. I would encourage the hon. Lady to look at a broader range of studies than just that one from King’s College, especially those dealing with the self-isolation of those who test positive, for whom the rate tends to be higher.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;The hon. Lady asked about the use of these lateral flow tests to have a negative impact on the number of cases in an area. Of course, we have been evaluating this all the way through the study in Liverpool, which is why we can have confidence in rolling out more broadly across tier 3 areas. I included in my statement a high-level assessment of this. The number of cases in Liverpool city region is down by two thirds, but in the city itself, where the testing took place—the testing was of people who live in the city and of people who work in the city and live largely in the wider city region—the number of cases is down by over three quarters. That is one piece of evidence. It is clear that it is the combination of people following the rules and community testing, with appropriate incentives to get people to take up that mass community testing, that can help to make this work. We want to work with local directors of public health to understand how this can work effectively in their areas, precisely to reach those hard-to-reach people whom the hon. Lady mentioned.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Finally, I echo the hon. Lady’s request that we be cautious this Christmas. However, I am delighted that we have agreed an approach across the whole UK, including with the SNP Administration in Edinburgh, with the Welsh Labour Administration and the cross-party Administration in Northern Ireland, because there are so many ties that bind us together and mean that we are stronger as one United Kingdom, working together to tackle this virus.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a class="a2a_button_facebook a2a_counter" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F11%2F30%2Ftest-trace-isolate-support%2F&amp;amp;linkname=Covid%20Statement%2026%2F11%2F20" title="Facebook" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F11%2F30%2Ftest-trace-isolate-support%2F&amp;amp;linkname=Covid%20Statement%2026%2F11%2F20" title="Facebook Messenger" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F11%2F30%2Ftest-trace-isolate-support%2F&amp;amp;linkname=Covid%20Statement%2026%2F11%2F20" title="WhatsApp" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F11%2F30%2Ftest-trace-isolate-support%2F&amp;amp;linkname=Covid%20Statement%2026%2F11%2F20" title="Twitter" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fwhitford.scot%2F2020%2F11%2F30%2Ftest-trace-isolate-support%2F&amp;amp;linkname=Covid%20Statement%2026%2F11%2F20" title="Copy Link" rel="nofollow noopener" target="_blank"&gt;&lt;/a&gt;&lt;a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwhitford.scot%2F2020%2F11%2F30%2Ftest-trace-isolate-support%2F&amp;#038;title=Covid%20Statement%2026%2F11%2F20" data-a2a-url="https://whitford.scot/2020/11/30/test-trace-isolate-support/" data-a2a-title="Covid Statement 26/11/20"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="https://whitford.scot/2020/11/30/test-trace-isolate-support/"&gt;Covid Statement 26/11/20&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://whitford.scot"&gt;Dr Philippa Whitford&lt;/a&gt;.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Today I asked the UK Secretary of State for Health a series of questions about ... <a title="Covid Statement 26/11/20" class="read-more" href="https://whitford.scot/2020/11/30/test-trace-isolate-support/">Click to Read More</a></p>
+<p>The post <a rel="nofollow" href="https://whitford.scot/2020/11/30/test-trace-isolate-support/">Covid Statement 26/11/20</a> appeared first on <a rel="nofollow" href="https://whitford.scot">Dr Philippa Whitford</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Intern</name>
+    </author>
+    <id>https://whitford.scot/?p=1948</id>
+    <published>2020-11-30T11:21:32Z</published>
+    <updated>2020-11-30T11:21:32Z</updated>
+    <category term="Health, Wellbeing, &amp; Social Justice"/>
+    <category term="Questions, Speeches &amp; Motions"/>
+    <category term="Westminster"/>
+    <category term="COVID"/>
+    <category term="Financial-Support"/>
+    <category term="Lockdown"/>
+    <category term="Testing"/>
+  </entry>
+  <entry>
     <title>Tier 2 Lockdown Rules</title>
     <link rel="alternate" href="https://kitmalthouse.com/2020/tier-2-lockdown-rules/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tier-2-lockdown-rules" type="text/html"/>
     <content type="html">
@@ -1388,6 +1396,48 @@ protected.&lt;/p&gt;
     <id>873 at https://preetkaurgill.com</id>
     <published>2020-11-24T18:08:27Z</published>
     <updated>2020-11-24T18:08:27Z</updated>
+  </entry>
+  <entry>
+    <title>We’re halfway there, so well done</title>
+    <link rel="alternate" href="https://debbieabrahams.org.uk/were-halfway-there-so-well-done/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="themeum-title " style="text-align:left"/><div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"/></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>As we approach the halfway point of the Government’s nationwide lockdown, I want to thank constituents and businesses for abiding by the new restrictions.</p>
+<p>The Government has lost control of the virus, and my first duty is to keep my constituents safe. That is why I voted for the lockdown. Nobody voted for the regulations with anything but a heavy heart. I did not come into Parliament to restrict people’s freedoms.</p>
+<p>This period must be used to undertake the transfer of test and trace to local public health departments, including a full resource transfer. In addition, the Government must ensure that the NHS and social care are fully prepared with adequate PPE, as high as possible uptake of flu vaccinations and regular testing regimes.</p>
+<p>I have proposed measures to protect the clinically vulnerable and providing ‘supportive shielding’ so that people don’t experience the devastating isolation that happened last time. We must also make sure we have simple, coherent messaging with local community engagement as well as monitoring and enforcement capacity to support people complying during the lockdown.</p>
+<p>Local restrictions have had a devastating effect on people living in care homes and their families.  As co-Chair of the APPG on Dementia I have received heart-breaking stories from Oldhamers, unable to visit their loved ones for months on end, and who have seen a marked deterioration in their condition, particularly for those living with dementia.</p>
+<p>I secured a Westminster Hall debate on the impact of coronavirus on people living with dementia, their families and carers last week, where I challenged the Minister on these issues. I pressed the Minister to report back to Parliament on her trial of visitor testing which starts on 16<sup>th</sup> November in 30 care homes, with the intention of rolling out testing for visitors across the country in December.  It is essential that family members are able to safely visit their loved ones in care homes, especially as we approach Christmas.</p>
+<p>I have also been challenging the Government on how they’ve been awarding Covid-related contracts. Billions of pounds of public money has been awarded to private companies often with no experience in delivering medical supplies. The Government’s repeated refusal to come clean about where this public money has left no option but to compel the Government to come clean through the courts. This is why I partnered with Caroline Lucas MP, Layla Moran MP and the Good Law Project in legal action to force the Government to publish details of private covid and PPE related contracts.</p>
+<p>Whilst we recognise that at the beginning of the pandemic we needed to move quickly, this does not justify the Government’s wholesale disregard for transparency including the publication of contracts awarded. The Government has now disclosed that at least £17 billion worth of Covid-19 contracts have been awarded by the Department of Health and Social Care since April, with over £4 billion of these contracts being hidden. The transparency gap is therefore growing.</p>
+<p>I am pleased that last week the High Court granted our judicial review to challenge the Government’s persistent failure to publish these contracts. The hearing is scheduled for mid-January 2021 and I’ll keep you informed of our progress.</p>
+<p>Do look after yourselves and stay safe.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1547808642785 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="themeum-title-donate " style="text-align:center"><div class="col-sm-12 col-md-12 col-lg-6 col-xs-12 themeum-title-call no-padding"><h2 class="call-to-title" style="color:#ffffff;font-size:24px;font-weight:700;text-transform:capitalize;">Feel strongly about this article? </h2></div><div class="col-sm-12 col-md-12 col-lg-6 col-xs-12 themeum-join-campaign text-right no-padding"><a class="bordered-button champ btn btn-transparent " href="http://debbieabrahams.org.uk/contact">Contact Debbie</a></div></div></div></div></div></div>
+<p>The post <a rel="nofollow" href="https://debbieabrahams.org.uk/were-halfway-there-so-well-done/">We’re halfway there, so well done</a> appeared first on <a rel="nofollow" href="https://debbieabrahams.org.uk">Debbie Abrahams, MP for Oldham East and Saddleworth</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://debbieabrahams.org.uk/were-halfway-there-so-well-done/">We’re halfway there, so well done</a> appeared first on <a rel="nofollow" href="https://debbieabrahams.org.uk">Debbie Abrahams, MP for Oldham East and Saddleworth</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Constituency Office</name>
+    </author>
+    <id>https://debbieabrahams.org.uk/?p=6722</id>
+    <published>2020-11-20T12:19:25Z</published>
+    <updated>2020-11-20T12:19:25Z</updated>
+    <category term="Children &amp; Families"/>
+    <category term="Constituents"/>
+    <category term="Localism"/>
+    <category term="News"/>
+    <category term="Oldham &amp; Saddleworth"/>
+    <category term="Parliament"/>
   </entry>
   <entry>
     <title>Update on Activities</title>
@@ -1675,12 +1725,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="6055f58fae"  data-nonce-time="1607607971" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="6055f58fae"  data-nonce-time="1607611770" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Twitter&lt;/label&gt;&lt;input type="text" name="twitter" value="" autocomplete="off"&gt;
+&lt;label&gt;Email&lt;/label&gt;&lt;input type="text" name="email" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
@@ -1816,169 +1866,5 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <published>2020-08-19T16:04:10Z</published>
     <updated>2020-08-19T16:04:10Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>New Hospital in Sutton Confirmed</title>
-    <link rel="alternate" href="http://www.scully.org.uk/news/new-hospital-in-sutton-confirmed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-hospital-in-sutton-confirmed" type="text/html"/>
-    <content type="html">
-&lt;p&gt;I am delighted to write and tell you that local NHS leaders have confirmed plans for a new hospital to be built in Sutton and to upgrade facilities at St Helier. This represents a &lt;strong&gt;£500 MILLION plan&lt;/strong&gt; that will not only &lt;strong&gt;build a brand new state of the art hospital&lt;/strong&gt; near to the Royal Marsden by 2025, but ALSO &lt;strong&gt;invest AT LEAST £80 MILLION into upgrades at St Helier&lt;/strong&gt;.&lt;/p&gt;
-
-
-
-&lt;p&gt;The new specialist emergency care hospital, just a few minutes from St Helier, would treat the sickest 15% of patients, those normally arriving by ambulance. This larger specialist team would be available 24 hours a day to diagnose what is wrong with patients more rapidly, start the best treatment faster, and help patients recover more quickly. St Helier and Epsom Hospitals will remain open 24/7, with updated and improved facilities, providing all the other services that they currently do.&lt;/p&gt;
-
-
-
-&lt;p&gt;My children were born at St. Helier so healthcare provision in Sutton has been an issue that is a very personal one to me. Ever since being a councillor in Carshalton, some 14 years ago, I have been campaigning for a solution that protects the future of St. Helier whilst ensuring that Sutton residents have access to the very best treatment in cutting edge modern healthcare facilities. I believe that this decision can finally put to rest the political arguments so that we can get on with doing what’s best for residents across the whole of the borough of Sutton.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;With this plan, the refurbished St Helier Hospital is here to stay providing the majority of local health services, and the sickest patients will get state-of-the-art treatment in the brand-new specialist emergency hospital right here in our area.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;You can find out more about the plans, including the answers to some frequently asked questions at the NHS’ website: &lt;a href="http://www.improvinghealthcaretogether.org.uk"&gt;www.improvinghealthcaretogether.org.uk&lt;/a&gt;. You can also contact them at &lt;a href="mailto:hello@improvinghealthcaretogether.org.uk"&gt;hello@improvinghealthcaretogether.org.uk&lt;/a&gt;, or get in touch with me with any queries.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;IMPORTANT QUESTIONS &amp;amp; ANSWERS ABOUT THESE PROPOSALS&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Why is this being done?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;To improve the care that we receive. As St Helier’s buildings continue to age over time, it’s necessary to upgrade our healthcare facilities to improve outcomes. Surviving illness and recovering quickly is the number one priority.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Is St Helier closing?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;No, quite the opposite. St Helier is here to stay with a multi-million-pound improvement package.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Is a new hospital being built?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Yes. A new specialist emergency care hospital will be built in Sutton, in addition to improving St Helier hospital.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Is St Helier getting an upgrade?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Yes. At least £80 million of the funding promised will go towards improving the facilities at St Helier hospital.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Who developed these proposals?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;For the first time, we have a plan that was developed by local clinicians, not national bureaucrats or politicians. Local healthcare professionals made the case for funding to deliver this improvement, which has been rewarded with a £500 million investment. Sutton Council also supported the proposals last year.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Will I have to travel outside my area for services now?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;At the moment, if you have a stroke or heart attack you will be taken past St. Helier to be treated at St. George&amp;#8217;s. This plan means that we will still be able to treat people within the local area, not moving more services away from Sutton.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Will we still use St Helier?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Yes. From 2025, Epsom hospital, St Helier hospital and the new hospital at Sutton will all have a 24/7 Urgent Treatment Centre (UTC) (which already treats the vast majority of people going to St. Helier in an emergency). Under the plans, 85% of services will remain at St Helier. Both Epsom and St Helier hospitals will still have a 24/7 UTC.&lt;/p&gt;
-
-
-
-&lt;p&gt;Diagnostic tests, such as MRI, x-ray or ultrasound, the heart problem diagnosis unit, the dialysis unit, Croft Ward (which takes care of patients who are stable but not ready to leave hospital), the eye care unit, the gastroenterology unit, and so many more services are staying put at Epsom and St Helier hospitals.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;What about bed numbers?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;The NHS have calculated that they will need the same number of beds as they do now.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;What about A&amp;amp;E?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Unlike previous plans, which saw A&amp;amp;E diverted away into Tooting, A&amp;amp;E is now staying right here in our Borough at the new hospital. Most of the time you will still use St Helier for matters requiring immediate medical attention like broken limbs or cuts. Major trauma cases needing a blue light ambulance transfer will be treated in Sutton at the new state-of-the-art hospital next to The Royal Marsden.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;What about maternity services?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Maternity services have also been protected and kept locally. Post-natal and ante-natal care are staying put at Epsom and St Helier hospitals, and births will take place in the brand-new maternity unit at the new hospital in Sutton built to the very latest healthcare standards. Women need the very best care and facilities when giving birth, and the new plans will provide that.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Where will children services be provided?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Most children will continue to receive care and treatment in the same place as they do now. Care for children who need to stay in hospital overnight – as a result of a serious illness or complex problems – will be treated at the new specialist emergency care hospital. This includes children’s surgery. &amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;What will happen until the new hospital in Sutton is built?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;All services will continue to be carried out at Epsom and St Helier hospitals until such time the new hospital in Sutton is ready for patients.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Where will the new hospital be built?&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;After consulting residents, patient groups and healthcare professionals, the decision was taken to build a brand-new specialist emergency care hospital in Sutton. This will be combined with the necessary infrastructure and transport links to ensure the site of the new hospital is accessible to all that need to use it.&lt;/p&gt;
-
-
-
-&lt;p&gt;For more facts, and to find out what this multi-million-pound government investment in our local NHS will mean for you and your family, visit the following website: &lt;a href="http://www.improvinghealthcaretogether.org.uk/faq"&gt;www.improvinghealthcaretogether.org.uk/faq&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I am delighted to write and tell you that local NHS leaders have confirmed plans for a new hospital to be built in Sutton and to upgrade facilities at St Helier. This represents a £500 MILLION plan that will not only build a brand new state of the art hospital near to the Royal Marsden […]</div>
-    </summary>
-    <author>
-      <name>Paul Scully</name>
-    </author>
-    <id>http://www.scully.org.uk/?p=5400</id>
-    <published>2020-07-17T10:14:25Z</published>
-    <updated>2020-07-17T10:14:25Z</updated>
-    <category term="News"/>
-    <category term="Healthcare"/>
-    <category term="Here For St Helier"/>
-    <category term="Sutton"/>
   </entry>
 </feed>
