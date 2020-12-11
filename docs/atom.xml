@@ -7,9 +7,48 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-11T09:54:17Z</updated>
+  <updated>2020-12-11T10:55:22Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>How to write a strong text in an e-course</title>
+    <link rel="alternate" href="https://lucianaberger.com/9/lambed/06/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>The topic in the reader’s world evokes a sincere desire to take the course Training courses appear because companies need to train employees in something: safety, sales methods or principles. These courses are important for business, but do not arouse the desire of employees to take them. </p>
+
+
+
+<p>Here are some examples of boring but necessary topics: “Workplace safety.” “Digital transformation: trends, challenges and prospects.” “Sales technologies: general principles of working with customers for beginners.” In the topic of the course, show the reader the solution to his pressing problems Each of the topics listed above tries to teach the reader something: “You, the reader, have to go through this!”. </p>
+
+
+
+<p>The trick is that you can’t make a person want to learn something. If you want him to immerse himself in the course, invest time and effort, you need to evoke in him a sincere, deep and emotional desire to go through it.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The topic in the reader’s world evokes a sincere desire to take the course Training courses appear because companies need to train employees in something: safety, sales methods or principles. These courses are important for […]</div>
+    </summary>
+    <author>
+      <name>lambed</name>
+    </author>
+    <id>https://lucianaberger.com/?p=9</id>
+    <published>2020-12-11T10:50:42Z</published>
+    <updated>2020-12-11T10:50:42Z</updated>
+    <category term="education"/>
+  </entry>
+  <entry>
+    <title>Harriett names Tenbury pub for national award</title>
+    <link rel="alternate" href="https://www.harriettbaldwin.com/content/harriett-names-tenbury-pub-national-award" type="text/html"/>
+    <content type="html">&lt;p&gt;West Worcestershire MP Harriett Baldwin has nominated a popular county pub for a national Parliamentary award after a year-long effort to help the community through crisis. &lt;span class='read-more'&gt;&lt;a href="https://www.harriettbaldwin.com/content/harriett-names-tenbury-pub-national-award" target="_blank"&gt;&lt;strong&gt;read&amp;nbsp;more&amp;nbsp;&amp;raquo;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Admin</name>
+    </author>
+    <id>5004 at https://www.harriettbaldwin.com</id>
+    <published>2020-12-11T10:36:17Z</published>
+    <updated>2020-12-11T10:36:17Z</updated>
+  </entry>
   <entry>
     <title>Graham Stuart MP delighted local hospitals will benefit from £6 million Government funding</title>
     <link rel="alternate" href="https://www.grahamstuart.com/2020/12/graham-stuart-mp-delighted-local-hospitals-will-benefit-from-6-million-government-funding/" type="text/html"/>
@@ -334,25 +373,6 @@ Over 800 people in the South Lakes have signed Tim's petition calling on Royal M
     <id>1434 at https://joncruddas.org.uk</id>
     <published>2020-12-10T13:55:37Z</published>
     <updated>2020-12-10T13:55:37Z</updated>
-  </entry>
-  <entry>
-    <title>Hello world!</title>
-    <link rel="alternate" href="https://lucianaberger.com/2020/12/10/hello-world/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</div>
-    </summary>
-    <author>
-      <name>Morlugra</name>
-    </author>
-    <id>https://lucianaberger.com/?p=1</id>
-    <published>2020-12-10T12:05:18Z</published>
-    <updated>2020-12-10T12:05:18Z</updated>
-    <category term="education"/>
   </entry>
   <entry>
     <title>Local MP meets with Head of new Austen Academy</title>
@@ -804,18 +824,6 @@ Currently, Borders textile mills are heavily penalised by the US Government when
 		<category term="Local News"/>
 		<category term="Local News"/>
 	</entry>
-  <entry>
-    <title>MP welcomes £2m more support for locked down businesses </title>
-    <link rel="alternate" href="https://www.harriettbaldwin.com/content/mp-welcomes-%C2%A32m-more-support-locked-down-businesses" type="text/html"/>
-    <content type="html">&lt;p&gt;West Worcestershire MP Harriett Baldwin has praised the work of local council staff who have handed out over £2 million to help businesses who have had to close their doors because of new Covid restrictions. &lt;span class='read-more'&gt;&lt;a href="https://www.harriettbaldwin.com/content/mp-welcomes-%C2%A32m-more-support-locked-down-businesses" target="_blank"&gt;&lt;strong&gt;read&amp;nbsp;more&amp;nbsp;&amp;raquo;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <author>
-      <name>Admin</name>
-    </author>
-    <id>5002 at https://www.harriettbaldwin.com</id>
-    <published>2020-12-09T09:30:22Z</published>
-    <updated>2020-12-09T09:30:22Z</updated>
-  </entry>
   <entry>
     <title>WEST DUNBARTONSHIRE MOVES TO LEVEL 3 COVID RESTRICTIONS</title>
     <link rel="alternate" href="http://martindocherty.scot/west-dunbartonshire-moves-to-level-3-covid-restrictions/" type="text/html"/>
@@ -1821,12 +1829,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="cc34b83a38"  data-nonce-time="1607680168" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="cc34b83a38"  data-nonce-time="1607683814" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Order Number&lt;/label&gt;&lt;input type="text" name="order_number" value="" autocomplete="off"&gt;
+&lt;label&gt;Name&lt;/label&gt;&lt;input type="text" name="name" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
