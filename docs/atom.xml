@@ -7,9 +7,90 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-14T13:56:09Z</updated>
+  <updated>2020-12-14T14:57:22Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>London City Airport Revise Master Plan </title>
+    <link rel="alternate" href="https://joncruddas.org.uk/london-city-airport-revise-master-plan" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/Resized-LCY-916x543_0.jpg?itok=eB5ySM19" width="740" height="423" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p> </p>
+              <p>In 2019 London City Airport undertook an extensive 16-week public consultation on their draft master plan which proposed airport expansion and a change to operating hours. The plans raised a number of concerns which ranged from increased noise pollution in flight path areas to issues of air quality. Jon Cruddas MP was contacted by many constituents during the consultation period and met with London City Airport to discuss their concerns.</p>
+              <p><strong>At the time Jon Cruddas MP said:</strong> “I just can’t see the justification for supporting airport expansion in London. Knowing what we do now about emissions and the goal to reach net-zero carbon in 11 years, airport expansion is at odds with the current social, economic and political direction of travel.”</p>
+              <p>The results of the consultation have now been published in a new finalised master plan which can be found here: <em><strong><a href="https://www.londoncityairport.com/corporate/master-plan ">https://www.londoncityairport.com/corporate/master-plan </a></strong></em></p>
+              <p>Recognising the concerns that were raised by those that took part in the consultation alongside key stakeholders, London City Airport have adapted the master plan to maintain current operating hours, including the existing eight-hour night-time flight curfew.</p>
+              <p>City Airport have also expressed that they recognise growth must go hand in hand with the highest environmental standards which means they will now focus on providing capacity for up to 11 million passengers and 151,000 aircraft movements each year, by making best use of the existing runway.</p>
+              <p><strong>Jon Cruddas said:</strong> “we need to get the right balance between supporting business, protecting the environment and meeting the climate change challenge by transitioning to net zero. The changes to London City Airport’s master plan is a victory for all those that questioned the negative impacts expansion could have on life in Dagenham and Rainham.”</p>
+              <p><strong>A London City Airport representative said:</strong> “We remain very confident in the long-term prospects of London City Airport and our ability to return to growth and create more local jobs in the years to come. In the short term, we will focus on recovering from COVID-19, supporting our local communities and welcoming back passengers and airlines to London’s most central airport.”</p>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dagenham</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/tags/rainham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rainham</a>
+            </li>
+            <li class="taxonomy-term-reference-3">
+              <a href="/tags/airport" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Airport</a>
+            </li>
+            <li class="taxonomy-term-reference-4">
+              <a href="/tags/travel" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Travel</a>
+            </li>
+            <li class="taxonomy-term-reference-5">
+              <a href="/tags/london" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">London</a>
+            </li>
+            <li class="taxonomy-term-reference-6">
+              <a href="/tags/city-airport" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">City Airport</a>
+            </li>
+            <li class="taxonomy-term-reference-7">
+              <a href="/tags/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Environment</a>
+            </li>
+            <li class="taxonomy-term-reference-8">
+              <a href="/tags/air-quality" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Air Quality</a>
+            </li>
+            <li class="taxonomy-term-reference-9">
+              <a href="/tags/emissions" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Emissions</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>andrew</name>
+    </author>
+    <id>1435 at https://joncruddas.org.uk</id>
+    <published>2020-12-14T14:21:01Z</published>
+    <updated>2020-12-14T14:21:01Z</updated>
+  </entry>
+  <entry>
+    <title>MP leaves no stone unturned in college battle</title>
+    <link rel="alternate" href="https://www.harriettbaldwin.com/content/mp-leaves-no-stone-unturned-college-battle" type="text/html"/>
+    <content type="html">&lt;p&gt;West Worcestershire MP Harriett Baldwin has called for a re-think on the sale of Malvern Hills College after local people shared details of a covenant preserving the site for teaching. &lt;span class='read-more'&gt;&lt;a href="https://www.harriettbaldwin.com/content/mp-leaves-no-stone-unturned-college-battle" target="_blank"&gt;&lt;strong&gt;read&amp;nbsp;more&amp;nbsp;&amp;raquo;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Admin</name>
+    </author>
+    <id>5006 at https://www.harriettbaldwin.com</id>
+    <published>2020-12-14T14:18:17Z</published>
+    <updated>2020-12-14T14:18:17Z</updated>
+  </entry>
   <entry>
     <title>Gwynne slams new Bredbury industrial plan</title>
     <link rel="alternate" href="https://andrewgwynne.co.uk/gwynne-slams-new-bredbury-industrial-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gwynne-slams-new-bredbury-industrial-plan" type="text/html"/>
@@ -48,13 +129,13 @@
     <category term="Local"/>
   </entry>
   <entry>
-    <title>Local MP reminds residents to shop safely and support local businesses in Basingstoke</title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-reminds-residents-shop-safely-and-support-local-businesses-basingstoke" type="text/html"/>
+    <title>Maria Miller MP Welcomes exam measures announced for 2021</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/maria-miller-mp-welcomes-exam-measures-announced-2021" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Local MP Maria Miller is encouraging residents to support local businesses in the lead up to Christmas.
-Maria Miller said, ‘With the end of lockdown and with only 11 shopping days until Christmas, now is a brilliant opportunity to visit our local high street and shops while following Coronavirus…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maria Miller MP welcomed the Education Secretary announcement of a package of exceptional measures to support those students taking their exams and other assessments next year.
+In recognition of the challenges faced by students, exams will be different next year – grades will be more generous,…</div>
     </content>
-    <id>https://www.maria4basingstoke.co.uk/news/local-mp-reminds-residents-shop-safely-and-support-local-businesses-basingstoke</id>
+    <id>https://www.maria4basingstoke.co.uk/news/maria-miller-mp-welcomes-exam-measures-announced-2021</id>
     <published>2020-12-14T12:00:00Z</published>
     <updated>2020-12-14T12:00:00Z</updated>
   </entry>
@@ -362,18 +443,6 @@ competition and submitting colourful and optimistic entries.&lt;/p&gt;
     <category term="News"/>
   </entry>
   <entry>
-    <title>County NHS gets £4 million building boost</title>
-    <link rel="alternate" href="https://www.harriettbaldwin.com/content/county-nhs-gets-%C2%A34-million-building-boost" type="text/html"/>
-    <content type="html">&lt;p&gt;West Worcestershire MP Harriett Baldwin has welcomed news that Worcestershire’s NHS Trusts will receive £4 million extra cash as part of a national investment in the health service. &lt;span class='read-more'&gt;&lt;a href="https://www.harriettbaldwin.com/content/county-nhs-gets-%C2%A34-million-building-boost" target="_blank"&gt;&lt;strong&gt;read&amp;nbsp;more&amp;nbsp;&amp;raquo;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <author>
-      <name>Admin</name>
-    </author>
-    <id>5005 at https://www.harriettbaldwin.com</id>
-    <published>2020-12-11T14:00:58Z</published>
-    <updated>2020-12-11T14:00:58Z</updated>
-  </entry>
-  <entry>
     <title>MP welcomes huge new investment for Northumberland</title>
     <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/mp-welcomes-huge-new-investment-northumberland" type="text/html"/>
     <content type="xhtml">
@@ -457,65 +526,6 @@ competition and submitting colourful and optimistic entries.&lt;/p&gt;
     <category term="Graham Stuart MP"/>
     <category term="Hospital"/>
     <category term="NHS"/>
-  </entry>
-  <entry>
-    <title>Rainham Foodbank Virtual Christmas Party</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/rainham-foodbank-virtual-christmas-party" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/Virtual%20Christmas%20Party%20Poster%202020%20-%20Copy.jpg?itok=RIeuvQGz" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p> </p>
-              <p>On Monday 14 December the Trussell Trust Rainham Foodbank are hosting ‘A Hope for the Season’ via YouTube. The event will be a virtual Christmas party for the community, and in particular those that rely on the services they provide throughout the year.</p>
-              <p><strong>The event will be broadcast live via YouTube here:</strong> <strong><a href="https://bit.ly/3qhqoaa">https://bit.ly/3qhqoaa</a></strong></p>
-              <p>It will <strong>start at 6.30pm</strong> and <strong>finish by 8.00pm</strong>. More details can be found on the promotional poster by clicking <a href="https://joncruddas.org.uk/file/virtual-christmas-party-poster-2020jpg"><strong>HERE</strong></a> </p>
-              <p>‘A Hope for the Season’ will be a time to sing Christmas Carols, enjoy speakers and musicians and get yourself in the Christmas spirit. The foodbank based in South Hornchurch (3-4 Mick Fury House, Lowen Road, Rainham, RM13 8HT) are also offering a range of festive treats for foodbank users throughout the week beginning Monday 14 December. There will be Christmas gifts, coats, and hampers available and users are asked to call <strong>01708 397484 </strong>or <strong>07367 335970</strong> to arrange a 20-minute collection slot.</p>
-              <p><strong>Jon Cruddas MP said:</strong> “I am incredibly thankful for the vital support Rainham Foodbank offers my constituents, and this event is another excellent example of them giving back and bringing the community together. Every year my office processes numerous referrals to Rainham Foodbank, and I know the extra effort they have put in to ensure that the most vulnerable have not been left without help during the pandemic.”</p>
-              <p><strong>Tune in to the event from 6.30pm on Monday 14 December here:</strong> <strong><a href="https://bit.ly/3qhqoaa">https://bit.ly/3qhqoaa</a></strong></p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/rainham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rainham</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/foodbank" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Foodbank</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/christmas" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Christmas</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/event" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Event</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/carols" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Carols</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/tags/community" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">community</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1434 at https://joncruddas.org.uk</id>
-    <published>2020-12-10T13:55:37Z</published>
-    <updated>2020-12-10T13:55:37Z</updated>
   </entry>
   <entry>
     <title>Our Man - Brexit </title>
