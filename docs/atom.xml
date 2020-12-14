@@ -7,9 +7,20 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-14T11:54:24Z</updated>
+  <updated>2020-12-14T13:07:31Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Local MP reminds residents to shop safely and support local businesses in Basingstoke</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-reminds-residents-shop-safely-and-support-local-businesses-basingstoke" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Local MP Maria Miller is encouraging residents to support local businesses in the lead up to Christmas.
+Maria Miller said, ‘With the end of lockdown and with only 11 shopping days until Christmas, now is a brilliant opportunity to visit our local high street and shops while following Coronavirus…</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/local-mp-reminds-residents-shop-safely-and-support-local-businesses-basingstoke</id>
+    <published>2020-12-14T12:00:00Z</published>
+    <updated>2020-12-14T12:00:00Z</updated>
+  </entry>
   <entry>
     <title>No Deal is a good outcome</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2020/12/14/no-deal-is-a-good-outcome/" type="text/html"/>
@@ -502,16 +513,6 @@ competition and submitting colourful and optimistic entries.&lt;/p&gt;
       <div xmlns="http://www.w3.org/1999/xhtml">As we approach the end of this terrible year I suspect I will not cheer anyone up by reminding them that the end of the Brexit transition period is very close. It is a matter of huge interest to the whole country but is of course of particular concern to us in Kent because of the possibility of…</div>
     </content>
     <id>https://www.damiangreen.co.uk/news/our-man-brexit-0</id>
-    <published>2020-12-10T12:00:00Z</published>
-    <updated>2020-12-10T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Local MP meets with Head of new Austen Academy</title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-meets-head-new-austen-academy" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">MP Maria Miller met virtually with the New Head Teacher of the Austen Academy Elizabeth Cooper . The new school is for children aged 5-16 years who have social and communication difficulties or autistic spectrum disorder. The facility will reduce the need to place pupils in non-county…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/local-mp-meets-head-new-austen-academy</id>
     <published>2020-12-10T12:00:00Z</published>
     <updated>2020-12-10T12:00:00Z</updated>
   </entry>
