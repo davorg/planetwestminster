@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-14T18:01:41Z</updated>
+  <updated>2020-12-14T18:59:20Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -240,6 +240,16 @@ Maria commented; “It was good to meet the Environment Agency following the rec
     <category term="voluntary groups"/>
   </entry>
   <entry>
+    <title>Four more libraries welcome back the public</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13061/four-more-libraries-welcome-back-the-public" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Four more Edinburgh libraries have reopened their doors today (Monday 14 December) as part of a phased plan allowing more access to community facilities.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13061/four-more-libraries-welcome-back-the-public</id>
+    <published>2020-12-12T19:53:00Z</published>
+    <updated>2020-12-12T19:53:00Z</updated>
+  </entry>
+  <entry>
     <title>Dunne welcomes funding for Ludlow Assembly Rooms </title>
     <link rel="alternate" href="https://www.philipdunne.com/news/dunne-welcomes-funding-ludlow-assembly-rooms" type="text/html"/>
     <content type="xhtml">
@@ -382,16 +392,6 @@ Speaking during a debate on the future of the high street, Tim also called for g
 			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2020/12/funding-to-kickstart-regeneration-of-worcester-arches/feed/atom/" thr:count="0"/>
 			<thr:total>0</thr:total>
 			</entry>
-  <entry>
-    <title>Edinburgh residents asked to go green this Christmas</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13060/edinburgh-residents-asked-to-go-green-this-christmas" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A multi media campaign encouraging residents to recycle this Christmas is being launched on Monday (14 December).</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13060/edinburgh-residents-asked-to-go-green-this-christmas</id>
-    <published>2020-12-11T15:56:00Z</published>
-    <updated>2020-12-11T15:56:00Z</updated>
-  </entry>
   <entry>
     <title>Christmas Card display cheer to feature work of local schoolchildren</title>
     <link rel="alternate" href="https://niagriffith.org.uk/2020/12/christmas-card-display-cheer-to-feature-work-of-local-schoolchildren/" type="text/html"/>
