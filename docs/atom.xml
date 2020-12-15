@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-15T04:03:47Z</updated>
+  <updated>2020-12-15T05:02:28Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -360,6 +360,38 @@ Speaking during a debate on the future of the high street, Tim also called for g
     <updated>2020-12-11T16:28:51Z</updated>
     <category term="News"/>
   </entry>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>Jack Gebhard</name>
+					</author>
+
+		<title type="html"><![CDATA[Funding to kickstart regeneration of Worcester Arches]]></title>
+		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2020/12/funding-to-kickstart-regeneration-of-worcester-arches/"/>
+
+		<id>https://www.walker4worcester.com/?p=2093</id>
+		<updated>2020-12-11T16:20:00Z</updated>
+		<published>2020-12-11T16:20:00Z</published>
+		<category scheme="https://www.walker4worcester.com" term="News"/>
+		<summary type="html"><![CDATA[Today the government unveiled its Cultural Kickstart Fund which will help cultural organisations who have lost funding as a result of the pandemic and ensure major capital projects can go ahead as planned. The Worcester Arches Project is one of 74 organisations receiving grants from government totalling £58.9million today. The regeneration of the historic arches [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://www.walker4worcester.com/2020/12/funding-to-kickstart-regeneration-of-worcester-arches/"><![CDATA[<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">Today the government unveiled its Cultural Kickstart Fund which will help cultural organisations who have lost funding as a result of the pandemic and ensure major capital projects can go ahead as planned.</span></span></p>
+<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">The Worcester Arches Project is one of 74 organisations receiving grants from government totalling £58.9million today. The regeneration of the historic arches in the city will be assisted by a grant of £145,915 to help turn them into a modern workspace for creative industries, and transport links that will help connect the city.</span></span></p>
+<p><a name="_Hlk58586972"></a><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">The wider scheme which amounts to around £4.5 million of investment is being delivered by Worcester Cultural Partnership, made up of Worcester City Council, the University of Worcester, Severn Arts, The Arch Company and Worcestershire County Council. Local MP Robin Walker has welcomed the additional funding announced today, stating that the investment has the potential to reinvigorate the area around the arches.</span></span></p>
+<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">The Capital Kickstart grants programme helps organisations cover costs added to capital projects such as building works, refurbishments, and large-scale equipment purchases by pandemic-related delays or fundraising shortfalls.</span></span></p>
+<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">The announcement follows a series of investments in Worcester cultural sites with Museums Worcester and Worcester Cathedral both receiving support from the fund earlier in the year.</span></span></p>
+<p><span style="color: #000000;"><b><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;">Commenting, Robin said:</span></b><br />
+<a name="_Hlk58587181"></a><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;">“To a historic city like Worcester our heritage and cultural assets are vitally important, and I am delighted that the government is taking protecting those sites seriously. A lot of cultural organisations have taken a hit as a result of the Covid pandemic so it is important that they are provided with the funding they need to continue the work they do.</span></span></p>
+<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">“The Worcester Arches Project in particular will reinvigorate the iconic arches as well as the area around it, providing a pedestrian link from Foregate Street Station then on to the river. We have the opportunity to make this cultural site a real draw for people into the town, which will in turn support the businesses that are working to provide for them.</span></span></p>
+<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">“I have worked alongside fellow Conservatives at Worcester City Council to highlight the importance of the Arches’ regeneration and today’s announcement is a clear signal that the government are listening.”</span></span></p>
+<p><b><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">Culture Secretary, Oliver Dowden said:</span></span></b></p>
+<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">“When the Culture Recovery Fund launched, I said I would not let the cultural sector down and I have kept my word with more than £1 billion now allocated to organisations who need it most.</span></span></p>
+<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">“We have funded organisations of every size in all corners of the country, and now we are extending a huge helping hand to some of the country’s biggest cultural powerhouses to get them through the Covid crisis too.”</span></span></p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2020/12/funding-to-kickstart-regeneration-of-worcester-arches/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2020/12/funding-to-kickstart-regeneration-of-worcester-arches/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
   <entry>
     <title>Christmas Card display cheer to feature work of local schoolchildren</title>
     <link rel="alternate" href="https://niagriffith.org.uk/2020/12/christmas-card-display-cheer-to-feature-work-of-local-schoolchildren/" type="text/html"/>
@@ -828,6 +860,24 @@ Currently, Borders textile mills are heavily penalised by the US Government when
     <id>https://www.johnlamont.org/news/uk-announces-new-approach-us-cashmere-tariffs</id>
     <published>2020-12-09T12:00:00Z</published>
     <updated>2020-12-09T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>WEST DUNBARTONSHIRE MOVES TO LEVEL 3 COVID RESTRICTIONS</title>
+    <link rel="alternate" href="http://martindocherty.scot/west-dunbartonshire-moves-to-level-3-covid-restrictions/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>It has been announced today (8 December 2020) that West Dunbartonshire is to move into Level 3 Covid-19 restrictions, alongside the other Scottish local authority areas currently subject to the highest Level 4 restrictions. The easing of restrictions will come … <a href="http://martindocherty.scot/west-dunbartonshire-moves-to-level-3-covid-restrictions/">Continue reading <span class="meta-nav">→</span></a></p>
+<p>The post <a rel="nofollow" href="http://martindocherty.scot/west-dunbartonshire-moves-to-level-3-covid-restrictions/">WEST DUNBARTONSHIRE MOVES TO LEVEL 3 COVID RESTRICTIONS</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Communications Officer</name>
+    </author>
+    <id>http://martindocherty.scot/?p=1477501</id>
+    <published>2020-12-08T14:46:37Z</published>
+    <updated>2020-12-08T14:46:37Z</updated>
+    <category term="Campaign Emails"/>
+    <category term="Latest Issues"/>
+    <category term="News"/>
   </entry>
   <entry>
     <title>Vaccine Breakthrough!</title>
@@ -1761,120 +1811,4 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <updated>2020-10-22T13:31:18Z</updated>
     <category term="News"/>
   </entry>
-  <entry>
-    <title>Rubbish dumping survey</title>
-    <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
-    <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="de4fa65d13"  data-nonce-time="1608004323" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
-&lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
-&lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
-&lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
-&lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Email&lt;/label&gt;&lt;input type="text" name="email" value="" autocomplete="off"&gt;
-&lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
-	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="text" data-field="fld_949637" class=" form-control" id="fld_949637_1" name="fld_949637" value="" data-type="text" aria-required="true"   aria-labelledby="fld_949637Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_3720579" class="form-group" id="fld_3720579_1-wrap"&gt;
-	&lt;label id="fld_3720579Label" for="fld_3720579_1" class="control-label"&gt;Surname &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="text" data-field="fld_3720579" class=" form-control" id="fld_3720579_1" name="fld_3720579" value="" data-type="text" aria-required="true"   aria-labelledby="fld_3720579Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_377714" class="form-group" id="fld_377714_1-wrap"&gt;
-	&lt;label id="fld_377714Label" for="fld_377714_1" class="control-label"&gt;Postcode &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="text" data-field="fld_377714" class=" form-control" id="fld_377714_1" name="fld_377714" value="" data-type="text" aria-required="true"   aria-labelledby="fld_377714Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_8339186" class="form-group" id="fld_8339186_1-wrap"&gt;
-	&lt;label id="fld_8339186Label" for="fld_8339186_1" class="control-label"&gt;Email &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="email" data-field="fld_8339186" class=" form-control" id="fld_8339186_1" name="fld_8339186" value="" data-type="email" aria-required="true"   aria-labelledby="fld_8339186Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr id="fld_3670460_1" class="" style="width: 100%" /&gt;&lt;div data-field-wrapper="fld_8286015" class="form-group" id="fld_8286015_1-wrap"&gt;
-	&lt;label id="fld_8286015Label" for="fld_8286015_1" class="control-label"&gt;Has the dumping and littering problem in the area reduced recently?&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;select name="fld_8286015" value="" data-field="fld_8286015" class="form-control" id="fld_8286015_1"    aria-labelledby="fld_8286015Label" &gt;
-		&lt;option value=""&gt;&lt;/option&gt;
-					&lt;option value="Yes"  data-calc-value="Yes" &gt;
-						Yes					&lt;/option&gt;
-										&lt;option value="No"  data-calc-value="No" &gt;
-						No					&lt;/option&gt;
-										&lt;option value="Not Sure"  data-calc-value="Not Sure" &gt;
-						Not Sure					&lt;/option&gt;
-							&lt;/select&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_5317914" class="form-group" id="fld_5317914_1-wrap"&gt;
-	&lt;label id="fld_5317914Label" for="fld_5317914_1" class="control-label"&gt;What further steps would you like to see taken?&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;textarea name="fld_5317914" value="" data-field="fld_5317914" class="form-control" id="fld_5317914_1" rows="4"    aria-labelledby="fld_5317914Label" &gt;&lt;/textarea&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_7237774" class="form-group" id="fld_7237774_1-wrap"&gt;
-	&lt;label id="fld_7237774Label" for="fld_7237774_1" class="control-label"&gt;Would you be willing to join a residents’ group?&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;select name="fld_7237774" value="" data-field="fld_7237774" class="form-control" id="fld_7237774_1"    aria-labelledby="fld_7237774Label" &gt;
-		&lt;option value=""&gt;&lt;/option&gt;
-					&lt;option value="Yes"  data-calc-value="Yes" &gt;
-						Yes					&lt;/option&gt;
-										&lt;option value="No"  data-calc-value="No" &gt;
-						No					&lt;/option&gt;
-										&lt;option value="Maybe"  data-calc-value="Maybe" &gt;
-						Maybe					&lt;/option&gt;
-							&lt;/select&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_3572997" class="form-group" id="fld_3572997_1-wrap"&gt;
-	&lt;label id="fld_3572997Label" for="fld_3572997_1" class="control-label"&gt;Can Liam email you about news and campaign updates? &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;select name="fld_3572997" value="" data-field="fld_3572997" class="form-control" id="fld_3572997_1"  required="required"  aria-labelledby="fld_3572997Label" &gt;
-		&lt;option value=""&gt;&lt;/option&gt;
-					&lt;option value="Yes"  data-calc-value="Yes" &gt;
-						Liam can email me					&lt;/option&gt;
-										&lt;option value="No"  data-calc-value="No" &gt;
-						Liam cannot email me					&lt;/option&gt;
-							&lt;/select&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;input    type="hidden" data-field="fld_4555323" class=" form-control" id="fld_4555323_1" name="fld_4555323" value="1" data-type="hidden"   &gt;&lt;input    type="hidden" data-field="fld_3061013" class=" form-control" id="fld_3061013_1" name="fld_3061013" value="2020 Oct Flytipping Survey" data-type="hidden"   &gt;&lt;hr id="fld_6111107_1" class="" style="width: 100%" /&gt;&lt;div data-field-wrapper="fld_432351" class="form-group" id="fld_432351_1-wrap"&gt;
-&lt;div class=""&gt;
-	&lt;input  class="btn btn-default" type="submit" name="fld_432351" id="fld_432351_1" value="Submit" data-field="fld_432351"  &gt;
-&lt;/div&gt;
-&lt;/div&gt;
-	&lt;input class="button_trigger_1" type="hidden" name="fld_432351" id="fld_432351_1_btn" value="" data-field="fld_432351"  /&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-2"  class="row  last_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;
-&lt;/div&gt;
-&lt;p&gt;The post &lt;a rel="nofollow" href="https://liambyrne.co.uk/rubbish-dumping-survey/"&gt;Rubbish dumping survey&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://liambyrne.co.uk"&gt;Liam Byrne MP&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://liambyrne.co.uk/rubbish-dumping-survey/">Rubbish dumping survey</a> appeared first on <a rel="nofollow" href="https://liambyrne.co.uk">Liam Byrne MP</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Liam Byrne</name>
-    </author>
-    <id>https://liambyrne.co.uk/?p=7970</id>
-    <published>2020-10-16T11:25:11Z</published>
-    <updated>2020-10-16T11:25:11Z</updated>
-    <category term="Flytipping"/>
-  </entry>
-  <entry>
-		<author>
-			<name>Stockton North Labour Team</name>
-					</author>
-
-		<title type="html"><![CDATA[Almost 50% of furloughed jobs in the Tees Valley are ‘at risk’]]></title>
-		<link rel="alternate" type="text/html" href="https://www.alexcunninghammp.com/2020/09/almost-50-of-furloughed-jobs-in-the-tees-valley-are-at-risk/"/>
-
-		<id>https://www.alexcunninghammp.com/?p=13752</id>
-		<updated>2020-09-17T09:26:28Z</updated>
-		<published>2020-09-17T09:11:30Z</published>
-		<category scheme="https://www.alexcunninghammp.com" term="News"/>
-		<summary type="html"><![CDATA[<p>Alex Cunningham condemns government for putting thousands of North East jobs at risk. Latest figures suggest 350,700 jobs in the North East are still fully furloughed – including 81,300 here in the Tees Valley. Of those furloughed roles in the Tees Valley, 36,300, or 45%, are deemed to be at risk when the scheme is [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.alexcunninghammp.com/2020/09/almost-50-of-furloughed-jobs-in-the-tees-valley-are-at-risk/">Almost 50% of furloughed jobs in the Tees Valley are ‘at risk’</a> appeared first on <a rel="nofollow" href="https://www.alexcunninghammp.com">Alex Cunningham MP</a>.</p>
-]]></summary>
-
-		
-			</entry>
 </feed>
