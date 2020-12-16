@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-16T18:57:53Z</updated>
+  <updated>2020-12-16T19:50:55Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Rushanara Ali MP attends Celebration Event for Bangladesh Victory Day</title>
+    <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_mp_attends_celebration_event_for_bangladesh_victory_day" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>On 16 December Rushanara Ali MP joined the Bangladesh High Commissioner to the UK at a virtual celebration event to mark the 49th anniversary of Bangladesh Victory Day. </p>
+      </div>
+    </content>
+    <author>
+      <name>Rushanara Ali</name>
+    </author>
+    <id>http://www.rushanaraali.org/rushanara_ali_mp_attends_celebration_event_for_bangladesh_victory_day</id>
+    <published>2020-12-16T19:14:00Z</published>
+    <updated>2020-12-16T19:14:00Z</updated>
+  </entry>
   <entry>
     <title>The fight for the Tame Valley continues – my article for the Stockport Express</title>
     <link rel="alternate" href="https://andrewgwynne.co.uk/the-fight-for-the-tame-valley-continues-my-article-for-the-stockport-express/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-fight-for-the-tame-valley-continues-my-article-for-the-stockport-express" type="text/html"/>
@@ -1624,21 +1639,6 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <id>https://www.alistair-burt.co.uk/news/my-current-article-article-us-election-warning-us-all</id>
     <published>2020-11-06T12:00:00Z</published>
     <updated>2020-11-06T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>APPG on Democracy in Burma Statement on Upcoming Elections in Burma</title>
-    <link rel="alternate" href="http://www.rushanaraali.org/appg_on_democracy_in_burma_statement_on_upcoming_burma_elections" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <p>Ahead of Burma's Election later this month, the All-Party Parliamentary Group for Democracy in Burma released the following statement, raising their concerns about the credibility of the elections. </p>
-      </div>
-    </content>
-    <author>
-      <name>Rushanara Ali</name>
-    </author>
-    <id>http://www.rushanaraali.org/appg_on_democracy_in_burma_statement_on_upcoming_burma_elections</id>
-    <published>2020-11-04T17:19:00Z</published>
-    <updated>2020-11-04T17:19:00Z</updated>
   </entry>
   <entry>
     <title>ROBERT JENRICK DAILY TELEGRAPH OP-ED 2.11.2020</title>
