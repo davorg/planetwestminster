@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-17T12:58:29Z</updated>
+  <updated>2020-12-17T13:46:44Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -221,6 +221,16 @@ In a call with University Hospitals of Morecambe Bay NHS Foundation Trust, Tim h
     <id>5018 at https://www.jonathandjanogly.com</id>
     <published>2020-12-16T12:43:35Z</published>
     <updated>2020-12-16T12:43:35Z</updated>
+  </entry>
+  <entry>
+    <title>Local MP shares Age UK’s advice to help older constituents keep well this winter</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-shares-age-uks-advice-help-older-constituents-keep-well-winter" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Winter brings additional challenges for many older people; increased heating and lighting bills can strain finances; bad weather and dark nights can make it difficult for people to get out and about; while cold temperatures and seasonal illnesses kill (affect?) thousands of older people every year…</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/local-mp-shares-age-uks-advice-help-older-constituents-keep-well-winter</id>
+    <published>2020-12-16T12:00:00Z</published>
+    <updated>2020-12-16T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Borders Samaritans stand ready to help this Christmas</title>
@@ -442,17 +452,6 @@ The…</div>
     <category term="Keeping You Informed"/>
     <category term="Other"/>
     <category term="Your community"/>
-  </entry>
-  <entry>
-    <title>Basingstoke's MP meets with Environment Agency for update on water quality in River Loddon.</title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/basingstokes-mp-meets-environment-agency-update-water-quality-river-loddon" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Basingstoke's MP, Maria Miller met with Water Quality scientist June Jones, Manager Richard Thompson and Ecologist John Benning at the Environment Agency for an update on water quality in the River Loddon.
-Maria commented; “It was good to meet the Environment Agency following the recent Water…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/basingstokes-mp-meets-environment-agency-update-water-quality-river-loddon</id>
-    <published>2020-12-14T12:00:00Z</published>
-    <updated>2020-12-14T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Meeting Father Christmas</title>
