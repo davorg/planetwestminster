@@ -7,9 +7,61 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-18T08:53:54Z</updated>
+  <updated>2020-12-18T09:52:59Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>Jack Gebhard</name>
+					</author>
+
+		<title type="html"><![CDATA[Walker calls for caution to get Worcestershire down to lowest tier]]></title>
+		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2020/12/walker-calls-for-caution-to-get-worcestershire-down-to-lowest-tier/"/>
+
+		<id>https://www.walker4worcester.com/?p=2106</id>
+		<updated>2020-12-18T09:45:51Z</updated>
+		<published>2020-12-17T12:39:44Z</published>
+		<category scheme="https://www.walker4worcester.com" term="Coronavirus"/><category scheme="https://www.walker4worcester.com" term="News"/>
+		<summary type="html"><![CDATA[Worcester MP Robin Walker has welcomed the fall in Worcestershire’s infection rate that has allowed the city to remain in Tier 2, whilst other areas have moved up to tier 3, but the MP has also warned that the situation will worsen if people aren’t careful over the Christmas and New Year period. He has [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://www.walker4worcester.com/2020/12/walker-calls-for-caution-to-get-worcestershire-down-to-lowest-tier/"><![CDATA[<div class="_2zX2caDms6Dyd9Ch--6tVn">
+<div class="gtzQx-8i8SadO4I0iX1Yy JWNdg1hee9_Rz6bIGvG1c allowTextSelection">
+<div dir="ltr">
+<div id="x_id-0f0642af-d506-4c1d-baa3-48bb05c09b43">
+<p>Worcester MP Robin Walker has welcomed the fall in Worcestershire’s infection rate that has allowed the city to remain in Tier 2, whilst other areas have moved up to tier 3, but the MP has also warned that the situation will worsen if people aren’t careful over the Christmas and New Year period. He has expressed the hope that if people continue to take sensible precautions, Worcester could reach the lowest tier early in the New Year.</p>
+<p>As of Monday infection rates across Worcestershire had fallen by 55% since mid-November but with a countywide average of 92 cases per 100,000 of the population the rate and the number of people in hospital suffering from Covid are still too high to enable a drop to Tier 1.</p>
+<p>The West Midlands is broken down into six separate areas to allow targeted restrictions to be enforced in response to local case data with Worcester residents facing the same restrictions as the rest of Worcestershire county. Neighbouring Herefordshire has become the first county to move down from tier 2 to tier 1 but more areas, particularly in the South East of England have moved up into tier 3.</p>
+<p>“The direction of travel is positive and I am grateful to residents who came out of lockdown with care and resumed supporting local businesses in a Covid secure way. Today’s announcement is not a cause to reduce the measures we are taking to stop the spread of the virus, but to continue following the guidance and go further where possible. I want Worcestershire to be able to safely move to the lowest tier of restrictions but in the meantime we must continue to support those businesses most affected so I welcome the further extension of furlough announced today.</p>
+<p>“I am also grateful to the government who have continued to support residents and businesses with their £330 billion package of measures, the like of which has never been seen before.</p>
+<p>“Understandably businesses and residents are keen to return to normality and moving to Tier 1 would have been the perfect Christmas present. Herefordshire moved into Tier 1 today which gives residents across Worcestershire additional motivation to have restrictions eased. This will only happen when data demonstrates that it is safe to do so, meaning it’s vital that we stay alert over the festive period and keep driving the number of cases down.”</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2020/12/walker-calls-for-caution-to-get-worcestershire-down-to-lowest-tier/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2020/12/walker-calls-for-caution-to-get-worcestershire-down-to-lowest-tier/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
+  <entry>
+    <title>Over 100 Parliamentarians urge the UK Government to take action to protect the Rohingya against genocide</title>
+    <link rel="alternate" href="http://www.rushanaraali.org/over_100_parliamentarians_urge_the_uk_government_to_take_action_to_protect_the_rohingya_against_genocide" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p style="background: white;">
+          <span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; color: black;">104 Parliamentarians from across parties are calling on the UK Government to take urgent action to protect the Rohingya Muslim minority from persecution from the Myanmar Government and military. </span>
+        </p>
+      </div>
+    </content>
+    <author>
+      <name>Rushanara Ali</name>
+    </author>
+    <id>http://www.rushanaraali.org/over_100_parliamentarians_urge_the_uk_government_to_take_action_to_protect_the_rohingya_against_genocide</id>
+    <published>2020-12-18T09:19:00Z</published>
+    <updated>2020-12-18T09:19:00Z</updated>
+  </entry>
   <entry>
     <title>Devolution, the EU and the future of the UK</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2020/12/18/devolution-the-eu-and-the-future-of-the-uk/" type="text/html"/>
@@ -72,6 +124,16 @@
     <updated>2020-12-17T18:23:49Z</updated>
     <category term="Correspondence"/>
     <category term="Front Page"/>
+  </entry>
+  <entry>
+    <title>Replacement schools for Liberton High and Wester Hailes Education after Scottish Government funding announcement</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13065/replacement-schools-for-liberton-high-and-wester-hailes-education-after-scottish-government-funding-announcement" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Education leaders in Edinburgh have welcomed the announcement today that the Scottish Government is providing funding for a replacement Liberton High School and Wester Hailes Education Centre.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13065/replacement-schools-for-liberton-high-and-wester-hailes-education-after-scottish-government-funding-announcement</id>
+    <published>2020-12-17T18:08:00Z</published>
+    <updated>2020-12-17T18:08:00Z</updated>
   </entry>
   <entry>
     <title>Christmas &amp; New Year office opening hours &amp; useful contacts</title>
@@ -315,16 +377,6 @@ Today's news that Northumberland is to stay in Tier 3 for now, is disappointing 
     <updated>2020-12-17T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>World-famous Edinburgh’s Hogmanay reveals its main event: Fare Well</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13064/world-famous-edinburgh-s-hogmanay-reveals-its-main-event-fare-well" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Edinburgh's Hogmanay will feature the UK's largest swarm drone show in a fully digital celebration, as this press release from Underbelly reveals.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13064/world-famous-edinburgh-s-hogmanay-reveals-its-main-event-fare-well</id>
-    <published>2020-12-17T10:36:00Z</published>
-    <updated>2020-12-17T10:36:00Z</updated>
-  </entry>
-  <entry>
     <title>Christmas message from Jon Cruddas</title>
     <link rel="alternate" href="https://joncruddas.org.uk/christmas-message-jon-cruddas" type="text/html"/>
     <content type="xhtml">
@@ -372,21 +424,6 @@ Today's news that Northumberland is to stay in Tier 3 for now, is disappointing 
     <id>1437 at https://joncruddas.org.uk</id>
     <published>2020-12-17T08:36:44Z</published>
     <updated>2020-12-17T08:36:44Z</updated>
-  </entry>
-  <entry>
-    <title>Rushanara Ali MP attends Celebration Event for Bangladesh Victory Day</title>
-    <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_mp_attends_celebration_event_for_bangladesh_victory_day" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <p>On 16 December Rushanara Ali MP joined the Bangladesh High Commissioner to the UK at a virtual celebration event to mark the 49th anniversary of Bangladesh Victory Day. </p>
-      </div>
-    </content>
-    <author>
-      <name>Rushanara Ali</name>
-    </author>
-    <id>http://www.rushanaraali.org/rushanara_ali_mp_attends_celebration_event_for_bangladesh_victory_day</id>
-    <published>2020-12-16T19:14:00Z</published>
-    <updated>2020-12-16T19:14:00Z</updated>
   </entry>
   <entry>
     <title>Jonathan Djanogly writes to Health Secretary to seek lower tier for Huntingdonshire</title>
@@ -668,38 +705,6 @@ The…</div>
     <updated>2020-12-11T16:28:51Z</updated>
     <category term="News"/>
   </entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>Jack Gebhard</name>
-					</author>
-
-		<title type="html"><![CDATA[Funding to kickstart regeneration of Worcester Arches]]></title>
-		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2020/12/funding-to-kickstart-regeneration-of-worcester-arches/"/>
-
-		<id>https://www.walker4worcester.com/?p=2093</id>
-		<updated>2020-12-11T16:20:00Z</updated>
-		<published>2020-12-11T16:20:00Z</published>
-		<category scheme="https://www.walker4worcester.com" term="News"/>
-		<summary type="html"><![CDATA[Today the government unveiled its Cultural Kickstart Fund which will help cultural organisations who have lost funding as a result of the pandemic and ensure major capital projects can go ahead as planned. The Worcester Arches Project is one of 74 organisations receiving grants from government totalling £58.9million today. The regeneration of the historic arches [&#8230;]]]></summary>
-
-					<content type="html" xml:base="https://www.walker4worcester.com/2020/12/funding-to-kickstart-regeneration-of-worcester-arches/"><![CDATA[<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">Today the government unveiled its Cultural Kickstart Fund which will help cultural organisations who have lost funding as a result of the pandemic and ensure major capital projects can go ahead as planned.</span></span></p>
-<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">The Worcester Arches Project is one of 74 organisations receiving grants from government totalling £58.9million today. The regeneration of the historic arches in the city will be assisted by a grant of £145,915 to help turn them into a modern workspace for creative industries, and transport links that will help connect the city.</span></span></p>
-<p><a name="_Hlk58586972"></a><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">The wider scheme which amounts to around £4.5 million of investment is being delivered by Worcester Cultural Partnership, made up of Worcester City Council, the University of Worcester, Severn Arts, The Arch Company and Worcestershire County Council. Local MP Robin Walker has welcomed the additional funding announced today, stating that the investment has the potential to reinvigorate the area around the arches.</span></span></p>
-<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">The Capital Kickstart grants programme helps organisations cover costs added to capital projects such as building works, refurbishments, and large-scale equipment purchases by pandemic-related delays or fundraising shortfalls.</span></span></p>
-<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">The announcement follows a series of investments in Worcester cultural sites with Museums Worcester and Worcester Cathedral both receiving support from the fund earlier in the year.</span></span></p>
-<p><span style="color: #000000;"><b><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;">Commenting, Robin said:</span></b><br />
-<a name="_Hlk58587181"></a><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;">“To a historic city like Worcester our heritage and cultural assets are vitally important, and I am delighted that the government is taking protecting those sites seriously. A lot of cultural organisations have taken a hit as a result of the Covid pandemic so it is important that they are provided with the funding they need to continue the work they do.</span></span></p>
-<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">“The Worcester Arches Project in particular will reinvigorate the iconic arches as well as the area around it, providing a pedestrian link from Foregate Street Station then on to the river. We have the opportunity to make this cultural site a real draw for people into the town, which will in turn support the businesses that are working to provide for them.</span></span></p>
-<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">“I have worked alongside fellow Conservatives at Worcester City Council to highlight the importance of the Arches’ regeneration and today’s announcement is a clear signal that the government are listening.”</span></span></p>
-<p><b><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">Culture Secretary, Oliver Dowden said:</span></span></b></p>
-<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">“When the Culture Recovery Fund launched, I said I would not let the cultural sector down and I have kept my word with more than £1 billion now allocated to organisations who need it most.</span></span></p>
-<p><span style="margin: 0px; line-height: 107%; font-family: 'Lucida Sans',sans-serif; font-size: 10pt;"><span style="color: #000000;">“We have funded organisations of every size in all corners of the country, and now we are extending a huge helping hand to some of the country’s biggest cultural powerhouses to get them through the Covid crisis too.”</span></span></p>
-]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2020/12/funding-to-kickstart-regeneration-of-worcester-arches/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2020/12/funding-to-kickstart-regeneration-of-worcester-arches/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry>
     <title>Christmas Card display cheer to feature work of local schoolchildren</title>
     <link rel="alternate" href="https://niagriffith.org.uk/2020/12/christmas-card-display-cheer-to-feature-work-of-local-schoolchildren/" type="text/html"/>
