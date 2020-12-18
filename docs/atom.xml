@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-18T07:50:54Z</updated>
+  <updated>2020-12-18T08:53:54Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -372,6 +372,21 @@ Today's news that Northumberland is to stay in Tier 3 for now, is disappointing 
     <id>1437 at https://joncruddas.org.uk</id>
     <published>2020-12-17T08:36:44Z</published>
     <updated>2020-12-17T08:36:44Z</updated>
+  </entry>
+  <entry>
+    <title>Rushanara Ali MP attends Celebration Event for Bangladesh Victory Day</title>
+    <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_mp_attends_celebration_event_for_bangladesh_victory_day" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>On 16 December Rushanara Ali MP joined the Bangladesh High Commissioner to the UK at a virtual celebration event to mark the 49th anniversary of Bangladesh Victory Day. </p>
+      </div>
+    </content>
+    <author>
+      <name>Rushanara Ali</name>
+    </author>
+    <id>http://www.rushanaraali.org/rushanara_ali_mp_attends_celebration_event_for_bangladesh_victory_day</id>
+    <published>2020-12-16T19:14:00Z</published>
+    <updated>2020-12-16T19:14:00Z</updated>
   </entry>
   <entry>
     <title>Jonathan Djanogly writes to Health Secretary to seek lower tier for Huntingdonshire</title>
@@ -1194,6 +1209,21 @@ Mae’r mesurau newydd yn cael eu cyflwyno wrth i achosion o’r coronafeirws gy
     <updated>2020-11-27T21:50:11Z</updated>
     <category term="Uncategorized"/>
   </entry>
+  <entry>
+    <title>Dan Jarvis MP - Barnsley Chronicle 27 November</title>
+    <link rel="alternate" href="http://www.danjarvis.org/chron27nov" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Yesterday, the Government announced that South Yorkshire will be in Tier 3 restrictions from 2 December. I’ve been clear that we must not stay there a moment longer than we have to, which is why I’m pushing for a clear roadmap out of restrictions and for fairer economic support package for our residents and businesses. This week’s Spending Review was a golden opportunity to provide that immediate support; deliver on the Government’s manifesto commitment to level up the North of England; and reward those workers who have kept our country going. It was an opportunity that the Chancellor failed to take.</p>
+      </div>
+    </content>
+    <author>
+      <name>Admin</name>
+    </author>
+    <id>http://www.danjarvis.org/chron27nov</id>
+    <published>2020-11-27T10:11:38Z</published>
+    <updated>2020-11-27T10:11:38Z</updated>
+  </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
 			<name>Nigel Mills MP</name>
@@ -1660,120 +1690,4 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <updated>2020-10-22T13:31:18Z</updated>
     <category term="News"/>
   </entry>
-  <entry>
-    <title>Rubbish dumping survey</title>
-    <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
-    <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="cf73dc0b24"  data-nonce-time="1608277529" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
-&lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
-&lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
-&lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
-&lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Name&lt;/label&gt;&lt;input type="text" name="name" value="" autocomplete="off"&gt;
-&lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
-	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="text" data-field="fld_949637" class=" form-control" id="fld_949637_1" name="fld_949637" value="" data-type="text" aria-required="true"   aria-labelledby="fld_949637Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_3720579" class="form-group" id="fld_3720579_1-wrap"&gt;
-	&lt;label id="fld_3720579Label" for="fld_3720579_1" class="control-label"&gt;Surname &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="text" data-field="fld_3720579" class=" form-control" id="fld_3720579_1" name="fld_3720579" value="" data-type="text" aria-required="true"   aria-labelledby="fld_3720579Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_377714" class="form-group" id="fld_377714_1-wrap"&gt;
-	&lt;label id="fld_377714Label" for="fld_377714_1" class="control-label"&gt;Postcode &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="text" data-field="fld_377714" class=" form-control" id="fld_377714_1" name="fld_377714" value="" data-type="text" aria-required="true"   aria-labelledby="fld_377714Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_8339186" class="form-group" id="fld_8339186_1-wrap"&gt;
-	&lt;label id="fld_8339186Label" for="fld_8339186_1" class="control-label"&gt;Email &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="email" data-field="fld_8339186" class=" form-control" id="fld_8339186_1" name="fld_8339186" value="" data-type="email" aria-required="true"   aria-labelledby="fld_8339186Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr id="fld_3670460_1" class="" style="width: 100%" /&gt;&lt;div data-field-wrapper="fld_8286015" class="form-group" id="fld_8286015_1-wrap"&gt;
-	&lt;label id="fld_8286015Label" for="fld_8286015_1" class="control-label"&gt;Has the dumping and littering problem in the area reduced recently?&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;select name="fld_8286015" value="" data-field="fld_8286015" class="form-control" id="fld_8286015_1"    aria-labelledby="fld_8286015Label" &gt;
-		&lt;option value=""&gt;&lt;/option&gt;
-					&lt;option value="Yes"  data-calc-value="Yes" &gt;
-						Yes					&lt;/option&gt;
-										&lt;option value="No"  data-calc-value="No" &gt;
-						No					&lt;/option&gt;
-										&lt;option value="Not Sure"  data-calc-value="Not Sure" &gt;
-						Not Sure					&lt;/option&gt;
-							&lt;/select&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_5317914" class="form-group" id="fld_5317914_1-wrap"&gt;
-	&lt;label id="fld_5317914Label" for="fld_5317914_1" class="control-label"&gt;What further steps would you like to see taken?&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;textarea name="fld_5317914" value="" data-field="fld_5317914" class="form-control" id="fld_5317914_1" rows="4"    aria-labelledby="fld_5317914Label" &gt;&lt;/textarea&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_7237774" class="form-group" id="fld_7237774_1-wrap"&gt;
-	&lt;label id="fld_7237774Label" for="fld_7237774_1" class="control-label"&gt;Would you be willing to join a residents’ group?&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;select name="fld_7237774" value="" data-field="fld_7237774" class="form-control" id="fld_7237774_1"    aria-labelledby="fld_7237774Label" &gt;
-		&lt;option value=""&gt;&lt;/option&gt;
-					&lt;option value="Yes"  data-calc-value="Yes" &gt;
-						Yes					&lt;/option&gt;
-										&lt;option value="No"  data-calc-value="No" &gt;
-						No					&lt;/option&gt;
-										&lt;option value="Maybe"  data-calc-value="Maybe" &gt;
-						Maybe					&lt;/option&gt;
-							&lt;/select&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_3572997" class="form-group" id="fld_3572997_1-wrap"&gt;
-	&lt;label id="fld_3572997Label" for="fld_3572997_1" class="control-label"&gt;Can Liam email you about news and campaign updates? &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;select name="fld_3572997" value="" data-field="fld_3572997" class="form-control" id="fld_3572997_1"  required="required"  aria-labelledby="fld_3572997Label" &gt;
-		&lt;option value=""&gt;&lt;/option&gt;
-					&lt;option value="Yes"  data-calc-value="Yes" &gt;
-						Liam can email me					&lt;/option&gt;
-										&lt;option value="No"  data-calc-value="No" &gt;
-						Liam cannot email me					&lt;/option&gt;
-							&lt;/select&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;input    type="hidden" data-field="fld_4555323" class=" form-control" id="fld_4555323_1" name="fld_4555323" value="1" data-type="hidden"   &gt;&lt;input    type="hidden" data-field="fld_3061013" class=" form-control" id="fld_3061013_1" name="fld_3061013" value="2020 Oct Flytipping Survey" data-type="hidden"   &gt;&lt;hr id="fld_6111107_1" class="" style="width: 100%" /&gt;&lt;div data-field-wrapper="fld_432351" class="form-group" id="fld_432351_1-wrap"&gt;
-&lt;div class=""&gt;
-	&lt;input  class="btn btn-default" type="submit" name="fld_432351" id="fld_432351_1" value="Submit" data-field="fld_432351"  &gt;
-&lt;/div&gt;
-&lt;/div&gt;
-	&lt;input class="button_trigger_1" type="hidden" name="fld_432351" id="fld_432351_1_btn" value="" data-field="fld_432351"  /&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-2"  class="row  last_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;
-&lt;/div&gt;
-&lt;p&gt;The post &lt;a rel="nofollow" href="https://liambyrne.co.uk/rubbish-dumping-survey/"&gt;Rubbish dumping survey&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://liambyrne.co.uk"&gt;Liam Byrne MP&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://liambyrne.co.uk/rubbish-dumping-survey/">Rubbish dumping survey</a> appeared first on <a rel="nofollow" href="https://liambyrne.co.uk">Liam Byrne MP</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Liam Byrne</name>
-    </author>
-    <id>https://liambyrne.co.uk/?p=7970</id>
-    <published>2020-10-16T11:25:11Z</published>
-    <updated>2020-10-16T11:25:11Z</updated>
-    <category term="Flytipping"/>
-  </entry>
-  <entry>
-		<author>
-			<name>Stockton North Labour Team</name>
-					</author>
-
-		<title type="html"><![CDATA[Almost 50% of furloughed jobs in the Tees Valley are ‘at risk’]]></title>
-		<link rel="alternate" type="text/html" href="https://www.alexcunninghammp.com/2020/09/almost-50-of-furloughed-jobs-in-the-tees-valley-are-at-risk/"/>
-
-		<id>https://www.alexcunninghammp.com/?p=13752</id>
-		<updated>2020-09-17T09:26:28Z</updated>
-		<published>2020-09-17T09:11:30Z</published>
-		<category scheme="https://www.alexcunninghammp.com" term="News"/>
-		<summary type="html"><![CDATA[<p>Alex Cunningham condemns government for putting thousands of North East jobs at risk. Latest figures suggest 350,700 jobs in the North East are still fully furloughed – including 81,300 here in the Tees Valley. Of those furloughed roles in the Tees Valley, 36,300, or 45%, are deemed to be at risk when the scheme is [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.alexcunninghammp.com/2020/09/almost-50-of-furloughed-jobs-in-the-tees-valley-are-at-risk/">Almost 50% of furloughed jobs in the Tees Valley are ‘at risk’</a> appeared first on <a rel="nofollow" href="https://www.alexcunninghammp.com">Alex Cunningham MP</a>.</p>
-]]></summary>
-
-		
-			</entry>
 </feed>
