@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-18T10:55:53Z</updated>
+  <updated>2020-12-18T11:48:47Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -26,6 +26,38 @@
 ]]></summary>
 
 		
+			</entry>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>Jack Gebhard</name>
+					</author>
+
+		<title type="html"><![CDATA[West Mercia Police set to receive an additional £13 million next year]]></title>
+		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2020/12/west-mercia-police-set-to-receive-an-additional-13-million-next-year/"/>
+
+		<id>https://www.walker4worcester.com/?p=2110</id>
+		<updated>2020-12-18T10:28:08Z</updated>
+		<published>2020-12-17T10:12:02Z</published>
+		<category scheme="https://www.walker4worcester.com" term="News"/><category scheme="https://www.walker4worcester.com" term="Police"/>
+		<summary type="html"><![CDATA[West Mercia Police is set to receive an additional £13 million in its funding next year, thanks to the Conservative Government’s increase to police budgets. Home Secretary Priti Patel has announced policing will receive up to £15.8 billion in 2021-22 – an increase of £636 million on last year. This includes over £400 million recruit [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://www.walker4worcester.com/2020/12/west-mercia-police-set-to-receive-an-additional-13-million-next-year/"><![CDATA[<p>West Mercia Police is set to receive an additional £13 million in its funding next year, thanks to the Conservative Government’s increase to police budgets.</p>
+<p>Home Secretary Priti Patel has announced policing will receive up to £15.8 billion in 2021-22 – an increase of £636 million on last year.</p>
+<p>This includes over £400 million recruit 20,000 extra police officers by 2023, delivering on the promise made by the Conservatives in last year’s General Election. West Mercia Police has already benefited from an additional 105 officers.</p>
+<p>The funding will be also be used to bolster counter-terrorism policing, including money for armed policing and more officers.</p>
+<p>The Conservative Government has been determined to support the police throughout the coronavirus pandemic, as officers have worked tirelessly to keep communities safe. The Government has provided £30 million to help forces step up coronavirus enforcement and has reimbursed forces for all additional PPE purchased between March and July.</p>
+<p><b>Commenting, Worcester MP Robin Walker said:  </b></p>
+<p>“I am grateful to the officers and staff at West Mercia Police who always work hard to keep residents in Worcester safe. The additional £13 million for West Mercia Police next year will go a long way to ensuring they have the resources they need to do their job.</p>
+<p>“At last year’s election we pledged to recruit an additional 20,000 police officers and now we’re getting on with the job of doing just that. I will continue to liaise with West Mercia Police to ensure we’re working together on Worcester’s priorities.”</p>
+<p><b>Home Secretary Priti Patel said:  </b></p>
+<p>“We have asked more of the police than ever before during the coronavirus pandemic – the British people and I are extremely grateful for their dedication.</p>
+<p>“I am absolutely committed to giving the police the resources they need – this funding package delivers on that.</p>
+<p>“It will allow us to continue to put more police on the streets, and reduce crime as we build back safer from the pandemic.”</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2020/12/west-mercia-police-set-to-receive-an-additional-13-million-next-year/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2020/12/west-mercia-police-set-to-receive-an-additional-13-million-next-year/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
 			</entry>
   <entry>
     <title>West Mercia Police to receive an additional £13m next year</title>
@@ -554,6 +586,22 @@ The…</div>
     <category term="NHS"/>
     <category term="Vaccine"/>
     <category term="Withernsea"/>
+  </entry>
+  <entry>
+    <title>WEST DUNBARTONSHIRE TO REMAIN IN LEVEL 3 COVID RESTRICTIONS</title>
+    <link rel="alternate" href="http://martindocherty.scot/west-dunbartonshire-to-remain-in-level-3-covid-restrictions/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Local MP Martin Docherty-Hughes has responded to the announcement that West Dunbartonshire is to remain in Level 3 restrictions along with 18 other local authority areas following this week’s review of Covid-19 protection levels. The Level 3 restrictions are expected … <a href="http://martindocherty.scot/west-dunbartonshire-to-remain-in-level-3-covid-restrictions/">Continue reading <span class="meta-nav">→</span></a></p>
+<p>The post <a rel="nofollow" href="http://martindocherty.scot/west-dunbartonshire-to-remain-in-level-3-covid-restrictions/">WEST DUNBARTONSHIRE TO REMAIN IN LEVEL 3 COVID RESTRICTIONS</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Communications Officer</name>
+    </author>
+    <id>http://martindocherty.scot/?p=1480442</id>
+    <published>2020-12-15T15:12:21Z</published>
+    <updated>2020-12-15T15:12:21Z</updated>
+    <category term="News"/>
   </entry>
   <entry>
     <title>£702,736 in Government funding for cultural organisations in Wycombe</title>
@@ -1661,117 +1709,5 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <updated>2020-11-02T10:48:18Z</updated>
     <category term="News &amp; Events"/>
     <category term="Daily Telegraph"/>
-  </entry>
-  <entry>
-    <title>Tories deny free school meals to 2 million children</title>
-    <link rel="alternate" href="https://brendanoharamp.scot/2020/10/22/9045/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Conservative MPs – including all Scots Tories – refuse to back free meals for children in school holidays Yesterday afternoon in the House of Commons, Brendan O’Hara MP led for the SNP in the Opposition Day debate on access to free school meals and called on the UK Government to commit to tackling widespread poverty, […]</div>
-    </content>
-    <author>
-      <name>Editor</name>
-    </author>
-    <id>https://brendanoharamp.scot/?p=9045</id>
-    <published>2020-10-22T13:31:18Z</published>
-    <updated>2020-10-22T13:31:18Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
-    <title>Rubbish dumping survey</title>
-    <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
-    <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="cf73dc0b24"  data-nonce-time="1608288397" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
-&lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
-&lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
-&lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
-&lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Name&lt;/label&gt;&lt;input type="text" name="name" value="" autocomplete="off"&gt;
-&lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
-	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="text" data-field="fld_949637" class=" form-control" id="fld_949637_1" name="fld_949637" value="" data-type="text" aria-required="true"   aria-labelledby="fld_949637Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_3720579" class="form-group" id="fld_3720579_1-wrap"&gt;
-	&lt;label id="fld_3720579Label" for="fld_3720579_1" class="control-label"&gt;Surname &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="text" data-field="fld_3720579" class=" form-control" id="fld_3720579_1" name="fld_3720579" value="" data-type="text" aria-required="true"   aria-labelledby="fld_3720579Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_377714" class="form-group" id="fld_377714_1-wrap"&gt;
-	&lt;label id="fld_377714Label" for="fld_377714_1" class="control-label"&gt;Postcode &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="text" data-field="fld_377714" class=" form-control" id="fld_377714_1" name="fld_377714" value="" data-type="text" aria-required="true"   aria-labelledby="fld_377714Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_8339186" class="form-group" id="fld_8339186_1-wrap"&gt;
-	&lt;label id="fld_8339186Label" for="fld_8339186_1" class="control-label"&gt;Email &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;input   required type="email" data-field="fld_8339186" class=" form-control" id="fld_8339186_1" name="fld_8339186" value="" data-type="email" aria-required="true"   aria-labelledby="fld_8339186Label" &gt;			&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr id="fld_3670460_1" class="" style="width: 100%" /&gt;&lt;div data-field-wrapper="fld_8286015" class="form-group" id="fld_8286015_1-wrap"&gt;
-	&lt;label id="fld_8286015Label" for="fld_8286015_1" class="control-label"&gt;Has the dumping and littering problem in the area reduced recently?&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;select name="fld_8286015" value="" data-field="fld_8286015" class="form-control" id="fld_8286015_1"    aria-labelledby="fld_8286015Label" &gt;
-		&lt;option value=""&gt;&lt;/option&gt;
-					&lt;option value="Yes"  data-calc-value="Yes" &gt;
-						Yes					&lt;/option&gt;
-										&lt;option value="No"  data-calc-value="No" &gt;
-						No					&lt;/option&gt;
-										&lt;option value="Not Sure"  data-calc-value="Not Sure" &gt;
-						Not Sure					&lt;/option&gt;
-							&lt;/select&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_5317914" class="form-group" id="fld_5317914_1-wrap"&gt;
-	&lt;label id="fld_5317914Label" for="fld_5317914_1" class="control-label"&gt;What further steps would you like to see taken?&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;textarea name="fld_5317914" value="" data-field="fld_5317914" class="form-control" id="fld_5317914_1" rows="4"    aria-labelledby="fld_5317914Label" &gt;&lt;/textarea&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_7237774" class="form-group" id="fld_7237774_1-wrap"&gt;
-	&lt;label id="fld_7237774Label" for="fld_7237774_1" class="control-label"&gt;Would you be willing to join a residents’ group?&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;select name="fld_7237774" value="" data-field="fld_7237774" class="form-control" id="fld_7237774_1"    aria-labelledby="fld_7237774Label" &gt;
-		&lt;option value=""&gt;&lt;/option&gt;
-					&lt;option value="Yes"  data-calc-value="Yes" &gt;
-						Yes					&lt;/option&gt;
-										&lt;option value="No"  data-calc-value="No" &gt;
-						No					&lt;/option&gt;
-										&lt;option value="Maybe"  data-calc-value="Maybe" &gt;
-						Maybe					&lt;/option&gt;
-							&lt;/select&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-field-wrapper="fld_3572997" class="form-group" id="fld_3572997_1-wrap"&gt;
-	&lt;label id="fld_3572997Label" for="fld_3572997_1" class="control-label"&gt;Can Liam email you about news and campaign updates? &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
-	&lt;div class=""&gt;
-		&lt;select name="fld_3572997" value="" data-field="fld_3572997" class="form-control" id="fld_3572997_1"  required="required"  aria-labelledby="fld_3572997Label" &gt;
-		&lt;option value=""&gt;&lt;/option&gt;
-					&lt;option value="Yes"  data-calc-value="Yes" &gt;
-						Liam can email me					&lt;/option&gt;
-										&lt;option value="No"  data-calc-value="No" &gt;
-						Liam cannot email me					&lt;/option&gt;
-							&lt;/select&gt;
-			&lt;/div&gt;
-&lt;/div&gt;
-&lt;input    type="hidden" data-field="fld_4555323" class=" form-control" id="fld_4555323_1" name="fld_4555323" value="1" data-type="hidden"   &gt;&lt;input    type="hidden" data-field="fld_3061013" class=" form-control" id="fld_3061013_1" name="fld_3061013" value="2020 Oct Flytipping Survey" data-type="hidden"   &gt;&lt;hr id="fld_6111107_1" class="" style="width: 100%" /&gt;&lt;div data-field-wrapper="fld_432351" class="form-group" id="fld_432351_1-wrap"&gt;
-&lt;div class=""&gt;
-	&lt;input  class="btn btn-default" type="submit" name="fld_432351" id="fld_432351_1" value="Submit" data-field="fld_432351"  &gt;
-&lt;/div&gt;
-&lt;/div&gt;
-	&lt;input class="button_trigger_1" type="hidden" name="fld_432351" id="fld_432351_1_btn" value="" data-field="fld_432351"  /&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-2"  class="row  last_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;
-&lt;/div&gt;
-&lt;p&gt;The post &lt;a rel="nofollow" href="https://liambyrne.co.uk/rubbish-dumping-survey/"&gt;Rubbish dumping survey&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://liambyrne.co.uk"&gt;Liam Byrne MP&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://liambyrne.co.uk/rubbish-dumping-survey/">Rubbish dumping survey</a> appeared first on <a rel="nofollow" href="https://liambyrne.co.uk">Liam Byrne MP</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Liam Byrne</name>
-    </author>
-    <id>https://liambyrne.co.uk/?p=7970</id>
-    <published>2020-10-16T11:25:11Z</published>
-    <updated>2020-10-16T11:25:11Z</updated>
-    <category term="Flytipping"/>
   </entry>
 </feed>
