@@ -7,9 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-19T17:16:57Z</updated>
+  <updated>2020-12-19T18:04:26Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Changes to Christmas Restrictions</title>
+    <link rel="alternate" href="https://www.roystonsmith.co.uk/changes-to-christmas-restrictions/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The Prime Minister announced this evening tighter restrictions for over the Christmas period which is disappointing news for us all. A new coronavirus variant has emerged which spreads considerably more quickly. Cases are now on the rise again, including in Southampton. In the past week the number of cases has increased by over 50% [...]</p>
+<p>The post <a rel="nofollow" href="https://www.roystonsmith.co.uk/changes-to-christmas-restrictions/">Changes to Christmas Restrictions</a> appeared first on <a rel="nofollow" href="https://www.roystonsmith.co.uk">Royston Smith - At the heart of Southampton</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Royston Smith</name>
+    </author>
+    <id>https://www.roystonsmith.co.uk/?p=3015</id>
+    <published>2020-12-19T17:41:00Z</published>
+    <updated>2020-12-19T17:41:00Z</updated>
+    <category term="Uncategorised"/>
+  </entry>
   <entry>
 		<title>Lockdowns are not working, just destroying lives &amp; livelihoods! Tiers should be based on district areas around Covid hospital hubs</title>
 		<link rel="alternate" type="text/html" href="https://www.stephen-mcpartland.com/news/1729-lockdowns-are-not-working-just-destroying-lives-livelihoods-tiers-should-be-based-on-district-areas-around-covid-hospital-hubs"/>
@@ -1122,22 +1138,6 @@ competition and submitting colourful and optimistic entries.&lt;/p&gt;
     <category term="Bristol South"/>
   </entry>
   <entry>
-    <title>Proposed End to Live Animal Exports</title>
-    <link rel="alternate" href="https://www.roystonsmith.co.uk/proposed-end-to-live-animal-exports/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The Government is proposing to ban the export of animals for slaughter and fattening abroad. Many have long called for an end to this practice where livestock and even horses are subject to long journeys in cramped conditions just to be fattened up or killed overseas. These plans also intend to cut the amount [...]</p>
-<p>The post <a rel="nofollow" href="https://www.roystonsmith.co.uk/proposed-end-to-live-animal-exports/">Proposed End to Live Animal Exports</a> appeared first on <a rel="nofollow" href="https://www.roystonsmith.co.uk">Royston Smith - At the heart of Southampton</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Royston Smith</name>
-    </author>
-    <id>https://www.roystonsmith.co.uk/?p=3005</id>
-    <published>2020-12-04T10:55:53Z</published>
-    <updated>2020-12-04T10:55:53Z</updated>
-    <category term="Uncategorised"/>
-  </entry>
-  <entry>
     <title>Challenging the Prime Minister during PMQs</title>
     <link rel="alternate" href="https://www.emma-lewell-buck.net/challenging-the-prime-minister-during-pmqs/" type="text/html"/>
     <content type="xhtml">
@@ -1798,12 +1798,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="b85951522c"  data-nonce-time="1608397679" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="b85951522c"  data-nonce-time="1608400522" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Order Number&lt;/label&gt;&lt;input type="text" name="order_number" value="" autocomplete="off"&gt;
+&lt;label&gt;Web Site&lt;/label&gt;&lt;input type="text" name="web_site" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
