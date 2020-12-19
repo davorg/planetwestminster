@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-19T21:47:00Z</updated>
+  <updated>2020-12-19T22:57:14Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Our response to Covid must be rational and balanced, not driven by panic</title>
+    <link rel="alternate" href="https://www.stevebaker.info/2020/12/our-response-to-covid-must-be-rational-and-balanced-not-driven-by-panic/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The following article was submitted to the Mail on Sunday in our joint names. It was edited in ways which changed its meaning which we positively rejected. The following is the copy we provided as our final version. By Rt Hon Mark Harper MP (Chair of the Covid Recovery Group) and Steve Baker MP (Deputy Chair of the Covid Recovery Group) For those vulnerable to it, Covid is a dangerous disease so it’s vital we control it effectively.  That’s why we […]</div>
+    </content>
+    <author>
+      <name>Steve Baker</name>
+    </author>
+    <id>http://www.stevebaker.info/?p=18336</id>
+    <published>2020-12-19T22:11:17Z</published>
+    <updated>2020-12-19T22:11:17Z</updated>
+    <category term="Politics"/>
+    <category term="COVID19"/>
+  </entry>
   <entry>
     <title>Changes to Christmas Restrictions</title>
     <link rel="alternate" href="https://www.roystonsmith.co.uk/changes-to-christmas-restrictions/" type="text/html"/>
@@ -801,24 +816,6 @@ The…</div>
     <category term="Withernsea"/>
   </entry>
   <entry>
-    <title>£702,736 in Government funding for cultural organisations in Wycombe</title>
-    <link rel="alternate" href="https://www.stevebaker.info/2020/12/702736-in-government-funding-for-cultural-organisations-in-wycombe/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">As part of the £1 billion Cultural Recovery Fund (CRF), six cultural sites in Wycombe have received funding through the CRF, totalling £702,736. This money will ensure our arts and heritage sites survive throughout the coronavirus pandemic. The CRF has to date protected at least 75,000 jobs across the arts sector, with 70% of revenue grants and 87% of capital grants allocated outside of London. The programme has been overseen by an independent Culture Recovery Board, made up of industry […]</div>
-    </content>
-    <author>
-      <name>Lucy-Anne Hickey</name>
-    </author>
-    <id>http://www.stevebaker.info/?p=18327</id>
-    <published>2020-12-15T13:33:35Z</published>
-    <updated>2020-12-15T13:33:35Z</updated>
-    <category term="Politics"/>
-    <category term="Culture"/>
-    <category term="DCMS"/>
-    <category term="HereForCulture"/>
-    <category term="Wycombe"/>
-  </entry>
-  <entry>
     <title>Meeting Father Christmas</title>
     <link rel="alternate" href="https://www.bobstewart.org.uk/news/meeting-father-christmas" type="text/html"/>
     <content type="xhtml">
@@ -1485,6 +1482,70 @@ protected.&lt;/p&gt;
     <category term="Uncategorized"/>
   </entry>
   <entry>
+    <title>Preet questions the Foreign Secretary about cuts to UK Aid</title>
+    <link rel="alternate" href="https://preetkaurgill.com/content/preet-questions-foreign-secretary-about-cuts-uk-aid" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded"><p>Preet asks the Foreign Secretary The Rt Hon Dominic Raab MP about rumours the Government will break its own manifesto commitment to spend 0.7% of GNI on overseas aid. <a dir="auto" href="https://www.youtube.com/results?search_query=%23SaveAid">#SaveAid</a></p>
+</div>
+          </div>
+        </div>
+        <div class="field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-inline clearfix">
+          <h3 class="field-label">Tags: </h3>
+          <ul class="links inline">
+            <li class="taxonomy-term-reference-0">
+              <a href="/portfolio-tags/saved" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">saved</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/portfolio-tags/dfid" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">dfid</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/portfolio-tags/overseas-aid" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">overseas aid</a>
+            </li>
+            <li class="taxonomy-term-reference-3">
+              <a href="/portfolio-tags/international-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">international development</a>
+            </li>
+          </ul>
+        </div>
+        <div class="field field-name-field-post-term field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/news" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">News</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/video" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Video</a>
+            </li>
+          </ul>
+        </div>
+        <div class="field field-name-field-post-format field-type-list-text field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">Video</div>
+          </div>
+        </div>
+        <div class="field field-name-field-post-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://preetkaurgill.com/sites/default/files/Preet%20Kaur%20Gill.jpg" width="1920" height="1080" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-field-post-embed field-type-text field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p_ohkKM9tUE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</div>
+          </div>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>Editor</name>
+    </author>
+    <id>873 at https://preetkaurgill.com</id>
+    <published>2020-11-24T18:08:27Z</published>
+    <updated>2020-11-24T18:08:27Z</updated>
+  </entry>
+  <entry>
     <title>Ashfield MP says track and trace was 'first class' for him - and the Prime Minister</title>
     <link rel="alternate" href="https://www.leeanderson.org.uk/news/ashfield-mp-says-track-and-trace-was-first-class-him-and-prime-minister" type="text/html"/>
     <content type="xhtml">
@@ -1734,12 +1795,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="b85951522c"  data-nonce-time="1608413884" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="b85951522c"  data-nonce-time="1608418092" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Twitter&lt;/label&gt;&lt;input type="text" name="twitter" value="" autocomplete="off"&gt;
+&lt;label&gt;Web Site&lt;/label&gt;&lt;input type="text" name="web_site" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
@@ -1827,35 +1888,5 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <published>2020-10-16T11:25:11Z</published>
     <updated>2020-10-16T11:25:11Z</updated>
     <category term="Flytipping"/>
-  </entry>
-  <entry>
-    <title>Garforth Station – step free access ready for planning permission.</title>
-    <link rel="alternate" href="http://www.alecshelbrooke.co.uk/garforth-railway-station-step-free-access-ready-planning-permission/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Network Rail is preparing the final stages of delivering step-free access at Garforth Railway Station, it has been announced. </p>
-<p>Alec had been campaigning for new step-free access at Garforth for over a decade before finally securing funds direct from the Department for Transport. Alec will continue to work closely, cross-party, with Garforth’s Independent Councillors to represent the views of residents through the planning process. </p>
-<p>Announcing the scheme in 2014, the then Transport Secretary Patrick McLoughlin said: “After years of false starts and broken promises under Labour, it is a testament to the local Conservative MP Alec Shelbrooke’s persistent campaigning that I can announce that this scheme is finally happening for the people of Garforth”.</p>
-<p>Since 2014 Alec has been in regular contact with Transport officials pushing for firmer plans and no further delays. He also raised the matter several times in the House of Commons Chamber. </p>
-<p>But today it has been announced that the final stage before construction is now underway.</p>
-<p>Alec said: “Today I’m delighted that Network Rail has formalised a plan with four options for stakeholders to choose from before the submission of a full planning application to Leeds City Council. It is my hope that Leeds City Council can deal with the application swiftly to avoid no further delays”.</p>
-<p>“I have been campaigning for step-free access at Garforth Station for many years. We had an original plan submitted but this then incurred unnecessary delays along the way but I have been committed to providing disabled people and pushchair users with the same access to travel as everyone else – and delivering step-free access at Garforth station will help thousands more people travel easily and without additional cost, time or stress”.</p>
-<p>Previously, Garforth resident Mrs Morris said: “We’ve waited far too long for disabled access at Garforth. The elderly, disabled and those with pushchairs have not been able to use the station so we’re extremely grateful to Alec for fighting alongside us to deliver this disabled access”. </p>
-<p>The Government’s Access for All programme was first launched in 2006 and has delivered more than 200 accessible routes into selected stations so far.</p>
-<p>A further 1,500 stations have received smaller scale improvements such as accessible toilets, platform humps to reduce stepping distances and improvements to help those with a visual or hearing impairment.</p>
-<p>The post <a rel="nofollow" href="http://www.alecshelbrooke.co.uk/garforth-railway-station-step-free-access-ready-planning-permission/">Garforth Station – step free access ready for planning permission.</a> appeared first on <a rel="nofollow" href="http://www.alecshelbrooke.co.uk">Alec Shelbrooke</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Network Rail is preparing the final stages of delivering step-free access at Garforth Railway Station, it has been announced. Alec had been campaigning for new step-free access at Garforth for over a decade before finally securing funds direct from the Department for Transport. Alec will continue to work closely, cross-party, with Garforth’s Independent Councillors to...  <a class="excerpt-read-more" href="http://www.alecshelbrooke.co.uk/garforth-railway-station-step-free-access-ready-planning-permission/" title="ReadGarforth Station – step free access ready for planning permission.">Read more »</a></p>
-<p>The post <a rel="nofollow" href="http://www.alecshelbrooke.co.uk/garforth-railway-station-step-free-access-ready-planning-permission/">Garforth Station – step free access ready for planning permission.</a> appeared first on <a rel="nofollow" href="http://www.alecshelbrooke.co.uk">Alec Shelbrooke</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Alec Shelbrooke</name>
-    </author>
-    <id>http://www.alecshelbrooke.co.uk/?p=1727</id>
-    <published>2020-08-19T16:04:10Z</published>
-    <updated>2020-08-19T16:04:10Z</updated>
-    <category term="Uncategorized"/>
   </entry>
 </feed>
