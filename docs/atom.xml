@@ -7,9 +7,34 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-21T10:51:24Z</updated>
+  <updated>2020-12-21T11:47:52Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Anne Marie's Weekly Column</title>
+    <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-100" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It is becoming increasingly difficult to write this column with any hope of not having to rewrite it! This week was no exception. This is not just another Christmas column when I would normally start telling you parliament has risen for recess and that all is well with the world as it looks forward…</div>
+    </content>
+    <id>https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-100</id>
+    <published>2020-12-21T12:00:00Z</published>
+    <updated>2020-12-21T12:00:00Z</updated>
+  </entry>
+  <entry>
+  <title>MP calls for the immediate virtual recall of Parliament</title>
+  <link rel="alternate" href="http://timfarron.co.uk/en/article/2020/1387629/mp-calls-for-the-immediate-virtual-recall-of-parliament"/>
+  <updated>2020-12-21T11:00:00Z</updated>
+  <id>http://timfarron.co.uk/en/article/2020/1387629/mp-calls-for-the-immediate-virtual-recall-of-parliament</id>
+  <summary type="text">Local MP Tim Farron is calling for Parliament to be virtually recalled today following the news of the rapid spread of the new strain of coronavirus and countries across Europe closing their borders to the UK.
+Tim said: "The events over the weekend constitute a national crisis.
+"The Government's response to them will have profound impacts on lives and livelihoods so it's crucial that their decisions are scrutinised by Parliament.</summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Local MP Tim Farron is calling for Parliament to be virtually recalled today following the news of the rapid spread of the new strain of coronavirus and countries across Europe closing their borders to the UK.</p>
+<p>Tim said: <em>"The events over the weekend constitute a national crisis.</em></p>
+<p><em>"The Government's response to them will have profound impacts on lives and livelihoods so it's crucial that their decisions are scrutinised by Parliament.</em></p>
+<p><em>"With London now in lockdown, it would be very wrong for MPs to travel to Westminster - that's why provisions must be put in place for Parliament to proceed virtually at once."</em></p>
+<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
+  <category term="Article"/>
+</entry>
   <entry>
     <title>Labour selects Tracy Brabin as West Yorkshire metro mayor candidate</title>
     <link rel="alternate" href="https://www.tracybrabinmp.com/2020/12/21/labour-selects-tracy-brabin-as-west-yorkshire-metro-mayor-candidate/" type="text/html"/>
@@ -349,25 +374,6 @@
     <updated>2020-12-21T10:02:03Z</updated>
     <category term="Coronavirus (COVID19)"/>
   </entry>
-  <entry>
-  <title>MP visits Kendal flood protection scheme base</title>
-  <link rel="alternate" href="http://timfarron.co.uk/en/article/2020/1387619/mp-visits-kendal-flood-protection-scheme-base"/>
-  <updated>2020-12-21T10:00:00Z</updated>
-  <id>http://timfarron.co.uk/en/article/2020/1387619/mp-visits-kendal-flood-protection-scheme-base</id>
-  <summary type="text">South Lakes MP Tim Farron has visited the Environment Agency's Kendal Flood Risk Management Scheme new site compound.
-Work will start on the new, three phase flood scheme in early 2021, which is set to reduce the risk of flooding to 1,480 homes and 1,151 local businesses in Kendal, Burneside, Staveley and Ings.</summary>
-  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img class="content-edited" alt="Tim with Stewart Mounsey" title="Tim with Stewart Mounsey" src="/en/image/6h0Qkk/360/270/tim-with-stewart-mounsey-1.png" style="width: 360px; height: 270px; float: right;"/>South Lakes MP Tim Farron has visited the Environment Agency's Kendal Flood Risk Management Scheme new site compound.</p>
-<p>Work will start on the new, three phase flood scheme in early 2021, which is set to reduce the risk of flooding to 1,480 homes and 1,151 local businesses in Kendal, Burneside, Staveley and Ings.</p>
-<p>Tim said: <em>"This has been a very long time coming, but it's great to see the construction work on this multi-million pound flood scheme get underway.</em></p>
-<p><em>"We all know too well the devasting impacts that flooding has had on our communities, and particularly on people's livelihoods and their mental wellbeing.</em></p>
-<p><em>"I really hope that many of the people whose homes and businesses have been damaged by flooding in recent years will start to feel a sense of relief and encouragement, by knowing that long-promised protection is now on its way."</em></p>
-<p>Stewart Mounsey, Flood Risk Manager for Cumbria said: <em>"Work is due to start on the £76 million Kendal Flood Risk Management Scheme in early 2021, with the site compound nearing completion.</em></p>
-<p><em>"Over the coming weeks, residents in Kendal will start to see an increased presence from Environment Agency and Volker Stevin as the final plans are made for construction to begin. Once completed, the scheme will better protect 1,480 properties and 1,151 businesses from flooding as well as delivering many benefits for the environment and the local economy.</em></p>
-<p><em>"The Environment Agency will continue to keep local residents informed of the progress of the scheme, with key details being posted regularly on the flood hub <a href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fthefloodhub.co.uk%2Fkendal%2F&amp;data=02%7C01%7Ckaty.barton%40environment-agency.gov.uk%7Cd4d84c6de3e64f2d2bb708d861204b88%7C770a245002274c6290c74e38537f1102%7C1%7C0%7C637366138631189056&amp;sdata=hBAOIZ73uf2PdBJYXPIt9APNanHLFNAmUJNA86bi%2F%2FM%3D&amp;reserved=0">https://thefloodhub.co.uk/kendal/</a>.</em></p>
-<p><em>"While we cannot prevent flooding all together, the Environment Agency will continue to work with communities around Cumbria to support them to be resilient to flooding and we are prepared to take action this winter wherever it is needed. "</em></p>
-<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
-  <category term="Article"/>
-</entry>
   <entry>
     <title>Goods Shed receives final funding</title>
     <link rel="alternate" href="https://niagriffith.org.uk/2020/12/goods-shed-receives-final-funding/" type="text/html"/>
@@ -1378,16 +1384,6 @@ The…</div>
     <published>2020-12-08T11:44:35Z</published>
     <updated>2020-12-08T11:44:35Z</updated>
     <category term="News"/>
-  </entry>
-  <entry>
-    <title>Anne Marie's Weekly Column</title>
-    <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-99" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Last week the new tier system was introduced putting Devon in Tier 2. In my view that was a mistake. Teignbridge has one of the lowest infection rates in the country. Even Plymouth, Exeter, and Torbay, while higher, are well below the national average. In Tier 2 while retailers, beauty salons, gyms…</div>
-    </content>
-    <id>https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-99</id>
-    <published>2020-12-07T12:00:00Z</published>
-    <updated>2020-12-07T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Bristol South MP warns constituents about electrical safety in the run-up to Christmas</title>
