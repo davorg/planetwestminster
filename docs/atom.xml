@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-21T14:50:10Z</updated>
+  <updated>2020-12-21T15:52:05Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -323,6 +323,17 @@
     <published>2020-12-21T12:32:56Z</published>
     <updated>2020-12-21T12:32:56Z</updated>
     <category term="Constituency"/>
+  </entry>
+  <entry>
+    <title>Local MP Maria Miller highlights importance of boosting employment in 2021</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-maria-miller-highlights-importance-boosting-employment-2021" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Basingstoke MP Maria Miller has emphasised the importance of helping those in unemployment find work in 2021 after the economic difficulties faced this year.
+Maria said, ‘Since March 2020, claimants of Universal Credit have risen sharply as the Coronavirus pandemic has shaken our economy. As we…</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/local-mp-maria-miller-highlights-importance-boosting-employment-2021</id>
+    <published>2020-12-21T12:00:00Z</published>
+    <updated>2020-12-21T12:00:00Z</updated>
   </entry>
   <entry>
     <title>David Evennett and Bexley Conservatives supporting local pubs, sports and social clubs this winter</title>
@@ -1290,17 +1301,6 @@ I know a lot of people are disappointed by the decision to place us in tier 3 in
     <published>2020-12-17T14:32:06Z</published>
     <updated>2020-12-17T14:32:06Z</updated>
     <category term="Media Releases"/>
-  </entry>
-  <entry>
-    <title>Basingstoke remains in Tier 2 following government's first formal review of tiering in England</title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/basingstoke-remains-tier-2-following-governments-first-formal-review-tiering-england" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">In oral statement today by the Secretary of State for Health and Social Care on the outcome of the government's first formal review of tiering in England, Basingstoke remains in Tier 2.
-Maria welcomed decision to use more local approach and said “The Government has kept Basingstoke and Deane…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/basingstoke-remains-tier-2-following-governments-first-formal-review-tiering-england</id>
-    <published>2020-12-17T12:00:00Z</published>
-    <updated>2020-12-17T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Jonathan Djanogly writes to Health Secretary to seek lower tier for Huntingdonshire</title>
