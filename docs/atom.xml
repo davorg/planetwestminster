@@ -7,9 +7,19 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-22T11:51:03Z</updated>
+  <updated>2020-12-22T13:09:28Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>World-famous city author Alexander McCall Smith to receive 2020 Edinburgh Award</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13067/world-famous-city-author-alexander-mccall-smith-to-receive-2020-edinburgh-award" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Internationally-admired Edinburgh-based author Alexander McCall Smith CBE has been chosen as this year's recipient of the prestigious Edinburgh Award.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13067/world-famous-city-author-alexander-mccall-smith-to-receive-2020-edinburgh-award</id>
+    <published>2020-12-22T12:09:00Z</published>
+    <updated>2020-12-22T12:09:00Z</updated>
+  </entry>
   <entry>
     <title>Best wishes for Christmas</title>
     <link rel="alternate" href="https://damiancollins.com/best-wishes-for-christmas/" type="text/html"/>
@@ -125,16 +135,6 @@
     <category term="Health"/>
     <category term="health secretary"/>
     <category term="Test-Trace-Isolate-Support"/>
-  </entry>
-  <entry>
-    <title> Inspiring Volunteer of the Year Award Winner for 2020 - ‘citizens of Edinburgh'</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13066/inspiring-volunteer-of-the-year-award-winner-for-2020-citizens-of-edinburgh-" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Thousands of Edinburgh citizens who have given up their time to volunteer and support their communities during the COVID-19 pandemic have been honoured by Lord Provost Frank Ross. </div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13066/inspiring-volunteer-of-the-year-award-winner-for-2020-citizens-of-edinburgh-</id>
-    <published>2020-12-21T14:51:00Z</published>
-    <updated>2020-12-21T14:51:00Z</updated>
   </entry>
   <entry>
     <title>Emma Speaks Up for Traveling Showmen and Women</title>
@@ -929,38 +929,6 @@ economy.&lt;/p&gt;
     <updated>2020-12-18T17:54:45Z</updated>
     <category term="Chippenham"/>
   </entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>Jack Gebhard</name>
-					</author>
-
-		<title type="html"><![CDATA[Worcestershire Council to receive additional £20 million from government]]></title>
-		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2020/12/worcestershire-council-to-receive-additional-20-million-from-government/"/>
-
-		<id>https://www.walker4worcester.com/?p=2114</id>
-		<updated>2020-12-18T17:19:35Z</updated>
-		<published>2020-12-18T17:19:35Z</published>
-		<category scheme="https://www.walker4worcester.com" term="Local Government"/><category scheme="https://www.walker4worcester.com" term="News"/>
-		<summary type="html"><![CDATA[Worcester MP, Robin Walker, has welcomed the Government’s announcement that Worcestershire County Council will see its budget boosted by 5.3 per cent next year, as part of the Conservatives’ commitment to level up local services across the country and give them the resources they need to support their communities as we recover from the pandemic. [&#8230;]]]></summary>
-
-					<content type="html" xml:base="https://www.walker4worcester.com/2020/12/worcestershire-council-to-receive-additional-20-million-from-government/"><![CDATA[<p class="x_MsoNormal">Worcester MP, Robin Walker, has welcomed the Government’s announcement that Worcestershire County Council will see its budget boosted by 5.3 per cent next year, as part of the Conservatives’ commitment to level up local services across the country and give them the resources they need to support their communities as we recover from the pandemic.</p>
-<p class="x_MsoNormal">Local authorities in England, including Worcestershire County Council, will receive a share of £51.2 billion local government funding next year – up £2.2 billion on this year. Funding for key public services will again be protected, with significant extra resources dedicated to areas where they are needed most. Thanks to the investment being made by the Conservatives, Worcestershire will have an extra £20.27 million to spend next year.</p>
-<p class="x_MsoNormal">The local government finance settlement sets out how much councils have to spend vital local services each year, including social care which will see a £1 billion increase in funding next year as a result of the announcement. In total, local authorities across England will receive an extra £5 billion in support next year, including a further £1.55 billion in additional grant funding to cover costs relating to the pandemic and an extra £670 million to help families facing hardship with their council tax bills.</p>
-<p class="x_MsoNormal">This is on top of the more than £7.2 billion in additional funding given to local areas throughout the pandemic so far to protect vital services that have kept vulnerable people and communities safe.</p>
-<p class="x_MsoNormal"><b>Commenting, Robin said:  </b></p>
-<p class="x_MsoNormal">“Local authorities play a vital role in our communities, providing the crucial local services that people rely on every day. Worcester residents will benefit as their county council will have an additional £20 million in funding this year thanks to the Government. These funds will help our local leaders make positive change in the area.</p>
-<p class="x_MsoNormal">“This builds on the significant funding boost the council received at the beginning of the year, underlying our determination to ensure all local authorities have the resources they need to drive forward our recovery in a way that works for our community as we build back better after the pandemic.”</p>
-<p class="x_MsoNormal"><b>Commenting, Local Government Secretary Robert Jenrick said:  </b></p>
-<p class="x_MsoNormal">“Councils have played a critical role leading their communities during the pandemic and delivering vital local services to vulnerable people and we have supported them with £7.2 billion extra funding to date.</p>
-<p class="x_MsoNormal">“That’s why I am announcing a financial package that will provide over £5 billion of extra support next year. This will give councils the resources they need to lead the recovery of their communities while delivering the services that people rely on.”</p>
-<p class="x_MsoNormal">Thanks to measures introduced by the Conservatives, taxpayers in Worcester now have a stronger voice over council tax rises than ever before.</p>
-<p class="x_MsoNormal">This means local residents have the power to veto excessive council tax rises, with a referendum being required if councils propose raising the tax by 2% or more; Councils with responsibility for adult social care will be able to set a further 3% increase, ring-fenced exclusively for adult social care. Anything above this level will also need to be voted on by local people. This strikes the right balance between addressing pressure on services and giving council-tax payers the final say on excessive increases.</p>
-]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2020/12/worcestershire-council-to-receive-additional-20-million-from-government/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2020/12/worcestershire-council-to-receive-additional-20-million-from-government/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry>
     <title>Loneliness doesn’t discriminate, it’s all around us</title>
     <link rel="alternate" href="https://www.drewhendrymp.scot/loneliness-and-our-communities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=loneliness-and-our-communities" type="text/html"/>
@@ -1317,22 +1285,6 @@ The…</div>
     <category term="NHS"/>
     <category term="Vaccine"/>
     <category term="Withernsea"/>
-  </entry>
-  <entry>
-    <title>WEST DUNBARTONSHIRE TO REMAIN IN LEVEL 3 COVID RESTRICTIONS</title>
-    <link rel="alternate" href="http://martindocherty.scot/west-dunbartonshire-to-remain-in-level-3-covid-restrictions/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Local MP Martin Docherty-Hughes has responded to the announcement that West Dunbartonshire is to remain in Level 3 restrictions along with 18 other local authority areas following this week’s review of Covid-19 protection levels. The Level 3 restrictions are expected … <a href="http://martindocherty.scot/west-dunbartonshire-to-remain-in-level-3-covid-restrictions/">Continue reading <span class="meta-nav">→</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/west-dunbartonshire-to-remain-in-level-3-covid-restrictions/">WEST DUNBARTONSHIRE TO REMAIN IN LEVEL 3 COVID RESTRICTIONS</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Communications Officer</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1480442</id>
-    <published>2020-12-15T15:12:21Z</published>
-    <updated>2020-12-15T15:12:21Z</updated>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Meeting Father Christmas</title>
@@ -2064,5 +2016,117 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <updated>2020-11-02T10:48:18Z</updated>
     <category term="News &amp; Events"/>
     <category term="Daily Telegraph"/>
+  </entry>
+  <entry>
+    <title>Tories deny free school meals to 2 million children</title>
+    <link rel="alternate" href="https://brendanoharamp.scot/2020/10/22/9045/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Conservative MPs – including all Scots Tories – refuse to back free meals for children in school holidays Yesterday afternoon in the House of Commons, Brendan O’Hara MP led for the SNP in the Opposition Day debate on access to free school meals and called on the UK Government to commit to tackling widespread poverty, […]</div>
+    </content>
+    <author>
+      <name>Editor</name>
+    </author>
+    <id>https://brendanoharamp.scot/?p=9045</id>
+    <published>2020-10-22T13:31:18Z</published>
+    <updated>2020-10-22T13:31:18Z</updated>
+    <category term="News"/>
+  </entry>
+  <entry>
+    <title>Rubbish dumping survey</title>
+    <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
+    <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="9906c8c348"  data-nonce-time="1608641998" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
+&lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
+&lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
+&lt;label&gt;Web Site&lt;/label&gt;&lt;input type="text" name="web_site" value="" autocomplete="off"&gt;
+&lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
+	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
+	&lt;div class=""&gt;
+		&lt;input   required type="text" data-field="fld_949637" class=" form-control" id="fld_949637_1" name="fld_949637" value="" data-type="text" aria-required="true"   aria-labelledby="fld_949637Label" &gt;			&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-field-wrapper="fld_3720579" class="form-group" id="fld_3720579_1-wrap"&gt;
+	&lt;label id="fld_3720579Label" for="fld_3720579_1" class="control-label"&gt;Surname &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
+	&lt;div class=""&gt;
+		&lt;input   required type="text" data-field="fld_3720579" class=" form-control" id="fld_3720579_1" name="fld_3720579" value="" data-type="text" aria-required="true"   aria-labelledby="fld_3720579Label" &gt;			&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-field-wrapper="fld_377714" class="form-group" id="fld_377714_1-wrap"&gt;
+	&lt;label id="fld_377714Label" for="fld_377714_1" class="control-label"&gt;Postcode &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
+	&lt;div class=""&gt;
+		&lt;input   required type="text" data-field="fld_377714" class=" form-control" id="fld_377714_1" name="fld_377714" value="" data-type="text" aria-required="true"   aria-labelledby="fld_377714Label" &gt;			&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-field-wrapper="fld_8339186" class="form-group" id="fld_8339186_1-wrap"&gt;
+	&lt;label id="fld_8339186Label" for="fld_8339186_1" class="control-label"&gt;Email &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
+	&lt;div class=""&gt;
+		&lt;input   required type="email" data-field="fld_8339186" class=" form-control" id="fld_8339186_1" name="fld_8339186" value="" data-type="email" aria-required="true"   aria-labelledby="fld_8339186Label" &gt;			&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr id="fld_3670460_1" class="" style="width: 100%" /&gt;&lt;div data-field-wrapper="fld_8286015" class="form-group" id="fld_8286015_1-wrap"&gt;
+	&lt;label id="fld_8286015Label" for="fld_8286015_1" class="control-label"&gt;Has the dumping and littering problem in the area reduced recently?&lt;/label&gt;
+	&lt;div class=""&gt;
+		&lt;select name="fld_8286015" value="" data-field="fld_8286015" class="form-control" id="fld_8286015_1"    aria-labelledby="fld_8286015Label" &gt;
+		&lt;option value=""&gt;&lt;/option&gt;
+					&lt;option value="Yes"  data-calc-value="Yes" &gt;
+						Yes					&lt;/option&gt;
+										&lt;option value="No"  data-calc-value="No" &gt;
+						No					&lt;/option&gt;
+										&lt;option value="Not Sure"  data-calc-value="Not Sure" &gt;
+						Not Sure					&lt;/option&gt;
+							&lt;/select&gt;
+			&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-field-wrapper="fld_5317914" class="form-group" id="fld_5317914_1-wrap"&gt;
+	&lt;label id="fld_5317914Label" for="fld_5317914_1" class="control-label"&gt;What further steps would you like to see taken?&lt;/label&gt;
+	&lt;div class=""&gt;
+		&lt;textarea name="fld_5317914" value="" data-field="fld_5317914" class="form-control" id="fld_5317914_1" rows="4"    aria-labelledby="fld_5317914Label" &gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-field-wrapper="fld_7237774" class="form-group" id="fld_7237774_1-wrap"&gt;
+	&lt;label id="fld_7237774Label" for="fld_7237774_1" class="control-label"&gt;Would you be willing to join a residents’ group?&lt;/label&gt;
+	&lt;div class=""&gt;
+		&lt;select name="fld_7237774" value="" data-field="fld_7237774" class="form-control" id="fld_7237774_1"    aria-labelledby="fld_7237774Label" &gt;
+		&lt;option value=""&gt;&lt;/option&gt;
+					&lt;option value="Yes"  data-calc-value="Yes" &gt;
+						Yes					&lt;/option&gt;
+										&lt;option value="No"  data-calc-value="No" &gt;
+						No					&lt;/option&gt;
+										&lt;option value="Maybe"  data-calc-value="Maybe" &gt;
+						Maybe					&lt;/option&gt;
+							&lt;/select&gt;
+			&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-field-wrapper="fld_3572997" class="form-group" id="fld_3572997_1-wrap"&gt;
+	&lt;label id="fld_3572997Label" for="fld_3572997_1" class="control-label"&gt;Can Liam email you about news and campaign updates? &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
+	&lt;div class=""&gt;
+		&lt;select name="fld_3572997" value="" data-field="fld_3572997" class="form-control" id="fld_3572997_1"  required="required"  aria-labelledby="fld_3572997Label" &gt;
+		&lt;option value=""&gt;&lt;/option&gt;
+					&lt;option value="Yes"  data-calc-value="Yes" &gt;
+						Liam can email me					&lt;/option&gt;
+										&lt;option value="No"  data-calc-value="No" &gt;
+						Liam cannot email me					&lt;/option&gt;
+							&lt;/select&gt;
+			&lt;/div&gt;
+&lt;/div&gt;
+&lt;input    type="hidden" data-field="fld_4555323" class=" form-control" id="fld_4555323_1" name="fld_4555323" value="1" data-type="hidden"   &gt;&lt;input    type="hidden" data-field="fld_3061013" class=" form-control" id="fld_3061013_1" name="fld_3061013" value="2020 Oct Flytipping Survey" data-type="hidden"   &gt;&lt;hr id="fld_6111107_1" class="" style="width: 100%" /&gt;&lt;div data-field-wrapper="fld_432351" class="form-group" id="fld_432351_1-wrap"&gt;
+&lt;div class=""&gt;
+	&lt;input  class="btn btn-default" type="submit" name="fld_432351" id="fld_432351_1" value="Submit" data-field="fld_432351"  &gt;
+&lt;/div&gt;
+&lt;/div&gt;
+	&lt;input class="button_trigger_1" type="hidden" name="fld_432351" id="fld_432351_1_btn" value="" data-field="fld_432351"  /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-2"  class="row  last_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;
+&lt;/div&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://liambyrne.co.uk/rubbish-dumping-survey/"&gt;Rubbish dumping survey&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://liambyrne.co.uk"&gt;Liam Byrne MP&lt;/a&gt;.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://liambyrne.co.uk/rubbish-dumping-survey/">Rubbish dumping survey</a> appeared first on <a rel="nofollow" href="https://liambyrne.co.uk">Liam Byrne MP</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Liam Byrne</name>
+    </author>
+    <id>https://liambyrne.co.uk/?p=7970</id>
+    <published>2020-10-16T11:25:11Z</published>
+    <updated>2020-10-16T11:25:11Z</updated>
+    <category term="Flytipping"/>
   </entry>
 </feed>
