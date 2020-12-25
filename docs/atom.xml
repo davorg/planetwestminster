@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-25T22:59:22Z</updated>
+  <updated>2020-12-25T23:56:15Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -1147,6 +1147,23 @@ I know a lot of people are disappointed by the decision to place us in tier 3 in
     <updated>2020-12-18T10:08:34Z</updated>
   </entry>
   <entry>
+    <title>Over 100 Parliamentarians urge the UK Government to take action to protect the Rohingya against genocide</title>
+    <link rel="alternate" href="http://www.rushanaraali.org/over_100_parliamentarians_urge_the_uk_government_to_take_action_to_protect_the_rohingya_against_genocide" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p style="background: white;">
+          <span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; color: black;">104 Parliamentarians from across parties are calling on the UK Government to take urgent action to protect the Rohingya Muslim minority from persecution from the Myanmar Government and military. </span>
+        </p>
+      </div>
+    </content>
+    <author>
+      <name>Rushanara Ali</name>
+    </author>
+    <id>http://www.rushanaraali.org/over_100_parliamentarians_urge_the_uk_government_to_take_action_to_protect_the_rohingya_against_genocide</id>
+    <published>2020-12-18T09:19:00Z</published>
+    <updated>2020-12-18T09:19:00Z</updated>
+  </entry>
+  <entry>
     <title>Christmas &amp; New Year office opening hours &amp; useful contacts</title>
     <link rel="alternate" href="https://debbieabrahams.org.uk/christmas-new-year-office-opening-hours-useful-contacts-2/" type="text/html"/>
     <content type="html">&lt;div class="vc_row wpb_row vc_row-fluid"&gt;&lt;div class="wpb_column vc_column_container vc_col-sm-12"&gt;&lt;div class="vc_column-inner"&gt;&lt;div class="wpb_wrapper"&gt;&lt;div class="themeum-title " style="text-align:left"&gt;&lt;h3 style="font-size:45px;line-height: normal;display:block;margin:0px 0px 10px 0px;color:#ed1c24;"&gt;Information about office opening hours &lt;span style="color:#06396a;"&gt;and who to contact for support over the festive period&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;&lt;div class="vc_empty_space"   style="height: 20px" &gt;&lt;span class="vc_empty_space_inner"&gt;&lt;/span&gt;&lt;/div&gt;
@@ -1946,19 +1963,5 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <updated>2020-11-02T10:48:18Z</updated>
     <category term="News &amp; Events"/>
     <category term="Daily Telegraph"/>
-  </entry>
-  <entry>
-    <title>Tories deny free school meals to 2 million children</title>
-    <link rel="alternate" href="https://brendanoharamp.scot/2020/10/22/9045/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Conservative MPs – including all Scots Tories – refuse to back free meals for children in school holidays Yesterday afternoon in the House of Commons, Brendan O’Hara MP led for the SNP in the Opposition Day debate on access to free school meals and called on the UK Government to commit to tackling widespread poverty, […]</div>
-    </content>
-    <author>
-      <name>Editor</name>
-    </author>
-    <id>https://brendanoharamp.scot/?p=9045</id>
-    <published>2020-10-22T13:31:18Z</published>
-    <updated>2020-10-22T13:31:18Z</updated>
-    <category term="News"/>
   </entry>
 </feed>
