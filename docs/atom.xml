@@ -7,9 +7,19 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-04T15:54:38Z</updated>
+  <updated>2021-01-04T17:32:03Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>We're working as fast as we can to grit roads, footpaths and cycleways in Edinburgh</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13075/we-re-working-as-fast-as-we-can-to-grit-roads-footpaths-and-cycleways-in-edinburgh" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Our Environment Convener Cllr Lesley Macinnes comments on work to grit roads, footpaths and cycleways in the Capital as icy conditions continue. </div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13075/we-re-working-as-fast-as-we-can-to-grit-roads-footpaths-and-cycleways-in-edinburgh</id>
+    <published>2021-01-04T16:36:00Z</published>
+    <updated>2021-01-04T16:36:00Z</updated>
+  </entry>
   <entry>
 		<title>Thank you Miles Dilworth and Daily Mail for backing millions of leaseholders today</title>
 		<link rel="alternate" type="text/html" href="https://www.stephen-mcpartland.com/news/1735-thank-you-miles-dilworth-and-daily-mail-for-backing-millions-of-leaseholders-today"/>
@@ -223,6 +233,41 @@ Is this now - finally - Brexit - and a trade deal? Just to be clear, we left the
     <category term="Brexit"/>
   </entry>
   <entry>
+    <title>Covid-19 vaccines update</title>
+    <link rel="alternate" href="https://niagriffith.org.uk/2020/12/covid-19-vaccines-update/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>Good news but please be patient.</p>
+
+
+
+<p>Thanks to Hywel Dda health board for sharing with us today plans to share as much of the vaccine as they can get hold of ASAP. </p>
+
+
+
+<p>Great that Wales &amp; Hywel Dda have received their fair share, &amp; you’ll have given 8,416 vaccine doses by this weekend, &amp; expect to get 4,000 Pfizer and 2,800 Oxford by next week, but understand that the main roll-out of the vaccine to our 45,000 over 80s and health / care workers will be from 11th January. Then it will be all systems go ……. </p>
+
+
+
+<p>Please make sure you are registered with  GP, and you will get your invitation. But also please remember the vaccine takes time to be effective and gives no guarantee you will not pass the disease on to others. </p>
+
+
+
+<p>In the meantime, please stay at home unless you have to go out. </p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Good news but please be patient. Thanks to Hywel Dda health board for sharing with us today plans to share as much of the vaccine as they can get hold of ASAP. Great that Wales &amp; Hywel Dda have received their fair share, &amp; you’ll have given 8,416 vaccine doses by this weekend, &amp; expect […]</div>
+    </summary>
+    <author>
+      <name>Nia Griffith</name>
+    </author>
+    <id>http://niagriffith.org.uk/?p=7941</id>
+    <published>2020-12-31T20:19:37Z</published>
+    <updated>2020-12-31T20:19:37Z</updated>
+    <category term="News"/>
+  </entry>
+  <entry>
     <title>Dan Jarvis MP - Barnsley Chronicle 31 December</title>
     <link rel="alternate" href="http://www.danjarvis.org/chron31dec" type="text/html"/>
     <content type="xhtml">
@@ -397,16 +442,6 @@ Is this now - finally - Brexit - and a trade deal? Just to be clear, we left the
     <updated>2020-12-30T16:16:37Z</updated>
     <category term="Local"/>
     <category term="National"/>
-  </entry>
-  <entry>
-    <title>Council Leaders and Police Scotland urge you to celebrate at home this Hogmanay</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13073/council-leaders-and-police-scotland-urge-you-to-celebrate-at-home-this-hogmanay" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Council Leaders have urged residents to adhere to national guidance as we welcome 2021. </div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13073/council-leaders-and-police-scotland-urge-you-to-celebrate-at-home-this-hogmanay</id>
-    <published>2020-12-30T15:56:00Z</published>
-    <updated>2020-12-30T15:56:00Z</updated>
   </entry>
   <entry>
     <title>MP: Vaccines Offer New Year Hope</title>
@@ -650,36 +685,6 @@ Certainly 2020 has been an extraordinary year.  For me personally the past year
     <id>https://www.maria4basingstoke.co.uk/news/basingstoke-will-be-tier-4-saturday-26-december</id>
     <published>2020-12-23T12:00:00Z</published>
     <updated>2020-12-23T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Christmas &amp; New Year Office Arrangements</title>
-    <link rel="alternate" href="https://niagriffith.org.uk/2020/12/christmas-new-year-office-arrangements/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>My office will be closing for the festive break at 2pm on
-Wednesday, 23<sup>rd</sup> December 2020 and reopening at 9am on Monday, 4<sup>th</sup>
-January 2021.</p>
-
-
-
-<p>For any urgent enquiries please email <a href="mailto:nia.griffith.mp@parliament.uk">nia.griffith.mp@parliament.uk</a>.</p>
-
-
-
-<p>Wishing you a Merry Christmas and a happy and healthy start
-to 2021.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">My office will be closing for the festive break at 2pm on Wednesday, 23rd December 2020 and reopening at 9am on Monday, 4th January 2021. For any urgent enquiries please email nia.griffith.mp@parliament.uk. Wishing you a Merry Christmas and a happy and healthy start to 2021.</div>
-    </summary>
-    <author>
-      <name>Nia Griffith</name>
-    </author>
-    <id>http://niagriffith.org.uk/?p=7939</id>
-    <published>2020-12-23T09:50:56Z</published>
-    <updated>2020-12-23T09:50:56Z</updated>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Christmas cheer for the Friends of Neath Abbey Iron Company</title>
