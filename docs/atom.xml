@@ -7,9 +7,20 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-05T08:04:14Z</updated>
+  <updated>2021-01-05T09:06:21Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>National Lockdown</title>
+    <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/national-lockdown" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Please see below the Prime Minister's address to the nation from yesterday evening.  The full guidance is below and HERE.
+The key differences to the March lockdown is that support and childcare bubbles remain in place, and early years childcare remains open.  Please do all you can to limit your…</div>
+    </content>
+    <id>https://www.teamtrevelyan.co.uk/news/national-lockdown</id>
+    <published>2021-01-05T12:00:00Z</published>
+    <updated>2021-01-05T12:00:00Z</updated>
+  </entry>
   <entry>
     <title>Can lockdowns work?</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2021/01/05/can-lockdowns-work/" type="text/html"/>
@@ -1050,18 +1061,6 @@ These new grant schemes include a special winter support package of just under �
     <published>2020-12-18T16:56:36Z</published>
     <updated>2020-12-18T16:56:36Z</updated>
     <category term="Community"/>
-  </entry>
-  <entry>
-    <title>Restrictions in Northumberland - FAQs</title>
-    <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/restrictions-northumberland-faqs" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Please find below the answers to the most common questions I am receiving from people about the ongoing restrictions and how we can move out of them.
- 
-I know a lot of people are disappointed by the decision to place us in tier 3 in the first instance, and I will explain below why that decision has…</div>
-    </content>
-    <id>https://www.teamtrevelyan.co.uk/news/restrictions-northumberland-faqs</id>
-    <published>2020-12-18T12:00:00Z</published>
-    <updated>2020-12-18T12:00:00Z</updated>
   </entry>
   <entry>
     <title>West Mercia Police to receive an additional £13m next year</title>
