@@ -7,9 +7,23 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-06T05:14:15Z</updated>
+  <updated>2021-01-06T06:08:32Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Lockdown 3</title>
+    <link rel="alternate" href="https://damiancollins.com/lockdown-3/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This is not the Happy New Year we were hoping for. Before Christmas the daily data produced by the Government, showing the numbers of new cases of coronavirus in Kent, was starting to look more positive. In Folkestone and Hythe there had been a sustained fall in the rolling seven-day average of new cases, from […]</div>
+    </content>
+    <author>
+      <name>pierre</name>
+    </author>
+    <id>https://damiancollins.com/?p=5489</id>
+    <published>2021-01-06T05:26:00Z</published>
+    <updated>2021-01-06T05:26:00Z</updated>
+    <category term="Weekly Blog"/>
+  </entry>
   <entry>
     <title>Vaccinations</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2021/01/06/vaccinations/" type="text/html"/>
@@ -670,20 +684,6 @@ The married dad of two, raised in Huthwaite, is the area’s…</div>
     <category term="Brexit"/>
   </entry>
   <entry>
-    <title>Our New Deal with the EU</title>
-    <link rel="alternate" href="https://damiancollins.com/our-new-deal-with-the-eu/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">On Christmas Eve the Prime Minister announced that the Government had successfully negotiated a deal with the European Union on our future trading relationship. This will be debated in Parliament on 30th December, so that it can be ratified before the end of 2020. The deal delivers on the commitment made at the general election […]</div>
-    </content>
-    <author>
-      <name>pierre</name>
-    </author>
-    <id>https://damiancollins.com/?p=5483</id>
-    <published>2020-12-29T08:34:00Z</published>
-    <updated>2020-12-29T08:34:00Z</updated>
-    <category term="Weekly Blog"/>
-  </entry>
-  <entry>
     <title>Trade Deal Secured</title>
     <link rel="alternate" href="http://wendymorton.co.uk/trade-deal-secured/" type="text/html"/>
     <content type="xhtml">
@@ -842,43 +842,6 @@ The workers will play a vital role in helping fruit and…</div>
     <id>https://www.johnlamont.org/news/uk-government-make-30000-agricultural-visas-available</id>
     <published>2020-12-22T12:00:00Z</published>
     <updated>2020-12-22T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Emma Speaks Up for Traveling Showmen and Women</title>
-    <link rel="alternate" href="https://www.emma-lewell-buck.net/emma-speaks-up-for-traveling-showmen-and-women/" type="text/html"/>
-    <content type="html">
-&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://www.emma-lewell-buck.net/web/wp-content/uploads/2020/12/ocean-beach-pleasure-park-1-1024x682.jpg" alt="" class="wp-image-2969" srcset="https://www.emma-lewell-buck.net/web/wp-content/uploads/2020/12/ocean-beach-pleasure-park-1-980x653.jpg 980w, https://www.emma-lewell-buck.net/web/wp-content/uploads/2020/12/ocean-beach-pleasure-park-1-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" /&gt;&lt;/figure&gt;
-
-
-
-&lt;p&gt;Last week I spoke in the Westminster Hall debate entitled &lt;strong&gt;Future of fairs and Showgrounds&lt;/strong&gt;. I wanted to support those showmen and women here in South Shields which has a long history of welcoming traveling showmen and women that dates back almost 100 years. It is imperative that the Government stops ignoring the fairground and showmen community and steps in to provide vital support before it is too late. As a longstanding supporter and advocate for show people and a member of the All Party Parliamentary Group for Fairs and Showgrounds, I will continue to be a voice for this community and press the Government at every opportunity for better support and recognition. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;At the outset of the pandemic, many fairs were either cancelled or postponed – from summer fetes to Christmas Markets. As a result of the closures and postponing of fairs, many show people suffered huge financial loss, plunging them into financial insecurity.&lt;/p&gt;
-
-
-
-&lt;p&gt;The heart of the issue is that the financial support offered to the tourism industry during COVID-19 continually excluded the fairground community. Showmen and women also did not qualify for the assistance announced in the recent budget for retail, leisure and hospitality firms relating to business rates in the coming year, due to the way that the Show people operate, which falls outside the scope of static leisure providers.&lt;/p&gt;
-
-
-
-&lt;p&gt;Show people across the UK and particularly those here in South Shields, now face losing their businesses and livelihoods if the UK Government does not step in.&lt;/p&gt;
-
-
-
-&lt;p&gt;You can read my speech by clicking &lt;a href="https://hansard.parliament.uk/Commons/2020-12-17/debates/3B335883-D800-426D-ACAD-2204734ED4F7/FairsAndShowgrounds#contribution-374A337C-9576-467B-95F1-505F40A37FE0"&gt;here.&lt;/a&gt;&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Last week I spoke in the Westminster Hall debate entitled Future of fairs and Showgrounds. I wanted to support those showmen and women here in South Shields which has a long history of welcoming traveling showmen and women that dates back almost 100 years. It is imperative that the Government stops ignoring the fairground and […]</div>
-    </summary>
-    <author>
-      <name>Joan Whelan</name>
-    </author>
-    <id>https://www.emma-lewell-buck.net/?p=2971</id>
-    <published>2020-12-21T14:39:40Z</published>
-    <updated>2020-12-21T14:39:40Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>David Evennett and Bexley Conservatives supporting local pubs, sports and social clubs this winter</title>
@@ -1697,12 +1660,12 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="c6ebea5dfc"  data-nonce-time="1609909486" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="c6ebea5dfc"  data-nonce-time="1609912603" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Url&lt;/label&gt;&lt;input type="text" name="url" value="" autocomplete="off"&gt;
+&lt;label&gt;Twitter&lt;/label&gt;&lt;input type="text" name="twitter" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
@@ -1790,5 +1753,35 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <published>2020-10-16T11:25:11Z</published>
     <updated>2020-10-16T11:25:11Z</updated>
     <category term="Flytipping"/>
+  </entry>
+  <entry>
+    <title>Garforth Station – step free access ready for planning permission.</title>
+    <link rel="alternate" href="http://www.alecshelbrooke.co.uk/garforth-railway-station-step-free-access-ready-planning-permission/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Network Rail is preparing the final stages of delivering step-free access at Garforth Railway Station, it has been announced. </p>
+<p>Alec had been campaigning for new step-free access at Garforth for over a decade before finally securing funds direct from the Department for Transport. Alec will continue to work closely, cross-party, with Garforth’s Independent Councillors to represent the views of residents through the planning process. </p>
+<p>Announcing the scheme in 2014, the then Transport Secretary Patrick McLoughlin said: “After years of false starts and broken promises under Labour, it is a testament to the local Conservative MP Alec Shelbrooke’s persistent campaigning that I can announce that this scheme is finally happening for the people of Garforth”.</p>
+<p>Since 2014 Alec has been in regular contact with Transport officials pushing for firmer plans and no further delays. He also raised the matter several times in the House of Commons Chamber. </p>
+<p>But today it has been announced that the final stage before construction is now underway.</p>
+<p>Alec said: “Today I’m delighted that Network Rail has formalised a plan with four options for stakeholders to choose from before the submission of a full planning application to Leeds City Council. It is my hope that Leeds City Council can deal with the application swiftly to avoid no further delays”.</p>
+<p>“I have been campaigning for step-free access at Garforth Station for many years. We had an original plan submitted but this then incurred unnecessary delays along the way but I have been committed to providing disabled people and pushchair users with the same access to travel as everyone else – and delivering step-free access at Garforth station will help thousands more people travel easily and without additional cost, time or stress”.</p>
+<p>Previously, Garforth resident Mrs Morris said: “We’ve waited far too long for disabled access at Garforth. The elderly, disabled and those with pushchairs have not been able to use the station so we’re extremely grateful to Alec for fighting alongside us to deliver this disabled access”. </p>
+<p>The Government’s Access for All programme was first launched in 2006 and has delivered more than 200 accessible routes into selected stations so far.</p>
+<p>A further 1,500 stations have received smaller scale improvements such as accessible toilets, platform humps to reduce stepping distances and improvements to help those with a visual or hearing impairment.</p>
+<p>The post <a rel="nofollow" href="http://www.alecshelbrooke.co.uk/garforth-railway-station-step-free-access-ready-planning-permission/">Garforth Station – step free access ready for planning permission.</a> appeared first on <a rel="nofollow" href="http://www.alecshelbrooke.co.uk">Alec Shelbrooke</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Network Rail is preparing the final stages of delivering step-free access at Garforth Railway Station, it has been announced. Alec had been campaigning for new step-free access at Garforth for over a decade before finally securing funds direct from the Department for Transport. Alec will continue to work closely, cross-party, with Garforth’s Independent Councillors to...  <a class="excerpt-read-more" href="http://www.alecshelbrooke.co.uk/garforth-railway-station-step-free-access-ready-planning-permission/" title="ReadGarforth Station – step free access ready for planning permission.">Read more »</a></p>
+<p>The post <a rel="nofollow" href="http://www.alecshelbrooke.co.uk/garforth-railway-station-step-free-access-ready-planning-permission/">Garforth Station – step free access ready for planning permission.</a> appeared first on <a rel="nofollow" href="http://www.alecshelbrooke.co.uk">Alec Shelbrooke</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Alec Shelbrooke</name>
+    </author>
+    <id>http://www.alecshelbrooke.co.uk/?p=1727</id>
+    <published>2020-08-19T16:04:10Z</published>
+    <updated>2020-08-19T16:04:10Z</updated>
+    <category term="Uncategorized"/>
   </entry>
 </feed>
