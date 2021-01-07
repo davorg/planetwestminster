@@ -7,122 +7,118 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-07T14:57:16Z</updated>
+  <updated>2021-01-07T16:00:25Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
-    <title>University survey</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/university-survey" type="text/html"/>
+    <title>COVID-19 Advice and Assistance</title>
+    <link rel="alternate" href="http://www.alecshelbrooke.co.uk/covid-19-advice-assistance/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>COVID-19 is a new illness that can affect your lungs and airways. It’s caused by a virus called coronavirus.</p>
+<p>Alec is advising all constituents to follow Public Health England advice for their own safety and the safety of others.</p>
+<p>Find out how to protect yourself or check if you need medical help on the NHS website.</p>
+<p>Please read, share and regularly check the Government guidance as the situation and the response to it is changing daily.</p>
+<p>Read the regulations here: FAQs- what you can and can’t do.</p>
+<p>Testing</p>
+<p>Anybody with symptoms can book a test. To book a test click here.</p>
+<p>Vaccine</p>
+<p>The UK medical regulatory agency has approved two vaccines for COVID-19. The Government has begun the largest nationwide vaccination programme in history, starting with key clinically vulnerable groups. Your GP will contact you directly with a date to get your vaccine. </p>
+<p>Volunteer Support</p>
+<p>Alec is working with local Leeds City Councillors to best co-ordinate volunteer efforts in our community. If you’re able to offer help please go to www.doinggoodleeds.org.uk</p>
+<p>The post <a rel="nofollow" href="http://www.alecshelbrooke.co.uk/covid-19-advice-assistance/">COVID-19 Advice and Assistance</a> appeared first on <a rel="nofollow" href="http://www.alecshelbrooke.co.uk">Alec Shelbrooke</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>COVID-19 is a new illness that can affect your lungs and airways. It’s caused by a virus called coronavirus. Alec is advising all constituents to follow Public Health England advice for their own safety and the safety of others. Find out how to protect yourself or check if you need medical help on the NHS...  <a class="excerpt-read-more" href="http://www.alecshelbrooke.co.uk/covid-19-advice-assistance/" title="ReadCOVID-19 Advice and Assistance">Read more »</a></p>
+<p>The post <a rel="nofollow" href="http://www.alecshelbrooke.co.uk/covid-19-advice-assistance/">COVID-19 Advice and Assistance</a> appeared first on <a rel="nofollow" href="http://www.alecshelbrooke.co.uk">Alec Shelbrooke</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Alec Shelbrooke</name>
+    </author>
+    <id>http://www.alecshelbrooke.co.uk/?p=1737</id>
+    <published>2021-01-07T15:54:58Z</published>
+    <updated>2021-01-07T15:54:58Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
+  <entry>
+    <title>Jon Cruddas MP Responds to Padnall Lake Concerns</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/jon-cruddas-mp-responds-padnall-lake-concerns" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
-        <form class="webform-client-form webform-client-form-1441" action="/rss.xml" method="post" id="webform-client-form-1441" accept-charset="UTF-8">
-          <div><fieldset class="webform-component-fieldset webform-component--civicrm-1-activity-1-fieldset-fieldset form-wrapper"><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-markup webform-component--civicrm-1-activity-1-fieldset-fieldset--spacer1">
- 
-</div>
-</div></fieldset>
-<div class="form-item webform-component webform-component-markup webform-component--spacer3">
- 
-</div>
-<fieldset class="webform-component-fieldset webform-component--civicrm-1-contact-1-fieldset-fieldset form-wrapper"><legend><span class="fieldset-legend">Your contact details</span></legend><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-civicrm_contact static webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-existing">
-<input data-hide-method="hide" data-no-hide-blank="0" class="civicrm-enabled" data-civicrm-field-key="civicrm_1_contact_1_contact_existing" type="hidden" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_existing]" value=""/>
-
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-first-name">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
- <input required="required" placeholder="First Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_first_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_first_name]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-last-name">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
- <input required="required" placeholder="Last Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_last_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_last_name]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-street-address">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address">Street Address </label>
- <input placeholder="Street address" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_street_address" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_street_address]" value="" size="60" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-city">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city">City </label>
- <input placeholder="City" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_city" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_city]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-postal-code">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code">Postal Code <span class="form-required" title="This field is required.">*</span></label>
- <input required="required" placeholder="Postal Code" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_address_postal_code" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_postal_code]" value="" size="7" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-email webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-email-email">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email">Email </label>
- <input class="email civicrm-enabled form-text form-email" placeholder="Email" data-civicrm-field-key="civicrm_1_contact_1_email_email" type="email" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_email_email]" size="20"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-phone-phone">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone">Phone Number </label>
- <input placeholder="Phone number" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_phone_phone]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-2-phone-phone">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone">Mobile </label>
- <input placeholder="Mobile" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_2_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_2_phone_phone]" value="" size="20" maxlength="128"/>
-</div>
-</div></fieldset>
-<div class="form-item webform-component webform-component-markup webform-component--spacer">
- 
-</div>
-<fieldset class="webform-component-fieldset webform-component--group-fieldset form-wrapper"><legend><span class="fieldset-legend">Can Jon update you about news and campaigns?</span></legend><div class="fieldset-wrapper"><div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-228">
-  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">Can Jon stay in contact by email <span class="form-required" title="This field is required.">*</span></label>
- <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
- <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1">Yes Jon can email me </label>
-
-</div>
-<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
- <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2">No Jon cannot email me </label>
-
-</div>
-</div>
-</div>
-<div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-226">
-  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">Can Jon stay in contact by phone? <span class="form-required" title="This field is required.">*</span></label>
- <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">
- <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_226" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_226]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-1">Yes Jon can phone me </label>
-
-</div>
-<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">
- <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_226" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_226]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-2">No Jon cannot phone me </label>
-
-</div>
-</div>
-</div>
-<div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-227">
-  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">Can Jon stay in contact by SMS? <span class="form-required" title="This field is required.">*</span></label>
- <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">
- <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_227" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_227]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-1">Yes Jon can SMS me </label>
-
-</div>
-<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">
- <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_227" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_227]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-2">No Jon cannot SMS me </label>
-
-</div>
-</div>
-</div>
-<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--opt-out-at-any-time">
- <p>You can opt out at any time. You can find my privacy policy <a href="https://joncruddas.org.uk/legal-and-privacy">here</a>. Any previous opting information you have given Jon will display on this petition form</p>
-</div>
-<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--spacer2">
- 
-</div>
-</div></fieldset>
-<input type="hidden" name="details[sid]"/>
-<input type="hidden" name="details[page_num]" value="1"/>
-<input type="hidden" name="details[page_count]" value="1"/>
-<input type="hidden" name="details[finished]" value="0"/>
-<input type="hidden" name="form_build_id" value="form-HNVVNbRE7lz8caOHp_N5dY8U6tNMKJifMSIs7fbpSm8"/>
-<input type="hidden" name="form_id" value="webform_client_form_1441"/>
-<div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
-        </form>
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/Padnall%20Lake.jpg?itok=y6lHfqTa" width="740" height="423" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p> </p>
+              <p>In November 2020 plans were approved by Barking and Dagenham Council to develop the land between the A12 and Padnall Road, providing 219 much needed new homes. The plans were met with opposition from a number of local residents who primarily raised concerns about the impact on the environment and biodiversity in the Padnall Lake area.</p>
+              <p><strong>Jon Cruddas MP commented:</strong> <em>“the most common concern raised with me was about the environmental impact of the development. There have been a number of rumours circulating in the community that there are plans to damage or negatively alter Padnall Lake. However, having seen the plans and spoken with council Members I feel reassured that the development seeks to enhance the environmental footprint of the area for the benefit of the community and local wildlife.”</em></p>
+              <p>Padnall Lake is designated as a SINC (Site of Interest for Nature Conservation) and the plans to redevelop the adjacent land seek to improve the current site which would see an overall increase in biodiversity of 513%. This will translate as an innovative and diverse planting scheme to create a new linear park for residents to enjoy, stretching from Whalebone Lane North to Padnall Lake - improving the existing pathway and delivering numerous environmental benefits.</p>
+              <p>A number of other concerns have also been raised with the Member of Parliament for Dagenham and Rainham which include visual impact and potential loss of light in existing buildings, traffic flow issues due to increased population density, affordability levels and access to the new properties for existing local residents. Jon Cruddas MP has raised all of these issues with the Managing Director of Be First and will be speaking with the Leader of the Council to seek assurances.</p>
+              <p><strong>Jon said:</strong> <em>“Environmental concerns aside there are a number of queries related to tenancy mix, increased congestion, and the availability of these new homes for existing residents. In my representation to Be First I have also suggested the possibility of internal improvements for the Padnall Road flats. As with all regeneration of this scale the community should be brought with the project rather than feeling like they have fallen victim to it. Although, I must say that on the face of it this appears to be one of the better developments of the last few years.”</em></p>
+              <p>
+                <strong>You can read Jon’s letter to Be First by clicking <a href="https://joncruddas.org.uk/sites/default/files/Padnall%20Lake%20FINAL%20to%20Be%20First.pdf">HERE</a></strong>
+              </p>
+              <p>Jon Cruddas MP will feed back to all constituents that have contacted him on this issue when a response comes through from Be First and assurances have been provided for all the points raised.</p>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dagenham</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/chadwell-heath" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Chadwell Heath</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/tags/marks-gate" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Marks Gate</a>
+            </li>
+            <li class="taxonomy-term-reference-3">
+              <a href="/tags/padnall-lake" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Padnall Lake</a>
+            </li>
+            <li class="taxonomy-term-reference-4">
+              <a href="/tags/development" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Development</a>
+            </li>
+            <li class="taxonomy-term-reference-5">
+              <a href="/tags/befirst" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">BeFirst</a>
+            </li>
+            <li class="taxonomy-term-reference-6">
+              <a href="/tags/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Environment</a>
+            </li>
+          </ul>
+        </div>
       </div>
     </content>
     <author>
-      <name>MatO</name>
+      <name>andrew</name>
     </author>
-    <id>1441 at https://joncruddas.org.uk</id>
-    <published>2021-01-07T14:31:54Z</published>
-    <updated>2021-01-07T14:31:54Z</updated>
+    <id>1443 at https://joncruddas.org.uk</id>
+    <published>2021-01-07T15:44:39Z</published>
+    <updated>2021-01-07T15:44:39Z</updated>
   </entry>
+  <entry>
+  <title>Teaching staff should be prioritised for vaccine, MP tells ministers</title>
+  <link rel="alternate" href="http://timfarron.co.uk/en/article/2021/1388981/teaching-staff-should-be-prioritised-for-vaccine-mp-tells-ministers"/>
+  <updated>2021-01-07T15:17:00Z</updated>
+  <id>http://timfarron.co.uk/en/article/2021/1388981/teaching-staff-should-be-prioritised-for-vaccine-mp-tells-ministers</id>
+  <summary type="text">In Parliament last night, South Lakes MP Tim Farron urged ministers to include teaching staff in the priority lists for the COVID-19 vaccines.
+Tim also pushed for more vaccination centres in rural areas in the South Lakes so people who are elderly or have mobility issues are able to access the vaccine more easily.</summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>In Parliament last night, South Lakes MP Tim Farron urged ministers to include teaching staff in the priority lists for the COVID-19 vaccines.</p>
+<p>Tim also pushed for more vaccination centres in rural areas in the South Lakes so people who are elderly or have mobility issues are able to access the vaccine more easily.</p>
+<p>Speaking during a debate on Public Health, Tim said: <em>"The vaccine is the light at the end of the tunnel. It is wonderful and I pay tribute to everyone involved in making that come to be and in administering the vaccines as we speak.</em></p>
+<p><em>"However, the Government are making that tunnel a little bit longer than they need to.</em></p>
+<p><em>"It is clear that supply of vaccine to places in South Cumbria is not as fulsome as it might be. Places such as Sedbergh and Windermere have not yet got vaccination centres. Those sites need to be approved.</em></p>
+<p><em>"I also want to say that as our teachers are teaching the children of key workers, they should also be vaccinated as a priority."</em></p>
+<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
+  <category term="Article"/>
+</entry>
   <entry>
     <title>Committee fishing for wildlife photographer to capture the beauty of British nature </title>
     <link rel="alternate" href="https://www.philipdunne.com/news/committee-fishing-wildlife-photographer-capture-beauty-british-nature" type="text/html"/>
@@ -316,18 +312,6 @@ In recent days there have been delays to Scottish fishing exports for two reason
     <category term="featured"/>
   </entry>
   <entry>
-  <title>Coal mine decision a complete disaster for our children’s future - MP</title>
-  <link rel="alternate" href="http://timfarron.co.uk/en/article/2021/1388570/coal-mine-decision-a-complete-disaster-for-our-children-s-future-mp"/>
-  <updated>2021-01-06T15:38:00Z</updated>
-  <id>http://timfarron.co.uk/en/article/2021/1388570/coal-mine-decision-a-complete-disaster-for-our-children-s-future-mp</id>
-  <summary type="text">Commenting on the Government's decision to turn down his request to call in the planning application for a new coal mine in Cumbria, local MP Tim Farron said: "This decision is a complete disaster for our children's future - an almighty backwards step in the fight against climate change.
-"It's utter and rank hypocrisy for this Conservative Government to claim one minute that they care about protecting our environment, and in the next give the green light to a deep coal mine."</summary>
-  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Commenting on the Government's decision to turn down his request to call in the planning application for a new coal mine in Cumbria, local MP Tim Farron said: <em>"This decision is a complete disaster for our children's future - an almighty backwards step in the fight against climate change.</em></p>
-<p><em>"It's utter and rank hypocrisy for this Conservative Government to claim one minute that they care about protecting our environment, and in the next give the green light to a deep coal mine."</em></p>
-<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
-  <category term="Article"/>
-</entry>
-  <entry>
     <title>Lockdown 3</title>
     <link rel="alternate" href="https://damiancollins.com/lockdown-3/" type="text/html"/>
     <content type="xhtml">
@@ -438,24 +422,6 @@ In recent days there have been delays to Scottish fishing exports for two reason
 
 		
 			</entry>
-  <entry>
-    <title>UPDATE: SCOTLAND IN LOCKDOWN</title>
-    <link rel="alternate" href="http://martindocherty.scot/update-scotland-in-lockdown/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>On 4th January 2021 the Scottish Government announced a new national lockdown in mainland Scotland to prevent the spread of the new, highly contagious strain of coronavirus (Covid-19). The new measures make it a legal requirement to stay at home … <a href="http://martindocherty.scot/update-scotland-in-lockdown/">Continue reading <span class="meta-nav">→</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/update-scotland-in-lockdown/">UPDATE: SCOTLAND IN LOCKDOWN</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Communications Officer</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1490424</id>
-    <published>2021-01-05T12:24:28Z</published>
-    <updated>2021-01-05T12:24:28Z</updated>
-    <category term="Campaign Emails"/>
-    <category term="Latest Issues"/>
-    <category term="News"/>
-  </entry>
   <entry>
     <title>New national lockdown announced as Basingstoke Hospital admissions for C19 increase significantly</title>
     <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/new-national-lockdown-announced-basingstoke-hospital-admissions-c19-increase-significantly" type="text/html"/>
@@ -595,35 +561,6 @@ Is this now - finally - Brexit - and a trade deal? Just to be clear, we left the
     <category term="Tampon Tax"/>
     <category term="Tax"/>
   </entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>Jack Gebhard</name>
-					</author>
-
-		<title type="html"><![CDATA[Walker proud to vote for PM’s deal to deliver Brexit with a deal and a zero tariff free trade agreement]]></title>
-		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2020/12/walker-proud-to-vote-for-pms-deal-to-deliver-brexit-with-a-deal-and-a-zero-tariff-free-trade-agreement/"/>
-
-		<id>https://www.walker4worcester.com/?p=2122</id>
-		<updated>2021-01-02T13:39:13Z</updated>
-		<published>2020-12-24T13:36:49Z</published>
-		<category scheme="https://www.walker4worcester.com" term="Uncategorized"/>
-		<summary type="html"><![CDATA[On Christmas Eve the Prime Minister announced that after intense negotiations the British government has reached a trade deal with the European Union, concluding the process of our EU exit. Last night the House of Commons voted by a decisive majority to support that deal. Four and a half years on from the biggest democratic [&#8230;]]]></summary>
-
-					<content type="html" xml:base="https://www.walker4worcester.com/2020/12/walker-proud-to-vote-for-pms-deal-to-deliver-brexit-with-a-deal-and-a-zero-tariff-free-trade-agreement/"><![CDATA[<p>On Christmas Eve the Prime Minister announced that after intense negotiations the British government has reached a trade deal with the European Union, concluding the process of our EU exit. Last night the House of Commons voted by a decisive majority to support that deal. Four and a half years on from the biggest democratic exercise in our country’s history we now have a deal that takes back control, while maintaining a friendly relationship based on free trade with our nearest friends and neighbours. This delivers on all the manifesto commitments on which the Conservative Party was re-elected in 2019 and on my long-standing ambition to ensure we secured a deal with the European Union based on full restoration of U.K. sovereignty and free trade.</p>
-<p>I always believed that a full and fair referendum on EU membership was the only right thing to do as I saw our relationship with our neighbours changed and like many people felt that too many decisions were being taken over the heads of the British electorate. I campaigned for a referendum even before it was my party’s policy, I campaigned for reform of that relationship and although I campaigned to remain during the Brexit referendum campaign as I believed that remaining was the right pragmatic choice to make at that time, I always respected the fact that the electorate would decide.  When the British people spoke and people in Worcester voted decisively to leave the EU I immediately accepted  that it was incumbent on the government to deliver on the will of the British people.</p>
-<p>After the referendum I was appointed one of the first Ministers in the Department for Exiting the European Union and over two and half years in that department, as it’s longest serving Minister I worked to secure the Withdrawal Agreement including the protection of rights for four million U.K. and EU citizens living in each other’s territories, the transition period and to set up our approach to the future relationship negotiations. There I set out the preferred future partnership of a relationship with a strong security partnership, an economic deal without tariffs on all goods and services; reduction of trade barriers without being bound by European rules; personal data protections; and associate membership of the Horizon programme so that our academic institutions can continue to work together to ensure we’re at the cutting edge of science and technology. All of these ambitions are achieved by the deal on which the House of Commons voted yesterday. Also at DExEU I prioritised protecting our citizens in Gibraltar by enabling them to have visa-free access to the Spanish mainland. Gibraltarians will have full access to the Schengen free travel area, protecting both their sovereignty and their ability to trade and travel.</p>
-<p>The deal we have reached is a good deal for the United Kingdom and one that I am proud to have voted for. There will be no tariffs or quotas, meaning that many businesses will be able to continue to trade within Europe without extra baggage or cost and that British consumers will be protected from the negative impact of tariffs.   Security cooperation can continue in a way that benefits the safety and security of our people and there will continue to be a basis for the free exchange of data between the U.K. and the EU as well as recognition for our world leading standards for food and farming. Northern Ireland’s place in the U.K. customers territory and our internal market is protected but so is the absence of a border with the Republic of Ireland which has proved so important to the working of the Good Friday Agreement and the Peace Process.</p>
-<p>A truly sovereign British Parliament will regain full control of British law, ending the jurisdiction of the European Court of Justice. As promised we will continue to maintain the highest labour, environmental and climate standards. But we will do so because it is the right thing to do and it will be our elected MPs who set and are held accountable for these rules.</p>
-<p>Fish featured heavily in the Brexit negotiations and I’m glad that this deal will take back control of our waters. Fishing communities will benefit from a boost of £100 million to expand and update their fleet of vessels. A five year period will help ease the transition, after which we will have full control of our waters. Crucially we continue to be able to export fish tariff free to our biggest market in Europe but our fisherman shall immediately begin to see the benefits of an increased share of catch.</p>
-<p>In leaving the European Union and bringing and end to the transition period we are delivering on a solemn promise made to the British people, one which was reconfirmed in both the 2017 and 2019 elections. In December 2019 I was re-elected to represent Worcester with an increased majority and over 50 per cent of the vote after promising to get Brexit done. Within weeks we had passed the Withdrawal Agreement and now, one year later, we have a trade deal that will allow us to show what Global Britain means to the world. We can strike our own trade deals and set our own laws. We have control over our borders and our waters and we can thrive as an independent nation.</p>
-<p>The people of Worcester 54:46 in favour of voting to leave the EU and this deal delivers on that outcome. Respecting the fact that the majority voted to leave but also that a significant minority wanted to protect our trading relationship with European neighbours. It protects the interests of businesses and consumers by ensuring no quotas or tariffs are introduced that would hinder trade with the EU.</p>
-<p>This deal allows us to close this particular chapter and get on with the priority of British people which is combatting Covid, getting the country back to some kind of normality and then building back better and levelling up our economy. With this deal marking the largest and most comprehensive trade deal ever reached by the European Union it shows that we can get off to a new start as friendly neighbours and with over 60 other trade deals already signed this year it is a great jumping off point for our ambitions for Global Britain. I hope that after so many debates and arguments over the last few years this deal settles the issue of our departure from the EU and avoids the unacceptable extremes of either reversing the referendum result or leaving on bad terms and in dispute with our neighbours. Now is a time for the whole country to come together and make a success of our new position and it is time to look to the future with confidence.</p>
-]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2020/12/walker-proud-to-vote-for-pms-deal-to-deliver-brexit-with-a-deal-and-a-zero-tariff-free-trade-agreement/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2020/12/walker-proud-to-vote-for-pms-deal-to-deliver-brexit-with-a-deal-and-a-zero-tariff-free-trade-agreement/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry>
     <title>Brexit Deal or No Deal</title>
     <link rel="alternate" href="http://www.ianmearns.org.uk/2021/01/02/brexit-deal-or-no-deal/" type="text/html"/>
@@ -1789,5 +1726,46 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <id>https://www.alistair-burt.co.uk/news/my-current-article-article-us-election-warning-us-all</id>
     <published>2020-11-06T12:00:00Z</published>
     <updated>2020-11-06T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>ROBERT JENRICK DAILY TELEGRAPH OP-ED 2.11.2020</title>
+    <link rel="alternate" href="http://robertjenrick.com/dailytelegraph2-11-20/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>None of us wanted these new restrictions, and the Government has done everything in its power to avoid them.</p>
+<p>As the Prime Minister said on Saturday night, we understand the huge impact further restrictions have on jobs, on livelihoods and on people’s mental health.</p>
+<p>Throughout this pandemic we have sought to protect our businesses and limit the intrusions on personal liberty as much as possible. For those of us who came into politics to help hardworking people and small businesses to thrive, it is heartbreaking to place these burdens upon them. For those of us who value personal freedom deeply, it pains us to inhibit it in this way.</p>
+<p>But the data left us with no choice, but to take this course of action and introduce new restrictions until 2nd December.</p>
+<p>As Local Government Secretary, I strongly believe that we were right in pursuing a local and regional approach to tackling this virus. I want to thank the millions who have put up with local restrictions and the local leaders who have stepped up to deliver this approach. Councils and local leaders have done wonderful work to help tackle the virus in their areas, and I firmly believe that in the longer term that is the approach that works best.</p>
+<p>That’s why after we ease restrictions on 2nd December we are planning to continue with a local approach according to the latest data and trends.</p>
+<p>But for now, the stark reality is that infections, hospitalisations and deaths continue to double, meaning that the virus is now a national problem.</p>
+<p>The NHS and its workforce is weeks from being placed in an impossible situation. And those concerns are shared by our NHS colleagues from rural Cornwall to Nottingham to Newcastle. And a significantly higher death toll than the first wave is now predicted without taking further restrictions. We owe it to the country to act, and to act swiftly.</p>
+<p>The Prime Minister made a decision that any responsible leader would make when presented with the new medical evidence last week and will set out his plans to parliament ahead of a vote on Wednesday.</p>
+<p>Non-Covid healthcare can continue as normal – so that you can continue to use the NHS for your treatments, appointments and scans.</p>
+<p>And the furlough scheme has been extended for a further month, covering 80% of employees’ wages. The Prime Minister and Chancellor have always been clear that we will do whatever it takes to protect businesses and their employees.</p>
+<p>These are tough national measures, but they are different from those in the Spring. Our schools, colleges and universities remain open and we should resist those who would close them. As a parent I know there is simply no substitute for face to face teaching and our children’s education must not be set back again.</p>
+<p>Unlimited exercise outdoor is permitted and single person households can form a support bubble. Children under school age who are with their parents will not count towards the limit on two people meeting outside, meaning that a parent can see a friend or family member with their baby or young children, and children and adults who are dependent on round-the-clock care, such as those with severe disabilities, will also be included in this exemption. Churches and places of worship will remain open,  providing solace and comfort for people, albeit for private prayer rather than communal worship.</p>
+<p>If you can work from home you should, but if not, you can and should go to work, following the relevant guidance for your workplace. Too many jobs and businesses have been lost already, with all the harm that comes with that, so we must do everything we can to keep working and we in Government will do all we can to support you.</p>
+<p>As Housing Secretary, I can confirm that the housing market will remain open throughout this period as will construction sites, building the homes and sustaining the jobs we desperately need. Tradespeople like plumbers and electricians can come into your home as long as they follow social distancing guidance.</p>
+<p>Those we previously asked to stay at home and shield, the clinically extremely vulnerable, will be given new guidance shortly that will be less restrictive. But nonetheless they should continue to be cautious.</p>
+<p>These changes are important to protect our way of life and our livelihoods, but I am under no illusion that the things people really want to do are hug their grandchildren, finally have the postponed wedding or simply share a cup of tea with old friends. But it is by taking these tough decisions now that we will get through this together.</p>
+<p>Members of the public have shown incredible forbearance, patience and dignity in responding to this unique situation, and shown the character that has always been present in this country at moments of great challenge.</p>
+<p>Amidst this winter gloom, there are rays of light piercing through and raising our eyes to the horizon. We know more about this virus with every day that passes and there are ever better medicine and therapies, along with the realistic chance of a vaccine being available for those that need it most in the first quarter of next year.</p>
+<p>We expect to have quick turnaround tests that will tell you whether or not you have the virus very soon – with a massive expansion of these planned in the coming weeks.</p>
+<p>These are reasons for optimism – but there is no denying that there are hard days ahead of us.</p>
+<p>But by acting now, it is our hope that families across the country can be together for Christmas.</p>
+<p>So, from Thursday: rejoin in a further national effort to protect the NHS, save lives and move forward together.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">None of us wanted these new restrictions, and the Government has done everything in its power to avoid them. As the Prime Minister said on Saturday night, we understand the huge impact further restrictions have on jobs, on livelihoods and on people’s mental health. Throughout...</div>
+    </summary>
+    <author>
+      <name>Robert Jenrick</name>
+    </author>
+    <id>http://robertjenrick.com/?p=1427</id>
+    <published>2020-11-02T10:48:18Z</published>
+    <updated>2020-11-02T10:48:18Z</updated>
+    <category term="News &amp; Events"/>
+    <category term="Daily Telegraph"/>
   </entry>
 </feed>
