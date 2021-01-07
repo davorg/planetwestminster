@@ -7,9 +7,122 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-07T14:00:29Z</updated>
+  <updated>2021-01-07T14:57:16Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>University survey</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/university-survey" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <form class="webform-client-form webform-client-form-1441" action="/rss.xml" method="post" id="webform-client-form-1441" accept-charset="UTF-8">
+          <div><fieldset class="webform-component-fieldset webform-component--civicrm-1-activity-1-fieldset-fieldset form-wrapper"><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-markup webform-component--civicrm-1-activity-1-fieldset-fieldset--spacer1">
+ 
+</div>
+</div></fieldset>
+<div class="form-item webform-component webform-component-markup webform-component--spacer3">
+ 
+</div>
+<fieldset class="webform-component-fieldset webform-component--civicrm-1-contact-1-fieldset-fieldset form-wrapper"><legend><span class="fieldset-legend">Your contact details</span></legend><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-civicrm_contact static webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-existing">
+<input data-hide-method="hide" data-no-hide-blank="0" class="civicrm-enabled" data-civicrm-field-key="civicrm_1_contact_1_contact_existing" type="hidden" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_existing]" value=""/>
+
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-first-name">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="First Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_first_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_first_name]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-last-name">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Last Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_last_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_last_name]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-street-address">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address">Street Address </label>
+ <input placeholder="Street address" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_street_address" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_street_address]" value="" size="60" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-city">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city">City </label>
+ <input placeholder="City" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_city" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_city]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-postal-code">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code">Postal Code <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Postal Code" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_address_postal_code" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_postal_code]" value="" size="7" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-email webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-email-email">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email">Email </label>
+ <input class="email civicrm-enabled form-text form-email" placeholder="Email" data-civicrm-field-key="civicrm_1_contact_1_email_email" type="email" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_email_email]" size="20"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-phone-phone">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone">Phone Number </label>
+ <input placeholder="Phone number" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_phone_phone]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-2-phone-phone">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone">Mobile </label>
+ <input placeholder="Mobile" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_2_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_2_phone_phone]" value="" size="20" maxlength="128"/>
+</div>
+</div></fieldset>
+<div class="form-item webform-component webform-component-markup webform-component--spacer">
+ 
+</div>
+<fieldset class="webform-component-fieldset webform-component--group-fieldset form-wrapper"><legend><span class="fieldset-legend">Can Jon update you about news and campaigns?</span></legend><div class="fieldset-wrapper"><div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-228">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">Can Jon stay in contact by email <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1">Yes Jon can email me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2">No Jon cannot email me </label>
+
+</div>
+</div>
+</div>
+<div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-226">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">Can Jon stay in contact by phone? <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_226" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_226]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-1">Yes Jon can phone me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_226" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_226]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-2">No Jon cannot phone me </label>
+
+</div>
+</div>
+</div>
+<div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-227">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">Can Jon stay in contact by SMS? <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_227" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_227]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-1">Yes Jon can SMS me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_227" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_227]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-2">No Jon cannot SMS me </label>
+
+</div>
+</div>
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--opt-out-at-any-time">
+ <p>You can opt out at any time. You can find my privacy policy <a href="https://joncruddas.org.uk/legal-and-privacy">here</a>. Any previous opting information you have given Jon will display on this petition form</p>
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--spacer2">
+ 
+</div>
+</div></fieldset>
+<input type="hidden" name="details[sid]"/>
+<input type="hidden" name="details[page_num]" value="1"/>
+<input type="hidden" name="details[page_count]" value="1"/>
+<input type="hidden" name="details[finished]" value="0"/>
+<input type="hidden" name="form_build_id" value="form-HNVVNbRE7lz8caOHp_N5dY8U6tNMKJifMSIs7fbpSm8"/>
+<input type="hidden" name="form_id" value="webform_client_form_1441"/>
+<div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
+        </form>
+      </div>
+    </content>
+    <author>
+      <name>MatO</name>
+    </author>
+    <id>1441 at https://joncruddas.org.uk</id>
+    <published>2021-01-07T14:31:54Z</published>
+    <updated>2021-01-07T14:31:54Z</updated>
+  </entry>
   <entry>
     <title>Committee fishing for wildlife photographer to capture the beauty of British nature </title>
     <link rel="alternate" href="https://www.philipdunne.com/news/committee-fishing-wildlife-photographer-capture-beauty-british-nature" type="text/html"/>
@@ -114,6 +227,17 @@ Os hoffech gael copi papur o'r arolwg neu os oes angen unrhyw fformat arall sy�
     <updated>2021-01-07T12:00:00Z</updated>
   </entry>
   <entry>
+    <title>SNP not lifting a finger in hopes of fishing failure</title>
+    <link rel="alternate" href="https://www.johnlamont.org/news/snp-not-lifting-finger-hopes-fishing-failure" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The SNP are not lifting a finger to help Scottish fishing exports in the hopes of a failure they can blame on Brexit, the Scottish Conservatives have said.
+In recent days there have been delays to Scottish fishing exports for two reasons - as a result of hold-ups in Scotland that have not been…</div>
+    </content>
+    <id>https://www.johnlamont.org/news/snp-not-lifting-finger-hopes-fishing-failure</id>
+    <published>2021-01-07T12:00:00Z</published>
+    <updated>2021-01-07T12:00:00Z</updated>
+  </entry>
+  <entry>
 		<title>Is your MP on this list backing my amendment to the Fire Safety Bill? If not email them, so leaseholders do not have to pay for historic fire safety defects</title>
 		<link rel="alternate" type="text/html" href="https://www.stephen-mcpartland.com/news/1739-is-your-mp-on-this-list-backing-my-amendment-to-the-fire-safety-bill-if-not-email-them-so-leaseholders-do-not-have-to-pay-for-historic-fire-safety-defects"/>
 		<published>2021-01-07T11:04:19+00:00</published>
@@ -132,7 +256,7 @@ Os hoffech gael copi papur o'r arolwg neu os oes angen unrhyw fformat arall sy�
 		<category term="Local News"/>
 	</entry>
   <entry>
-    <title>My speech during the debate on Public Health, 7 January 2020</title>
+    <title>My speech during the debate on Public Health, 7 January 2021</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2021/01/07/my-speech-during-the-debate-on-public-health-7-january-2020/" type="text/html"/>
     <content type="html">
 &lt;p&gt;&lt;strong&gt;Sir John Redwood (Wokingham (Con):&lt;/strong&gt; I am very worried about the loss of liberty. I am very worried about the economic damage. I am very concerned about all those small businesses that have been shut down, and their livelihoods undermined. I want the Government to introduce a more urgent, convincing exit strategy from these measures, and I think that we are owed more debates and more votes long before the end of March. We need to keep this under constant review, and keep up the pressure to take away those measures that are not strictly necessary or which can be superseded by something better.&lt;/p&gt;
@@ -175,73 +299,6 @@ Os hoffech gael copi papur o'r arolwg neu os oes angen unrhyw fformat arall sy�
     <updated>2021-01-07T09:52:52Z</updated>
     <category term="Conor in St Helens"/>
     <category term="News"/>
-  </entry>
-  <entry>
-    <title>Community Focus Interview with Tapestry UK</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/community-focus-interview-tapestry-uk" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/Tapestry.jpg?itok=uvxKdUgk" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p> </p>
-              <p>Today Fay Hough interviewed CEO Anthony Lowe of local charity Tapestry on behalf of Jon Cruddas MP regarding their current “lockdown three” operation.</p>
-              <p>Tapestry have been helping older people in the local area since 1949. They believe that every adult deserves the opportunity to live healthy, connected lives regardless of age or ability. Throughout the past two lockdowns Tapestry have run a tight operation throughout 2020 to make sure that adults in need were receiving hot meals and companionship. They have done a fantastic job and recently, with the support of their amazing volunteers, Tapestry delivered over 600 meals over the Christmas period including over 100 Christmas Meals. Their volunteers also supported the charity by making over 650 Care Calls to lonely isolated people in the community, which included multiple calls to those on their own, and at risk, over the Christmas period.</p>
-              <p>Jon Cruddas MP has praised the work of Tapestry throughout the pandemic and today Fay Hough had the chance to speak with Anthony Lowe regarding the newly announced lockdown.</p>
-              <p>
-                <strong>Fay Hough: <em>How does Tapestry plan to continue delivering vital services to the elderly community throughout the newly announced Lockdown?</em></strong>
-              </p>
-              <p><strong>Anthony Lowe:</strong> The lockdown is another huge strain on the people we care for. We worry the most about the long term effects these lockdowns will have on those we help such as lack of companionship, no face to face meeting with peers, reduced eating due to being scared to venture to the supermarket. We are particularly worried about those with Dementia, as these lockdowns have proven to have a detrimental effect on those suffering with the disease.</p>
-              <p>We care for over 200 adults. We will continue to make sure they have food deliveries, we will continue to make sure they are in safe and secure environments, and we will continue to make sure they have companionship. We have started new virtual hubs that provide virtual care to our adults. These hubs allow adults to have a virtual day of cooking classes or a day of crafts. Or it could be something as simple as listening to someone sing (virtual entertainment.) In order to make this service accessible to everyone we provide equipment for those in need. Equipment such as Facebook Portal and integrated WIFI is given to adults who do not have access to WIFI or webcams which means they do not miss out on virtual care.</p>
-              <p>Our newest push for lockdown three is to reach out to Havering residents asking for them to make contact if they know of any adult struggling to eat. The fear of going out has meant that some adults are missing out on food and simply not eating. We want to make sure that all those who need a hot meal receive one. We are ramping up our staff and trying hard to get the message out to our local community. We do ask for a contribution of £5 for two course meals, BUT – those in crisis (have low incomes, money issues, suffering from a bereavement, have mental health needs etc) do not have to pay. Every adult is individual accessed when they are referred to us. We never want someone to go without food because they worry how they will pay for it.</p>
-              <p><strong>Fay Hough:</strong> <em><strong>How does someone get in touch if they know of a vulnerable adult who needs help?</strong></em></p>
-              <p><strong>Tony Lowe: </strong>They can contact us via telephone at <strong>01708 796600</strong> or via email at <strong><a href="mailto:hello@tapestry-uk.org">hello@tapestry-uk.org</a> </strong></p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/charity" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Charity</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/tapestry" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Tapestry</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/community" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">community</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/interview" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Interview</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/lockdown" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Lockdown</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/tags/covid" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Covid</a>
-            </li>
-            <li class="taxonomy-term-reference-7">
-              <a href="/tags/pandemic" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Pandemic</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1440 at https://joncruddas.org.uk</id>
-    <published>2021-01-06T16:10:16Z</published>
-    <updated>2021-01-06T16:10:16Z</updated>
   </entry>
   <entry>
     <title>Statement on New National Lockdown</title>
@@ -967,18 +1024,6 @@ The married dad of two, raised in Huthwaite, is the area’s…</div>
     <published>2020-12-22T12:33:00Z</published>
     <updated>2020-12-22T12:33:00Z</updated>
     <category term="Constituency"/>
-  </entry>
-  <entry>
-    <title>UK Government make 30,000 agricultural visas available</title>
-    <link rel="alternate" href="https://www.johnlamont.org/news/uk-government-make-30000-agricultural-visas-available" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The UK Government has announced that the number of visas available for next year’s fruit and vegetable pickers will increase to 30,000.
-The 30,000 visas allow those who want to come to the UK to work on farms for a period of up to six months.
-The workers will play a vital role in helping fruit and…</div>
-    </content>
-    <id>https://www.johnlamont.org/news/uk-government-make-30000-agricultural-visas-available</id>
-    <published>2020-12-22T12:00:00Z</published>
-    <updated>2020-12-22T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Emma Speaks Up for Traveling Showmen and Women</title>
