@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-09T10:04:44Z</updated>
+  <updated>2021-01-09T11:04:20Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -1017,43 +1017,6 @@ The married dad of two, raised in Huthwaite, is the area’s…</div>
     <category term="Constituency"/>
   </entry>
   <entry>
-    <title>Emma Speaks Up for Traveling Showmen and Women</title>
-    <link rel="alternate" href="https://www.emma-lewell-buck.net/emma-speaks-up-for-traveling-showmen-and-women/" type="text/html"/>
-    <content type="html">
-&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://www.emma-lewell-buck.net/web/wp-content/uploads/2020/12/ocean-beach-pleasure-park-1-1024x682.jpg" alt="" class="wp-image-2969" srcset="https://www.emma-lewell-buck.net/web/wp-content/uploads/2020/12/ocean-beach-pleasure-park-1-980x653.jpg 980w, https://www.emma-lewell-buck.net/web/wp-content/uploads/2020/12/ocean-beach-pleasure-park-1-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" /&gt;&lt;/figure&gt;
-
-
-
-&lt;p&gt;Last week I spoke in the Westminster Hall debate entitled &lt;strong&gt;Future of fairs and Showgrounds&lt;/strong&gt;. I wanted to support those showmen and women here in South Shields which has a long history of welcoming traveling showmen and women that dates back almost 100 years. It is imperative that the Government stops ignoring the fairground and showmen community and steps in to provide vital support before it is too late. As a longstanding supporter and advocate for show people and a member of the All Party Parliamentary Group for Fairs and Showgrounds, I will continue to be a voice for this community and press the Government at every opportunity for better support and recognition. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;At the outset of the pandemic, many fairs were either cancelled or postponed – from summer fetes to Christmas Markets. As a result of the closures and postponing of fairs, many show people suffered huge financial loss, plunging them into financial insecurity.&lt;/p&gt;
-
-
-
-&lt;p&gt;The heart of the issue is that the financial support offered to the tourism industry during COVID-19 continually excluded the fairground community. Showmen and women also did not qualify for the assistance announced in the recent budget for retail, leisure and hospitality firms relating to business rates in the coming year, due to the way that the Show people operate, which falls outside the scope of static leisure providers.&lt;/p&gt;
-
-
-
-&lt;p&gt;Show people across the UK and particularly those here in South Shields, now face losing their businesses and livelihoods if the UK Government does not step in.&lt;/p&gt;
-
-
-
-&lt;p&gt;You can read my speech by clicking &lt;a href="https://hansard.parliament.uk/Commons/2020-12-17/debates/3B335883-D800-426D-ACAD-2204734ED4F7/FairsAndShowgrounds#contribution-374A337C-9576-467B-95F1-505F40A37FE0"&gt;here.&lt;/a&gt;&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Last week I spoke in the Westminster Hall debate entitled Future of fairs and Showgrounds. I wanted to support those showmen and women here in South Shields which has a long history of welcoming traveling showmen and women that dates back almost 100 years. It is imperative that the Government stops ignoring the fairground and […]</div>
-    </summary>
-    <author>
-      <name>Joan Whelan</name>
-    </author>
-    <id>https://www.emma-lewell-buck.net/?p=2971</id>
-    <published>2020-12-21T14:39:40Z</published>
-    <updated>2020-12-21T14:39:40Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
-  <entry>
     <title>David Evennett and Bexley Conservatives supporting local pubs, sports and social clubs this winter</title>
     <link rel="alternate" href="https://www.bexleyheathandcrayford.com/news/david-evennett-and-bexley-conservatives-supporting-local-pubs-sports-and-social-clubs-winter" type="text/html"/>
     <content type="xhtml">
@@ -1736,5 +1699,15 @@ the 25&lt;sup&gt;th&lt;/sup&gt; November. &lt;/p&gt;
     <category term="health secretary"/>
     <category term="parliament"/>
     <category term="vaccine"/>
+  </entry>
+  <entry>
+    <title>My current article on The Article: This US Election is a warning to us all</title>
+    <link rel="alternate" href="https://www.alistair-burt.co.uk/news/my-current-article-article-us-election-warning-us-all" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">https://www.thearticle.com/this-us-election-is-a-warning-to-us-all?fbcl…</div>
+    </content>
+    <id>https://www.alistair-burt.co.uk/news/my-current-article-article-us-election-warning-us-all</id>
+    <published>2020-11-06T12:00:00Z</published>
+    <updated>2020-11-06T12:00:00Z</updated>
   </entry>
 </feed>
