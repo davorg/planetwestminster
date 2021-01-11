@@ -7,9 +7,27 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-11T15:01:30Z</updated>
+  <updated>2021-01-11T15:54:55Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+  <title>MP asks Prime Minister for clear definition of ‘local area’ for exercise</title>
+  <link rel="alternate" href="http://timfarron.co.uk/en/article/2021/1389443/mp-asks-prime-minister-for-clear-definition-of-local-area-for-exercise"/>
+  <updated>2021-01-11T15:31:00Z</updated>
+  <id>http://timfarron.co.uk/en/article/2021/1389443/mp-asks-prime-minister-for-clear-definition-of-local-area-for-exercise</id>
+  <summary type="text">This afternoon, South Lakes MP Tim Farron has written to the Prime Minister, asking him to provide immediate clarity on how far people are allowed to travel for exercise.
+Currently, Government guidance states that "leaving home to exercise should be done locally wherever possible but you can travel a short distance within your area to do so if necessary."</summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>This afternoon, South Lakes MP Tim Farron has written to the Prime Minister, asking him to provide immediate clarity on how far people are allowed to travel for exercise.</p>
+<p>Currently, Government guidance states that "leaving home to exercise should be done locally wherever possible but you can travel a short distance within your area to do so if necessary."</p>
+<p>This has led to widespread confusion with Cumbria Police reporting incidents of people travelling hundreds of miles to do their exercise in the Lake District.</p>
+<p>Meanwhile at the other end of the spectrum, last week two women received fines of £200 each by Derbyshire Police after driving just five miles from their home for a walk.</p>
+<p>In his letter to Boris Johnson, Tim asked for the Government to provide guidance similar to that in Scotland, where there is clear limit on how far people can exercise.</p>
+<p>Tim said: <em>"Outdoor exercise is so important for both our physical and mental health.</em></p>
+<p><em>"But the Government's very muddy guidance means we have this ludicrous situation where the police are reporting that people are travelling to the Lake District from as far away as Sheffield and Northamptonshire for exercise, while other people are unsure whether they allowed to drive five minutes down the road for a walk in their local park.</em></p>
+<p><em>"A clear definition of how far we can travel for exercise would give people certainty about what they are able to do while the at the same time help us to stop the spread of this deadly virus."</em></p>
+<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
+  <category term="Article"/>
+</entry>
   <entry>
     <title>UK Government must set up Brexit Adjustment Fund</title>
     <link rel="alternate" href="https://angusmacneilsnp.com/2021/01/11/uk-government-must-set-up-brexit-adjustment-fund/" type="text/html"/>
@@ -151,15 +169,13 @@
     <category term="News"/>
   </entry>
   <entry>
-    <title>Alpine Travel </title>
-    <link rel="alternate" href="https://www.robin-millar.org.uk/news/alpine-travel" type="text/html"/>
+    <title>Prentisiaethau gyda'r Grid Cenedlaetho</title>
+    <link rel="alternate" href="https://www.robin-millar.org.uk/news/prentisiaethau-gydar-grid-cenedlaetho" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Fantastic initiative by Chris Owen and the team at Alpine! Thank you!
-HERE TO HELP !!
-Are you, or do you know someone, who is shielding within the local area and is unable to get out to the local shops for essentials?
-Our drivers and vehicles are available Monday – Friday, FREE OF CHARGE, for…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Galw ar y rhai hynny yn Aberconwy sy’n edrych am swydd i raddedigion neu brentisiaeth.  Mae’r Grid Cenedlaethol yn recriwtio’r genhedlaeth nesaf o ddatryswyr problemau a meddylwyr creadigol er mwyn helpu i drawsnewid y sector ynni i gwrdd â’r sero net.  https://ngrid.com/3n9HV1W
+Mae’r Grid…</div>
     </content>
-    <id>https://www.robin-millar.org.uk/news/alpine-travel</id>
+    <id>https://www.robin-millar.org.uk/news/prentisiaethau-gydar-grid-cenedlaetho</id>
     <published>2021-01-11T12:00:00Z</published>
     <updated>2021-01-11T12:00:00Z</updated>
   </entry>
@@ -172,6 +188,16 @@ The centre will operate seven days a week, with appointments available from 8am 
 In Scotland, the UK Government is providing all COVID testing…</div>
     </content>
     <id>https://www.johnlamont.org/news/new-galashiels-testing-centre-welcomed</id>
+    <published>2021-01-11T12:00:00Z</published>
+    <updated>2021-01-11T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Anne Marie's Weekly Column</title>
+    <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-102" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The government has taken a twin track approach to Covid - finding the medicines and cures as fast as possible and reducing infection spread while this work goes on. The current lockdown is until 31 March. The vaccine seems so tantalisingly close, but even by the end of February we will not have…</div>
+    </content>
+    <id>https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-102</id>
     <published>2021-01-11T12:00:00Z</published>
     <updated>2021-01-11T12:00:00Z</updated>
   </entry>
@@ -196,22 +222,6 @@ In Scotland, the UK Government is providing all COVID testing…</div>
     <updated>2021-01-11T11:19:09Z</updated>
     <category term="Uncategorized"/>
   </entry>
-  <entry>
-  <title>MP asks for bespoke support package to protect outdoor education centres</title>
-  <link rel="alternate" href="http://timfarron.co.uk/en/article/2021/1389353/mp-asks-for-bespoke-support-package-to-protect-outdoor-education-centres"/>
-  <updated>2021-01-11T11:02:00Z</updated>
-  <id>http://timfarron.co.uk/en/article/2021/1389353/mp-asks-for-bespoke-support-package-to-protect-outdoor-education-centres</id>
-  <summary type="text">During a parliamentary debate this week, South Lakes MP Tim Farron made the case for the Government to introduce a specialist funding package for struggling outdoor education centres.
-Tim called on ministers to follow the lead of the devolved government in Scotland who have provided a package of support to the outdoor education industry worth £2m.</summary>
-  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>During a parliamentary debate this week, South Lakes MP Tim Farron made the case for the Government to introduce a specialist funding package for struggling outdoor education centres.</p>
-<p>Tim called on ministers to follow the lead of the devolved government in Scotland who have provided a package of support to the outdoor education industry worth £2m.</p>
-<p>Of the 15,000 teachers and instructors employed in the sector, around 6,000 have lost their jobs and several centres have permanently closed.</p>
-<p>Speaking after the debate, Tim said: "<em>Outdoor education centres are really beneficial for young people's mental health, their confidence and can reignite their love of learning.</em></p>
-<p><em>"When lockdown ends, these centres will be needed more than ever.</em></p>
-<p><em>"The Government must introduce a special package of support to save outdoor education centres."</em></p>
-<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
-  <category term="Article"/>
-</entry>
   <entry>
 		<author>
 			<name>Team JP</name>
@@ -953,17 +963,6 @@ The key differences to the March lockdown is that support and childcare bubbles 
     <category term="Parliament"/>
     <category term="Profile"/>
     <category term="Stella Creasy"/>
-  </entry>
-  <entry>
-    <title>Anne Marie's Weekly Column</title>
-    <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-101" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It’s a free trade deal!
-Is this now - finally - Brexit - and a trade deal? Just to be clear, we left the EU at the beginning of 2020, but subject to a transition arrangement under the Withdrawal Agreement which expired on 31 December 2020. This agreement finally delivered our sovereignty, our…</div>
-    </content>
-    <id>https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-101</id>
-    <published>2021-01-04T12:00:00Z</published>
-    <updated>2021-01-04T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Axing the Tampon Tax – I am glad to set the record straight</title>
