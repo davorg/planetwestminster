@@ -7,9 +7,23 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-13T07:19:31Z</updated>
+  <updated>2021-01-13T08:22:39Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Local COVID testing and vaccines</title>
+    <link rel="alternate" href="https://damiancollins.com/local-covid-testing-and-vaccines/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Our NHS is leading the world in the rollout of the coronavirus vaccine. We were the first country to use the Pfizer vaccine, and we now have regulatory approval for the Oxford AstraZeneca vaccine, and the Moderna vaccine. We have vaccinated more people against coronavirus as a proportion of our population than any other country […]</div>
+    </content>
+    <author>
+      <name>pierre</name>
+    </author>
+    <id>https://damiancollins.com/?p=5504</id>
+    <published>2021-01-13T08:12:00Z</published>
+    <updated>2021-01-13T08:12:00Z</updated>
+    <category term="Weekly Blog"/>
+  </entry>
   <entry>
     <title>Votes matter</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2021/01/13/votes-matter/" type="text/html"/>
@@ -482,21 +496,6 @@ Tim was speaking in a Westminster Hall debate on a national petition which calle
     <id>6868 at https://www.philipdunne.com</id>
     <published>2021-01-11T17:43:24Z</published>
     <updated>2021-01-11T17:43:24Z</updated>
-  </entry>
-  <entry>
-    <title>The Daily Telegraph: Social media crackdown is inevitable after Trump ban, ex-Culture ministers say</title>
-    <link rel="alternate" href="https://damiancollins.com/the-daily-telegraph-social-media-crackdown-is-inevitable-after-trump-ban-ex-culture-ministers-say/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Article by Hannah Boland for the Daily Telegraph - published 11 January 2020 Social media firms can no longer shun responsibility for what is posted on their sites after banning Donald Trump and face an inevitable crackdown, former digital ministers have said. Companies including Twitter, Facebook and Snap last week took action to silence the […]</div>
-    </content>
-    <author>
-      <name>pierre</name>
-    </author>
-    <id>https://damiancollins.com/?p=5512</id>
-    <published>2021-01-11T15:23:00Z</published>
-    <updated>2021-01-11T15:23:00Z</updated>
-    <category term="News Features"/>
-    <category term="Social Media"/>
   </entry>
   <entry>
     <title>Graham Stuart MP congratulates Hornsea School and Language College for their remote learning success</title>
@@ -1665,12 +1664,12 @@ These new grant schemes include a special winter support package of just under �
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.2" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="355ca7fac9"  data-nonce-time="1610521812" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="355ca7fac9"  data-nonce-time="1610525576" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Company&lt;/label&gt;&lt;input type="text" name="company" value="" autocomplete="off"&gt;
+&lt;label&gt;Phone&lt;/label&gt;&lt;input type="text" name="phone" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
