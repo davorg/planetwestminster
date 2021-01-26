@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-26T06:55:47Z</updated>
+  <updated>2021-01-26T07:55:18Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -28,6 +28,76 @@
     <published>2021-01-26T05:04:25Z</published>
     <updated>2021-01-26T05:04:25Z</updated>
     <category term="Uncategorized"/>
+  </entry>
+  <entry>
+    <title>Environmental Audit Committee writes to Bank of England calling for Covid stimulus to align with the Paris Agreement</title>
+    <link rel="alternate" href="https://www.philipdunne.com/news/environmental-audit-committee-writes-bank-england-calling-covid-stimulus-align-paris-agreement" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="6874" class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      
+            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">25 January 2021</div>
+      
+      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Environmental Audit Committee writes to Bank of England calling for Covid stimulus to align with the Paris Agreement</span></div>
+      
+            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p>The Environmental Audit Committee, of which Philip is Chair, has written to the Governor of the Bank of England urging it to show continued leadership on climate change by ensuring that its future actions to promote economic recovery from coronavirus reduce the UK’s exposure of climate risk.</p></div>
+      
+      </div>
+</div>
+              <div class="field--item">  <div class="paragraph paragraph--type--image paragraph--view-mode--default">
+              
+      <div class="image-container">
+        
+            <div class="field field--name-field-paragraph-image field--type-entity-reference field--label-hidden field--item">  <img src="https://www.philipdunne.com/sites/philipdunne.com/files/2021-01/eac_letter_to_bank_of_england_22012021.png" width="810" height="2185" alt="Letter to the Governor of the Bank of England" typeof="foaf:Image" class="img-responsive"/></div>
+      
+        <div class="caption">
+          <div class="svg">
+          </div>
+        </div>
+      </div>
+          </div>
+</div>
+              <div class="field--item">  <div class="paragraph paragraph--type--attachment paragraph--view-mode--default">
+                <a href="https://www.philipdunne.com/sites/philipdunne.com/files/2021-01/eac_bank_of_england_letter_22012021.pdf" target="_blank" class="flex-container-media">
+          <div class="file-background-media">
+            <div class="svg">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" id="svg1591" version="1.1" viewbox="0 0 16.933334 16.947632" height="16.947632mm" width="16.933334mm"><defs id="defs1585"/><g transform="translate(-97.366668,-140.35952)" id="layer1"><path style="fill:#ffffff;stroke-width:0.26458332" id="path682" d="M 103.71667,142.47619 H 107.95 v 1.41102 h -4.23333 z m 2.11666,10.58333 4.93898,-5.64436 H 107.95 v -2.82231 h -4.23333 v 2.82231 h -2.82231 z M 107.95,141.77054 v -1.41102 h -4.23333 v 1.41102 z m 2.26695,-0.17356 -0.85593,1.12818 a 7.0556437,7.0556437 0 1 1 -7.05564,0 l -0.85566,-1.12818 a 8.4666667,8.4666667 0 1 0 8.76723,0 z"/></g></svg></div>
+            <div class="file-media">
+                          
+      <div class="field field--name-field-media-file field--type-entity-reference field--label-hidden field--items">
+              <div class="field--item"><div>
+  
+  
+  <div class="field field--name-field-media-document field--type-file field--label-visually_hidden">
+    <div class="field--label sr-only">Document</div>
+              <div class="field--item"><span class="file file--mime-application-pdf file--application-pdf icon-before"><span class="file-icon"><span class="icon glyphicon glyphicon-file text-primary" aria-hidden="true"/></span><span class="file-link"><a href="https://www.philipdunne.com/sites/philipdunne.com/files/2021-01/eac_bank_of_england_letter_22012021.pdf" type="application/pdf; length=125716" title="Open file in new window" target="_blank" data-toggle="tooltip" data-placement="bottom">eac_bank_of_england_letter_22012021.pdf</a></span><span class="file-size">122.77 KB</span></span></div>
+          </div>
+
+</div>
+</div>
+          </div>
+  
+                        </div>
+          </div>
+        </a>
+            </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+</div>
+    </content>
+    <author>
+      <name>jon</name>
+    </author>
+    <id>6874 at https://www.philipdunne.com</id>
+    <published>2021-01-25T22:00:00Z</published>
+    <updated>2021-01-25T22:00:00Z</updated>
   </entry>
   <entry>
     <title>Newcastle Central Covid19 #Excluded Town Hall</title>
@@ -107,61 +177,6 @@ Mark is a lecturer in Sport Development at the University of Cumbria and lives n
 		<category term="Local News"/>
 		<category term="Local News"/>
 	</entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>Jack Gebhard</name>
-					</author>
-
-		<title type="html"><![CDATA[Towns Fund Bid will kickstart Worcester regeneration]]></title>
-		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2021/01/towns-fund-bid-will-kickstart-worcester-regeneration/"/>
-
-		<id>https://www.walker4worcester.com/?p=2135</id>
-		<updated>2021-01-25T15:21:25Z</updated>
-		<published>2021-01-25T14:56:48Z</published>
-		<category scheme="https://www.walker4worcester.com" term="News"/>
-		<summary type="html"><![CDATA[Worcester’s MP has fully endorsed the proposals for a Town Investment Plan submitted to the Government’s Stronger Towns Fund and as a board member on the city’s Towns Fund bid he has welcomed the publication of a strong suite of projects. He particularly welcomed the focus on the largest project, a regeneration proposal for Shrub [&#8230;]]]></summary>
-
-					<content type="html" xml:base="https://www.walker4worcester.com/2021/01/towns-fund-bid-will-kickstart-worcester-regeneration/"><![CDATA[<p style="text-align: left;">Worcester’s MP has fully endorsed the proposals for a Town Investment Plan submitted to the Government’s Stronger Towns Fund and as a board member on the city’s Towns Fund bid he has welcomed the publication of a strong suite of projects.</p>
-<p style="text-align: left;">He particularly welcomed the focus on the largest project, a regeneration proposal for Shrub Hill Station and its surrounding area that can bring new life to one of the key gateways to the city with around 100 new homes and an enterprise centre to support small businesses. Robin has used his position on the Towns Fund board to push for investment in areas of Worcester that have sometimes felt left behind and he has welcomed a strong focus on skills and transport improvements across Gorse Hill, Rainbow Hill and Warndon as well as a new construction skills centre for Dines Green.</p>
-<p style="text-align: left;">The bid also includes exciting plans for a Health and wellness centre on the West side of the river which will support the University’s plans to expand its nurse training and deliver a medical school, something that he has long campaigned for and improvements to the riverside and heritage offer. It will also support active travel across the city with a number of cycle routes being boosted, a new river crossing for walkers and cyclists and a cycle hire scheme with conventional and e-bikes.</p>
-<p style="text-align: left;">The government’s £3.6 billion Towns Fund is symbolic of the Conservative Party’s commitment to areas that have previously been previously overlooked from allocations of government funding. Worcester has already benefited from the Towns Fund through the Future High Streets Fund, which allocated £17.9 million to transform the Scala Theatre, Angel Place and the Corn Exchange and £3m of cultural funding to support the regeneration of the Arches.</p>
-<p style="text-align: left;">Now, if the TIP is approved, Worcester could be set to receive the £28 million boost through the government’s Town Deals programme. 101 towns and cities across the country will receive the money that is designed to generate economic growth, level up opportunities, and create jobs for local residents.</p>
-<p style="text-align: left;">Each Town Deal is managed by a board, made up of community leaders. As the local MP, Robin Walker is a member of Worcester’s Town Deal Board alongside Parish, City and County councillors, the Dean of Worcester Reverend Peter Atkinson, and representatives from Worcester’s business community. The Town Deal Board has consulted with residents and other members of the Worcester Community to make 6 proposals to government that will help improve the city.</p>
-<p style="text-align: left;">The projects that will result from the funding are</p>
-<ul style="text-align: left;">
-<li>£5 million for community skills and enterprise training</li>
-<li>£3.5 million to create the ‘Severn Centre for Health and Wellbeing’ – a training centre for healthcare professionals including a GP practice, on-site therapy and rehabilitation clinics and prescribed classes in nutrition and exercise.</li>
-<li>£10.5 million to regenerate Shrub Hill and create an impressive gateway to the city that is more befitting of Worcester’s status.</li>
-<li>£2.25 million to promote the city’s heritage assets so residents and tourists can benefit from our rich heritage.</li>
-<li>£1.9 million to help make the most of the city’s place around the River Severn by promoting the local health and economic benefits of the Riverside.</li>
-<li>£4.8 million to invest in active travel that will connect communities and ensure there are more sustainable ways to move around the city.</li>
-</ul>
-<p style="text-align: left;">Robin pressed hard during 2019 for Worcester to be eligible to bid for both the Stronger Towns Fund and the Future High Streets Fund and he has recently welcomed the success of its £18m bid for the latter. As one of only a handful of places eligible to bid for both funds, Worcester stands to benefit from as much as £46 million of government funding, more than £60m in total, if its second bid succeeds.</p>
-<p style="text-align: left;">Some of the reasons why Robin believes that it should include:</p>
-<ul style="text-align: left;">
-<li>A strong profile of match funding with the £28m ask of the Government being fully matched by £28m of local funding</li>
-<li>Regional benefits of both the proposed Severn campus for Health and wellbeing and the Shrub Hill Regeneration offering the opportunity of jobs and economic benefits beyond Worcester</li>
-<li>Delivery of both affordable housing and employment opportunities</li>
-<li>Well targeted funding to some of Worcester’s areas of highest need including a range of initiatives to support employment and skills</li>
-<li>Valuable investments in active travel, particularly between areas of higher unemployment and the city centre, supporting both greener transport and employability</li>
-<li>Making the most of Worcester’s heritage and natural assets by linking cultural sites and the riverside</li>
-<li>Expanding on the potential of the fastest expanding University in the country for healthcare and supporting the local NHS</li>
-</ul>
-<p style="text-align: left;">Commenting on the proposals and the Stronger Towns Fund process, Robin said</p>
-<p style="text-align: left;">“I have always believed that regeneration offers huge opportunities for our city and ever since I was first elected I have campaigned to get more investment across Worcester. In my first term in Parliament I set up an all party group on regeneration and highlighted the potential of the Shrub Hill area. I am delighted that a £10.5 million project to transform this neglected gateway to our city is at the heart of the Towns Fund bid. However, I think we also have proposals on skills, on jobs, on supporting cycling to work and on investment across the whole city that will take this further and benefit many more parts of Worcester.”</p>
-<p style="text-align: left;">“I am really pleased that the cross party, cross community group that were brought together to work on the Towns Fund have delivered such a strong portfolio of projects and I believe some of these are of regional significance. Along with initiatives to improve our connectivity through investment in rail, I believe that the plans for Shrub Hill and for the Severn Campus have the potential to support economic benefits even wider than Worcester itself.”</p>
-<p style="text-align: left;">“By setting up the Stronger Towns fund back in 2019, the Government recognised that it is often local ideas and local leaders who have the best ability to influence change on the ground and announced its intention to build a stronger economy through local initiatives. It has been a pleasure to work with community leaders and councillors to deliver a plan which reflects the diversity and unique opportunities of Worcester today. Since then we have all felt the terrible impact of the covid pandemic and it is sadly a fact that the areas of highest need have been the hardest hit.”</p>
-<p style="text-align: left;">“These interventions therefore could not be more timely or more keenly needed. I am glad that the projects in Worcester’s bid will help some of the parts of Worcester that need it most as well as strengthening our city centre and riverside. Worcester is already benefiting from the success of its excellent Future High Street’s bid, the cultural funding for the arches and the first £1 million of Towns fund money and winning the funding from the Towns Fund would make 2021 a record year for investment in our city. I am proud to be supporting a government that has driven forward such investments and I will do all I can to back this bid.”</p>
-<p style="text-align: left;">Cllr Marc Bayliss, leader of Worcester City Council said:</p>
-<p style="text-align: left;">“We are living in unprecedented times but, as our Town Investment Plan demonstrates, ambition and commitment have never been in short supply here in Worcester. We are confident that the plan we are preparing to government will produce a strong platform from which we can create more jobs and develop better life chances for local people. We have consulted extensively, and this plan reflects a wide range of views on how this could best be achieved.”</p>
-<p style="text-align: left;">Cllr Simon Geraghty Leader of Worcestershire County Council said:</p>
-<p style="text-align: left;">“Worcestershire County Council is fully committed to supporting these excellent proposals and we believe that the plans for Shrub Hill are of regional significance in their potential to improve employment and boost the economy. Alongside the Redditch bid for the Towns Fund these plans have the potential to be a game changer for the county, boosting connectivity, investing in skills and delivering regeneration.”</p>
-]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2021/01/towns-fund-bid-will-kickstart-worcester-regeneration/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2021/01/towns-fund-bid-will-kickstart-worcester-regeneration/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry>
     <title>Covid 19 Vaccination FAQs</title>
     <link rel="alternate" href="https://joncruddas.org.uk/covid-19-vaccination-faqs" type="text/html"/>
@@ -290,55 +305,6 @@ Mark is a lecturer in Sport Development at the University of Cumbria and lives n
     <published>2021-01-25T13:04:18Z</published>
     <updated>2021-01-25T13:04:18Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Investing in low-carbon jobs is not just about the future</title>
-    <link rel="alternate" href="https://www.philipdunne.com/news/investing-low-carbon-jobs-not-just-about-future" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="6873" class="layout layout--onecol">
-    <div class="layout__region layout__region--content">
-      
-            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">25 January 2021</div>
-      
-      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
-          
-            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Investing in low-carbon jobs is not just about the future</span></div>
-      
-            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p>In January, as the UK plunged into a further period of severe national restrictions, important sectors of the economy began grinding to a halt. The Chancellor quickly confirmed renewed economic stimulus packages: a recent commitment of £4.6bn, for example, was aimed at ensuring businesses do not fold and securing millions of jobs. But even this challenging period brings an opportunity to ensure a “green” economic recovery. We must seize it. The Environmental Audit Committee in the House of Commons, which I chair, is examining how to align future such economic measures with the UK’s ambitious climate and environment goals.</p>
-
-<p>To champion a net zero economy, the UK must develop the workforce skills to deliver it. Economists predict 2.6m people could be unemployed by mid-2021, marking the highest level of unemployment since the financial crisis in 2009. The creation of green jobs will be instrumental in addressing this crisis. The UK is a science and technology powerhouse, with thriving clusters around the country. It needs a skilled workforce not only to develop crucial green technologies like hydrogen, offshore wind and heat pumps, but also to undertake the installations required at pace. The committee has heard that a national retrofit strategy, with education providers at its heart, is required to provide the training and re-training needed for a low-carbon future.</p>
-
-<p>As the government has brought forward to 2030 the date from which the sale of new petrol and diesel cars is banned, the electric vehicles market must expand rapidly. Government support will be necessary to scale manufacturing of batteries and the wider electric vehicle supply chain to make a rapid switch from manufacturing combustion engines to ultra low and zero emission vehicles. Up to eight so-called “gigafactories” will be required in the UK to manufacture electric vehicles and their batteries. The government recently announced that Blyth Valley will be the home to the first of these, creating thousands of low-carbon jobs. </p>
-
-<p>Manufacturers and retailers, especially online laggards, need to develop a circular economy, which will support many new roles in electronics and related industries. We must all of us make better use of what we have, giving a new lease of life to items rather than discarding them. In my committee’s recent report on electronic waste, we were shocked to find that many devices are not built to last, are almost impossible to repair, and are too often sent to landfill. National recycling efforts are stalling, and electronic waste has a huge and detrimental impact on<br/>
-our environment.</p>
-
-<p>These transformations to the economy will not happen overnight, but the government must set the direction of travel, detailing realistic paths to net zero. The UK’s “Nationally Determined Contribution” under the Paris Agreement, aimed at reducing emissions from 1990 levels by at least 68 per cent by 2030, is rightly ambitious. Now we must see the detailed strategies and government actions to back it up. The UK plays host to COP26 in November, and all eyes will be on us as an environmental world leader. The Chancellor’s next budget on 3rd March must back this ambition, and ensure that the UK’s spending plans align with its net zero and biodiversity commitments.</p>
-
-<p>Incentivising business to adopt more sustainable behaviour will be key, and taxation could play a part in this. Submissions to our inquiry into the post-Covid recovery support tax changes to stimulate a low-carbon future. The Treasury should consider how taxes can better penalise pollution and waste. After Brexit, the greater freedom to change national VAT rates could be used to encourage consumer behaviour towards these goals. Further tax incentives may also be required to meet the PM’s pledge that the only new cars and vans on sale by 2030 will be electric ones. </p>
-
-<p>Over the course of the pandemic, many people have developed a greater admiration for science—driven in part by the development of treatments and vaccines in record time. Similarly, we must trust and be guided by the science in reaching net zero carbon emissions by 2050. This target appears remote, but the window of opportunity to make meaningful change is narrow. We cannot afford not to act.</p>
-
-<p> </p>
-
-<p><a href="https://www.prospectmagazine.co.uk/politics/investing-in-low-carbon-jobs-is-not-just-about-the-future">Published in Prospect Magazine</a></p></div>
-      
-      </div>
-</div>
-          </div>
-  
-    </div>
-  </div>
-
-</div>
-    </content>
-    <author>
-      <name>jon</name>
-    </author>
-    <id>6873 at https://www.philipdunne.com</id>
-    <published>2021-01-25T12:22:39Z</published>
-    <updated>2021-01-25T12:22:39Z</updated>
   </entry>
   <entry>
     <title>Vaccination Update </title>
@@ -584,22 +550,6 @@ First, I want to praise the incredible efforts of our local teams of GPs, nurses
     <updated>2021-01-22T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>50th ANNIVERSARY OF UPPER CLYDE SHIPBUILDERS WORK-IN MARKED IN PARLIAMENT</title>
-    <link rel="alternate" href="http://martindocherty.scot/50th-anniversary-of-upper-clyde-shipbuilders-work-in-marked-in-parliament/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Martin Docherty-Hughes MP has tabled a motion in the House of Commons marking the upcoming 50th anniversary of the 1971-1972 Upper Clyde Shipbuilders (UCS) work-in. The parliamentary motion recalls the UCS industrial action taken in response to the then Conservative UK … <a href="http://martindocherty.scot/50th-anniversary-of-upper-clyde-shipbuilders-work-in-marked-in-parliament/">Continue reading <span class="meta-nav">→</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/50th-anniversary-of-upper-clyde-shipbuilders-work-in-marked-in-parliament/">50th ANNIVERSARY OF UPPER CLYDE SHIPBUILDERS WORK-IN MARKED IN PARLIAMENT</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Communications Officer</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1498601</id>
-    <published>2021-01-22T11:34:23Z</published>
-    <updated>2021-01-22T11:34:23Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
 		<author>
 			<name>Susie Burpee</name>
 					</author>
@@ -621,7 +571,7 @@ While it is good news that over 56,000 people have been vaccinated in Leicester,
 <p><a href="https://www.leicestermercury.co.uk/news/leicester-news/major-coronavirus-outbreaks-flare-up-4914589">Read more in the Leicester Mercury.</a></p>
 <p>&nbsp;</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-2444" data-post-type="none" ><a href="https://lizkendall.org/child-care-support-cut-for-leicester-families/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" alt="Child care support cut for Leicester families" width="150" height="150" /></a><a href="https://lizkendall.org/child-care-support-cut-for-leicester-families/" class="wp_rp_title">Child care support cut for Leicester families</a></li><li data-position="1" data-poid="in-9256" data-post-type="none" ><a href="https://lizkendall.org/liz-hears-about-what-more-needs-to-be-done-to-support-our-veterans/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/11/Brendan-Daly-meeting-150x150.jpg" alt="Liz hears about what more needs to be done to support our veterans" width="150" height="150" /></a><a href="https://lizkendall.org/liz-hears-about-what-more-needs-to-be-done-to-support-our-veterans/" class="wp_rp_title">Liz hears about what more needs to be done to support our veterans</a></li><li data-position="2" data-poid="in-4478" data-post-type="none" ><a href="https://lizkendall.org/mps-jobs-fair-aims-to-boost-youth-employment/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" alt="MP&#8217;s Jobs Fair aims to boost youth employment" width="150" height="150" /></a><a href="https://lizkendall.org/mps-jobs-fair-aims-to-boost-youth-employment/" class="wp_rp_title">MP&#8217;s Jobs Fair aims to boost youth employment</a></li><li data-position="3" data-poid="in-7248" data-post-type="none" ><a href="https://lizkendall.org/residents-give-their-thumbs-up-to-the-waterside-development/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2015/03/IMG_6565-150x150.jpg" alt="Residents give their thumbs up to the Waterside Development" width="150" height="150" /></a><a href="https://lizkendall.org/residents-give-their-thumbs-up-to-the-waterside-development/" class="wp_rp_title">Residents give their thumbs up to the Waterside Development</a></li><li data-position="4" data-poid="in-6282" data-post-type="none" ><a href="https://lizkendall.org/4m-are-missing-vital-cervical-cancer-tests-women-struggle-to-book-convenient-gp-appointments-daily-mail-24-april/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" alt="4m are missing vital cervical cancer tests: Women struggle to book convenient GP appointments (Daily Mail, 24 April)" width="150" height="150" /></a><a href="https://lizkendall.org/4m-are-missing-vital-cervical-cancer-tests-women-struggle-to-book-convenient-gp-appointments-daily-mail-24-april/" class="wp_rp_title">4m are missing vital cervical cancer tests: Women struggle to book convenient GP appointments (Daily Mail, 24 April)</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-3611" data-post-type="none" ><a href="https://lizkendall.org/mp-shows-support-for-carers-over-a-cuppa-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/18.jpg" alt="MP shows support for carers over a cuppa" width="150" height="150" /></a><a href="https://lizkendall.org/mp-shows-support-for-carers-over-a-cuppa-2/" class="wp_rp_title">MP shows support for carers over a cuppa</a></li><li data-position="1" data-poid="in-5587" data-post-type="none" ><a href="https://lizkendall.org/liz-meets-young-people-to-talk-about-sexual-health-issues/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/10/Brook-sexual-health-meeting-15th-Oct-2013-540x405111-150x150.jpg" alt="Liz meets young people to talk about sexual health issues" width="150" height="150" /></a><a href="https://lizkendall.org/liz-meets-young-people-to-talk-about-sexual-health-issues/" class="wp_rp_title">Liz meets young people to talk about sexual health issues</a></li><li data-position="2" data-poid="in-8268" data-post-type="none" ><a href="https://lizkendall.org/liz-meets-city-of-sanctuary-in-parliament/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/11/FullSizeRender-1-150x150.jpg" alt="Liz meets City of Sanctuary in Parliament" width="150" height="150" /></a><a href="https://lizkendall.org/liz-meets-city-of-sanctuary-in-parliament/" class="wp_rp_title">Liz meets City of Sanctuary in Parliament</a></li><li data-position="3" data-poid="in-3319" data-post-type="none" ><a href="https://lizkendall.org/dementia-cash-boost-hailed/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/8.jpg" alt="Dementia cash boost hailed" width="150" height="150" /></a><a href="https://lizkendall.org/dementia-cash-boost-hailed/" class="wp_rp_title">Dementia cash boost hailed</a></li><li data-position="4" data-poid="in-1547" data-post-type="none" ><a href="https://lizkendall.org/east-midlands-manifesto-launch/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2010/04/EMids_Manifesto2web-150x150.jpg" alt="East Midlands Manifesto Launch" width="150" height="150" /></a><a href="https://lizkendall.org/east-midlands-manifesto-launch/" class="wp_rp_title">East Midlands Manifesto Launch</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-responds-to-rise-in-care-home-outbreaks-in-leicester/">Liz responds to rise in care home outbreaks in Leicester</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -906,10 +856,10 @@ Last week I…</div>
 
 					
 &lt;ul class="mk-employeee-networks"&gt;
-			&lt;li&gt;&lt;a target="_blank" href="mailto:s&amp;#116;&amp;#101;ve&amp;#46;&amp;#114;&amp;#101;ed.m&amp;#112;&amp;#64;p&amp;#97;r&amp;#108;ia&amp;#109;e&amp;#110;t&amp;#46;u&amp;#107;" title="Get In Touch With Steve Reed"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-600fbb820d1f8" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"&gt;&lt;path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-600fbb820d3c7" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"&gt;&lt;path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-600fbb820d53e" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"&gt;&lt;path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-600fbb820d61f" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"&gt;&lt;path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a target="_blank" href="mailto:&amp;#115;teve&amp;#46;&amp;#114;&amp;#101;e&amp;#100;&amp;#46;mp&amp;#64;p&amp;#97;&amp;#114;&amp;#108;i&amp;#97;&amp;#109;en&amp;#116;&amp;#46;u&amp;#107;" title="Get In Touch With Steve Reed"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-600fc8e0b0cf2" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"&gt;&lt;path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-600fc8e0b100c" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"&gt;&lt;path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-600fc8e0b1287" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"&gt;&lt;path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-600fc8e0b1412" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"&gt;&lt;path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
 	&lt;/ul&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
@@ -1847,12 +1797,12 @@ The married dad of two, raised in Huthwaite, is the area’s…</div>
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.3" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="fa433bc59c"  data-nonce-time="1611643617" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="fa433bc59c"  data-nonce-time="1611647035" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Email&lt;/label&gt;&lt;input type="text" name="email" value="" autocomplete="off"&gt;
+&lt;label&gt;Name&lt;/label&gt;&lt;input type="text" name="name" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
@@ -2176,10 +2126,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-600fbcc4afcb0" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-600fc9b0e01a4" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-600fbcc4afcb0').iPhorm({"id":5,"uniqueId":"600fbcc4afcb0","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-600fc9b0e01a4').iPhorm({"id":5,"uniqueId":"600fc9b0e01a4","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2254,10 +2204,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-600fbcc4afcb0" class="iphorm iphorm-form-5" action="/feed/#iphorm-600fbcc4afcb0" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-600fc9b0e01a4" class="iphorm iphorm-form-5" action="/feed/#iphorm-600fc9b0e01a4" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="600fbcc4afcb0" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="600fc9b0e01a4" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2266,22 +2216,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_600fbcc4afcb0" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_600fbcc4afcb0" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_600fc9b0e01a4" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_600fc9b0e01a4" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_600fbcc4afcb0" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_600fbcc4afcb0" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_600fc9b0e01a4" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_600fc9b0e01a4" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_600fbcc4afcb0" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_600fbcc4afcb0" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_600fc9b0e01a4" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_600fc9b0e01a4" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2291,7 +2241,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_600fbcc4afcb0_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_600fc9b0e01a4_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2310,7 +2260,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-600fbcc4afcb0 script').remove();
+    jQuery('#iphorm-outer-600fc9b0e01a4 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2347,7 +2297,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxBc2iHMAJM9k6NgYGMDI7ZIJLzwZhLIoBC0c_nZ88ZFPxe3Fs0b2b-BOTA2EPrcSlRJ0mhO33P_Etmj-bCLQ' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzlxTlcqwPfF-FNJcJMypYvilgPzW5cH3sq6NDIORdaxxw-PMmCJ0s59Rdd4QHgeJPFzaWYEdJUOHE_ZefkVA' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
