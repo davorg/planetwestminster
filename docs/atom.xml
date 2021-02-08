@@ -7,9 +7,134 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-08T10:42:44Z</updated>
+  <updated>2021-02-08T11:39:40Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Foster carers and corona virus</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/foster-carers-and-corona-virus" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p>Please let me know your views below about foster carers and the vaccination rollout.</p>
+            </div>
+          </div>
+        </div>
+        <form class="webform-client-form webform-client-form-1463" action="/rss.xml" method="post" id="webform-client-form-1463" accept-charset="UTF-8">
+          <div><fieldset class="webform-component-fieldset webform-component--civicrm-1-contact-1-fieldset-fieldset form-wrapper"><legend><span class="fieldset-legend">Your contact details</span></legend><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-civicrm_contact static webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-existing">
+<input data-hide-method="hide" data-no-hide-blank="0" class="civicrm-enabled" data-civicrm-field-key="civicrm_1_contact_1_contact_existing" type="hidden" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_existing]" value=""/>
+
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-first-name">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="First Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_first_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_first_name]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-last-name">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Last Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_last_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_last_name]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-postal-code">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code">Postal Code <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Postal Code" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_address_postal_code" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_postal_code]" value="" size="7" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-email webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-email-email">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email">Email </label>
+ <input class="email civicrm-enabled form-text form-email" placeholder="Email" data-civicrm-field-key="civicrm_1_contact_1_email_email" type="email" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_email_email]" size="20"/>
+</div>
+</div></fieldset>
+<div class="form-item webform-component webform-component-markup webform-component--spacer3">
+ 
+</div>
+<fieldset class="webform-component-fieldset webform-component--civicrm-1-activity-1-fieldset-fieldset form-wrapper"><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-367">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-367">Do you think foster carers should be counted as part of the social care workforce and receive vaccination priority? </label>
+ <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_367" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-367" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_367]"><option value="" selected="selected">- None -</option><option value="1">Yes</option><option value="2">No</option><option value="3">Not sure</option></select>
+</div>
+<div class="form-item webform-component webform-component-textarea webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-371">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-371">Do you have any comments to make about how foster carers have been impacted by corona virus? </label>
+ <div class="form-textarea-wrapper resizable"><textarea class="civicrm-enabled form-textarea" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_371" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-371" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_371]" cols="60" rows="5"/></div>
+</div>
+</div></fieldset>
+<div class="form-item webform-component webform-component-markup webform-component--spacer">
+ 
+</div>
+<fieldset class="webform-component-fieldset webform-component--group-fieldset form-wrapper"><legend><span class="fieldset-legend">Can Jon update you about news and campaigns?</span></legend><div class="fieldset-wrapper"><div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-228">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">Can Jon stay in contact by email <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1">Yes Jon can email me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2">No Jon cannot email me </label>
+
+</div>
+</div>
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--opt-out-at-any-time">
+ <p>You can opt out at any time. You can find my privacy policy <a href="https://joncruddas.org.uk/legal-and-privacy">here</a>. Any previous opting information you have given Jon will display on this petition form</p>
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--spacer2">
+ 
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--spacer1">
+ 
+</div>
+</div></fieldset>
+<input type="hidden" name="details[sid]"/>
+<input type="hidden" name="details[page_num]" value="1"/>
+<input type="hidden" name="details[page_count]" value="1"/>
+<input type="hidden" name="details[finished]" value="0"/>
+<input type="hidden" name="form_build_id" value="form-Xu0CD4fgwizYsvJqjHWrYSv0Tv8-IiPSFb0b0Ds5KCA"/>
+<input type="hidden" name="form_id" value="webform_client_form_1463"/>
+<div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
+        </form>
+      </div>
+    </content>
+    <author>
+      <name>Jon</name>
+    </author>
+    <id>1463 at https://joncruddas.org.uk</id>
+    <published>2021-02-08T11:29:31Z</published>
+    <updated>2021-02-08T11:29:31Z</updated>
+  </entry>
+  <entry>
+    <title>RELEASE: “Unforgivable” – Exports Drop 68%  after Tory Brexit</title>
+    <link rel="alternate" href="https://www.drewhendrymp.scot/release-unforgivable-exports-drop-68-after-tory-brexit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=release-unforgivable-exports-drop-68-after-tory-brexit" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>MAJORITY OF SCOTS THINK TORY BREXIT “GOING BADLY”. The SNP has said the damage to UK trade from Boris Johnson’s Brexit deal is “completely unforgivable” – as exports from British ports to the EU fell by 68% in the first month.</p>
+<p>According to reports in today’s Observer, the Road Haulage Association (RHA) has warned Michael Gove that in addition to the 68% drop in exports, up to three quarters of vehicles coming to Britain from the EU were going back empty because UK companies were halting exports or facing hold ups as a result of Brexit red tape. RHA Chief Executive Richard Burnett told The Observer “I find it deeply frustrating and annoying that ministers have chosen not to listen to the industry and experts”.</p>
+<p>It comes as a new YouGov poll revealed the overwhelming majority of Scots (62%) think Brexit has gone badly since the transition period ended on 31st December, while just 17% think it has gone well. Twenty consecutive polls have shown a majority for independence.</p>
+<p>Commenting, SNP Shadow International Trade Secretary Drew Hendry MP said:</p>
+<p>“It is completely unforgivable that Boris Johnson’s botched Brexit deal is having such a devastating impact on UK trade. Scottish firms are being hammered with a mountain of extra Brexit costs, red tape and barriers to trade with the EU – a market seven times the size of the UK.</p>
+<p>“It’s no wonder the overwhelming majority of people in Scotland think Brexit is going badly. We’ve had a month of devastating chaos, which has seen the Scottish fishing industry lose millions of pounds a day, families hit with extra charges for purchasing everyday products, and small businesses across the country losing out on the trade they depend upon to survive.</p>
+<p>“The only way to protect our place in Europe, and regain the full benefits of EU membership, is for Scotland to become an independent country. Until then, it is vital the Tory government mitigates this Brexit disaster with a multi-billion pound compensation package for Scotland and urgent measures to ease the problems our companies and communities face.</p>
+<p>“Scotland has been completely ignored throughout the Brexit process. The Tories were repeatedly warned about these huge problems but they failed to listen. While the EU is giving Ireland €1.05 billion from its Brexit mitigation fund, Scotland has yet to receive a single penny in compensation from the UK government.</p>
+<p>“People in Scotland have the right to decide their own future. With the damage of Brexit growing, it is clearer than ever that Scotland’s future should be in Scotland’s hands – not Boris Johnson’s.”</p>
+<p>Keep up to date with new articles at <a href="https://www.drewhendrymp.scot/">www.drewhendrymp.scot </a></p>
+<p>Find out more about my work in parliament at <a href="http://www.theyworkforyou.com/">www.theyworkforyou.com</a></p>
+<div class="apss-social-share apss-theme-1 clearfix ">
+<div class="apss-facebook apss-single-icon">
+<div class="apss-icon-block clearfix"/>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="https://www.drewhendrymp.scot/release-unforgivable-exports-drop-68-after-tory-brexit/">RELEASE: “Unforgivable” – Exports Drop 68%  after Tory Brexit</a> appeared first on <a rel="nofollow" href="https://www.drewhendrymp.scot">Drew Hendry MP</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>MAJORITY OF SCOTS THINK TORY BREXIT “GOING BADLY”. The SNP has said the damage to...</p>
+<p>The post <a rel="nofollow" href="https://www.drewhendrymp.scot/release-unforgivable-exports-drop-68-after-tory-brexit/">RELEASE: “Unforgivable” – Exports Drop 68%  after Tory Brexit</a> appeared first on <a rel="nofollow" href="https://www.drewhendrymp.scot">Drew Hendry MP</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Drew Hendry MP</name>
+    </author>
+    <id>http://www.drewhendrymp.scot/?p=5819</id>
+    <published>2021-02-08T10:46:31Z</published>
+    <updated>2021-02-08T10:46:31Z</updated>
+    <category term="Article"/>
+    <category term="EU / Brexit"/>
+  </entry>
   <entry>
 		<author>
 			<name>Team JP</name>
@@ -113,7 +238,7 @@ We need to recognise the anguish that separation has caused families, as well as
 <p>I first wrote to Matt Hancock urging for visits to resume back in June. We now need urgent action to reunite families, and make it a legal right to visit.</p>
 <p><a href="https://labour.org.uk/press/labour-will-seek-to-enshrine-the-right-of-care-home-residents-to-see-family-in-law/">Read the full press release on the Labour Party&#8217;s website.</a></p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" ><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-8008" data-post-type="none" ><a href="https://lizkendall.org/where-next-after-brexit-newsweek/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" alt="Where next after Brexit, Newsweek" width="150" height="150" /></a><a href="https://lizkendall.org/where-next-after-brexit-newsweek/" class="wp_rp_title">Where next after Brexit, Newsweek</a></li><li data-position="1" data-poid="in-5437" data-post-type="none" ><a href="https://lizkendall.org/beaumont-leys-community-drop-in/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/13.jpg" alt="Beaumont Leys Community Drop-In" width="150" height="150" /></a><a href="https://lizkendall.org/beaumont-leys-community-drop-in/" class="wp_rp_title">Beaumont Leys Community Drop-In</a></li><li data-position="2" data-poid="in-5030" data-post-type="none" ><a href="https://lizkendall.org/backing-unpaid-family-carers/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/06/Dementia-debate-20th-June-2013-150x150.jpg" alt="Backing unpaid family carers" width="150" height="150" /></a><a href="https://lizkendall.org/backing-unpaid-family-carers/" class="wp_rp_title">Backing unpaid family carers</a></li><li data-position="3" data-poid="in-3684" data-post-type="none" ><a href="https://lizkendall.org/not-too-late-to-back-heart-unit/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/20.jpg" alt="&#8216;Not too late&#8217; to back heart unit" width="150" height="150" /></a><a href="https://lizkendall.org/not-too-late-to-back-heart-unit/" class="wp_rp_title">&#8216;Not too late&#8217; to back heart unit</a></li><li data-position="4" data-poid="in-5427" data-post-type="none" ><a href="https://lizkendall.org/westcotes-community-drop-in/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/5.jpg" alt="Westcotes Community Drop-In" width="150" height="150" /></a><a href="https://lizkendall.org/westcotes-community-drop-in/" class="wp_rp_title">Westcotes Community Drop-In</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" ><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-8863" data-post-type="none" ><a href="https://lizkendall.org/joining-local-debate-social-care/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/02/180202-Age-UK-Listening-Event-150x150.jpg" alt="Joining local debate on Social Care" width="150" height="150" /></a><a href="https://lizkendall.org/joining-local-debate-social-care/" class="wp_rp_title">Joining local debate on Social Care</a></li><li data-position="1" data-poid="in-10110" data-post-type="none" ><a href="https://lizkendall.org/scrap-immigration-rules-that-penalise-carers/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/27.jpg" alt="Scrap immigration rules that penalise carers" width="150" height="150" /></a><a href="https://lizkendall.org/scrap-immigration-rules-that-penalise-carers/" class="wp_rp_title">Scrap immigration rules that penalise carers</a></li><li data-position="2" data-poid="in-7514" data-post-type="none" ><a href="https://lizkendall.org/liz-holds-jobs-fair-for-former-mark-group-employees-leicester-mercury-6th-nov/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/21.jpg" alt="Liz holds jobs fair for former Mark Group employees (Leicester Mercury, 15 October)" width="150" height="150" /></a><a href="https://lizkendall.org/liz-holds-jobs-fair-for-former-mark-group-employees-leicester-mercury-6th-nov/" class="wp_rp_title">Liz holds jobs fair for former Mark Group employees (Leicester Mercury, 15 October)</a></li><li data-position="3" data-poid="in-6804" data-post-type="none" ><a href="https://lizkendall.org/chimney-extensions-will-put-an-end-to-pungent-pong-from-rubbish-handling-plant-in-mowmacre-hill-leicester-say-biffa-leicester-mercury-21-nov/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" alt="Chimney extensions will put an end to pungent pong from rubbish handling plant in Mowmacre Hill, Leicester, say Biffa (Leicester Mercury,  21 Nov)" width="150" height="150" /></a><a href="https://lizkendall.org/chimney-extensions-will-put-an-end-to-pungent-pong-from-rubbish-handling-plant-in-mowmacre-hill-leicester-say-biffa-leicester-mercury-21-nov/" class="wp_rp_title">Chimney extensions will put an end to pungent pong from rubbish handling plant in Mowmacre Hill, Leicester, say Biffa (Leicester Mercury,  21 Nov)</a></li><li data-position="4" data-poid="in-7621" data-post-type="none" ><a href="https://lizkendall.org/liz-on-daily-politics/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/01/Daily-Politics-260116-150x150.jpg" alt="Liz on Daily Politics" width="150" height="150" /></a><a href="https://lizkendall.org/liz-on-daily-politics/" class="wp_rp_title">Liz on Daily Politics</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-backs-calls-to-make-family-visits-to-care-homes-the-law/">Liz backs calls to make family visits to care homes the law</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -213,35 +338,6 @@ We need to recognise the anguish that separation has caused families, as well as
 
 		
 			</entry>
-  <entry>
-    <title>RELEASE: Gove admits post Brexit chaos “not just teething problems”</title>
-    <link rel="alternate" href="https://www.drewhendrymp.scot/release-gove-admits-post-brexit-trade-chaos-not-just-teething-problems/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=release-gove-admits-post-brexit-trade-chaos-not-just-teething-problems" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Commenting on Michael Gove’s admission that post Brexit trade issues are not just “teething problems” but “significant issues” that could risk livelihoods, the SNP’s newly appointed International Trade spokesperson, Drew Hendry MP, said:</p>
-<p>“After a month of the Tory government insisting that the huge issues exporters and hauliers have faced at the border are just ‘teething problems’, it seems that finally a UK minister has taken his head out of the sand and is waking up to the reality that their bad Brexit deal is having a real and devastating impact on real people and businesses.</p>
-<p>“We can only hope the rest of the Cabinet will follow and action is taken to protect people’s livelihoods and businesses. The UK government must immediately suspend fines, introduce a grace period for exporters and hauliers and make good on the Prime Minister’s promise to deliver compensation for businesses affected by the trade difficulties.</p>
-<p>“It is wrong that Scotland’s industries, workers and ultimately, consumers are paying the price for a Tory Brexit it didn’t vote for, as well as the hubris, lies and broken promises that just keep coming from Boris Johnson, Michael Gove and the rest of the UK Cabinet.</p>
-<p>“The SNP and industry leaders have been calling for action on these issues for weeks now – the situation is now beyond urgent as businesses continue to lose millions of pounds of overseas sales a day and customers look elsewhere for their produce.</p>
-<p>“This Tory Brexit was a completely unnecessary act of economic vandalism, which has been inflicted against Scotland’s will. It is now beyond doubt that the only way to protect Scotland’s interests and our place in Europe is to become an independent country.”</p>
-<p>Keep up to date with new articles at <a href="https://www.drewhendrymp.scot/">www.drewhendrymp.scot</a></p>
-<p>Find out more about my work in parliament at <a href="http://www.theyworkforyou.com/">www.theyworkforyou.com</a></p>
-<p>The post <a rel="nofollow" href="https://www.drewhendrymp.scot/release-gove-admits-post-brexit-trade-chaos-not-just-teething-problems/">RELEASE: Gove admits post Brexit chaos “not just teething problems”</a> appeared first on <a rel="nofollow" href="https://www.drewhendrymp.scot">Drew Hendry MP</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Commenting on Michael Gove’s admission that post Brexit trade issues are not just “teething problems”...</p>
-<p>The post <a rel="nofollow" href="https://www.drewhendrymp.scot/release-gove-admits-post-brexit-trade-chaos-not-just-teething-problems/">RELEASE: Gove admits post Brexit chaos “not just teething problems”</a> appeared first on <a rel="nofollow" href="https://www.drewhendrymp.scot">Drew Hendry MP</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Drew Hendry MP</name>
-    </author>
-    <id>http://www.drewhendrymp.scot/?p=5771</id>
-    <published>2021-02-05T15:07:18Z</published>
-    <updated>2021-02-05T15:07:18Z</updated>
-    <category term="Article"/>
-    <category term="EU / Brexit"/>
-  </entry>
   <entry>
   <title>MP asks Vaccines Minister to clarify vaccine prioritisation for unpaid carers</title>
   <link rel="alternate" href="http://timfarron.co.uk/en/article/2021/1392696/mp-asks-vaccines-minister-to-clarify-vaccine-prioritisation-for-unpaid-carers"/>
@@ -569,103 +665,6 @@ Officially called the Comprehensive and Progressive Trans-Pacific Partnership (C
     <category term="Keeping You Informed"/>
     <category term="Other"/>
     <category term="Your community"/>
-  </entry>
-  <entry>
-    <title>Jon Cruddas MP Constituency Office Move</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/jon-cruddas-mp-constituency-office-move" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/IMG_3094.jpg?itok=cNtzfvMz" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p> </p>
-              <p>As of <strong>Thursday 04 February</strong>, the office of Jon Cruddas MP can be found on the London East Business and Technical Park opposite Dagenham East station. Jon and his team will be moving in with Unite the Union at a purpose-built office space.</p>
-              <p>The new postal address should constituents wish to contact their MP is:</p>
-              <ul>
-                <ul>
-                  <li>
-                    <em>
-                      <strong>Office of Jon Cruddas MP</strong>
-                    </em>
-                  </li>
-                  <li>
-                    <em>
-                      <strong>1st Floor Offices Unite the Union,</strong>
-                    </em>
-                  </li>
-                  <li>
-                    <em>
-                      <strong>London East Business and Technical Park,</strong>
-                    </em>
-                  </li>
-                  <li>
-                    <em>
-                      <strong>Yewtree Avenue,</strong>
-                    </em>
-                  </li>
-                  <li>
-                    <em>
-                      <strong>Dagenham,</strong>
-                    </em>
-                  </li>
-                  <li>
-                    <em>
-                      <strong>RM10 7FQ</strong>
-                    </em>
-                  </li>
-                </ul>
-              </ul>
-              <p>For constituents intending to hand deliver letters, please be advised that at present we do not have an external post box. This is due to be installed in the coming week.</p>
-              <p>Jon’s office receives hundreds of phone calls each week from constituents in need of help, for this reason the office number will remain the same. However, BT have advised that the change over could take between a matter of hours to a couple of days.</p>
-              <p>If constituents are unable to get a response on the usual number: <strong>020 8984 7854</strong> then a temporary number will be available until the issue is resolved.<strong> </strong></p>
-              <p>
-                <strong>The temporary number is: 07907 654983.</strong>
-              </p>
-              <p>Please also be advised that staff will continue to work from home until government guidelines permit otherwise. So, constituents are asked not to arrive at the new office seeking the MP for the time being. Please use one of the contact methods listed above.</p>
-              <p><strong>Jon Cruddas said:</strong> <em>“people imagine a glamorous world of politics, but the reality is that my first office was prone to heavy flooding, my second was out of the way on the old A13, then we moved into what was the Tenants Federation office, which wasn’t without its issues but put us more central for residents to access. This move is most welcome, and I thank Unite for having us. I know the staff are looking forward to settling in once we can return to more of a normal setup.”</em></p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dagenham</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/rainham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rainham</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/office-address" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Office Address</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/new-office" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">New Office</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/unite-union" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Unite the Union</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/tags/jon-cruddas-mp" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jon Cruddas MP</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1461 at https://joncruddas.org.uk</id>
-    <published>2021-02-03T15:12:51Z</published>
-    <updated>2021-02-03T15:12:51Z</updated>
   </entry>
   <entry>
     <title>Graham Stuart MP calls for more to be done in Withernsea to tackle anti-social behaviour and engage youths</title>
@@ -1261,10 +1260,10 @@ Whilst children haven’t necessarily been physically in the classroom,…</div>
 
 					
 &lt;ul class="mk-employeee-networks"&gt;
-			&lt;li&gt;&lt;a target="_blank" href="mailto:ste&amp;#118;&amp;#101;.r&amp;#101;&amp;#101;d&amp;#46;mp&amp;#64;&amp;#112;&amp;#97;r&amp;#108;&amp;#105;a&amp;#109;en&amp;#116;.u&amp;#107;" title="Get In Touch With Steve Reed"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60211499662dc" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"&gt;&lt;path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60211499664c8" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"&gt;&lt;path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-602114996666f" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"&gt;&lt;path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-6021149966762" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"&gt;&lt;path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a target="_blank" href="mailto:&amp;#115;&amp;#116;e&amp;#118;e.r&amp;#101;&amp;#101;&amp;#100;.mp&amp;#64;pa&amp;#114;l&amp;#105;&amp;#97;&amp;#109;en&amp;#116;.&amp;#117;&amp;#107;" title="Get In Touch With Steve Reed"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-602121e76d271" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"&gt;&lt;path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-602121e76d466" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"&gt;&lt;path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-602121e76d609" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"&gt;&lt;path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"&gt;&lt;svg  class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-602121e76d6fb" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"&gt;&lt;path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
 	&lt;/ul&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
@@ -1792,12 +1791,12 @@ The married dad of two, raised in Huthwaite, is the area’s…</div>
     <title>Rubbish dumping survey</title>
     <link rel="alternate" href="https://liambyrne.co.uk/rubbish-dumping-survey/" type="text/html"/>
     <content type="html">&lt;div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.9.3" data-cf-form-id="CF5f8c811d77adc"&gt;&lt;div id="caldera_notices_1" data-spinner="https://liambyrne.co.uk/wp-admin/images/spinner.gif"&gt;&lt;/div&gt;&lt;form data-instance="1" class="CF5f8c811d77adc caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" id="CF5f8c811d77adc_1" data-form-id="CF5f8c811d77adc" aria-label="Flytipping on Cotterills Lane" data-target="#caldera_notices_1" data-template="#cfajax_CF5f8c811d77adc-tmpl" data-cfajax="CF5f8c811d77adc" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="https://liambyrne.co.uk/cf-api/CF5f8c811d77adc" data-hiderows="true"&gt;
-&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="2196844549"  data-nonce-time="1612780536" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
+&lt;input type="hidden" id="_cf_verify_CF5f8c811d77adc" name="_cf_verify" value="2196844549"  data-nonce-time="1612783939" /&gt;&lt;input type="hidden" name="_wp_http_referer" value="/feed/" /&gt;&lt;div id="cf2-CF5f8c811d77adc_1"&gt;&lt;/div&gt;&lt;input type="hidden" name="_cf_frm_id" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_frm_ct" value="1"&gt;
 &lt;input type="hidden" name="cfajax" value="CF5f8c811d77adc"&gt;
 &lt;input type="hidden" name="_cf_cr_pst" value="7970"&gt;
 &lt;div class="hide" style="display:none; overflow:hidden;height:0;width:0;"&gt;
-&lt;label&gt;Url&lt;/label&gt;&lt;input type="text" name="url" value="" autocomplete="off"&gt;
+&lt;label&gt;Phone&lt;/label&gt;&lt;input type="text" name="phone" value="" autocomplete="off"&gt;
 &lt;/div&gt;&lt;div id="CF5f8c811d77adc_1-row-1"  class="row  first_row"&gt;&lt;div  class="col-sm-12  single"&gt;&lt;div data-field-wrapper="fld_949637" class="form-group" id="fld_949637_1-wrap"&gt;
 	&lt;label id="fld_949637Label" for="fld_949637_1" class="control-label"&gt;First name &lt;span aria-hidden="true" role="presentation" class="field_required" style="color:#ee0000;"&gt;*&lt;/span&gt;&lt;/label&gt;
 	&lt;div class=""&gt;
@@ -2121,10 +2120,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-60211567d7377" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-602122c1eaa38" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-60211567d7377').iPhorm({"id":5,"uniqueId":"60211567d7377","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-602122c1eaa38').iPhorm({"id":5,"uniqueId":"602122c1eaa38","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2199,10 +2198,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-60211567d7377" class="iphorm iphorm-form-5" action="/feed/#iphorm-60211567d7377" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-602122c1eaa38" class="iphorm iphorm-form-5" action="/feed/#iphorm-602122c1eaa38" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="60211567d7377" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="602122c1eaa38" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2211,22 +2210,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_60211567d7377" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60211567d7377" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_602122c1eaa38" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_602122c1eaa38" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_60211567d7377" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60211567d7377" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_602122c1eaa38" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_602122c1eaa38" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_60211567d7377" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60211567d7377" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_602122c1eaa38" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_602122c1eaa38" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2236,7 +2235,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60211567d7377_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_602122c1eaa38_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2255,7 +2254,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-60211567d7377 script').remove();
+    jQuery('#iphorm-outer-602122c1eaa38 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2292,7 +2291,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxz2SLEYsKm7TH7y1VMWf4cvfZyckQWg1oHOI-Ccb2Kdke7f2guiIbqlXNh788DGSJumejRMYfnxMDIhaxq9g' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxBc2iHMAJM9k6NgYGMDI7ZIJLzwZhLIoBC0c_nZ88ZFPxe3Fs0b2b-BOTA2EPrcSlRJ0mhO33P_Etmj-bCLQ' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
