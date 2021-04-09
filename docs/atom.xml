@@ -7,9 +7,36 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-09T09:37:40Z</updated>
+  <updated>2021-04-09T10:39:04Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>PCR Tests</title>
+    <link rel="alternate" href="https://johnredwoodsdiary.com/2021/04/09/pcr-tests/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Product type: Nucleic acid testing (NAT) technologies that use polymerase chain reaction (PCR) for detection of SARS-CoV-2</p>
+<p>Date: 13 January 2021                                                                      </p>
+<p>WHO-identifier: 2020/5, version 2</p>
+<p>Target audience: laboratory professionals and users of IVDs.</p>
+<p>Purpose of this notice: clarify information previously provided by WHO. This notice supersedes WHO Information Notice for In Vitro Diagnostic Medical Device (IVD) Users 2020/05 version 1, issued 14 December 2020.</p>
+<p>Description of the problem: WHO requests users to follow the instructions for use (IFU) when interpreting results for specimens tested using PCR methodology.  </p>
+<p>Users of IVDs must read and follow the IFU carefully to determine if manual adjustment of the PCR positivity threshold is recommended by the manufacturer.</p>
+<p>WHO guidance Diagnostic testing for SARS-CoV-2 states that careful interpretation of weak positive results is needed (1). The cycle threshold (Ct) needed to detect virus is inversely proportional to the patient’s viral load. Where test results do not correspond with the clinical presentation, a new specimen should be taken and retested using the same or different NAT technology.</p>
+<p>WHO reminds IVD users that disease prevalence alters the predictive value of test results; as disease prevalence decreases, the risk of false positive increases (2). This means that the probability that a person who has a positive result (SARS-CoV-2 detected) is truly infected with SARS-CoV-2 decreases as prevalence decreases, irrespective of the claimed specificity.</p>
+<p>Most PCR assays are indicated as an aid for diagnosis, therefore, health care providers must consider any result in combination with timing of sampling, specimen type, assay specifics, clinical observations, patient history, confirmed status of any contacts, and epidemiological information.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Product type: Nucleic acid testing (NAT) technologies that use polymerase chain reaction (PCR) for detection of SARS-CoV-2 Date: 13 January 2021 WHO-identifier: 2020/5, version 2 Target audience: laboratory professionals and users of IVDs. Purpose of this notice: clarify information previously provided by WHO. This notice supersedes WHO Information Notice for In Vitro Diagnostic Medical Device…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>http://johnredwoodsdiary.com/?p=30021</id>
+    <published>2021-04-09T10:05:06Z</published>
+    <updated>2021-04-09T10:05:06Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
   <title>MP launches petition to save Holehird care home</title>
   <link rel="alternate" href="http://timfarron.co.uk/en/article/2021/1402264/mp-launches-petition-to-save-holehird-care-home"/>
@@ -103,29 +130,6 @@ However, the organisation that runs Holehird, Leonard Cheshire, has announced pl
     <published>2021-04-09T08:02:13Z</published>
     <updated>2021-04-09T08:02:13Z</updated>
     <category term="Media Releases"/>
-  </entry>
-  <entry>
-    <title>The international order</title>
-    <link rel="alternate" href="https://johnredwoodsdiary.com/2021/04/09/the-international-order/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>       The UK decided to restore democratic powers by leaving the EU. We can now improve, amend or remove laws and spending programmes as we see fit. The government proposes, Parliament responds and public opinion is brought to bear on the process. If a government makes a mess of using  its powers it will be replaced at the next election so the voters are in ultimate control.</p>
-<p>      Various contributors here believe that green policies and covid policies are somehow the work of hidden powerful advisers and forces. They are, on the contrary very public, and have been through substantial governmental processes. Whilst we have removed the overarching powers conferred by the EU Treaties and enforced by an active and powerful court, our country is still under a number of other important Treaties which governments of most political persuasions will observe and enforce. Anti pandemic policy has been heavily influenced by our membership of the World Health Organisation. The UK’s green enthusiasm has been locked in by the Climate Change Act enacted by the Labour government and accepted by the incoming Conservative one, and by UK agreement to the Paris and other international conference commitments made globally. I was one of just a handful of MPs who did not support the legislation. </p>
-<p>     The structure and culture of UK government is to abide by international rules and Agreements. There is no  need to look for hidden influences urging these policies when they have been signed up to in a public way so the whole might of the UK official machine is bent on  enforcing and complying with them. It is true the CV 19 policies are advisory. It is true the green policies require our consent and there is no strong enforcement mechanism like the European Court to make us do them, but government wishes to  apply them anyway. </p>
-<p>       This means if UK citizens do wish to change these policies it is a bit more difficult. There could be arguments about “breaking international law”. When the UK ventured a different view of the Northern Ireland protocol as it needed to do some asserted this was breaking a Treaty and not allowed. I think they were wrong as a good argument can be made from the terms of the Protocol and Treaty themselves that there needs to  be change to secure one of  its prime objectives, the freedom of the UK single market.</p>
-<p>       In practice countries do renounce or amend Treaties by agreement, or sometimes reinterpret them . What matters is popular will and national law. Some say of course all Treaties must be obeyed, citing the 1713 Treaty of Utrecht which stated Gibraltar is a UK Crown dependency. I of course favour respecting that Treaty.  The truth however is the status of Gibraltar rests with the will and views of the people who live there. It is  because 99% voted to stay British that they  will stay British and observe the Treaty. If they voted 99%  to  be Spanish of course there would be change whatever the Treaty says.</p>
-<p>       So my advice to those of you who disagree with the  health or green policy, understand you need to change the policy of the government which in turn will need to amend its promises and proposals to the international community if you succeed. </p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The UK decided to restore democratic powers by leaving the EU. We can now improve, amend or remove laws and spending programmes as we see fit. The government proposes, Parliament responds and public opinion is brought to bear on the process. If a government makes a mess of using its powers it will be replaced…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=30028</id>
-    <published>2021-04-09T05:05:18Z</published>
-    <updated>2021-04-09T05:05:18Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Dear Newcastle April 2021</title>
@@ -556,7 +560,7 @@ However, this guidance will not be enough for those care home residents who are 
 <p><a href="https://www.theguardian.com/world/2021/apr/03/care-home-residents-in-england-to-be-allowed-two-visitors-from-12-april">You can read more here</a></p>
 <p>&nbsp;</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-6280" data-post-type="none" ><a href="https://lizkendall.org/number-of-overdue-smear-tests-climbs-11-figures-show-the-guardian-24-april/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/22.jpg" alt="Number of overdue smear tests climbs 11%, figures show (The Guardian, 24 April)" width="150" height="150" /></a><a href="https://lizkendall.org/number-of-overdue-smear-tests-climbs-11-figures-show-the-guardian-24-april/" class="wp_rp_title">Number of overdue smear tests climbs 11%, figures show (The Guardian, 24 April)</a></li><li data-position="1" data-poid="in-6545" data-post-type="none" ><a href="https://lizkendall.org/liz-champions-teach-first-in-leicester-west/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/07/DSCF5613-150x150.jpg" alt="Liz champions Teach First in Leicester West" width="150" height="150" /></a><a href="https://lizkendall.org/liz-champions-teach-first-in-leicester-west/" class="wp_rp_title">Liz champions Teach First in Leicester West</a></li><li data-position="2" data-poid="in-4408" data-post-type="none" ><a href="https://lizkendall.org/lizs-speech-to-the-national-voices-conference/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/01/Nationa-Voices-speech-Jan-2013-360x5401-150x150.jpg" alt="Liz&#8217;s speech to the National Voices conference" width="150" height="150" /></a><a href="https://lizkendall.org/lizs-speech-to-the-national-voices-conference/" class="wp_rp_title">Liz&#8217;s speech to the National Voices conference</a></li><li data-position="3" data-poid="in-10142" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-on-government-to-do-more-for-social-care-during-coronavirus/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/22.jpg" alt="Liz calls on Government to do more for social care during coronavirus" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-on-government-to-do-more-for-social-care-during-coronavirus/" class="wp_rp_title">Liz calls on Government to do more for social care during coronavirus</a></li><li data-position="4" data-poid="in-4192" data-post-type="none" ><a href="https://lizkendall.org/liz-kendall-mp-fighting-for-glenfield-and-our-young-people/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/17.jpg" alt="Liz Kendall MP: Fighting for Glenfield – and our young people" width="150" height="150" /></a><a href="https://lizkendall.org/liz-kendall-mp-fighting-for-glenfield-and-our-young-people/" class="wp_rp_title">Liz Kendall MP: Fighting for Glenfield – and our young people</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10088" data-post-type="none" ><a href="https://lizkendall.org/how-leicester-food-banks-are-responding-to-covid-19/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/26.jpg" alt="How Leicester food banks are responding to Covid-19" width="150" height="150" /></a><a href="https://lizkendall.org/how-leicester-food-banks-are-responding-to-covid-19/" class="wp_rp_title">How Leicester food banks are responding to Covid-19</a></li><li data-position="1" data-poid="in-4894" data-post-type="none" ><a href="https://lizkendall.org/bid-to-generate-jobs-and-smaller-bills/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/12.jpg" alt="Bid to generate jobs and smaller bills" width="150" height="150" /></a><a href="https://lizkendall.org/bid-to-generate-jobs-and-smaller-bills/" class="wp_rp_title">Bid to generate jobs and smaller bills</a></li><li data-position="2" data-poid="in-4090" data-post-type="none" ><a href="https://lizkendall.org/liz-speaks-at-action-on-elder-abuse-safeguarding-conference/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/8.jpg" alt="Liz speaks at Action on Elder Abuse Safeguarding Conference" width="150" height="150" /></a><a href="https://lizkendall.org/liz-speaks-at-action-on-elder-abuse-safeguarding-conference/" class="wp_rp_title">Liz speaks at Action on Elder Abuse Safeguarding Conference</a></li><li data-position="3" data-poid="in-4534" data-post-type="none" ><a href="https://lizkendall.org/ill-help-build-on-olympic-values/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" alt="I&#8217;ll help build on Olympic values" width="150" height="150" /></a><a href="https://lizkendall.org/ill-help-build-on-olympic-values/" class="wp_rp_title">I&#8217;ll help build on Olympic values</a></li><li data-position="4" data-poid="in-4094" data-post-type="none" ><a href="https://lizkendall.org/ed-set-out-policies-to-rebuild-uk/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/26.jpg" alt="Ed set out policies to rebuild UK" width="150" height="150" /></a><a href="https://lizkendall.org/ed-set-out-policies-to-rebuild-uk/" class="wp_rp_title">Ed set out policies to rebuild UK</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-responds-to-new-guidance-on-care-home-visits/">Liz responds to new guidance on care home visits</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -1145,22 +1149,6 @@ As the Chairman of the All-Party Parliamentary Group for Taiwan I have become co
     <category term="News"/>
   </entry>
   <entry>
-    <title>TORIES MUST NOT BETRAY SCOTLAND OVER SHIPBUILDING – AGAIN</title>
-    <link rel="alternate" href="http://martindocherty.scot/tories-must-not-betray-scotland-over-shipbuilding-again/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Following the Integrated Review, SNP MP Martin Docherty-Hughes has called on the UK government to guarantee that any future contracts for warships benefits Scotland’s shipyards – saying the Tories must not betray Scotland’s shipbuilding industry and vital national interests again. … <a href="http://martindocherty.scot/tories-must-not-betray-scotland-over-shipbuilding-again/">Continue reading <span class="meta-nav">→</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/tories-must-not-betray-scotland-over-shipbuilding-again/">TORIES MUST NOT BETRAY SCOTLAND OVER SHIPBUILDING – AGAIN</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Communications Officer</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1541453</id>
-    <published>2021-03-21T09:34:01Z</published>
-    <updated>2021-03-21T09:34:01Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>The Article 6th March 2021 - The Pope in Iraq</title>
     <link rel="alternate" href="https://www.alistair-burt.co.uk/news/article-6th-march-2021-pope-iraq" type="text/html"/>
     <content type="xhtml">
@@ -1406,10 +1394,10 @@ During his speech, which can be viewed be clicking here, Lee vociferously suppor
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60701f496e1f7" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60701f496e3fd" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60701f496e580" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60701f496e67a" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60702d578902d" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60702d5789223" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60702d5789392" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60702d5789480" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2043,10 +2031,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6070202eea1ef" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-60702e1adaaf9" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6070202eea1ef').iPhorm({"id":5,"uniqueId":"6070202eea1ef","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-60702e1adaaf9').iPhorm({"id":5,"uniqueId":"60702e1adaaf9","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2121,10 +2109,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6070202eea1ef" class="iphorm iphorm-form-5" action="/feed/#iphorm-6070202eea1ef" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-60702e1adaaf9" class="iphorm iphorm-form-5" action="/feed/#iphorm-60702e1adaaf9" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6070202eea1ef" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="60702e1adaaf9" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2133,22 +2121,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6070202eea1ef" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6070202eea1ef" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_60702e1adaaf9" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60702e1adaaf9" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6070202eea1ef" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6070202eea1ef" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_60702e1adaaf9" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60702e1adaaf9" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6070202eea1ef" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6070202eea1ef" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_60702e1adaaf9" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60702e1adaaf9" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2158,7 +2146,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6070202eea1ef_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60702e1adaaf9_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2177,7 +2165,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6070202eea1ef script').remove();
+    jQuery('#iphorm-outer-60702e1adaaf9 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2214,7 +2202,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzW1q-Sx2j1MLO5C_EVq4_A9maP1LYqnm8VgsUX-hLTnlO7fdD9UoQyFYnJzu171ccDoVHy08c3BJX3L0QBjQ' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz3hI-hPDOsLPLflMEEJcpZ10QqlJDtTvT7VbEs8V4tS1_ZXqv39gatHUYltY9lSRSf1BZMxuJmYQOBKsCcHA' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
