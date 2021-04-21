@@ -7,9 +7,53 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-21T06:42:30Z</updated>
+  <updated>2021-04-21T07:36:45Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+		<author>
+			<name>Team JP</name>
+					</author>
+
+		<title type="html"><![CDATA[Mercury Article: Let&#8217;s Shop Local!]]></title>
+		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2021/04/19/mercury-article-lets-shop-local/"/>
+
+		<id>http://johnpenrose.org/wp/?p=4742</id>
+		<updated>2021-04-21T07:33:00Z</updated>
+		<published>2021-04-19T07:14:00Z</published>
+		<category scheme="http://johnpenrose.org/wp" term="Local Campaigns"/><category scheme="http://johnpenrose.org/wp" term="Newspaper Articles"/>
+		<summary type="html"><![CDATA[It’s here. At last. The start of reopening. We can get our hair cut, try on clothes in a shop before we buy them and, yes, go to the pub (but wrap up warm!). We’ve been here before of course, as we’ve emerged from previous lockdowns, tier restrictions and what-have-you-s. But this time feels different. [&#8230;]]]></summary>
+
+					<content type="html" xml:base="http://johnpenrose.org/wp/2021/04/19/mercury-article-lets-shop-local/"><![CDATA[
+<p><br>It’s here. At last. The start of reopening. We can get our hair cut, try on clothes in a shop before we buy them and, yes, go to the pub (but wrap up warm!).</p>
+
+
+
+<p>We’ve been here before of course, as we’ve emerged from previous lockdowns, tier restrictions and what-have-you-s. But this time feels different. It’s not just that the latest lockdown happened in the long, dark winter months, or that we’re all so weary after a full year of pandemic. This feels different because now there’s hope. The vaccine means this ought to be the last time we take this journey, and good riddance to all that.</p>
+
+
+
+<p>The feeling is captured in a rather beautiful film by local filmmaker Sally Low. It’s about Weston coming back to life as 14 of our local shops prepare to re-open (it’s on the SuperWeston facebook page) and, if you haven’t seen it, it’s three-and-a-quarter minutes you won’t regret.</p>
+
+
+
+<p>It’s a useful reminder of what getting back to normal will mean for scores or local firms and the people they employ. It’s particularly important because, like High Streets everywhere, central Weston was fighting a battle against online shopping and out-of-town shopping malls before anyone had ever heard of Coronavirus. Lockdown gave online retail a huge push forward and no-one really knows how we will use High Streets from now on. Will we rush back to bricks and mortar town centre shops, or not? We stopped a massive expansion at Cribbs Causeway that would have taken almost £40million from central Weston a few years back, but Sally Low’s film brings our town centre to life: the sounds and the sights, the architecture and beautiful buildings, the people and care they put into the coffee they serve or passion for the products they plan to sell.</p>
+
+
+
+<p>So let’s shop local and enjoy normality again. It can’t come soon enough!</p>
+]]></content>
+		
+			</entry>
+  <entry>
+    <title>New community test centres for people without Covid19 symptoms rolled out in Edinburgh</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13172/new-community-test-centres-for-people-without-covid19-symptoms-rolled-out-in-edinburgh" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Rapid coronavirus (COVID 19) testing is now available for people without symptoms in the Craigmillar area of Edinburgh as the Capital's first Asymptomatic Testing Centre goes live.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13172/new-community-test-centres-for-people-without-covid19-symptoms-rolled-out-in-edinburgh</id>
+    <published>2021-04-21T07:40:00+01:00Z</published>
+  </entry>
   <entry>
     <title>Fan power rules</title>
     <link rel="alternate" href="https://johnredwoodsdiary.com/2021/04/21/fan-power-rules/" type="text/html"/>
@@ -83,15 +127,6 @@
     <updated>2021-04-20T19:09:35Z</updated>
   </entry>
   <entry>
-    <title>New Equality and Diversity Framework agreed to help Edinburgh  build back better</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13171/new-equality-and-diversity-framework-agreed-to-help-edinburgh-build-back-better" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Councillors in Edinburgh today approved a new four-year framework setting out the Council’s ambitions to advance equality and promote diversity as the city rebuilds after the pandemic.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13171/new-equality-and-diversity-framework-agreed-to-help-edinburgh-build-back-better</id>
-    <published>2021-04-20T18:11:00+01:00Z</published>
-  </entry>
-  <entry>
     <title>Gwynne pushes Government on frozen pensions</title>
     <link rel="alternate" href="https://andrewgwynne.co.uk/gwynne-pushes-government-on-frozen-pensions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gwynne-pushes-government-on-frozen-pensions" type="text/html"/>
     <content type="html">&lt;p&gt;&lt;img loading="lazy" class="alignleft size-large wp-image-233433" src="http://andrewgwynne.co.uk/wp-content/uploads/2021/04/Frozen-pensions-1024x535.jpg" alt="" width="1024" height="535" srcset="https://andrewgwynne.co.uk/wp-content/uploads/2021/04/Frozen-pensions-1024x535.jpg 1024w, https://andrewgwynne.co.uk/wp-content/uploads/2021/04/Frozen-pensions-300x157.jpg 300w, https://andrewgwynne.co.uk/wp-content/uploads/2021/04/Frozen-pensions-768x401.jpg 768w, https://andrewgwynne.co.uk/wp-content/uploads/2021/04/Frozen-pensions-1080x564.jpg 1080w, https://andrewgwynne.co.uk/wp-content/uploads/2021/04/Frozen-pensions.jpg 1455w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/p&gt;
@@ -138,6 +173,24 @@ New figures from the RAC show that in the first three months of this year, the t
 <address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
   <category term="Article"/>
 </entry>
+  <entry>
+    <title>COVID-19: MOVING TO LEVEL 3</title>
+    <link rel="alternate" href="http://martindocherty.scot/covid-19-moving-to-level-3/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>First Minister Nicola Sturgeon has announced details of the further relaxation of restrictions across Scotland. From Monday 26 April, hospitality venues such as cafés, pubs and restaurants can reopen, along with tourist accommodation. Non-essential retail outlets and close contact services … <a href="http://martindocherty.scot/covid-19-moving-to-level-3/">Continue reading <span class="meta-nav">→</span></a></p>
+<p>The post <a rel="nofollow" href="http://martindocherty.scot/covid-19-moving-to-level-3/">COVID-19: MOVING TO LEVEL 3</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Communications Officer</name>
+    </author>
+    <id>http://martindocherty.scot/?p=1549968</id>
+    <published>2021-04-20T14:05:30Z</published>
+    <updated>2021-04-20T14:05:30Z</updated>
+    <category term="Campaign Emails"/>
+    <category term="Latest Issues"/>
+    <category term="News"/>
+  </entry>
   <entry>
     <title>Unemployed Claimant Count March 2021</title>
     <link rel="alternate" href="https://joncruddas.org.uk/unemployed-claimant-count-march-2021" type="text/html"/>
@@ -229,7 +282,7 @@ From Monday 26th April, alcohol will be allowed…</div>
 		<summary type="html"><![CDATA[<p>Leicester’s story of winning the premier league, against all the odds, showed everything that football is supposed to be about.<br />
 The proposed European Super League is the complete opposite of this. It was cooked up without any involvement of supporters, yet football is nothing without its fans. I know the anger and strength of feeling against these proposals and I will do everything in my power to prevent them from going ahead.<br />
 Sign Labour&#8217;s letter to stop the Super League.</p>
-<p>Related postsLiz calls for social care reform in Covid-19 debateThousands in hospital needlessly ...</p>
+<p>Related postsLiz welcomes pupils from Glebelands Primary School to ParliamentLiz supports alternative education ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-responds-to-announcement-on-the-formation-of-a-european-super-league2/">Liz responds to announcement on the formation of a European &#8216;Super League&#8217;</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -237,7 +290,7 @@ Sign Labour&#8217;s letter to stop the Super League.</p>
 <p>The proposed European Super League is the complete opposite of this. It was cooked up without any involvement of supporters, yet football is nothing without its fans. I know the anger and strength of feeling against these proposals and I will do everything in my power to prevent them from going ahead.</p>
 <p><a href="https://action.labour.org.uk/page/80869/petition/1?fbclid=IwAR3qjFOJHVXfSIlXuolpTx6jeVf_OJegkElGvsnpKJCiDaJOg_MWXkQW7Lw">Sign Labour&#8217;s letter to stop the Super League.</a></p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10830" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-for-social-care-reform-in-covid-19-debate/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/25.jpg" alt="Liz calls for social care reform in Covid-19 debate" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-for-social-care-reform-in-covid-19-debate/" class="wp_rp_title">Liz calls for social care reform in Covid-19 debate</a></li><li data-position="1" data-poid="in-4323" data-post-type="none" ><a href="https://lizkendall.org/thousands-in-hospital-needlessly-as-district-nurses-are-cut/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/4.jpg" alt="Thousands in hospital needlessly as district nurses are cut" width="150" height="150" /></a><a href="https://lizkendall.org/thousands-in-hospital-needlessly-as-district-nurses-are-cut/" class="wp_rp_title">Thousands in hospital needlessly as district nurses are cut</a></li><li data-position="2" data-poid="in-10775" data-post-type="none" ><a href="https://lizkendall.org/liz-meets-with-care-provider-alliance/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/12/Screenshot-2020-12-03-at-15.48.12-150x150.png" alt="Liz meets with Care Provider Alliance" width="150" height="150" /></a><a href="https://lizkendall.org/liz-meets-with-care-provider-alliance/" class="wp_rp_title">Liz meets with Care Provider Alliance</a></li><li data-position="3" data-poid="in-8682" data-post-type="none" ><a href="https://lizkendall.org/liz-votes-to-pause-and-fix-universal-credit/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2017/10/Universal-Credit-blog-picture-150x150.jpg" alt="Liz votes to pause and fix Universal Credit" width="150" height="150" /></a><a href="https://lizkendall.org/liz-votes-to-pause-and-fix-universal-credit/" class="wp_rp_title">Liz votes to pause and fix Universal Credit</a></li><li data-position="4" data-poid="in-10734" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-for-action-in-the-leicester-garment-industry/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/11/Screenshot-2020-11-19-at-10.05.12-1-150x150.png" alt="Liz calls for action in Leicester&#8217;s garment industry" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-for-action-in-the-leicester-garment-industry/" class="wp_rp_title">Liz calls for action in Leicester&#8217;s garment industry</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-9379" data-post-type="none" ><a href="https://lizkendall.org/liz-welcomes-pupils-from-glebelands-primary-school-to-parliament-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2019/02/Glebelands-visit-2019-150x150.jpg" alt="Liz welcomes pupils from Glebelands Primary School to Parliament" width="150" height="150" /></a><a href="https://lizkendall.org/liz-welcomes-pupils-from-glebelands-primary-school-to-parliament-2/" class="wp_rp_title">Liz welcomes pupils from Glebelands Primary School to Parliament</a></li><li data-position="1" data-poid="in-10048" data-post-type="none" ><a href="https://lizkendall.org/liz-supports-alternative-education-provider/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" alt="Liz supports alternative education provider" width="150" height="150" /></a><a href="https://lizkendall.org/liz-supports-alternative-education-provider/" class="wp_rp_title">Liz supports alternative education provider</a></li><li data-position="2" data-poid="in-6677" data-post-type="none" ><a href="https://lizkendall.org/labour-stands-firmly-on-the-side-of-older-workers-and-family-carers/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/20.jpg" alt="Labour stands firmly on the side of older workers and family carers" width="150" height="150" /></a><a href="https://lizkendall.org/labour-stands-firmly-on-the-side-of-older-workers-and-family-carers/" class="wp_rp_title">Labour stands firmly on the side of older workers and family carers</a></li><li data-position="3" data-poid="in-2545" data-post-type="none" ><a href="https://lizkendall.org/liz-working-on-the-health-and-social-care-bill/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/29.jpg" alt="Liz working on the Health and Social Care Bill" width="150" height="150" /></a><a href="https://lizkendall.org/liz-working-on-the-health-and-social-care-bill/" class="wp_rp_title">Liz working on the Health and Social Care Bill</a></li><li data-position="4" data-poid="in-3343" data-post-type="none" ><a href="https://lizkendall.org/cost-of-nhs-shake-up-will-total-65-million-in-county-claims-labour/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/10.jpg" alt="Cost of NHS shake-up will total £65 million in county, claims Labour" width="150" height="150" /></a><a href="https://lizkendall.org/cost-of-nhs-shake-up-will-total-65-million-in-county-claims-labour/" class="wp_rp_title">Cost of NHS shake-up will total £65 million in county, claims Labour</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-responds-to-announcement-on-the-formation-of-a-european-super-league2/">Liz responds to announcement on the formation of a European &#8216;Super League&#8217;</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -448,31 +501,6 @@ Last week saw the re-opening of non-essential retail, outdoor hospitality, hair 
     <published>2021-04-16T13:00:00+01:00Z</published>
   </entry>
   <entry>
-		<author>
-			<name>Team JP</name>
-					</author>
-
-		<title type="html"><![CDATA[John joins Julia Hartley-Brewer on TalkRadio to discuss why the Lobbying Act needs updating]]></title>
-		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2021/04/16/john-joins-julia-hartley-brewer-on-talkradio-to-discuss-why-the-lobbying-act-needs-updating/"/>
-
-		<id>http://johnpenrose.org/wp/?p=4737</id>
-		<updated>2021-04-16T09:48:09Z</updated>
-		<published>2021-04-16T09:48:07Z</published>
-		<category scheme="http://johnpenrose.org/wp" term="Uncategorized"/>
-		<summary type="html"><![CDATA[John appears on TalkRadio to discuss with host Julia Hartley-Brewer to discuss how the Lobbying Act could be updated]]></summary>
-
-					<content type="html" xml:base="http://johnpenrose.org/wp/2021/04/16/john-joins-julia-hartley-brewer-on-talkradio-to-discuss-why-the-lobbying-act-needs-updating/"><![CDATA[
-<p>John appears on TalkRadio to discuss with host Julia Hartley-Brewer to discuss how the Lobbying Act could be updated</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="John joins Julia Hartley-Brewer on TalkRadio to discuss why the Lobbying Act needs updating" width="770" height="433" src="https://www.youtube.com/embed/5vr1P0IhJsQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-]]></content>
-		
-			</entry>
-  <entry>
     <title>Our Man in Westminster - Supporting our High Street</title>
     <link rel="alternate" href="https://www.damiangreen.co.uk/news/our-man-westminster-supporting-our-high-street" type="text/html"/>
     <content type="xhtml">
@@ -653,6 +681,32 @@ But we have not fought a total war as envisaged…</div>
     <category term="Uncategorised"/>
     <category term="Uncategorized"/>
   </entry>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>Jack Gebhard</name>
+					</author>
+
+		<title type="html"><![CDATA[Robin pays tribute to HRH the Duke of Edinburgh]]></title>
+		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2021/04/robin-pays-tribute-to-hrh-the-duke-of-edinburgh/"/>
+
+		<id>https://www.walker4worcester.com/?p=2204</id>
+		<updated>2021-04-12T13:57:11Z</updated>
+		<published>2021-04-12T13:57:11Z</published>
+		<category scheme="https://www.walker4worcester.com" term="News"/>
+		<summary type="html"><![CDATA[Worcester’s MP has paid tribute to HRH the late Duke of Edinburgh and recalled his visit to the faithful city during the Queen’s diamond jubilee in 2012 to open the Hive. The Worcester MP, Robin Walker has spoken of his three meetings with the Prince Philip and how he always showed a dynamism, wit and [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://www.walker4worcester.com/2021/04/robin-pays-tribute-to-hrh-the-duke-of-edinburgh/"><![CDATA[<p>Worcester’s MP has paid tribute to HRH the late Duke of Edinburgh and recalled his visit to the faithful city during the Queen’s diamond jubilee in 2012 to open the Hive. The Worcester MP, Robin Walker has spoken of his three meetings with the Prince Philip and how he always showed a dynamism, wit and kindness.</p>
+<p>As Parliament sits today for tributes to be paid to an incredible man at the end of a long and fruitful life, Robin has pointed out how his desire to give young people the best chance in life leaves a lasting legacy. Speaking after the sad news of the Duke Of Edinburgh’s passing, Robin Walker MP said:</p>
+<p>“This has been an extraordinary life well lived. As a war hero in the Navy, as the world and our country’s longest living consort to a Queen, as the rock of support for our longest serving monarch in her duties at home and around the world and as a dutiful member of the Royal Family, Prince Philip has made an incredible contribution to our country, to the Commonwealth and its history over well over seventy five years of public service.</p>
+<p>“For any individual to live to ninety nine and to keep working into their nineties is remarkable but for someone who has bourne such a burden of public service is even moreso. As we heard the sad news of his passing my first thoughts were with her Majesty the Queen for whom he has been such a source of strength. I know that my constituents across the faithful city will be thinking of the Royal Family and all his children, grandchildren and great grandchildren as we join them in mourning.”</p>
+<p>“I was very lucky to have met the Duke on a number of occasions and on each he had the capability to light up a room. I first met him when I was a small child of eight or nine at the Royal Welsh show when my father was Secretary of State for Wales, I had been carefully primed to address him as your Royal Highness but in the excitement of the moment I completely forgot to do so. He was charm personified and made no fuss but joked with me in such a friendly matter that I was immediately put at ease. Many years later I was invited as newly elected MP to a palace garden party at Buckingham Palace and he was again laughing and joking all the way around the visitors there, I told him that my office was in Old Scotland Yard and he explained that it took its name from where the Kings of Scotland used to stay on their visits to London, then joked “and sometimes we let them go again afterwards”. The third time and the most special was during the diamond jubilee year when he and the Queen came to Worcester to open the Hive. Everyone who met him that day attested to a larger than life personality, a great charm and an immediate wit, focused on putting people at their ease. I now realise more than ever what an incredible privilege it was to be presented both to the sovereign and to such a remarkable man who has been her strength and support. I also know from my work in Northern Ireland that so many places all over our United Kingdom have fond memories of his visits.”</p>
+<p>“The whole country owes this extraordinary man a debt of gratitude for his service but also for his remarkable legacy. His creation of the Duke of Edinburgh award scheme for young people has created so many memorable experiences and done so much to support young people in undertaking volunteering, learning about the great outdoors and building character and resilience. In a very real way his legacy will live beyond him in so many lives enhanced and people inspired. Whilst as a Minister of State, I will not have the opportunity to speak in today’s commons debate, I am looking forward to hearing the tributes from the Prime Minister and others who speak today and I consider it a privilege to have served in the Government and the Parliament of the second Elizabethan age that Prince Philip, the Duke of Edinburgh, has done so much to shape.”</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2021/04/robin-pays-tribute-to-hrh-the-duke-of-edinburgh/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2021/04/robin-pays-tribute-to-hrh-the-duke-of-edinburgh/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
   <entry>
     <title>'The true courtesy of princes is not just their punctuality but their engagement'</title>
     <link rel="alternate" href="https://www.alistair-burt.co.uk/news/true-courtesy-princes-not-just-their-punctuality-their-engagement" type="text/html"/>
@@ -1318,10 +1372,10 @@ During his speech, which can be viewed be clicking here, Lee vociferously suppor
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-607fc734d490d" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-607fc734d4b99" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-607fc734d4d86" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-607fc734d4eb8" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-607fd4ee69366" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-607fd4ee695bf" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-607fd4ee697b8" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-607fd4ee698f9" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -1955,10 +2009,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-607fc8163fbec" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-607fd5cf55290" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-607fc8163fbec').iPhorm({"id":5,"uniqueId":"607fc8163fbec","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-607fd5cf55290').iPhorm({"id":5,"uniqueId":"607fd5cf55290","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2033,10 +2087,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-607fc8163fbec" class="iphorm iphorm-form-5" action="/feed/#iphorm-607fc8163fbec" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-607fd5cf55290" class="iphorm iphorm-form-5" action="/feed/#iphorm-607fd5cf55290" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="607fc8163fbec" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="607fd5cf55290" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2045,22 +2099,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_607fc8163fbec" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_607fc8163fbec" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_607fd5cf55290" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_607fd5cf55290" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_607fc8163fbec" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_607fc8163fbec" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_607fd5cf55290" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_607fd5cf55290" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_607fc8163fbec" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_607fc8163fbec" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_607fd5cf55290" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_607fd5cf55290" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2070,7 +2124,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_607fc8163fbec_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_607fd5cf55290_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2089,7 +2143,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-607fc8163fbec script').remove();
+    jQuery('#iphorm-outer-607fd5cf55290 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
