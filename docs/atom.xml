@@ -7,9 +7,82 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-18T10:40:22Z</updated>
+  <updated>2021-05-18T11:35:17Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>UK Government must do more to stop violence in Middle East</title>
+    <link rel="alternate" href="https://brendanoharamp.scot/2021/05/18/uk-government-must-do-more-to-stop-violence-in-middle-east/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Thank you to all of my constituents who have been in touch to express concern about the escalation of violence in Israel, Gaza and the Occupied Palestinian Territories. I share these concerns and in my capacity as SNP spokesperson for Conflict Resolution and International Human Rights I have written to UK Foreign Secretary Dominic Raab […]</div>
+    </content>
+    <author>
+      <name>Editor</name>
+    </author>
+    <id>https://brendanoharamp.scot/?p=9334</id>
+    <published>2021-05-18T11:28:00Z</published>
+    <updated>2021-05-18T11:28:00Z</updated>
+    <category term="News"/>
+  </entry>
+  <entry>
+    <title>Unemployed Claimant Count April 2021</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/unemployed-claimant-count-april-2021" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/Claimant%20count%20image_3.jpg?itok=qOR050PZ" width="740" height="423" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p class="MsoNormal"><strong>The number of unemployed claimants in Dagenham and Rainham constituency in April 2021 was 6,825.</strong> This represents a rate of 9.7% of the economically active population aged 16 to 64. The equivalent UK claimant rate was 6.3%. </p>
+              <p class="MsoNormal">
+                <strong>There are 4090 more claimants than in March 2020 before the UK lockdown began and 15 less claimants than March 2021. </strong>
+              </p>
+              <p class="MsoNormal">Figures are not seasonally adjusted and are rounded to the nearest five. “Unemployed claimants” include people claiming Jobseeker’s Allowance or who are claiming Universal Credit and are required to seek work.</p>
+              <p class="MsoNormal">
+                <strong>Long term trends             </strong>
+              </p>
+              <p class="MsoNormal">The unadjusted claimant count is currently <strong>not a good indicator of long- term trends</strong> in the number of people looking for work. It does however provide us with a <strong>measure of how the number of claimants has changed in response to the coronavirus pandemic.</strong> The adjusted alternative claimant count <strong>is updated on a quarterly basis.</strong></p>
+              <p class="MsoNormal">
+                <strong>The ongoing impact of coronavirus on Universal Credit</strong>
+              </p>
+              <p class="MsoNormal">Under Universal Credit, a broader spectrum of people are required to look for work than under Jobseeker’s Allowance. This has the effect of increasing the number of unemployed claimants. In addition to this, as part of the government’s response to Coronavirus (COVID-19), a number of enhancements were introduced to Universal Credit. Consequently, whilst some of the increase in the unemployed claimant count will be due to people who have become unemployed, some will also be due to employed people who have become eligible for Universal Credit as part of the government response to Coronavirus.</p>
+              <p class="MsoNormal">
+                <strong>Jon Cruddas MP: </strong>
+                <strong>
+                  <em>“Although the Furlough scheme has been a lifeline for many residents across Dagenham and Rainham, it has not been without its flaws. As lockdown eases it is vital that we have proper support structures in place to protect the most financially vulnerable, and those now facing job insecurity. We are not out of the woods yet and the government lacks a clear vision to rebuild our country. I will be working hard alongside Labour colleagues in Parliament and with services across the constituency to ensure that areas like ours have the resources needed to truly build back better.”</em>
+                </strong>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/unemployment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Unemployment</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/claimant-count" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Claimant Count</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/tags/universal-credit" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Universal Credit</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>margaret</name>
+    </author>
+    <id>1508 at https://joncruddas.org.uk</id>
+    <published>2021-05-18T11:04:57Z</published>
+    <updated>2021-05-18T11:04:57Z</updated>
+  </entry>
   <entry>
     <title>What would you call Granton Waterfront’s new public square?</title>
     <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13200/what-would-you-call-granton-waterfront-s-new-public-square-" type="text/html"/>
@@ -41,7 +114,7 @@ This week is also Dementia Action Week. This is a national event that aims to im
 <p>This week is also Dementia Action Week. This is a national event that aims to improve the lives of people affected by dementia. Nearly 1 million people in the UK with dementia, and their families, are struggling to get the support they need. If we are to help people and families who need support, we need to transform our social care system. It is not enough to simply &#8216;fix the crisis&#8217;.</p>
 <p>Labour&#8217;s priority is to empower older and disabled people, including those with dementia, to live the life they choose. We will work with social care users and their families to achieve this, and make Britain the best country to grow old in. Thank you to the Alzheimer&#8217;s Society for organising this event &#8211; <a href="https://www.alzheimers.org.uk/get-involved/dementia-action-week">find out more about Dementia Action Week on their website.</a></p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-4267" data-post-type="none" ><a href="https://lizkendall.org/mps-to-meet-health-bosses-to-make-the-case-for-glenfield/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/12.jpg" alt="MPs to meet health bosses to make the case for Glenfield" width="150" height="150" /></a><a href="https://lizkendall.org/mps-to-meet-health-bosses-to-make-the-case-for-glenfield/" class="wp_rp_title">MPs to meet health bosses to make the case for Glenfield</a></li><li data-position="1" data-poid="in-10081" data-post-type="none" ><a href="https://lizkendall.org/liz-comments-on-the-governments-social-care-action-plan/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/04/Screenshot-2020-04-16-at-11.37.53-150x150.png" alt="Liz comments on the Government&#8217;s social care action plan" width="150" height="150" /></a><a href="https://lizkendall.org/liz-comments-on-the-governments-social-care-action-plan/" class="wp_rp_title">Liz comments on the Government&#8217;s social care action plan</a></li><li data-position="2" data-poid="in-6514" data-post-type="none" ><a href="https://lizkendall.org/liz-kendall-mp-give-young-people-a-say-in-who-runs-the-country-lizs-latest-leicester-mercury-column/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="Liz Kendall MP: Give young people a say in who runs the country &#8211; Liz’s latest Leicester Mercury column" width="150" height="150" /></a><a href="https://lizkendall.org/liz-kendall-mp-give-young-people-a-say-in-who-runs-the-country-lizs-latest-leicester-mercury-column/" class="wp_rp_title">Liz Kendall MP: Give young people a say in who runs the country &#8211; Liz’s latest Leicester Mercury column</a></li><li data-position="3" data-poid="in-6375" data-post-type="none" ><a href="https://lizkendall.org/liz-backs-calls-for-end-to-15-minute-home-care-visits/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/05/IMG_2186-150x150.jpg" alt="Liz backs calls for end to 15 minute home care visits" width="150" height="150" /></a><a href="https://lizkendall.org/liz-backs-calls-for-end-to-15-minute-home-care-visits/" class="wp_rp_title">Liz backs calls for end to 15 minute home care visits</a></li><li data-position="4" data-poid="in-6617" data-post-type="none" ><a href="https://lizkendall.org/lunch-at-the-manor/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/08/13-150x150.jpg" alt="Lunch at the Manor" width="150" height="150" /></a><a href="https://lizkendall.org/lunch-at-the-manor/" class="wp_rp_title">Lunch at the Manor</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-1174" data-post-type="none" ><a href="https://lizkendall.org/harriet-harman-comes-to-new-parks-and-braunstone/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2010/02/HH-at-Brite-Centre21-150x150.jpg" alt="Harriet Harman visits New Parks and Braunstone" width="150" height="150" /></a><a href="https://lizkendall.org/harriet-harman-comes-to-new-parks-and-braunstone/" class="wp_rp_title">Harriet Harman visits New Parks and Braunstone</a></li><li data-position="1" data-poid="in-6888" data-post-type="none" ><a href="https://lizkendall.org/im-determined-to-work-with-city-to-boost-our-economy-lizs-latest-leicester-mercury-column/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/5.jpg" alt="&#8216;I&#8217;m determined to work with city to boost our economy&#8217;, &#8211; Liz&#8217;s latest Leicester Mercury column " width="150" height="150" /></a><a href="https://lizkendall.org/im-determined-to-work-with-city-to-boost-our-economy-lizs-latest-leicester-mercury-column/" class="wp_rp_title">&#8216;I&#8217;m determined to work with city to boost our economy&#8217;, &#8211; Liz&#8217;s latest Leicester Mercury column </a></li><li data-position="2" data-poid="in-3738" data-post-type="none" ><a href="https://lizkendall.org/tears-as-leicesters-glenfield-hospital-childrens-heart-unit-is-axed/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/26.jpg" alt="Tears as Leicester&#8217;s Glenfield Hospital children&#8217;s heart unit is axed" width="150" height="150" /></a><a href="https://lizkendall.org/tears-as-leicesters-glenfield-hospital-childrens-heart-unit-is-axed/" class="wp_rp_title">Tears as Leicester&#8217;s Glenfield Hospital children&#8217;s heart unit is axed</a></li><li data-position="3" data-poid="in-7883" data-post-type="none" ><a href="https://lizkendall.org/7883-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/05/CTdVDESWoAAm_8J-540x270-150x150.jpg" alt="Standing up for working people" width="150" height="150" /></a><a href="https://lizkendall.org/7883-2/" class="wp_rp_title">Standing up for working people</a></li><li data-position="4" data-poid="in-2605" data-post-type="none" ><a href="https://lizkendall.org/meeting-in-parliament-on-glenfield%e2%80%99s-children%e2%80%99s-heart-surgery/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/4.jpg" alt="Meeting in Parliament on Glenfield’s children’s heart surgery" width="150" height="150" /></a><a href="https://lizkendall.org/meeting-in-parliament-on-glenfield%e2%80%99s-children%e2%80%99s-heart-surgery/" class="wp_rp_title">Meeting in Parliament on Glenfield’s children’s heart surgery</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-attends-dementia-action-week-event/">Liz attends Dementia Action Week event</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -413,6 +486,74 @@ The review is examining which cross-border transport projects…</div>
     <category term="Wycombe"/>
   </entry>
   <entry>
+    <title>Dear Newcastle May 2021</title>
+    <link rel="alternate" href="https://chionwurahmp.com/2021/05/dear-newcastle-may-2021/" type="text/html"/>
+    <content type="html">&lt;h1&gt;Dear Newcastle&lt;/h1&gt;
+&lt;p&gt;It is hard to believe that we have spent over a year now in various forms of lockdown with so much loss of life and so much sacrifice by so many. We hope that there is a sustainable path out of the Covid restrictions and that we can build back a fairer, better society.  A big part of this is the vaccine rollout, which continued to be successful in the North East with  great co-ordination between the NHS, Public Health professionals and volunteers. Our infection rates have reduced to around 40 per 100,000 but this is still the highest amongst the seven local authorities and twice the UK average. However it is positive that despite easing of certain restrictions we have not seen any spike in infections.&lt;/p&gt;
+&lt;p&gt;But part of building back better is investment in local communities and businesses and we are yet to see a plan from this Government that does that.&lt;/p&gt;
+&lt;p&gt;&lt;img data-attachment-id="11119" data-permalink="https://chionwurahmp.com/2021/05/dear-newcastle-may-2021/eslquestion-002/" data-orig-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/ESLQuestion-002.png?fit=1024%2C576&amp;amp;ssl=1" data-orig-size="1024,576" data-comments-opened="1" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}" data-image-title="ESLQuestion (002)" data-image-description="" data-medium-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/ESLQuestion-002.png?fit=300%2C169&amp;amp;ssl=1" data-large-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/ESLQuestion-002.png?fit=700%2C394&amp;amp;ssl=1" loading="lazy" class="alignnone size-full wp-image-11119" src="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/ESLQuestion-002.png?resize=700%2C394&amp;#038;ssl=1" alt="" width="700" height="394" srcset="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/ESLQuestion-002.png?w=1024&amp;amp;ssl=1 1024w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/ESLQuestion-002.png?resize=300%2C169&amp;amp;ssl=1 300w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/ESLQuestion-002.png?resize=768%2C432&amp;amp;ssl=1 768w" sizes="(max-width: 700px) 100vw, 700px" data-recalc-dims="1" /&gt;&lt;strong&gt;Opposing the European Super League&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In Newcastle it was good to see non essential shops opening in a covid secure way. So many local businesses have suffered during lockdown, it is important to support them as much as possible. I want to thank everyone who has followed the rules during this difficult time and I hope everyone can look forward to a better spring and summer.&lt;/p&gt;
+&lt;p&gt;In Parliament my work focused on  two of the Bills I am leading on for Labour – the National Security and Investment Bill and the Advanced Research and Innovation Bill – as well as continuing to highlight the impact of the pandemic, and Brexit, on the region.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h1&gt;Backbench and Constituency Role&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;It was great to be able to be able to have some face to face meetings, in accordance with Covid restrictions, to hear direct from constituents what their concerns were!&lt;/li&gt;
+&lt;li&gt;The Government’s Race Report was published, refusing to recognise institutional racism. I heard from many constituents concerned about the report and worked with colleagues and comrades to co-ordinate a response.&lt;/li&gt;
+&lt;li&gt;I continue to engage with the Prime Minister, Ministers, Government Agencies and others regarding issues and demands for support for constituents and businesses as we follow the roadmap out of lockdown, the Horizon scandal and the need for a government inquiry, the life cycle of electric vehicles, medical care for veterans and identity theft. I have contacted numerous members of the Cabinet with questions that arose as a result of the student open meeting I hosted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img data-attachment-id="11122" data-permalink="https://chionwurahmp.com/2021/05/dear-newcastle-may-2021/elections-out-and-about-02-may-aamgwx-2/" data-orig-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Elections-out-and-about-02-May-AAMgwx-2.jpg?fit=1024%2C570&amp;amp;ssl=1" data-orig-size="1024,570" data-comments-opened="1" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1620997250&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;}" data-image-title="Elections out and about 02 May AAMgwx (2)" data-image-description="" data-medium-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Elections-out-and-about-02-May-AAMgwx-2.jpg?fit=300%2C167&amp;amp;ssl=1" data-large-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Elections-out-and-about-02-May-AAMgwx-2.jpg?fit=700%2C390&amp;amp;ssl=1" loading="lazy" class="alignnone wp-image-11122" src="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Elections-out-and-about-02-May-AAMgwx-2.jpg?resize=537%2C299&amp;#038;ssl=1" alt="" width="537" height="299" srcset="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Elections-out-and-about-02-May-AAMgwx-2.jpg?w=1024&amp;amp;ssl=1 1024w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Elections-out-and-about-02-May-AAMgwx-2.jpg?resize=300%2C167&amp;amp;ssl=1 300w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Elections-out-and-about-02-May-AAMgwx-2.jpg?resize=768%2C428&amp;amp;ssl=1 768w" sizes="(max-width: 537px) 100vw, 537px" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Out and about at the Elections&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;Shadow Ministerial and PES Role&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The Online Safety Bill will be introduced in the new session and we continue to engage with stakeholders with regard to what should be in it! There is significant interest in adding aspects of online harm not currently covered such as financial harms.&lt;/li&gt;
+&lt;li&gt;We are working on the launch of our Digital Report on May 17&lt;sup&gt;th&lt;/sup&gt;.  I spoke to the Lords Communications and Digital Select Committee the importance of a proper regulatory framework.&lt;/li&gt;
+&lt;li&gt;When Parliament returned mid April the  ARIA Bill had its Committee Stage. We are supportive of the Bill but feel changes are required to make it more effective and accountable for example the fact the Government wants to exempt it from Freedom of Information Requests and normal procurement rules is worrying.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;The National Security and Investment Bill came back to the Commons for ping pong  with the Lords over Intelligence and Security Committee oversight. Despite concerns expressed by many members of Parliament and peers the Government refused to budge!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img data-attachment-id="11125" data-permalink="https://chionwurahmp.com/2021/05/dear-newcastle-may-2021/may-day-rally-online-au8pss/" data-orig-file="https://i1.wp.com/chionwurahmp.com/wp-content/uploads/May-Day-rally-online-AU8PSS.jpg?fit=680%2C383&amp;amp;ssl=1" data-orig-size="680,383" data-comments-opened="1" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}" data-image-title="May Day rally online AU8PSS" data-image-description="" data-medium-file="https://i1.wp.com/chionwurahmp.com/wp-content/uploads/May-Day-rally-online-AU8PSS.jpg?fit=300%2C169&amp;amp;ssl=1" data-large-file="https://i1.wp.com/chionwurahmp.com/wp-content/uploads/May-Day-rally-online-AU8PSS.jpg?fit=680%2C383&amp;amp;ssl=1" loading="lazy" class="alignnone wp-image-11125" src="https://i1.wp.com/chionwurahmp.com/wp-content/uploads/May-Day-rally-online-AU8PSS.jpg?resize=543%2C306&amp;#038;ssl=1" alt="" width="543" height="306" srcset="https://i1.wp.com/chionwurahmp.com/wp-content/uploads/May-Day-rally-online-AU8PSS.jpg?w=680&amp;amp;ssl=1 680w, https://i1.wp.com/chionwurahmp.com/wp-content/uploads/May-Day-rally-online-AU8PSS.jpg?resize=300%2C169&amp;amp;ssl=1 300w" sizes="(max-width: 543px) 100vw, 543px" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;May Day Rally online this year&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;Parliamentary Activity&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Spoken from the back bench&lt;/strong&gt;: four  times&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://hansard.parliament.uk/Commons/2021-04-15/debates/4AA7E147-B9DA-4E7F-BE59-DD93DB98DAD4/UniversityStudentsCompensationForLostTeachingAndRent#contribution-0059A656-CDF1-4CE9-805E-D221D3DF9A0F"&gt;University Students compensation&lt;/a&gt; (15&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="https://hansard.parliament.uk/Commons/2021-04-19/debates/A5981B60-CFE0-4758-BE91-B43DDFDE6EB6/EuropeanFootballProposal#contribution-3FD0F351-3869-4089-874A-55BFD452C579"&gt;European super league&lt;/a&gt; (19&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="https://hansard.parliament.uk/Commons/2021-04-26/debates/D74E1751-705F-469B-9266-83FC1BB0EA68/ODABudget#contribution-D7217ED9-192F-427F-8345-BFD6C5A21CD4"&gt;ODA Budget&lt;/a&gt; (26&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="https://hansard.parliament.uk/Commons/2021-04-28/debates/2641C4EE-3765-4C2E-A124-DE070394DBAF/GovernmentSupportForIndia#contribution-D408C0E2-C68C-43AB-AF02-CE155468D7FC"&gt;Government support for India&lt;/a&gt; (28&lt;sup&gt;th&lt;/sup&gt; Apr),&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spoken from the front bench:&lt;/strong&gt; ten times&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://hansard.parliament.uk/Commons/2021-04-14/debates/2b2e5bb5-aaa7-492d-ad9a-fe11cadd06af/AdvancedResearchAndInventionAgencyBill(FirstSitting)#contribution-695D702B-ADA0-4C22-ACAD-4BBBB86B7493"&gt;ARIA debate first sitting&lt;/a&gt; (14&lt;sup&gt;th&lt;/sup&gt; Apr) &lt;a href="https://hansard.parliament.uk/Commons/2021-04-14/debates/13cd57f9-31da-4e0f-84cf-852d9a6888c7/AdvancedResearchAndInventionAgencyBill(SecondSitting)#contribution-138C5EBF-6776-4A7F-AD42-E8CA7DFF1D44"&gt;ARIA Debate second sitting&lt;/a&gt; (14&lt;sup&gt;th&lt;/sup&gt; Apr) &lt;a href="https://hansard.parliament.uk/Commons/2021-04-19/debates/8a3fcc8e-219d-4a04-b772-c2f77bf8582a/DraftAudiovisualMediaServices(Amendment)Regulations2021#contribution-50AE99EA-ADC0-415F-9767-A378144FE726"&gt;Audiovisual media services&lt;/a&gt; (19&lt;sup&gt;th&lt;/sup&gt; Apr) &lt;a href="https://hansard.parliament.uk/Commons/2021-04-20/debates/a962ed52-9a35-462d-b893-d24bee08ef9f/AdvancedResearchAndInventionAgencyBill(ThirdSitting)#contribution-00B1C409-EA87-4A15-9327-99ACDEB7E8E9"&gt;ARIA third sitting&lt;/a&gt; (20&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="https://hansard.parliament.uk/Commons/2021-04-20/debates/5c5fbe72-2ad5-4456-9982-d6c604d593e7/AdvancedResearchAndInventionAgencyBill(FourthSitting)#contribution-56E1C388-2214-4126-A56B-793C9D2BC300"&gt;ARIA fourth sitting&lt;/a&gt; (20&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="https://hansard.parliament.uk/Commons/2021-04-22/debates/0e0e11cd-acea-4d5d-8ca8-43c876c79dc7/AdvancedResearchAndInventionAgencyBill(FifthSitting)#contribution-218F799E-BD1D-4D37-AD39-D4BBCE53FB42"&gt;ARIA fifth sitting&lt;/a&gt; (22&lt;sup&gt;nd&lt;/sup&gt; Apr), &lt;a href="https://hansard.parliament.uk/Commons/2021-04-22/debates/e1deef1f-164b-47fc-aa76-23e860ff6c9c/AdvancedResearchAndInventionAgencyBill(SixthSitting)#contribution-61FBD51B-83E4-4D38-8A90-97D57BD6F067"&gt;ARIA sixth sitting&lt;/a&gt; (22&lt;sup&gt;nd&lt;/sup&gt; Apr), &lt;a href="https://hansard.parliament.uk/Commons/2021-04-26/debates/48424601-61CE-4A78-A636-A54B0398A41A/NationalSecurityAndInvestmentBill#contribution-8211C0F2-C22A-41F0-B2E0-589CF2301684"&gt;NSI Bill&lt;/a&gt; (26&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="https://hansard.parliament.uk/Commons/2021-04-27/debates/9D8DDC1D-379C-4C48-B5E7-218D24CC8DA3/PostOfficeCourtOfAppealJudgment#contribution-B8597677-651B-4A00-939E-88FA0E0B22B3"&gt;Post Office appeal Horizon&lt;/a&gt; (27&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="https://hansard.parliament.uk/Commons/2021-04-28/debates/449EB9FE-67FE-4417-BF64-610C6247D4E9/NationalSecurityAndInvestmentBill#contribution-66F74E90-5D2A-4FFA-9EE4-380DD20C679C"&gt;NSI Bill&lt;/a&gt; (28&lt;sup&gt;th&lt;/sup&gt; Apr)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Written Questions:&lt;/strong&gt; 34&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-03-23/174121"&gt;Schools: Coronavirus&lt;/a&gt; (1&lt;sup&gt;st&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-03-22/173005"&gt;Broadband: Rural Areas&lt;/a&gt; (9&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-02-24/158041"&gt;Coronavirus: Medical Treatments&lt;/a&gt; (12&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-02-24/158042"&gt;Coronavirus: Medical Treatments&lt;/a&gt; (12&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-12/179109"&gt;Sexual Offences&lt;/a&gt; (12&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-03-23/174120"&gt;National Tutoring Programme&lt;/a&gt; (13&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-03-23/174120"&gt;National Tutoring Programme&lt;/a&gt; (13&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-03-25/175845"&gt;Business: Government Assistance&lt;/a&gt; (13&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-12/179112"&gt;Students: Coronavirus&lt;/a&gt; (15&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-12/179113"&gt;Facebook: Data Protection&lt;/a&gt; (15&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-13/180486"&gt;Advanced Research and Invention Agency&lt;/a&gt; (19&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-13/180488"&gt;Advanced Research and Invention Agency&lt;/a&gt; (19&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-13/180489"&gt;Advanced Research and Invention Agency&lt;/a&gt; (19&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-13/180490"&gt;UK Research and Innovation: Freedom of Information&lt;/a&gt; (19&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-13/180493"&gt;Advanced Research and Invention Agency: Public Appointments&lt;/a&gt; (19&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-14/180974"&gt;Advanced Research and Invention Agency: Finance&lt;/a&gt; (19&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-14/180975"&gt;Advanced Research and Invention Agency: Engineering&lt;/a&gt; (19&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-12/179110"&gt;Africa: Research&lt;/a&gt; (20&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-15/181471"&gt;Football: Takeovers&lt;/a&gt; (20&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-13/180487"&gt;Advanced Research and Invention Agency&lt;/a&gt; (20&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-13/180491"&gt;Research: Finance&lt;/a&gt; (21&lt;sup&gt;st&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-13/180492"&gt;Advanced Research and Invention Agency: Finance&lt;/a&gt; (21&lt;sup&gt;st&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-02-03/148785"&gt;Care Homes: Coronavirus&lt;/a&gt; (26&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-22/185878"&gt;Public Sector: Procurement&lt;/a&gt; (27&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-22/185879"&gt;Foreign Investment in UK: National Security&lt;/a&gt; (27&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-12/179108"&gt;Sexual Offences&lt;/a&gt; (29&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-12/179111"&gt;Sexual Offences&lt;/a&gt; (29&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-22/185880"&gt;NHS: Ventilators&lt;/a&gt; (29&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-26/187223"&gt;Horizon Europe: Quantum Technology and Space&lt;/a&gt; (29&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-26/187224"&gt;Horizon Europe: Quantum Technology and Space&lt;/a&gt; (29&lt;sup&gt;th&lt;/sup&gt; Apr), &lt;a href="http://www.parliament.uk/written-questions-answers-statements/written-question/commons/2021-04-26/187225"&gt;Research: Africa&lt;/a&gt; (29&lt;sup&gt;th&lt;/sup&gt; Apr)&lt;/p&gt;
+&lt;p&gt;&lt;img data-attachment-id="11128" data-permalink="https://chionwurahmp.com/2021/05/dear-newcastle-may-2021/digital-voice-for-communities-xeaet0px/" data-orig-file="https://i2.wp.com/chionwurahmp.com/wp-content/uploads/digital-voice-for-Communities-XEAET0Px.png?fit=680%2C531&amp;amp;ssl=1" data-orig-size="680,531" data-comments-opened="1" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}" data-image-title="digital voice for Communities XEAET0Px" data-image-description="" data-medium-file="https://i2.wp.com/chionwurahmp.com/wp-content/uploads/digital-voice-for-Communities-XEAET0Px.png?fit=300%2C234&amp;amp;ssl=1" data-large-file="https://i2.wp.com/chionwurahmp.com/wp-content/uploads/digital-voice-for-Communities-XEAET0Px.png?fit=680%2C531&amp;amp;ssl=1" loading="lazy" class="alignnone wp-image-11128" src="https://i2.wp.com/chionwurahmp.com/wp-content/uploads/digital-voice-for-Communities-XEAET0Px.png?resize=533%2C416&amp;#038;ssl=1" alt="" width="533" height="416" srcset="https://i2.wp.com/chionwurahmp.com/wp-content/uploads/digital-voice-for-Communities-XEAET0Px.png?w=680&amp;amp;ssl=1 680w, https://i2.wp.com/chionwurahmp.com/wp-content/uploads/digital-voice-for-Communities-XEAET0Px.png?resize=300%2C234&amp;amp;ssl=1 300w" sizes="(max-width: 533px) 100vw, 533px" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Digital Voice for Communities discussion&lt;/strong&gt;&lt;strong&gt;      &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organisation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We have recruited a new parliamentary intern who will start in the next few weeks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interviewed on local media including ITV NUFC lobbying, BBC Radio Newcastle, NUFC lobbying,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meetings&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Digital consultation, Helen Baker postmaster, Teakisi African Women, Anxious Minds, Newcastle University Student Union, British Society for Immunology, Africa APPG, Connected Voice, Internet Watcher Foundation, Is the NHS being privatised, Labour Muslim Network Iftaar, Minister Scully, Mears Group asylum accommodation, Newcastle City Council MP meeting, Association of British Pharmaceutical Industry, Match Tax protest,&lt;/p&gt;
+&lt;p&gt;&lt;img data-attachment-id="11131" data-permalink="https://chionwurahmp.com/2021/05/dear-newcastle-may-2021/backing-british-gas-workers-afcfw/" data-orig-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Backing-British-Gas-workers-AfcFW.jpg?fit=1504%2C1128&amp;amp;ssl=1" data-orig-size="1504,1128" data-comments-opened="1" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}" data-image-title="Backing British Gas workers AfcFW" data-image-description="" data-medium-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Backing-British-Gas-workers-AfcFW.jpg?fit=300%2C225&amp;amp;ssl=1" data-large-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Backing-British-Gas-workers-AfcFW.jpg?fit=700%2C525&amp;amp;ssl=1" loading="lazy" class="alignnone wp-image-11131" src="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Backing-British-Gas-workers-AfcFW.jpg?resize=490%2C367&amp;#038;ssl=1" alt="" width="490" height="367" srcset="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Backing-British-Gas-workers-AfcFW.jpg?w=1504&amp;amp;ssl=1 1504w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Backing-British-Gas-workers-AfcFW.jpg?resize=300%2C225&amp;amp;ssl=1 300w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Backing-British-Gas-workers-AfcFW.jpg?resize=1024%2C768&amp;amp;ssl=1 1024w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Backing-British-Gas-workers-AfcFW.jpg?resize=768%2C576&amp;amp;ssl=1 768w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Backing-British-Gas-workers-AfcFW.jpg?w=1400&amp;amp;ssl=1 1400w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Backing British Gas workers who face Fire &amp;amp; Rehire threats&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Science Museum Group, The future of professional visas, Palantir, Deepmind, Northumbria University, Onlyfans, Association for Black Engineers, Jessie Jacobs for Mayor, INNSiders, Prof Christensen &amp;amp; Tony McGuirk Electric Batteries, Ericsson, Football Association Online Harms,   WIRED conference, Unison Digitalisation, Vodafon BCS The Government by Algorithm debate, Diversity &amp;amp; Inclusion in STEM roundtable, Changing lives, Global Development Fund&lt;/p&gt;
+&lt;p&gt;&lt;img data-attachment-id="11134" data-permalink="https://chionwurahmp.com/2021/05/dear-newcastle-may-2021/anxious-minds-0acby1g/" data-orig-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?fit=1786%2C959&amp;amp;ssl=1" data-orig-size="1786,959" data-comments-opened="1" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}" data-image-title="Anxious Minds 0AcBY1g" data-image-description="" data-medium-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?fit=300%2C161&amp;amp;ssl=1" data-large-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?fit=700%2C376&amp;amp;ssl=1" loading="lazy" class="alignnone wp-image-11134" src="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?resize=420%2C225&amp;#038;ssl=1" alt="" width="420" height="225" srcset="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?w=1786&amp;amp;ssl=1 1786w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?resize=300%2C161&amp;amp;ssl=1 300w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?resize=1024%2C550&amp;amp;ssl=1 1024w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?resize=768%2C412&amp;amp;ssl=1 768w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?resize=1536%2C825&amp;amp;ssl=1 1536w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Anxious-Minds-0AcBY1g.jpg?w=1400&amp;amp;ssl=1 1400w" sizes="(max-width: 420px) 100vw, 420px" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discussing the wide variety of support Anxious Minds&lt;/strong&gt; &lt;strong&gt;provides for our veterans&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speaking Engagements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Digital  Voice Race Hate crime, Labour Tech CEO roundtable, Cambridge Labour manifesto launch, Lords Communication &amp;amp; Digital committee, Alliance for IP, Newcastle University Health literacy conference, Bridgewater School virtual  Parliament visit, Show Racism the Red Card Black Women Engineers, Chair Westminster Forum Trade  &amp;amp; Investment for UK tech sector, Democracy, Representation &amp;amp; Women’s Political participation in the time of Coronavirus, May Day Rally, Great North Run recording,&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Dear Newcastle It is hard to believe that we have spent over a year now in various forms of lockdown with so much loss of life and so much sacrifice by so many. We hope that there is a sustainable… </div>
+    </summary>
+    <author>
+      <name>Chi Office</name>
+    </author>
+    <id>https://chionwurahmp.com/?p=11117</id>
+    <published>2021-05-14T15:18:46Z</published>
+    <updated>2021-05-14T15:18:46Z</updated>
+    <category term="Admin"/>
+    <category term="Featured"/>
+    <category term="Front Page"/>
+    <category term="Keeping You Informed"/>
+    <category term="Other"/>
+    <category term="Your community"/>
+  </entry>
+  <entry>
     <title>Sense About Science</title>
     <link rel="alternate" href="https://www.georgefreeman.co.uk/news/sense-about-science" type="text/html"/>
     <content type="xhtml">
@@ -460,9 +601,7 @@ The review is examining which cross-border transport projects…</div>
               
       <div class="image-container">
         
-            <div class="field field--name-field-paragraph-image field--type-entity-reference field--label-hidden field--item">  <img src="/sites/georgefreeman.co.uk/files/2021-05/george_freeman_sense.jpg" width="1013" height="601" alt="George Freeman - Sense About Science" typeof="foaf:Image" class="img-responsive"/>
-
-</div>
+            <div class="field field--name-field-paragraph-image field--type-entity-reference field--label-hidden field--item">  <img src="https://www.georgefreeman.co.uk/sites/georgefreeman.co.uk/files/2021-05/george_freeman_sense.jpg" width="1013" height="601" alt="George Freeman - Sense About Science" typeof="foaf:Image" class="img-responsive"/></div>
       
         <div class="caption">
           <div class="svg">
@@ -700,20 +839,6 @@ Her Majesty opened the new session of Parliament today and outlined the Governme
 		
 			</entry>
   <entry>
-    <title>We must widen democracy not shut it down</title>
-    <link rel="alternate" href="https://brendanoharamp.scot/2021/05/13/we-must-widen-democracy-not-shut-it-down/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Today in the House of Commons I took part in the debate on the Queen’s Speech (Day 3): ‘A bright future for the next generation’ and spoke about the stark contrast between efforts by the SNP Scottish Government to make it easier for more and more people to vote, including 16 &amp; 17 year olds, […]</div>
-    </content>
-    <author>
-      <name>Editor</name>
-    </author>
-    <id>https://brendanoharamp.scot/?p=9326</id>
-    <published>2021-05-13T14:09:24Z</published>
-    <updated>2021-05-13T14:09:24Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>Karin Smyth MP condemns the Government for neglecting the social care crisis in the Queen’s Speech</title>
     <link rel="alternate" href="http://karinsmyth.com/2021/05/13/karin-smyth-mp-condemns-the-government-for-neglecting-the-social-care-crisis-in-the-queens-speech/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=karin-smyth-mp-condemns-the-government-for-neglecting-the-social-care-crisis-in-the-queens-speech" type="text/html"/>
     <content type="html">&lt;div id="fb-root"&gt;&lt;/div&gt;
@@ -857,76 +982,6 @@ Our new legislative programme is rightly focused on supporting the nation's reco
     <id>962 at https://preetkaurgill.com</id>
     <published>2021-05-12T11:18:01Z</published>
     <updated>2021-05-12T11:18:01Z</updated>
-  </entry>
-  <entry>
-    <title>East Jerusalem and the Middle East</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/eastjerusalem" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p class="MsoNormal">Thank you for your recent interest in my position regarding the situation in East Jerusalem and the Middle East. If you would like further updates on this issue and my other work in Parliament please fill out the form below.</p>
-            </div>
-          </div>
-        </div>
-        <form class="webform-client-form webform-client-form-1507" action="/rss.xml" method="post" id="webform-client-form-1507" accept-charset="UTF-8">
-          <div><fieldset class="webform-component-fieldset webform-component--civicrm-1-activity-1-fieldset-fieldset form-wrapper"><div class="fieldset-wrapper"/></fieldset>
-<fieldset class="webform-component-fieldset webform-component--civicrm-1-contact-1-fieldset-fieldset form-wrapper"><legend><span class="fieldset-legend">Your contact details</span></legend><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-civicrm_contact static webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-existing">
-<input data-hide-method="hide" data-no-hide-blank="0" class="civicrm-enabled" data-civicrm-field-key="civicrm_1_contact_1_contact_existing" type="hidden" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_existing]" value=""/>
-
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-first-name">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
- <input required="required" placeholder="First Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_first_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_first_name]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-last-name">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
- <input required="required" placeholder="Last Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_last_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_last_name]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-postal-code">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code">Postal Code <span class="form-required" title="This field is required.">*</span></label>
- <input required="required" placeholder="Postal Code" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_address_postal_code" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_postal_code]" value="" size="7" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-email webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-email-email">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email">Email </label>
- <input class="email civicrm-enabled form-text form-email" placeholder="Email" data-civicrm-field-key="civicrm_1_contact_1_email_email" type="email" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_email_email]" size="20"/>
-</div>
-</div></fieldset>
-<div class="form-item webform-component webform-component-markup webform-component--spacer">
- 
-</div>
-<fieldset class="webform-component-fieldset webform-component--group-fieldset form-wrapper"><legend><span class="fieldset-legend">Sign up</span></legend><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-select webform-component--group-fieldset--civicrm-1-contact-1-cg53-custom-387">
-  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg53-custom-387">Would you like Jon to stay in touch by email about his work on East Jerusalem, Palestine and the MIddle East?? <span class="form-required" title="This field is required.">*</span></label>
- <select required="required" class="civicrm-enabled form-select required" data-civicrm-field-key="civicrm_1_contact_1_cg53_custom_387" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg53-custom-387" name="submitted[group_fieldset][civicrm_1_contact_1_cg53_custom_387]"><option value="" selected="selected">- Select -</option><option value="1">Yes</option><option value="No">No</option></select>
-</div>
-<div class="form-item webform-component webform-component-select webform-component--group-fieldset--civicrm-1-contact-1-cg53-custom-308">
-  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg53-custom-308">Would you like Jon to stay in touch by email about other news and campaigns? <span class="form-required" title="This field is required.">*</span></label>
- <select required="required" class="civicrm-enabled form-select required" data-civicrm-field-key="civicrm_1_contact_1_cg53_custom_308" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg53-custom-308" name="submitted[group_fieldset][civicrm_1_contact_1_cg53_custom_308]"><option value="" selected="selected">- Select -</option><option value="Yes">Yes</option><option value="No">No</option></select>
-</div>
-<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--opt-out-at-any-time">
- <p>You can opt out at any time. You can find my privacy policy <a href="https://joncruddas.org.uk/legal-and-privacy">here</a>. Any previous opting information you have given Jon will display on this petition form</p>
-</div>
-<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--spacer2">
- 
-</div>
-</div></fieldset>
-<input type="hidden" name="details[sid]"/>
-<input type="hidden" name="details[page_num]" value="1"/>
-<input type="hidden" name="details[page_count]" value="1"/>
-<input type="hidden" name="details[finished]" value="0"/>
-<input type="hidden" name="form_build_id" value="form-TbkrbPKr__IUQ8Oe16LmQEryIVrQjAv4AxMRppc51L8"/>
-<input type="hidden" name="form_id" value="webform_client_form_1507"/>
-<div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
-        </form>
-      </div>
-    </content>
-    <author>
-      <name>admin781027</name>
-    </author>
-    <id>1507 at https://joncruddas.org.uk</id>
-    <published>2021-05-12T11:12:37Z</published>
-    <updated>2021-05-12T11:12:37Z</updated>
   </entry>
   <entry>
     <title>The future of Dungeness</title>
@@ -1611,10 +1666,10 @@ Along…</div>
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60a397cea4c96" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60a397cea4eec" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60a397cea50dd" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60a397cea5220" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60a3a5855b7cd" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60a3a5855b984" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60a3a5855bb00" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60a3a5855bbf0" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2224,10 +2279,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-60a3995a90f04" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-60a3a649c3270" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-60a3995a90f04').iPhorm({"id":5,"uniqueId":"60a3995a90f04","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-60a3a649c3270').iPhorm({"id":5,"uniqueId":"60a3a649c3270","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2302,10 +2357,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-60a3995a90f04" class="iphorm iphorm-form-5" action="/feed/#iphorm-60a3995a90f04" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-60a3a649c3270" class="iphorm iphorm-form-5" action="/feed/#iphorm-60a3a649c3270" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="60a3995a90f04" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="60a3a649c3270" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2314,22 +2369,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_60a3995a90f04" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60a3995a90f04" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_60a3a649c3270" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60a3a649c3270" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_60a3995a90f04" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60a3995a90f04" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_60a3a649c3270" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60a3a649c3270" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_60a3995a90f04" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60a3995a90f04" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_60a3a649c3270" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60a3a649c3270" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2339,7 +2394,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60a3995a90f04_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60a3a649c3270_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2358,7 +2413,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-60a3995a90f04 script').remove();
+    jQuery('#iphorm-outer-60a3a649c3270 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2395,7 +2450,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzcP_mO8t1W6iZv01R8tXhpZEffNjXTQHPk1BtMZZJD0ZHByL5rL-u-tn8n8jSyclZtESuEVgu1Q-vSb4zrhg' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxXpEUK3uNwAc1syMzlvvSgWrhaIPDiNmqzMBumb9csca9ZoLPqHXrLELfeth_tDARSLAe0U7rhLDPDbI74Pw' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
