@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-10T01:59:03Z</updated>
+  <updated>2021-06-10T02:53:30Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -271,36 +271,6 @@ There is a reason!
     <category term="Media"/>
     <category term="National"/>
   </entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>Jack Gebhard</name>
-					</author>
-
-		<title type="html"><![CDATA[Worcester residents will benefit as parliamentary constituency boundaries remain unchanged]]></title>
-		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2021/06/worcester-residents-will-benefit-as-parliamentary-constituency-boundaries-remain-unchanged/"/>
-
-		<id>https://www.walker4worcester.com/?p=2235</id>
-		<updated>2021-06-09T09:30:13Z</updated>
-		<published>2021-06-09T09:30:13Z</published>
-		<category scheme="https://www.walker4worcester.com" term="Uncategorized"/>
-		<summary type="html"><![CDATA[A major review of parliamentary constituency boundaries in England have recommended no change to the boundary of the Worcester constituency. The proposals will lead to some constituencies undergoing major change and some will be abolished altogether, but Worcester MP Robin Walker believes the continuity will benefit Worcester residents. The recommendations published this week follows extensive [&#8230;]]]></summary>
-
-					<content type="html" xml:base="https://www.walker4worcester.com/2021/06/worcester-residents-will-benefit-as-parliamentary-constituency-boundaries-remain-unchanged/"><![CDATA[<p>A major review of parliamentary constituency boundaries in England have recommended no change to the boundary of the Worcester constituency. The proposals will lead to some constituencies undergoing major change and some will be abolished altogether, but Worcester MP Robin Walker believes the continuity will benefit Worcester residents.</p>
-<p>The recommendations published this week follows extensive research by the Boundary Commission for England, an impartial body responsible for recommending on boundary changes independent of political or parliamentary influence. Boundary reviews take place at regular intervals to account for population changes which lead to varying constituency sizes. Previous proposals involved reducing the  number of Members of Parliament to 600, although this plan was dropped due to the additional workload created for MPs by Brexit.</p>
-<p>The initial proposals will see England gain 10 seats, though the West Midlands will lose two. Minor changes will take place in Worcestershire, with no change to the name or boundaries of the Worcester constituency. Their first report will now be open to consultation where members of the public can share their view of the proposals.</p>
-<p>Worcester MP Robin Walker was elected in 2010. He said:</p>
-<p>“I have spent the last 11 years working to improve Worcester and the lives of people who live here and the current boundary proposals allow me to continue doing that. Despite being the most politically challenging seat for us in Worcestershire I am proud to have increased my vote share at every election since 2010, and I will continue working to push that further.</p>
-<p>“Many people recognise that meaningful change can take years to achieve and many years of hard work have recently paid off recently as we have received a major investment into our high street, £15 million for the A&amp;E at Worcester Royal and, of course, today’s incredible announcement of nearly £20 million to transform key Worcester town centre sites. I am working on a number of other key campaigns including better rail services for Worcester and better education facilities for young people in Worcester.</p>
-<p>“In addition to that, I have an established team who have spent years getting to know residents, key issues and incredible community groups who I work with on a day to day basis as the MP for Worcester. I have good working relationships with officers and councillors across the political spectrum at Worcester City Council and am glad we will be able to continue working together.</p>
-<p>”It is worth noting that these proposals are still only drafts but I can say that I fully support the proposals and believe they will benefit Worcester residents.”</p>
-<p>The review will make its final report in 2023 and the boundaries will come into force for the subsequent election. Any resident wishing to make a comment about the boundaries can do so at <a href="https://www.bcereviews.org.uk/">https://www.bcereviews.org.uk/</a>.</p>
-<p>&nbsp;</p>
-]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2021/06/worcester-residents-will-benefit-as-parliamentary-constituency-boundaries-remain-unchanged/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2021/06/worcester-residents-will-benefit-as-parliamentary-constituency-boundaries-remain-unchanged/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry>
     <title>Carers Week</title>
     <link rel="alternate" href="https://chionwurahmp.com/2021/06/carers-week/" type="text/html"/>
@@ -789,24 +759,6 @@ In the Borders, 2,800 individual claims were made, and a total of £8,000,000 wa
 		
 			</entry>
   <entry>
-    <title>WEST DUNBARTONSHIRE MOVING TO LEVEL 1</title>
-    <link rel="alternate" href="http://martindocherty.scot/west-dunbartonshire-moving-to-level-1/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>In a statement today to the Scottish Parliament, First Minister Nicola Sturgeon confirmed that West Dunbartonshire will move from Level 2 to Level 1 covid-19 protection measures from 00:01 on Saturday 5 June 2021. The full list of local authority … <a href="http://martindocherty.scot/west-dunbartonshire-moving-to-level-1/">Continue reading <span class="meta-nav">→</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/west-dunbartonshire-moving-to-level-1/">WEST DUNBARTONSHIRE MOVING TO LEVEL 1</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Communications Officer</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1569996</id>
-    <published>2021-06-01T15:13:42Z</published>
-    <updated>2021-06-01T15:13:42Z</updated>
-    <category term="Campaign Emails"/>
-    <category term="Latest Issues"/>
-    <category term="News"/>
-  </entry>
-  <entry>
 		<author>
 			<name>Susie Burpee</name>
 					</author>
@@ -827,7 +779,7 @@ The reality is, the Government prioritised freeing up beds over protecting older
 <p>The reality is, the Government prioritised freeing up beds over protecting older people from the virus. The Health Secretary needs to get his story straight and stop wiggling out of responsibility.</p>
 <p><a href="https://www.theguardian.com/world/2021/may/27/matt-hancock-not-all-patients-sent-care-homes-tested-covid">Read more in The Guardian</a></p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-5062" data-post-type="none" ><a href="https://lizkendall.org/happy-birthday-kirton-lodge/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/07/DSCF5990-540x40414-150x150.jpg" alt="Happy Birthday Kirton Lodge!" width="150" height="150" /></a><a href="https://lizkendall.org/happy-birthday-kirton-lodge/" class="wp_rp_title">Happy Birthday Kirton Lodge!</a></li><li data-position="1" data-poid="in-8031" data-post-type="none" ><a href="https://lizkendall.org/startup-britain-tour/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/08/start-up1-150x150.jpg" alt="StartUP Britain Tour" width="150" height="150" /></a><a href="https://lizkendall.org/startup-britain-tour/" class="wp_rp_title">StartUP Britain Tour</a></li><li data-position="2" data-poid="in-7837" data-post-type="none" ><a href="https://lizkendall.org/congratulating-babington-community-college-on-their-discovering-democracy-award/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/04/ba-150x150.jpg" alt="Congratulating Babington Community College on their Discovering Democracy Award" width="150" height="150" /></a><a href="https://lizkendall.org/congratulating-babington-community-college-on-their-discovering-democracy-award/" class="wp_rp_title">Congratulating Babington Community College on their Discovering Democracy Award</a></li><li data-position="3" data-poid="in-6282" data-post-type="none" ><a href="https://lizkendall.org/4m-are-missing-vital-cervical-cancer-tests-women-struggle-to-book-convenient-gp-appointments-daily-mail-24-april/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" alt="4m are missing vital cervical cancer tests: Women struggle to book convenient GP appointments (Daily Mail, 24 April)" width="150" height="150" /></a><a href="https://lizkendall.org/4m-are-missing-vital-cervical-cancer-tests-women-struggle-to-book-convenient-gp-appointments-daily-mail-24-april/" class="wp_rp_title">4m are missing vital cervical cancer tests: Women struggle to book convenient GP appointments (Daily Mail, 24 April)</a></li><li data-position="4" data-poid="in-7817" data-post-type="none" ><a href="https://lizkendall.org/relative-values-the-labour-mp-liz-kendall-and-her-father-richard-sunday-times-magazine-11-april-2016/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/04/methode_sundaytimes_prod_web_bin_87c60218-f7f4-11e5-be35-680409daee89-150x150.jpg" alt="&#8216;Relative Values: the Labour MP Liz Kendall and her father, Richard&#8217;, Sunday Times Magazine, 11 April 2016" width="150" height="150" /></a><a href="https://lizkendall.org/relative-values-the-labour-mp-liz-kendall-and-her-father-richard-sunday-times-magazine-11-april-2016/" class="wp_rp_title">&#8216;Relative Values: the Labour MP Liz Kendall and her father, Richard&#8217;, Sunday Times Magazine, 11 April 2016</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-2391" data-post-type="none" ><a href="https://lizkendall.org/west-end-business-issues/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" alt="West end business issues" width="150" height="150" /></a><a href="https://lizkendall.org/west-end-business-issues/" class="wp_rp_title">West end business issues</a></li><li data-position="1" data-poid="in-11046" data-post-type="none" ><a href="https://lizkendall.org/publish-social-care-crisis-plan-in-queens-speech-voters-tell-boris-johnson/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/23.jpg" alt="Publish social care crisis plan in Queen&#8217;s Speech, voters tell Boris Johnson" width="150" height="150" /></a><a href="https://lizkendall.org/publish-social-care-crisis-plan-in-queens-speech-voters-tell-boris-johnson/" class="wp_rp_title">Publish social care crisis plan in Queen&#8217;s Speech, voters tell Boris Johnson</a></li><li data-position="2" data-poid="in-5435" data-post-type="none" ><a href="https://lizkendall.org/fosse-community-drop-in/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/21.jpg" alt="Fosse Community Drop-In" width="150" height="150" /></a><a href="https://lizkendall.org/fosse-community-drop-in/" class="wp_rp_title">Fosse Community Drop-In</a></li><li data-position="3" data-poid="in-3785" data-post-type="none" ><a href="https://lizkendall.org/liz-backs-whizz-kidz-campaign/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2012/08/DSCN1650-540x4051-150x150.jpg" alt="Liz backs Whizz-kidz campaign" width="150" height="150" /></a><a href="https://lizkendall.org/liz-backs-whizz-kidz-campaign/" class="wp_rp_title">Liz backs Whizz-kidz campaign</a></li><li data-position="4" data-poid="in-10043" data-post-type="none" ><a href="https://lizkendall.org/liz-raises-concerns-about-lack-of-ppe/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/04/Screenshot-2020-04-08-at-16.37.48-150x150.png" alt="Liz raises concerns about lack of PPE and testing for home care workers and personal assistants" width="150" height="150" /></a><a href="https://lizkendall.org/liz-raises-concerns-about-lack-of-ppe/" class="wp_rp_title">Liz raises concerns about lack of PPE and testing for home care workers and personal assistants</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/pressure-on-hancock-over-failure-to-protect-care-home-residents/">Pressure on Hancock over failure to protect care home residents</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -898,76 +850,6 @@ The reality is, the Government prioritised freeing up beds over protecting older
     <category term="charities"/>
     <category term="funding"/>
     <category term="voluntary groups"/>
-  </entry>
-  <entry>
-    <title>Worrying Questions over RFL’s elite academy decision</title>
-    <link rel="alternate" href="https://judithcummins.org.uk/rlf-ead/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;As Chair of the All Party Parliamentary Rugby League Group, Judith has written to the RFL seeking an explanation on its elite academy decision.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-gallery columns-2 is-cropped"&gt;&lt;ul class="blocks-gallery-grid"&gt;&lt;li class="blocks-gallery-item"&gt;&lt;figure&gt;&lt;img loading="lazy" width="737" height="1024" src="https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter1A-737x1024.png" alt="" data-id="2501" data-link="https://judithcummins.org.uk/worrying-questions-over-rfls-elite-academy-decision/appgrflletter1a/" class="wp-image-2501" srcset="https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter1A-737x1024.png 737w, https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter1A-216x300.png 216w, https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter1A-768x1066.png 768w, https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter1A.png 911w" sizes="(max-width: 737px) 100vw, 737px" /&gt;&lt;/figure&gt;&lt;/li&gt;&lt;li class="blocks-gallery-item"&gt;&lt;figure&gt;&lt;img loading="lazy" width="732" height="1024" src="https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter2A-732x1024.png" alt="" data-id="2502" data-full-url="https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter2A.png" data-link="https://judithcummins.org.uk/worrying-questions-over-rfls-elite-academy-decision/appgrflletter2a/" class="wp-image-2502" srcset="https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter2A-732x1024.png 732w, https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter2A-214x300.png 214w, https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter2A-768x1075.png 768w, https://judithcummins.org.uk/wp-content/uploads/2021/05/APPGRFLLetter2A.png 911w" sizes="(max-width: 732px) 100vw, 732px" /&gt;&lt;/figure&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/figure&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Re: Award of Elite Academy licenses for 2022-2027&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;I am concerned at the recent announcement from the Rugby Football League (RFL) on the award of Elite Academy licences for 2022-27.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;The approach taken and the outcome would appear to represent a reduction in opportunity in the community heartlands of the sport and a concentration predominantly in the hands of leading Super League clubs.&amp;nbsp;It has also thrown up some worrying outcomes&amp;nbsp;and raises a number of questions about its objectives.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Chair of the decision making panel, Air Commodore Dean Andrew OBE stated afterwards that: “We did not work to award a set number of licences”. This is clearly not the case and&amp;nbsp;is at&amp;nbsp;odds with the RFL statement&amp;nbsp;that there was “an agreement that a maximum of 12 licences should be awarded – up to nine in ‘Core Affinity Areas’, up to two in ‘Emerging Affinity Areas’, and up to one in France.”&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;It is this&amp;nbsp;latter part&amp;nbsp;gives rise to concerns that this was about quotas rather than an assessment of record, performance and potential and that crucially, deep roots into the community game may have had little weight in the consideration. I find it worrying that such links to the grass roots of the sport appear&amp;nbsp;to&amp;nbsp;have been set aside.&amp;nbsp; It is, after all, the affinity of our communities for the sport and the part it plays in the life of towns and cities across the north that is the beating heart of the game.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;This&amp;nbsp;disconnect&amp;nbsp;appears most starkly illustrated by the&amp;nbsp;decision not to award an Elite Academy licence to Bradford Bulls.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;The Bulls Academy has been&amp;nbsp;productive and respected&amp;nbsp;for its work, a rich source of playing talent. Leon Pryce, Sam Burgess, and John Bateman to name but a few of the players to have come through the academy and gone onto star at the highest levels of our sport.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Bradford Bulls is a rooted in the communities of Bradford, the people and the fans. The club sits at the apex of a vibrant local community rugby league structure, particularly in South Bradford. It acts as a powerful incentive and objective for young local players starting out in the sport.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;The RFL’s decision endangers those deep social roots in an area with a huge affinity for the game.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;I also find it concerning that the club indicate that they have not had an explanation of the reasons that their application was unsuccessful.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;I would appreciate a clear explanation and rationale for the approach taken for developing the&amp;nbsp;Elite&amp;nbsp;Academy&amp;nbsp;model, how this fits with developing players from the community game, and why Bradford’s well established and productive academy program was unsuccessful in that context.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Thank you for your consideration of these matters. I look forward to your reply.&amp;nbsp;&lt;/p&gt;
-&lt;h2 class="cprp_section_title"&gt;Related Posts&lt;/h2&gt;&lt;div class="cprp_items list "&gt;&lt;ul&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/judith-calls-for-action-on-vandalism-to-bus-services/" title="Judith calls for action on vandalism to bus services"&gt;Judith calls for action on vandalism to bus services&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;76&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;span class="cprp_excerpt_content"&gt;A spate of bus attacks in robbing residents of a vital service and Judith has called for immediate action to put a stop to this vandalism. You can read the full article on the Telegraph &amp;amp; Argus by clicking here&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: news, local&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/judith-urges-santander-to-rethink-closure-which-will-leave-bradford-south-with-no-banks/" title="Judith urges Santander to rethink closure which will leave Bradford South with no banks"&gt;Judith urges Santander to rethink closure which will leave Bradford South with no banks&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;73&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;a href="https://judithcummins.org.uk/judith-urges-santander-to-rethink-closure-which-will-leave-bradford-south-with-no-banks/" title="Judith urges Santander to rethink closure which will leave Bradford South with no banks"&gt;&lt;img src="https://judithcummins.org.uk/wp-content/uploads/2021/05/santander-picture.jpg.gallery-150x150.jpg" class="cprp_thumbnail" title="Judith urges Santander to rethink closure which will leave Bradford South with no banks" alt="Judith urges Santander to rethink closure which will leave Bradford South with no banks" /&gt;&lt;/a&gt;&lt;span class="cprp_excerpt_content"&gt;Judith has said that banking provision in the constituency has been totally wiped out. "People will have to travel over three miles to get to a bank,” she said, adding that the bank has “failed to take into account the social costs to the local area of removing this vital&amp;hellip;&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: number, local, bradford, news&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/judith-demands-government-sorts-out-coronavirus-testing-problems/" title="Video: Judith demands government sorts out coronavirus testing problems"&gt;Video: Judith demands government sorts out coronavirus testing problems&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;73&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;span class="cprp_excerpt_content"&gt;Judith has spoken in the House of Commons to raise the case of a constituent unable to get a test for her 8-year old asthmatic son in Bradford, who had been advised to travel to Scotland to get a test. Speaking after, Judith said: The Government has promised a ‘world&amp;hellip;&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: bradford, number, news, local&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/bradford-must-have-a-northern-powerhouse-rail-stop/" title="Bradford MUST have a Northern Powerhouse Rail stop"&gt;Bradford MUST have a Northern Powerhouse Rail stop&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;73&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;a href="https://judithcummins.org.uk/bradford-must-have-a-northern-powerhouse-rail-stop/" title="Bradford MUST have a Northern Powerhouse Rail stop"&gt;&lt;img src="https://judithcummins.org.uk/wp-content/uploads/2021/03/282909116.gallery-1-150x150.jpg" class="cprp_thumbnail" title="Bradford MUST have a Northern Powerhouse Rail stop" alt="Bradford MUST have a Northern Powerhouse Rail stop" /&gt;&lt;/a&gt;&lt;span class="cprp_excerpt_content"&gt;Judith, alongside Susan Hinchcliffe, leader of the council and Tracy Brabin, candidate for West Yorkshire Mayor, has called for the Government to ensure there is a Northern Powerhouse Rail stop in the city centre. Representing all three of Bradford's Labour MPs, Judith said: "There is a world out there that&amp;hellip;&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: bradford, news, local&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/judith-cummins-mp-launches-food-pantry-to-support-local-families/" title="Judith Cummins MP launches Food Pantry to support local families"&gt;Judith Cummins MP launches Food Pantry to support local families&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;73&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;a href="https://judithcummins.org.uk/judith-cummins-mp-launches-food-pantry-to-support-local-families/" title="Judith Cummins MP launches Food Pantry to support local families"&gt;&lt;img src="https://judithcummins.org.uk/wp-content/uploads/2021/02/132720401_661727764520958_1473415729086859036_o-150x150.jpg" class="cprp_thumbnail" title="Judith Cummins MP launches Food Pantry to support local families" alt="Judith Cummins MP launches Food Pantry to support local families" /&gt;&lt;/a&gt;&lt;span class="cprp_excerpt_content"&gt;Bradford South MP Judith Cummins visited The Sutton Centre in BD4 to launch their new Food Pantry which provides essential food and hygiene products to local families. Open every Wednesday, the pantry asks for a donation of just £3 to fill a bag with a range of tinned goods, cereals&amp;hellip;&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: local, community, news&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">As Chair of the All Party Parliamentary Rugby League Group, Judith has written to the RFL seeking an explanation on its elite academy decision. Re: Award of Elite Academy licenses for 2022-2027 I am concerned at the recent announcement from the Rugby Football League (RFL) on the award of Elite Academy licences for 2022-27.  The […]</div>
-    </summary>
-    <author>
-      <name>Andrew Thornton</name>
-    </author>
-    <id>https://judithcummins.org.uk/?p=2497</id>
-    <published>2021-05-28T12:49:27Z</published>
-    <updated>2021-05-28T12:49:27Z</updated>
-    <category term="Local News"/>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Karin Smyth, MP for Bristol South, criticises the Government’s decision allow billions to leave the country in unpaid tax</title>
@@ -1570,10 +1452,10 @@ When the extent of the pandemic became clear in the early part of 2020, the Gove
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60c17073b73ba" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60c17073b75b6" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60c17073b7731" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60c17073b7823" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60c17c386c0d7" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60c17c386c2da" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60c17c386c458" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60c17c386c54d" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2172,10 +2054,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-60c171bc63211" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-60c17d82f3468" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-60c171bc63211').iPhorm({"id":5,"uniqueId":"60c171bc63211","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-60c17d82f3468').iPhorm({"id":5,"uniqueId":"60c17d82f3468","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2250,10 +2132,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-60c171bc63211" class="iphorm iphorm-form-5" action="/feed/#iphorm-60c171bc63211" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-60c17d82f3468" class="iphorm iphorm-form-5" action="/feed/#iphorm-60c17d82f3468" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="60c171bc63211" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="60c17d82f3468" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2262,22 +2144,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_60c171bc63211" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60c171bc63211" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_60c17d82f3468" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60c17d82f3468" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_60c171bc63211" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60c171bc63211" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_60c17d82f3468" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60c17d82f3468" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_60c171bc63211" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60c171bc63211" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_60c17d82f3468" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60c17d82f3468" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2287,7 +2169,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60c171bc63211_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60c17d82f3468_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2306,7 +2188,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-60c171bc63211 script').remove();
+    jQuery('#iphorm-outer-60c17d82f3468 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2343,7 +2225,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw2UH5mI2DnCmxpX0p6UxvEzTrVQWnkZxT-tpMzuPQDSt6w5NnPSTcgD3NLCeoBCyEuEduvsnXbqUg_qImlWQ' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dymEXCNofTq5dzKnrije_6IE8AUWCtg_y-oUgqcx9_gGK5Rp122S_6Q1pTpUQJGhBUFECh73d8qZl37fbLWxA' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
