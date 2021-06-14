@@ -7,9 +7,74 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-14T09:35:16Z</updated>
+  <updated>2021-06-14T10:35:57Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Asda Foundation Supporting Local Charities</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/asda-foundation-supporting-local-charities" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/download_1.png?itok=qwvJJfTf" width="740" height="423" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p class="MsoNormal"> </p>
+              <p class="MsoNormal">At the end of May Dagenham United Charity, Box Up Crime and EMH Hawks U8’s football club were nominated to be part of the Asda Foundation’s brand-new Green Token Giving online voting scheme. Customers may have seen the green token scheme in store, but to make voting easier following lockdown online voting is now possible.</p>
+              <p class="MsoNormal">Each year, the Asda Foundation invests over £1.4m to more than 4000 good causes through Green Token Giving. The cause with the most online votes will receive a £500 donation while second and third place each receive £200.</p>
+              <p class="MsoNormal">You can vote for your favourite Dagenham and Rainham charity here: <strong><a href="https://www.asda.com/green-tokens/store?store=4140">https://www.asda.com/green-tokens/store?store=4140</a></strong></p>
+              <p class="MsoNormal"><strong>Jon Cruddas MP said:</strong> <em>“The Green Token Giving scheme is a fantastic way to support local charities and the work they do. The first prize of £500 can make all the difference to a small charity and I commend the work of all those involved in the vote. </em></p>
+              <p class="MsoNormal">
+                <em>“I know that my office manager Margaret Mullane, and local councillors such as Peter Chand, Lee Waker and Eileen Keller will be championing Dagenham United Charity as they are on the board, but I want to wish all three of the local charities the best of luck. I hope residents will take this opportunity to find out more about their work in the area before casting their vote.”</em>
+              </p>
+              <p class="MsoNormal">Find out more about the charities and how to cast your vote here: <strong><a href="https://www.asda.com/green-tokens/store?store=4140">https://www.asda.com/green-tokens/store?store=4140</a></strong></p>
+              <p class="MsoNormal"><strong>Voting closes on 31st July</strong> and the winner of the £500 will be announced shortly after. <strong>Supporters/individuals are able to vote once every seven days.</strong></p>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dagenham</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/tags/asda-foundation" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Asda Foundation</a>
+            </li>
+            <li class="taxonomy-term-reference-3">
+              <a href="/tags/asda" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Asda</a>
+            </li>
+            <li class="taxonomy-term-reference-4">
+              <a href="/tags/community" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">community</a>
+            </li>
+            <li class="taxonomy-term-reference-5">
+              <a href="/tags/charity" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Charity</a>
+            </li>
+            <li class="taxonomy-term-reference-6">
+              <a href="/tags/fundraising" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Fundraising</a>
+            </li>
+            <li class="taxonomy-term-reference-7">
+              <a href="/tags/voting" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Voting</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>andrew</name>
+    </author>
+    <id>1520 at https://joncruddas.org.uk</id>
+    <published>2021-06-14T10:24:53Z</published>
+    <updated>2021-06-14T10:24:53Z</updated>
+  </entry>
   <entry>
 		<title>Today marks 4 years since the tragic Grenfell Tower Fire, the campaign to protect leaseholders continues</title>
 		<link rel="alternate" type="text/html" href="https://www.stephen-mcpartland.com/news/1839-today-marks-4-years-since-the-tragic-grenfell-tower-fire-the-campaign-to-protect-leaseholders-continues"/>
@@ -189,7 +254,7 @@ Footage of patients being repeatedly assaulted and mocked by staff shocked peopl
 <div style="width: 720px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
 <video class="wp-video-shortcode" id="video-11106-1" width="720" height="720" preload="metadata" controls="controls"><source type="video/mp4" src="https://lizkendall.org/wp-content/uploads/2021/06/WhatsApp-Video-2021-06-11-at-12.11.15-1.mp4?_=1" /><a href="https://lizkendall.org/wp-content/uploads/2021/06/WhatsApp-Video-2021-06-11-at-12.11.15-1.mp4">https://lizkendall.org/wp-content/uploads/2021/06/WhatsApp-Video-2021-06-11-at-12.11.15-1.mp4</a></video></div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-5413" data-post-type="none" ><a href="https://lizkendall.org/westcotes-community-drop-in-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/23.jpg" alt="Westcotes Community Drop-In" width="150" height="150" /></a><a href="https://lizkendall.org/westcotes-community-drop-in-2/" class="wp_rp_title">Westcotes Community Drop-In</a></li><li data-position="1" data-poid="in-8653" data-post-type="none" ><a href="https://lizkendall.org/liz-speaks-in-debate-on-eu-withdrawal-bill/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2017/09/EU-withdrawal-pic-150x150.jpg" alt="Liz speaks in debate on EU Withdrawal Bill" width="150" height="150" /></a><a href="https://lizkendall.org/liz-speaks-in-debate-on-eu-withdrawal-bill/" class="wp_rp_title">Liz speaks in debate on EU Withdrawal Bill</a></li><li data-position="2" data-poid="in-3280" data-post-type="none" ><a href="https://lizkendall.org/liz-supports-end-the-care-crisis-lobby/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2012/03/End-the-Care-Crisis-lobby-6th-March-4-540x3591-150x150.jpg" alt="Liz supports &#8216;End the Care Crisis&#8217; lobby" width="150" height="150" /></a><a href="https://lizkendall.org/liz-supports-end-the-care-crisis-lobby/" class="wp_rp_title">Liz supports &#8216;End the Care Crisis&#8217; lobby</a></li><li data-position="3" data-poid="in-6998" data-post-type="none" ><a href="https://lizkendall.org/stroud-voters-have-golden-vote-says-labour-shadow-minister-stroud-life-20th-january/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/20.jpg" alt="Stroud voters have &#8216;golden vote&#8217; says Labour Shadow Minister  (Stroud Life, 20th January)" width="150" height="150" /></a><a href="https://lizkendall.org/stroud-voters-have-golden-vote-says-labour-shadow-minister-stroud-life-20th-january/" class="wp_rp_title">Stroud voters have &#8216;golden vote&#8217; says Labour Shadow Minister  (Stroud Life, 20th January)</a></li><li data-position="4" data-poid="in-4080" data-post-type="none" ><a href="https://lizkendall.org/leicester-glenfield-hospital-heart-campaign-hits-100000-name-target/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/23.jpg" alt="Leicester Glenfield Hospital heart campaign hits 100,000-name target" width="150" height="150" /></a><a href="https://lizkendall.org/leicester-glenfield-hospital-heart-campaign-hits-100000-name-target/" class="wp_rp_title">Leicester Glenfield Hospital heart campaign hits 100,000-name target</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-9987" data-post-type="none" ><a href="https://lizkendall.org/liz-on-westminster-hour/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/03/Screenshot-2020-03-24-at-13.34.15-150x150.png" alt="Liz on BBC Radio 4&#8217;s Westminster Hour" width="150" height="150" /></a><a href="https://lizkendall.org/liz-on-westminster-hour/" class="wp_rp_title">Liz on BBC Radio 4&#8217;s Westminster Hour</a></li><li data-position="1" data-poid="in-3785" data-post-type="none" ><a href="https://lizkendall.org/liz-backs-whizz-kidz-campaign/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2012/08/DSCN1650-540x4051-150x150.jpg" alt="Liz backs Whizz-kidz campaign" width="150" height="150" /></a><a href="https://lizkendall.org/liz-backs-whizz-kidz-campaign/" class="wp_rp_title">Liz backs Whizz-kidz campaign</a></li><li data-position="2" data-poid="in-6895" data-post-type="none" ><a href="https://lizkendall.org/we-wish-you-a-maya-christmas/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/12/Maya-150x150.png" alt="We wish you a Maya Christmas" width="150" height="150" /></a><a href="https://lizkendall.org/we-wish-you-a-maya-christmas/" class="wp_rp_title">We wish you a Maya Christmas</a></li><li data-position="3" data-poid="in-6871" data-post-type="none" ><a href="https://lizkendall.org/6871/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/12/Small-Business-Saturday-150x150.png" alt="Supporting Small Business Saturday" width="150" height="150" /></a><a href="https://lizkendall.org/6871/" class="wp_rp_title">Supporting Small Business Saturday</a></li><li data-position="4" data-poid="in-9949" data-post-type="none" ><a href="https://lizkendall.org/space-park-mercury-column/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/03/image017-150x150.jpg" alt="Liz&#8217;s latest column for the Leicester Mercury" width="150" height="150" /></a><a href="https://lizkendall.org/space-park-mercury-column/" class="wp_rp_title">Liz&#8217;s latest column for the Leicester Mercury</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/government-failing-people-with-autism-and-learning-disabilities/">Government failing people with autism and learning disabilities</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -535,84 +600,6 @@ There is a reason!
     <category term="internet"/>
     <category term="KCOM"/>
     <category term="Openreach"/>
-  </entry>
-  <entry>
-    <title>TfL Receives Additional Funding Package</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/tfl-receives-additional-funding-package" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/London_Underground_S7_Stock_21329_on_District_Line%2C_Earl%27s_Court_%2818280510331%29_0.jpg?itok=Zgc11Qlw" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p class="MsoNormal"> </p>
-              <p class="MsoNormal">At the beginning of June Transport for London reached an agreement with the Government which extends financial support for services until December 2021. The additional £1.08 billion of base funding means that TfL will be able to:</p>
-              <ul type="disc">
-                <ul>
-                  <ul>
-                    <li>Continue to <strong>attract customers back </strong>and <strong>support the recovery of London;</strong></li>
-                    <li>Advance with the <strong>completion of major projects</strong> such as the Elizabeth line, Northern line extension, expansion of the London Overground to Barking Riverside, upgrading signalling on the Circle, District, Hammersmith &amp; City and Metropolitan lines, and the rebuild of Bank station;</li>
-                    <li>Continue with innovative and creative schemes to <strong>decarbonise transport and to clean up London’s air quality</strong> through the expansion of ULEZ, further electrifying the bus fleet, promoting active travel and improving road safety</li>
-                  </ul>
-                </ul>
-              </ul>
-              <p class="MsoNormal">
-                <strong>London’s Transport Commissioner Andy Byford said:</strong>
-                <em>“The pandemic – during which our staff have worked so magnificently to keep London moving – has shown our financial model, with such a disproportionate reliance on fare revenue, to be not fit for purpose…..</em>
-              </p>
-              <p class="MsoNormal">
-                <em>“….. The conditions placed on us by the Government agreement and the amount of funding we will receive means we need to find a further £900m of savings or new income this year compared to our approved Budget and on top of the £730m of savings already assumed in our Business Plan.”</em>
-              </p>
-              <p class="MsoNormal">The Government has explicitly required TfL to deliver at least an additional £300m in savings and/or new income within this financial year. But even with the additional funding there is a funding shortfall which means TfL will need to find nearer £900m in savings and/or new income.</p>
-              <p class="MsoNormal">
-                <strong>Mayor of London, Sadiq Khan said: </strong>
-                <em>“It’s important to remember that TfL only needs emergency funding from the Government because its income from fares dropped by up to 90 per cent because Londoners followed the rules by staying at home and avoiding public transport during the lockdown.</em>
-              </p>
-              <p class="MsoNormal">
-                <em>“This short-term settlement is yet another sticking plaster so I will seek to work with the Government over the months ahead to agree a longer-term funding deal for TfL that is both fair and right for Londoners and the whole country.”</em>
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dagenham</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/transport" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Transport</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/tfl" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">TFL</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/london" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">London</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/mayor" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Mayor</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/taxonomy/term/573" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Funding</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1519 at https://joncruddas.org.uk</id>
-    <published>2021-06-09T09:44:01Z</published>
-    <updated>2021-06-09T09:44:01Z</updated>
   </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
@@ -1644,10 +1631,10 @@ When the extent of the pandemic became clear in the early part of 2020, the Gove
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60c721db54091" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60c721db54284" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60c721db543ff" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60c721db544f7" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60c730170abbe" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60c730170adaf" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60c730170af26" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60c730170b014" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2246,10 +2233,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-60c722a46eb29" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-60c730e34786b" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-60c722a46eb29').iPhorm({"id":5,"uniqueId":"60c722a46eb29","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-60c730e34786b').iPhorm({"id":5,"uniqueId":"60c730e34786b","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2324,10 +2311,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-60c722a46eb29" class="iphorm iphorm-form-5" action="/feed/#iphorm-60c722a46eb29" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-60c730e34786b" class="iphorm iphorm-form-5" action="/feed/#iphorm-60c730e34786b" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="60c722a46eb29" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="60c730e34786b" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2336,22 +2323,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_60c722a46eb29" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60c722a46eb29" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_60c730e34786b" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60c730e34786b" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_60c722a46eb29" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60c722a46eb29" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_60c730e34786b" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60c730e34786b" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_60c722a46eb29" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60c722a46eb29" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_60c730e34786b" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60c730e34786b" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2361,7 +2348,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60c722a46eb29_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60c730e34786b_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2380,7 +2367,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-60c722a46eb29 script').remove();
+    jQuery('#iphorm-outer-60c730e34786b script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2417,7 +2404,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwDAPGb595hnPJCQMPWsoPM5AVuMCllSapysfzu23BBisDL2XPXqzQnvHJF6Dhi7dHqPgRbTPeFj7NAJAFRkg' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwHY6q9pkEp3u6eR4nEEyEVYDau9CQ_KvQPljCO39T6cyfUpHkMV5weXcab-dz_Cl4-U0vXDpet795edPPhzg' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
