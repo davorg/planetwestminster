@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-09T12:41:36Z</updated>
+  <updated>2021-07-09T13:39:36Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>George Freeman MP with at Lotus’ launch of Emira sports car</title>
+    <link rel="alternate" href="https://www.georgefreeman.co.uk/gallery/george-freeman-mp-lotus-launch-emira-sports-car" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><span>George Freeman MP with at Lotus’ launch of Emira sports car</span>
+<span><span lang="" about="https://www.georgefreeman.co.uk/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">jon</span></span>
+<span>Fri, 07/09/2021 - 13:50</span>
+
+  <div class="field field--name-field-gallery-image field--type-entity-reference field--label-above">
+    <div class="field--label">field_gallery_image</div>
+              <div class="field--item"><a href="https://www.georgefreeman.co.uk/media/2210/edit" hreflang="en">george_freeman_emira3.jpg</a></div>
+          </div>
+</div>
+    </content>
+    <author>
+      <name>jon</name>
+    </author>
+    <id>2154 at https://www.georgefreeman.co.uk</id>
+    <published>2021-07-09T12:50:07Z</published>
+    <updated>2021-07-09T12:50:07Z</updated>
+  </entry>
   <entry>
     <title>Graham Stuart MP meets with local litter picking group, ‘The Wombles of Beverley’.</title>
     <link rel="alternate" href="https://www.grahamstuart.com/2021/07/graham-stuart-mp-meets-with-local-litter-picking-group-the-wombles-of-beverley/" type="text/html"/>
@@ -101,46 +122,6 @@ The post <a href="http://karinsmyth.com/2021/07/09/weekly-round-up-9-july-2021/"
     <published>2021-07-09T05:01:41Z</published>
     <updated>2021-07-09T05:01:41Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Offshore Wind</title>
-    <link rel="alternate" href="https://www.georgefreeman.co.uk/news/offshore-wind-0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="2152" class="layout layout--onecol">
-    <div class="layout__region layout__region--content">
-      
-            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">8 July 2021</div>
-      
-      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
-          
-            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Offshore Wind</span></div>
-      
-            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span><span><span>Norfolk, and the East, are on the brink of becoming the ‘Saudi Arabia’ of Offshore Wind production. The Southern North Sea will be the global hub – putting our region at the forefront of the UK’s ‘Green Revolution’ and bringing thousands of new jobs and opportunities.</span></span></span></span></p>
-
-<p><span><span><span><span>That’s why I continue to actively work with parliamentary colleagues and local communities to drive forward the campaign for an Offshore Transmission Network – to avoid the needless environmental damage to our precious rural and coastal landscapes, along with the major disruption that businesses, tourists and communities encounter when each wind farm cables inland to Wembley Stadium-sized Substations. </span></span></span></span></p>
-
-<p><span><span><span><span>Although the Government remains firmly committed to its 2030 Net Zero targets and therefore cannot halt all existing applications until an OTN is in place, the policy argument is won and the Government are actively working towards an OTN. </span></span></span></span></p>
-
-<p><span><span><span><span>With that in mind, a number of developers with “in-flight” applications are working with BEIS to explore how they may possibly be able to work with other developers to share resources and minimise disruption – and BEIS is working with all developers who have already been granted leases before 2030, but which are not yet in the formal planning process, to explore everything that can be done to mitigate and coordinate them. Post-2030 we should then see the ‘Enduring Regime’ – an OTN. </span></span></span></span></p>
-
-<p><span><span><span><span>Rest assured however, with my parliamentary colleagues, I am continuing to do everything I can to help ensure that the OTN campaign moves forward as swiftly as possible – and I remain committed to doing what I can to make sure as many of the pre-2030 applications as possible are in some way included in a better, more coordinated approach to delivering this much needed infrastructure.</span></span></span></span></p></div>
-      
-      </div>
-</div>
-          </div>
-  
-    </div>
-  </div>
-
-</div>
-    </content>
-    <author>
-      <name>jon</name>
-    </author>
-    <id>2152 at https://www.georgefreeman.co.uk</id>
-    <published>2021-07-08T16:22:14Z</published>
-    <updated>2021-07-08T16:22:14Z</updated>
   </entry>
   <entry>
     <title>Phased reopening for community centres</title>
@@ -332,7 +313,7 @@ Figures released last month revealed that across Cumbria there were 73 attacks o
 <input type="hidden" name="details[page_num]" value="1"/>
 <input type="hidden" name="details[page_count]" value="1"/>
 <input type="hidden" name="details[finished]" value="0"/>
-<input type="hidden" name="form_build_id" value="form-Tpsp76PW2xTKSk9515YnPqgKuHS1gXLM66eBlCcZnV4"/>
+<input type="hidden" name="form_build_id" value="form-wwpsoL85-XB1SaOZGDw9x9bvdTsU1RQT9t_YrdZgFgo"/>
 <input type="hidden" name="form_id" value="webform_client_form_1535"/>
 <div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
         </form>
@@ -750,7 +731,7 @@ Maria spoke in favour of the Bill and added her…</div>
 		<category scheme="https://lizkendall.org" term="Education"/><category scheme="https://lizkendall.org" term="Homepage"/><category scheme="https://lizkendall.org" term="leicester"/><category scheme="https://lizkendall.org" term="Young people"/>
 		<summary type="html"><![CDATA[<p>It was fantastic to meet Jo Randall from Team Hub &#38; Neetu Squire from Leicestershire Cares recently, and to hear of the great work they do.<br />
 The whole team is doing amazing work to support the community in New Parks, with a big focus on children &#38; young people, which is so important for the future. I’d like to say a huge thank you for everything you have been doing.</p>
-<p>Related postsLiz questions Prime Minister on Government’s EU Withdrawal AgreementLiz speaks in debate on extending Article 50Supporting Leicester&#8217;s Credit UnionPressure on Hancock ...</p>
+<p>Related posts4m are missing vital cervical cancer tests: Women struggle to book convenient GP appointments (Daily Mail, 24 April)Liz challenges Government on ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-visits-the-new-parks-hub/">Liz visits the New Parks Hub</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -758,7 +739,7 @@ The whole team is doing amazing work to support the community in New Parks, with
 <p>It was fantastic to meet Jo Randall from <a href="https://new-parks-community-hub.jimdosite.com/">Team Hub</a> &amp; Neetu Squire from <a href="https://www.leicestershirecares.co.uk/">Leicestershire Cares</a> recently, and to hear of the great work they do.</p>
 <p>The whole team is doing amazing work to support the community in New Parks, with a big focus on children &amp; young people, which is so important for the future. I’d like to say a huge thank you for everything you have been doing.</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-9291" data-post-type="none" ><a href="https://lizkendall.org/liz-questions-prime-minister-on-governments-eu-withdrawal-agreement/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/26.jpg" alt="Liz questions Prime Minister on Government’s EU Withdrawal Agreement" width="150" height="150" /></a><a href="https://lizkendall.org/liz-questions-prime-minister-on-governments-eu-withdrawal-agreement/" class="wp_rp_title">Liz questions Prime Minister on Government’s EU Withdrawal Agreement</a></li><li data-position="1" data-poid="in-9468" data-post-type="none" ><a href="https://lizkendall.org/liz-speaks-in-debate-on-extending-article-50/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/19.jpg" alt="Liz speaks in debate on extending Article 50" width="150" height="150" /></a><a href="https://lizkendall.org/liz-speaks-in-debate-on-extending-article-50/" class="wp_rp_title">Liz speaks in debate on extending Article 50</a></li><li data-position="2" data-poid="in-9252" data-post-type="none" ><a href="https://lizkendall.org/supporting-leicesters-credit-union/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/11/Supporting-Clockwise-150x150.jpg" alt="Supporting Leicester&#8217;s Credit Union" width="150" height="150" /></a><a href="https://lizkendall.org/supporting-leicesters-credit-union/" class="wp_rp_title">Supporting Leicester&#8217;s Credit Union</a></li><li data-position="3" data-poid="in-11094" data-post-type="none" ><a href="https://lizkendall.org/pressure-on-hancock-over-failure-to-protect-care-home-residents/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2021/05/E2bKjt5XEAQh1h8-150x150.jpeg" alt="Pressure on Hancock over failure to protect care home residents" width="150" height="150" /></a><a href="https://lizkendall.org/pressure-on-hancock-over-failure-to-protect-care-home-residents/" class="wp_rp_title">Pressure on Hancock over failure to protect care home residents</a></li><li data-position="4" data-poid="in-7291" data-post-type="none" ><a href="https://lizkendall.org/happy-st-patricks-day/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2015/03/IMG_6715-150x150.jpg" alt="Happy St Patrick’s Day" width="150" height="150" /></a><a href="https://lizkendall.org/happy-st-patricks-day/" class="wp_rp_title">Happy St Patrick’s Day</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-6282" data-post-type="none" ><a href="https://lizkendall.org/4m-are-missing-vital-cervical-cancer-tests-women-struggle-to-book-convenient-gp-appointments-daily-mail-24-april/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" alt="4m are missing vital cervical cancer tests: Women struggle to book convenient GP appointments (Daily Mail, 24 April)" width="150" height="150" /></a><a href="https://lizkendall.org/4m-are-missing-vital-cervical-cancer-tests-women-struggle-to-book-convenient-gp-appointments-daily-mail-24-april/" class="wp_rp_title">4m are missing vital cervical cancer tests: Women struggle to book convenient GP appointments (Daily Mail, 24 April)</a></li><li data-position="1" data-poid="in-10883" data-post-type="none" ><a href="https://lizkendall.org/liz-challenges-government-on-cladding-scandal/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/12.jpg" alt="Liz challenges Government on cladding scandal" width="150" height="150" /></a><a href="https://lizkendall.org/liz-challenges-government-on-cladding-scandal/" class="wp_rp_title">Liz challenges Government on cladding scandal</a></li><li data-position="2" data-poid="in-2349" data-post-type="none" ><a href="https://lizkendall.org/liz-backs-campaign-for-specialist-nurses/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" alt="Liz backs campaign for specialist nurses" width="150" height="150" /></a><a href="https://lizkendall.org/liz-backs-campaign-for-specialist-nurses/" class="wp_rp_title">Liz backs campaign for specialist nurses</a></li><li data-position="3" data-poid="in-2525" data-post-type="none" ><a href="https://lizkendall.org/have-you-had-your-blood-pressure-checked/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2011/03/Liz-having-her-blood-pressure-measured-by-Lloyds-pharmacy-23rd-Feb1-260x1721-150x150.jpg" alt="Have you had your blood pressure checked?" width="150" height="150" /></a><a href="https://lizkendall.org/have-you-had-your-blood-pressure-checked/" class="wp_rp_title">Have you had your blood pressure checked?</a></li><li data-position="4" data-poid="in-5062" data-post-type="none" ><a href="https://lizkendall.org/happy-birthday-kirton-lodge/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/07/DSCF5990-540x40414-150x150.jpg" alt="Happy Birthday Kirton Lodge!" width="150" height="150" /></a><a href="https://lizkendall.org/happy-birthday-kirton-lodge/" class="wp_rp_title">Happy Birthday Kirton Lodge!</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-visits-the-new-parks-hub/">Liz visits the New Parks Hub</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -786,6 +767,18 @@ The whole team is doing amazing work to support the community in New Parks, with
     <category term="Correspondence"/>
     <category term="Featured"/>
     <category term="Front Page"/>
+  </entry>
+  <entry>
+    <title>£80m of UK Government loans support Borders businesses throughout the pandemic</title>
+    <link rel="alternate" href="https://www.johnlamont.org/news/ps80m-uk-government-loans-support-borders-businesses-throughout-pandemic" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">John Lamont MP has highlighted the number of businesses in the Borders supported by the UK Government’s Coronavirus Business Interruption Loan Scheme (CBILS) and the Bounce Back Loan Scheme (BBLS).
+ 
+New data from the British Business Bank shows that in Berwickshire, Roxburgh and Selkirk, 2,112…</div>
+    </content>
+    <id>https://www.johnlamont.org/news/ps80m-uk-government-loans-support-borders-businesses-throughout-pandemic</id>
+    <published>2021-07-07T13:00:00+01:00</published>
+    <updated>2021-07-07T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>England team’s unity and humility help nation dream again</title>
@@ -876,18 +869,6 @@ The whole team is doing amazing work to support the community in New Parks, with
     <category term="Media Releases"/>
   </entry>
   <entry>
-    <title>Borders MP in talks regarding Reston Station’s future rail services</title>
-    <link rel="alternate" href="https://www.johnlamont.org/news/borders-mp-talks-regarding-reston-stations-future-rail-services" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Last week, Borders MP John Lamont was joined by South of Scotland MSP Craig Hoy to meet with TransPennine Express (TPE) regarding the future rail services at the planned Reston and East Linton stations together with the existing services to Dunbar.
- 
-Having been involved in the campaign to re-open…</div>
-    </content>
-    <id>https://www.johnlamont.org/news/borders-mp-talks-regarding-reston-stations-future-rail-services</id>
-    <published>2021-07-06T13:00:00+01:00</published>
-    <updated>2021-07-06T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Anne Marie's Weekly Column</title>
     <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-124" type="text/html"/>
     <content type="xhtml">
@@ -915,6 +896,37 @@ Having been involved in the campaign to re-open…</div>
 		<category term="Local News"/>
 		<category term="Local News"/>
 	</entry>
+  <entry>
+    <title>Funding Opportunities for Voluntary Organisations &amp; Charities</title>
+    <link rel="alternate" href="https://whitford.scot/2021/07/02/funding-opportunities/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><h3 style="text-align: center">Funding Sources</h3>
+<p>Below is an updated list of funding for Voluntary Organisations and Charities  as of 2nd July 2021.</p>
+<p><a href="https://whitford.scot/wp-content/uploads/2021/05/External-Funding-Newsletter-as-at-25.06.21.docx">External Funding Newsletter as at 25.06.21</a></p>
+<p><a href="https://whitford.scot/wp-content/uploads/2021/06/External-Funding-Newsletter-as-at-2nd-July-2021.docx">External Funding Newsletter as at 2nd July 2021</a></p>
+
+
+<p/>
+<p><a class="a2a_button_facebook a2a_counter" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwhitford.scot%2F2021%2F07%2F02%2Ffunding-opportunities%2F&amp;linkname=Funding%20Opportunities%20for%20Voluntary%20Organisations%20%26%20Charities" title="Facebook" rel="nofollow noopener" target="_blank"/><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=https%3A%2F%2Fwhitford.scot%2F2021%2F07%2F02%2Ffunding-opportunities%2F&amp;linkname=Funding%20Opportunities%20for%20Voluntary%20Organisations%20%26%20Charities" title="Facebook Messenger" rel="nofollow noopener" target="_blank"/><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fwhitford.scot%2F2021%2F07%2F02%2Ffunding-opportunities%2F&amp;linkname=Funding%20Opportunities%20for%20Voluntary%20Organisations%20%26%20Charities" title="WhatsApp" rel="nofollow noopener" target="_blank"/><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwhitford.scot%2F2021%2F07%2F02%2Ffunding-opportunities%2F&amp;linkname=Funding%20Opportunities%20for%20Voluntary%20Organisations%20%26%20Charities" title="Twitter" rel="nofollow noopener" target="_blank"/><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fwhitford.scot%2F2021%2F07%2F02%2Ffunding-opportunities%2F&amp;linkname=Funding%20Opportunities%20for%20Voluntary%20Organisations%20%26%20Charities" title="Copy Link" rel="nofollow noopener" target="_blank"/><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwhitford.scot%2F2021%2F07%2F02%2Ffunding-opportunities%2F&amp;title=Funding%20Opportunities%20for%20Voluntary%20Organisations%20%26%20Charities" data-a2a-url="https://whitford.scot/2021/07/02/funding-opportunities/" data-a2a-title="Funding Opportunities for Voluntary Organisations &amp; Charities"/></p><p>The post <a rel="nofollow" href="https://whitford.scot/2021/07/02/funding-opportunities/">Funding Opportunities for Voluntary Organisations &amp; Charities</a> appeared first on <a rel="nofollow" href="https://whitford.scot">Dr Philippa Whitford</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Funding Sources Below is an updated list of funding for Voluntary Organisations and Charities  as ... <a title="Funding Opportunities for Voluntary Organisations &amp; Charities" class="read-more" href="https://whitford.scot/2021/07/02/funding-opportunities/">Click to Read More</a></p>
+<p>The post <a rel="nofollow" href="https://whitford.scot/2021/07/02/funding-opportunities/">Funding Opportunities for Voluntary Organisations &amp; Charities</a> appeared first on <a rel="nofollow" href="https://whitford.scot">Dr Philippa Whitford</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Heather Knox</name>
+    </author>
+    <id>https://whitford.scot/?p=2133</id>
+    <published>2021-07-02T22:06:00Z</published>
+    <updated>2021-07-02T22:06:00Z</updated>
+    <category term="Constituency"/>
+    <category term="Events &amp; Community Groups"/>
+    <category term="charities"/>
+    <category term="funding"/>
+    <category term="voluntary groups"/>
+  </entry>
   <entry>
     <title>Weekly round-up #Working4Wycombe</title>
     <link rel="alternate" href="https://www.stevebaker.info/2021/07/weekly-round-up-working4wycombe-19/" type="text/html"/>
@@ -1182,6 +1194,48 @@ Bexleyheath and…</div>
     <id>https://www.robin-millar.org.uk/news/robins-article-nub-news-18th-june</id>
     <published>2021-06-22T13:00:00+01:00</published>
     <updated>2021-06-22T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Tories must be stopped from selling out our steel industry</title>
+    <link rel="alternate" href="https://niagriffith.org.uk/2021/06/tories-must-be-stopped-from-selling-out-our-steel-industry/" type="text/html"/>
+    <content type="html">
+&lt;p&gt;Later today, Labour will try to stop the Tories selling
+out the British steel industry by forcing a decision to retain vital
+protections, with a motion to Parliament empowering Keir Starmer to put forward
+emergency legislation to extend the UK’s current safeguards against cheap steel
+imports.&amp;nbsp; I will be voting in favour of this proposal.&lt;/p&gt;
+
+
+
+&lt;p&gt;Before 30 June, the Tory International Trade Secretary
+will decide whether to push&amp;nbsp;ahead with plans&amp;nbsp;to remove nine of the
+current 19 safeguards. The EU has extended its own&amp;nbsp;steel&amp;nbsp;safeguards
+until at least June 2024, and the US is also expected to do so.&lt;/p&gt;
+
+
+
+&lt;p&gt;The risks for the UK’s steel industry are great if the
+Tories press on. There is a surplus of&amp;nbsp;steel&amp;nbsp;in China and the excess
+of&amp;nbsp;steel&amp;nbsp;on the international market has pushed prices down. If
+safeguards are removed, the UK’s&amp;nbsp;steel&amp;nbsp;industry faces being dwarfed
+by competitors. Just a 2% increase in global overproduction could totally wipe
+out demand for British&amp;nbsp;steel.&lt;/p&gt;
+
+
+
+&lt;p&gt;Slashing safeguards and opening the floodgates to cheap
+steel imports would be devastating for steel plants across the country.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Later today, Labour will try to stop the Tories selling out the British steel industry by forcing a decision to retain vital protections, with a motion to Parliament empowering Keir Starmer to put forward emergency legislation to extend the UK’s current safeguards against cheap steel imports.  I will be voting in favour of this proposal. […]</div>
+    </summary>
+    <author>
+      <name>Nia Griffith</name>
+    </author>
+    <id>http://niagriffith.org.uk/?p=8176</id>
+    <published>2021-06-21T08:22:20Z</published>
+    <updated>2021-06-21T08:22:20Z</updated>
+    <category term="News"/>
   </entry>
   <entry>
     <title>Local MP visits community murals and opens new facilities at Stanborough School as in-person constituency days restart</title>
@@ -1454,7 +1508,7 @@ Member of Parliament for Epsom and Ewell&lt;/p&gt;
 
 
 
-&lt;p&gt;Applicants should send their CV with a covering letter to:&amp;nbsp;&lt;a href="mailt&amp;#111;&amp;#58;&amp;#x74;&amp;#x75;&amp;#x6c;&amp;#x69;&amp;#x70;&amp;#x2e;&amp;#x73;iddiq&amp;#46;&amp;#109;&amp;#112;&amp;#x40;&amp;#x70;&amp;#x61;&amp;#x72;&amp;#x6c;&amp;#x69;ament.&amp;#117;&amp;#107;"&gt;&amp;#x74;&amp;#117;l&amp;#x69;&amp;#x70;.s&amp;#x69;&amp;#100;d&amp;#x69;&amp;#x71;.m&amp;#x70;&amp;#64;p&amp;#x61;&amp;#x72;&amp;#108;i&amp;#x61;&amp;#x6d;e&amp;#x6e;&amp;#x74;&amp;#46;u&amp;#x6b;&lt;/a&gt;&amp;nbsp;with the title “Job application: &amp;lt;your name&amp;gt;”&lt;/p&gt;
+&lt;p&gt;Applicants should send their CV with a covering letter to:&amp;nbsp;&lt;a href="mailto:tulip.&amp;#115;&amp;#105;&amp;#100;&amp;#100;&amp;#105;&amp;#x71;&amp;#x2e;&amp;#x6d;&amp;#x70;&amp;#x40;&amp;#x70;&amp;#x61;&amp;#x72;&amp;#x6c;&amp;#x69;&amp;#x61;&amp;#x6d;&amp;#x65;&amp;#x6e;&amp;#x74;.uk"&gt;&amp;#x74;&amp;#x75;&amp;#x6c;&amp;#x69;&amp;#x70;&amp;#x2e;&amp;#x73;&amp;#x69;&amp;#x64;&amp;#x64;&amp;#x69;&amp;#x71;&amp;#x2e;&amp;#x6d;&amp;#x70;&amp;#x40;&amp;#x70;&amp;#x61;&amp;#x72;&amp;#x6c;&amp;#x69;&amp;#x61;&amp;#109;&amp;#101;&amp;#110;&amp;#116;&amp;#46;&amp;#117;&amp;#107;&lt;/a&gt;&amp;nbsp;with the title “Job application: &amp;lt;your name&amp;gt;”&lt;/p&gt;
 
 
 
@@ -1754,10 +1808,10 @@ Member of Parliament for Epsom and Ewell&lt;/p&gt;
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60e841ecae320" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60e841ecae4d7" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60e841ecae646" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60e841ecae73e" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-60e84f78633af" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-60e84f78635ce" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-60e84f7863776" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-60e84f786388c" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2228,10 +2282,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-60e842d6b0633" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-60e8506351a42" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-60e842d6b0633').iPhorm({"id":5,"uniqueId":"60e842d6b0633","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-60e8506351a42').iPhorm({"id":5,"uniqueId":"60e8506351a42","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2306,10 +2360,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-60e842d6b0633" class="iphorm iphorm-form-5" action="/feed/#iphorm-60e842d6b0633" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-60e8506351a42" class="iphorm iphorm-form-5" action="/feed/#iphorm-60e8506351a42" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="60e842d6b0633" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="60e8506351a42" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2318,22 +2372,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_60e842d6b0633" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60e842d6b0633" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_60e8506351a42" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_60e8506351a42" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_60e842d6b0633" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60e842d6b0633" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_60e8506351a42" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_60e8506351a42" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_60e842d6b0633" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60e842d6b0633" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_60e8506351a42" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_60e8506351a42" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2343,7 +2397,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60e842d6b0633_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_60e8506351a42_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2362,7 +2416,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-60e842d6b0633 script').remove();
+    jQuery('#iphorm-outer-60e8506351a42 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2399,7 +2453,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyr5zj50tPGvODMtDA6YvDf2bL_2zD3B7gr8aa081QG3as8dKY3HK5LEA25Teh3giK931i6YAw0UUZpZsmlXA' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy5QiqbQZhQE9D9zf27bhtUvaz4-8YP-bs8qwxNckYMiyAAQWo4lI3SLRj3jmT-NTypALGKlE_NvNiC-btSvw' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
