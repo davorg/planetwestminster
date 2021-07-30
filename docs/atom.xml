@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-30T11:31:30Z</updated>
+  <updated>2021-07-30T12:38:55Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -21,6 +21,88 @@ In essence Northern…</div>
     <id>https://www.bobstewart.org.uk/news/no-sea-border-between-northern-ireland-and-rest-uk</id>
     <published>2021-07-30T13:00:00+01:00</published>
     <updated>2021-07-30T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Borders furloughed plummets to lowest level in 2021</title>
+    <link rel="alternate" href="https://www.johnlamont.org/news/borders-furloughed-plummets-lowest-level-2021" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The number of Borderers on the UK Government’s furlough scheme has plummeted to its lowest level this year in a sign that the Borders economy is recovering well.
+New figures show that there were only 2,600 people on the furlough scheme at the end of June 2021, or 6% of employees, in the Scottish…</div>
+    </content>
+    <id>https://www.johnlamont.org/news/borders-furloughed-plummets-lowest-level-2021</id>
+    <published>2021-07-30T13:00:00+01:00</published>
+    <updated>2021-07-30T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>New Rainham Community Hub Opens</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/new-rainham-community-hub-opens" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/P1040733.jpg?itok=lvzAd8ug" width="740" height="423" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p> </p>
+              <p>This week Havering opened its second community hub which will operate between two locations, Rainham Library and the Mardyke Community Centre.</p>
+              <p>The Pop-up Community Hub will offer support to local residents across a range of services. The idea behind it is to assist with supporting communities as society and the economy recovers from the pandemic.</p>
+              <p>Services based at Rainham Library on Wednesdays between 10am-12.30pm will focus on housing issues, finance, and personal well-being. Services based at the Mardyke Community Centre will focus on employment and financial advice and will operate on Fridays between 10am and 12.30pm.</p>
+              <p>Clarion Futures along with the CAB, Havering Mind and others will be working alongside Havering Council to deliver a wide range of support and advice to local people. There will also be local employers available, looking to recruit people into jobs – offering practical solutions to help people back into work.</p>
+              <p><strong>Jon Cruddas MP said:</strong> <em>“I’m pleased to see this level of commitment from the council to support the community in the south of the borough. The pandemic has left a lot of people in need of support and help to get their lives back on track, by pulling together a number of partner organisations across sectors this hub should be a great starting point for recovery across the Rainham area.”</em></p>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/rainham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rainham</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/tags/community" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">community</a>
+            </li>
+            <li class="taxonomy-term-reference-3">
+              <a href="/tags/support" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Support</a>
+            </li>
+            <li class="taxonomy-term-reference-4">
+              <a href="/tags/covid19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Covid19</a>
+            </li>
+            <li class="taxonomy-term-reference-5">
+              <a href="/tags/services" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Services</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>andrew</name>
+    </author>
+    <id>1541 at https://joncruddas.org.uk</id>
+    <published>2021-07-30T11:50:06Z</published>
+    <updated>2021-07-30T11:50:06Z</updated>
+  </entry>
+  <entry>
+    <title>An afternoon outing to the Bitterne Market</title>
+    <link rel="alternate" href="https://www.roystonsmith.co.uk/2021/07/30/an-afternoon-outing-to-the-bitterne-market/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>One of the advantages of recess is spending more time in the constituency and talking to constituents. It’s been a busy week.</p>
+<p>The post <a rel="nofollow" href="https://www.roystonsmith.co.uk/2021/07/30/an-afternoon-outing-to-the-bitterne-market/">An afternoon outing to the Bitterne Market</a> appeared first on <a rel="nofollow" href="https://www.roystonsmith.co.uk">Royston Smith MP</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Royston Smith</name>
+    </author>
+    <id>https://www.roystonsmith.co.uk/?p=4875</id>
+    <published>2021-07-30T11:33:59Z</published>
+    <updated>2021-07-30T11:33:59Z</updated>
+    <category term="Diary"/>
   </entry>
   <entry>
     <title>Dan Jarvis - Barnsley Chronicle 30 July 2021</title>
@@ -262,23 +344,6 @@ Since launching on 28th July 1961, the BHF has funded ground-breaking discoverie
     <updated>2021-07-29T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>MoD FAILING TO PROTECT WOMEN IN THE ARMED FORCES, SAYS WEST DUNBARTONSHIRE’S MP</title>
-    <link rel="alternate" href="http://martindocherty.scot/mod-failing-to-protect-women-in-the-armed-forces-says-west-dunbartonshires-mp/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>West Dunbartonshire’s MP Martin Docherty-Hughes has called on the UK government to do more to protect women serving in the armed forces following a damning report published by the parliamentary Defence Select Committee. Local MP Martin – who is Scotland’s only representative on the Defence Select Committee – has urged the Ministry of Defence (MoD) … </p>
-<p class="link-more"><a href="http://martindocherty.scot/mod-failing-to-protect-women-in-the-armed-forces-says-west-dunbartonshires-mp/" class="more-link">Continue reading<span class="screen-reader-text"> "MoD FAILING TO PROTECT WOMEN IN THE ARMED FORCES, SAYS WEST DUNBARTONSHIRE’S MP"</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/mod-failing-to-protect-women-in-the-armed-forces-says-west-dunbartonshires-mp/">MoD FAILING TO PROTECT WOMEN IN THE ARMED FORCES, SAYS WEST DUNBARTONSHIRE’S MP</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Communications Officer</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1620699</id>
-    <published>2021-07-29T09:26:04Z</published>
-    <updated>2021-07-29T09:26:04Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>Catching up with Beach Access North East</title>
     <link rel="alternate" href="https://www.emma-lewell-buck.net/catching-up-with-beach-access-north-east/" type="text/html"/>
     <content type="xhtml">
@@ -364,17 +429,6 @@ Since launching on 28th July 1961, the BHF has funded ground-breaking discoverie
 The MP, who has received a large number of emails from concerns fans in her…</div>
     </content>
     <id>https://www.teamtrevelyan.co.uk/news/mp-writes-premier-league-express-fan-concerns</id>
-    <published>2021-07-28T13:00:00+01:00</published>
-    <updated>2021-07-28T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Borders e-petition makes it all the way to Parliament</title>
-    <link rel="alternate" href="https://www.johnlamont.org/news/borders-e-petition-makes-it-all-way-parliament" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A petition started by a Borders campaigner has made it all the way to a debate in Parliament after reaching over 100,000 signatures from across the UK.
-The petition, promoted by Andrew Mathewson from Kelso, calls for cervical cancer screenings to be yearly, after he lost his wife Fiona to cervical…</div>
-    </content>
-    <id>https://www.johnlamont.org/news/borders-e-petition-makes-it-all-way-parliament</id>
     <published>2021-07-28T13:00:00+01:00</published>
     <updated>2021-07-28T13:00:00+01:00</updated>
   </entry>
@@ -588,7 +642,7 @@ Meanwhile the Government's stamp duty holiday has helped to lead to a sharp anec
 		<summary type="html"><![CDATA[<p>Last week I visited Stokes Wood Primary School and New Parks Adventure Playground who are both taking part in Leicester’s brilliant Holiday Activities and Food programme.</p>
 <p>At Stokes Wood headteacher, Jane Gadsby, and her team have been giving children such a great start to their summer with mud monsters, henna hand painting, mini golf and delicious sandwiches.</p>
 <p>At New Parks Adventure Playground, Jo and the whole team here are doing amazing work offering fun and food to children for 5 weeks over the summer. &#160;</p>
-<p>Related postsLiz thanks our NHS staffLiz back’s Shelter ...</p>
+<p>Related postsLiz interviewed by BBC Radio Leicester about ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-visits-holiday-activities-and-food-programmes/">Liz visits Holiday Activities and Food programmes</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -599,7 +653,7 @@ Meanwhile the Government's stamp duty holiday has helped to lead to a sharp anec
 <p>At New Parks Adventure Playground, Jo and the whole team here are doing amazing work offering fun and food to children for 5 weeks over the summer. &nbsp;</p>
 <p><img loading="lazy" class="alignnone size-large wp-image-11238" src="https://lizkendall.org/wp-content/uploads/2021/07/NPAP-540x405.jpg" alt="" width="540" height="405" srcset="https://lizkendall.org/wp-content/uploads/2021/07/NPAP-540x405.jpg 540w, https://lizkendall.org/wp-content/uploads/2021/07/NPAP-260x195.jpg 260w, https://lizkendall.org/wp-content/uploads/2021/07/NPAP-184x138.jpg 184w, https://lizkendall.org/wp-content/uploads/2021/07/NPAP.jpg 680w" sizes="(max-width: 540px) 100vw, 540px" /></p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-9315" data-post-type="none" ><a href="https://lizkendall.org/9315-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/12/Visit-to-Glenfield-150x150.jpg" alt="Liz thanks our NHS staff" width="150" height="150" /></a><a href="https://lizkendall.org/9315-2/" class="wp_rp_title">Liz thanks our NHS staff</a></li><li data-position="1" data-poid="in-9490" data-post-type="none" ><a href="https://lizkendall.org/liz-backs-shelter-campaign/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2019/04/Shelter_DSS_WestminsterKate_Stanworth-127-002-150x150.jpg" alt="Liz back’s Shelter campaign" width="150" height="150" /></a><a href="https://lizkendall.org/liz-backs-shelter-campaign/" class="wp_rp_title">Liz back’s Shelter campaign</a></li><li data-position="2" data-poid="in-2680" data-post-type="none" ><a href="https://lizkendall.org/community-funday-in-beaumont-leys/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2011/07/Liz-with-the-Demolition-Dance-Crew-260x1751-150x150.png" alt="Community Funday in Beaumont Leys" width="150" height="150" /></a><a href="https://lizkendall.org/community-funday-in-beaumont-leys/" class="wp_rp_title">Community Funday in Beaumont Leys</a></li><li data-position="3" data-poid="in-3769" data-post-type="none" ><a href="https://lizkendall.org/leicester-mp-liz-kendall-criticises-move-of-glenfields-ecmo-unit-to-birmingham/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/4.jpg" alt="Leicester MP Liz Kendall criticises move of Glenfield&#8217;s ECMO unit to Birmingham" width="150" height="150" /></a><a href="https://lizkendall.org/leicester-mp-liz-kendall-criticises-move-of-glenfields-ecmo-unit-to-birmingham/" class="wp_rp_title">Leicester MP Liz Kendall criticises move of Glenfield&#8217;s ECMO unit to Birmingham</a></li><li data-position="4" data-poid="in-5333" data-post-type="none" ><a href="https://lizkendall.org/we-will-believe-problem-is-over-when-we-smell-it/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" alt="We will believe problem is over when we smell it" width="150" height="150" /></a><a href="https://lizkendall.org/we-will-believe-problem-is-over-when-we-smell-it/" class="wp_rp_title">We will believe problem is over when we smell it</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10686" data-post-type="none" ><a href="https://lizkendall.org/10686-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/25.jpg" alt="Liz interviewed by BBC Radio Leicester about family visits to care homes" width="150" height="150" /></a><a href="https://lizkendall.org/10686-2/" class="wp_rp_title">Liz interviewed by BBC Radio Leicester about family visits to care homes</a></li><li data-position="1" data-poid="in-5826" data-post-type="none" ><a href="https://lizkendall.org/liz-demands-more-be-done-for-dementia-sufferers/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/26.jpg" alt="Liz demands more be done for dementia sufferers" width="150" height="150" /></a><a href="https://lizkendall.org/liz-demands-more-be-done-for-dementia-sufferers/" class="wp_rp_title">Liz demands more be done for dementia sufferers</a></li><li data-position="2" data-poid="in-5929" data-post-type="none" ><a href="https://lizkendall.org/making-christmas-special/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/12/Hosp-150x150.jpg" alt="Making Christmas Special" width="150" height="150" /></a><a href="https://lizkendall.org/making-christmas-special/" class="wp_rp_title">Making Christmas Special</a></li><li data-position="3" data-poid="in-6280" data-post-type="none" ><a href="https://lizkendall.org/number-of-overdue-smear-tests-climbs-11-figures-show-the-guardian-24-april/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/22.jpg" alt="Number of overdue smear tests climbs 11%, figures show (The Guardian, 24 April)" width="150" height="150" /></a><a href="https://lizkendall.org/number-of-overdue-smear-tests-climbs-11-figures-show-the-guardian-24-april/" class="wp_rp_title">Number of overdue smear tests climbs 11%, figures show (The Guardian, 24 April)</a></li><li data-position="4" data-poid="in-4128" data-post-type="none" ><a href="https://lizkendall.org/leicesters-youth-services-wow-westminster/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2012/10/IMG_02532-540x3601-150x150.jpg" alt="Leicester’s youth services wow Westminster " width="150" height="150" /></a><a href="https://lizkendall.org/leicesters-youth-services-wow-westminster/" class="wp_rp_title">Leicester’s youth services wow Westminster </a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-visits-holiday-activities-and-food-programmes/">Liz visits Holiday Activities and Food programmes</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -1102,100 +1156,6 @@ The decision was taken by the Kent Resilience Forum in anticipation of a big…<
     <category term="Saltend Chemicals Park"/>
   </entry>
   <entry>
-    <title>Parking zone survey ...</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/parking-zone-survey-2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <form class="webform-client-form webform-client-form-1540" action="/rss.xml" method="post" id="webform-client-form-1540" accept-charset="UTF-8">
-          <div><fieldset class="webform-component-fieldset webform-component--civicrm-1-activity-1-fieldset-fieldset form-wrapper"><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-markup webform-component--civicrm-1-activity-1-fieldset-fieldset--spacer1">
- 
-</div>
-<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-398">
-  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-398">Do you support the Controlled Parking Zone in your area? </label>
- <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_398" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-398" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_398]"><option value="" selected="selected">- None -</option><option value="1">Yes</option><option value="2">No</option><option value="3">Not sure</option></select>
-</div>
-<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-399">
-  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-399">Were you aware of the consultation for these plans? </label>
- <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_399" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-399" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_399]"><option value="" selected="selected">- None -</option><option value="1">Yes I was aware</option><option value="2">No I was not aware</option></select>
-</div>
-<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-400">
-  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-400">Did you participate in the consultation for these plans? </label>
- <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_400" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-400" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_400]"><option value="" selected="selected">- None -</option><option value="1">Yes I did partipate</option><option value="2">No I did not participate</option></select>
-</div>
-<div class="form-item webform-component webform-component-textarea webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-401">
-  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-401">Any further comments </label>
- <div class="form-textarea-wrapper resizable"><textarea class="civicrm-enabled form-textarea" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_401" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-401" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_401]" cols="60" rows="4"/></div>
-</div>
-<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-403">
-  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-403">Would you be willing to distribute this survey to friends, family and neighbours? </label>
- <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_403" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-403" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_403]"><option value="" selected="selected">- None -</option><option value="1">Yes</option><option value="2">No</option><option value="3">Maybe</option></select>
-</div>
-</div></fieldset>
-<div class="form-item webform-component webform-component-markup webform-component--spacer3">
- 
-</div>
-<fieldset class="webform-component-fieldset webform-component--civicrm-1-contact-1-fieldset-fieldset form-wrapper"><legend><span class="fieldset-legend">Your contact details</span></legend><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-civicrm_contact static webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-existing">
-<input data-hide-method="hide" data-no-hide-blank="0" class="civicrm-enabled" data-civicrm-field-key="civicrm_1_contact_1_contact_existing" type="hidden" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_existing]" value=""/>
-
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-first-name">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
-  <div class="description">Previous information you have given Jon will appear here</div>
-<input required="required" placeholder="First Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_first_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_first_name]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-last-name">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
- <input required="required" placeholder="Last Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_last_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_last_name]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-street-address">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address">Street Address </label>
- <input placeholder="Street address" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_street_address" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_street_address]" value="" size="60" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-city">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city">City </label>
- <input placeholder="City" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_city" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_city]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-postal-code">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code">Postal Code <span class="form-required" title="This field is required.">*</span></label>
- <input required="required" placeholder="Postal Code" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_address_postal_code" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_postal_code]" value="" size="7" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-email webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-email-email">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email">Email </label>
- <input class="email civicrm-enabled form-text form-email" placeholder="Email" data-civicrm-field-key="civicrm_1_contact_1_email_email" type="email" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_email_email]" size="20"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-phone-phone">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone">Phone Number </label>
- <input placeholder="Phone number" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_phone_phone]" value="" size="20" maxlength="128"/>
-</div>
-<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-2-phone-phone">
-  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone">Mobile </label>
- <input placeholder="Mobile" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_2_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_2_phone_phone]" value="" size="20" maxlength="128"/>
-</div>
-</div></fieldset>
-<div class="form-item webform-component webform-component-markup webform-component--opt-out-at-any-time">
- <p>You can find my privacy policy <a href="https://joncruddas.org.uk/legal-and-privacy">here</a>. Any previous opting information you have given Jon will display on this petition form</p>
-</div>
-<div class="form-item webform-component webform-component-markup webform-component--spacer">
- 
-</div>
-<input type="hidden" name="details[sid]"/>
-<input type="hidden" name="details[page_num]" value="1"/>
-<input type="hidden" name="details[page_count]" value="1"/>
-<input type="hidden" name="details[finished]" value="0"/>
-<input type="hidden" name="form_build_id" value="form-OLVWJhhBHX0E7lvom65iv2Fo1DkGt0taPLsiKbN-S8M"/>
-<input type="hidden" name="form_id" value="webform_client_form_1540"/>
-<div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
-        </form>
-      </div>
-    </content>
-    <author>
-      <name>admin781027</name>
-    </author>
-    <id>1540 at https://joncruddas.org.uk</id>
-    <published>2021-07-19T15:09:48Z</published>
-    <updated>2021-07-19T15:09:48Z</updated>
-  </entry>
-  <entry>
     <title>Ashfield Comprehensive School &amp; Kirkby College to benefit from Conservative Government’s £1 billion rebuilding programme</title>
     <link rel="alternate" href="https://www.leeanderson.org.uk/news/ashfield-comprehensive-school-kirkby-college-benefit-conservative-governments-ps1-billion" type="text/html"/>
     <content type="text">Ashfield Comprehensive School &amp; Kirkby College in Ashfield are 2 of 50 schools across England set to benefit from the Conservative Government’s £1 billion ten-year rebuilding programme.
@@ -1668,22 +1628,6 @@ Bexleyheath and…</div>
     <updated>2021-06-25T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>PoliticsHome: Building Safety Bill must not leave behind leaseholders saddled with ruinous remediation costs.</title>
-    <link rel="alternate" href="https://www.roystonsmith.co.uk/2021/06/25/politicshome-building-safety-bill-must-not-leave-behind-leaseholders-saddled-with-ruinous-remediation-costs/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>This week I had an article published on PoliticsHome. During the passage of the Fire Safety Bill, Ministers said the issue of leaseholders would be addressed in the Building Safety Bill. We will hold them to their word and remind them that protection must be for all leaseholders, not just for the leaseholders of the future. [...]</p>
-<p>The post <a rel="nofollow" href="https://www.roystonsmith.co.uk/2021/06/25/politicshome-building-safety-bill-must-not-leave-behind-leaseholders-saddled-with-ruinous-remediation-costs/">PoliticsHome: Building Safety Bill must not leave behind leaseholders saddled with ruinous remediation costs.</a> appeared first on <a rel="nofollow" href="https://www.roystonsmith.co.uk">Royston Smith MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Royston Smith</name>
-    </author>
-    <id>https://www.roystonsmith.co.uk/?p=4869</id>
-    <published>2021-06-25T11:15:15Z</published>
-    <updated>2021-06-25T11:15:15Z</updated>
-    <category term="Blog"/>
-  </entry>
-  <entry>
     <title>Why steel safeguards are vital for the industry</title>
     <link rel="alternate" href="https://www.stephenkinnock.co.uk/why-steel-safeguards-are-vital-for-the-industry/" type="text/html"/>
     <author>
@@ -1779,7 +1723,7 @@ Bexleyheath and…</div>
 
 
 
-&lt;p&gt;Applicants should send their CV with a covering letter to:&amp;nbsp;&lt;a href="&amp;#x6d;a&amp;#x69;&amp;#x6c;t&amp;#x6f;&amp;#58;t&amp;#x75;&amp;#108;i&amp;#x70;&amp;#46;s&amp;#x69;&amp;#100;d&amp;#x69;q&amp;#x2e;&amp;#x6d;p&amp;#x40;&amp;#x70;a&amp;#x72;&amp;#108;i&amp;#x61;&amp;#109;e&amp;#x6e;&amp;#116;.&amp;#x75;&amp;#107;"&gt;&amp;#116;&amp;#x75;l&amp;#x69;p&amp;#46;&amp;#x73;i&amp;#x64;d&amp;#105;&amp;#x71;.&amp;#x6d;p&amp;#x40;&amp;#x70;a&amp;#x72;l&amp;#x69;a&amp;#109;&amp;#x65;n&amp;#x74;.&amp;#117;&amp;#x6b;&lt;/a&gt;&amp;nbsp;with the title “Job application: &amp;lt;your name&amp;gt;”&lt;/p&gt;
+&lt;p&gt;Applicants should send their CV with a covering letter to:&amp;nbsp;&lt;a href="ma&amp;#105;&amp;#x6c;&amp;#x74;o:t&amp;#117;&amp;#x6c;&amp;#x69;p.s&amp;#105;&amp;#x64;&amp;#x64;iq&amp;#46;&amp;#x6d;&amp;#x70;&amp;#x40;pa&amp;#114;&amp;#x6c;&amp;#x69;&amp;#x61;me&amp;#110;&amp;#x74;&amp;#x2e;&amp;#x75;k"&gt;&amp;#x74;u&amp;#x6c;&amp;#x69;p&amp;#x2e;&amp;#115;i&amp;#x64;&amp;#100;i&amp;#x71;.&amp;#x6d;&amp;#x70;&amp;#64;&amp;#x70;&amp;#97;r&amp;#x6c;&amp;#105;a&amp;#x6d;e&amp;#x6e;&amp;#x74;.&amp;#x75;&amp;#x6b;&lt;/a&gt;&amp;nbsp;with the title “Job application: &amp;lt;your name&amp;gt;”&lt;/p&gt;
 
 
 
@@ -2064,10 +2008,10 @@ Bexleyheath and…</div>
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-6103e21bbef28" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-6103e21bbf244" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-6103e21bbf533" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-6103e21bbf6e0" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-6103f1694698a" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-6103f16946b64" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-6103f16946ce4" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-6103f16946dd7" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2439,10 +2383,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6103e2e73a05b" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6103f234e3e48" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6103e2e73a05b').iPhorm({"id":5,"uniqueId":"6103e2e73a05b","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6103f234e3e48').iPhorm({"id":5,"uniqueId":"6103f234e3e48","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2517,10 +2461,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6103e2e73a05b" class="iphorm iphorm-form-5" action="/feed/#iphorm-6103e2e73a05b" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6103f234e3e48" class="iphorm iphorm-form-5" action="/feed/#iphorm-6103f234e3e48" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6103e2e73a05b" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6103f234e3e48" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2529,22 +2473,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6103e2e73a05b" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6103e2e73a05b" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6103f234e3e48" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6103f234e3e48" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6103e2e73a05b" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6103e2e73a05b" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6103f234e3e48" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6103f234e3e48" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6103e2e73a05b" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6103e2e73a05b" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6103f234e3e48" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6103f234e3e48" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2554,7 +2498,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6103e2e73a05b_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6103f234e3e48_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2573,7 +2517,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6103e2e73a05b script').remove();
+    jQuery('#iphorm-outer-6103f234e3e48 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2610,7 +2554,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy0BArbBErXPDkiQj60IJojl2jZ9fdComeEczqrAKgvoF_H0k4fMMe-yQmxZ0Tg_moMChm4ArQffSDPUoTMSA' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzsoEE-akp4m0NQd_q9PrJPT34ZaBr5PaSdIkRfWtZZ6SP5o1PBQMcNJ7mFafXaPYXjS7tgKSrkxjq7TdMQ0A' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
