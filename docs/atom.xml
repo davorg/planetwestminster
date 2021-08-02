@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-02T19:31:31Z</updated>
+  <updated>2021-08-02T20:39:35Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
@@ -80,6 +80,16 @@ These crossings are incredibly dangerous and have sadly claimed the…</div>
     <published>2021-08-02T05:08:30Z</published>
     <updated>2021-08-02T05:08:30Z</updated>
     <category term="Uncategorized"/>
+  </entry>
+  <entry>
+    <title>Edinburgh primary school top of the class for outdoor learning</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13262/edinburgh-primary-school-top-of-the-class-for-outdoor-learning" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">An Edinburgh primary school has become the first in Scotland to receive a national award for its commitment to taking learning outside the classroom.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13262/edinburgh-primary-school-top-of-the-class-for-outdoor-learning</id>
+    <published>2021-08-01T19:08:00+01:00</published>
+    <updated>2021-08-01T19:08:00+01:00</updated>
   </entry>
   <entry>
     <title>Lat day to Apply to be the Parliamentary Assistant to chi Onwurah MP</title>
@@ -156,16 +166,6 @@ These crossings are incredibly dangerous and have sadly claimed the…</div>
     <id>1543 at https://joncruddas.org.uk</id>
     <published>2021-07-30T13:48:05Z</published>
     <updated>2021-07-30T13:48:05Z</updated>
-  </entry>
-  <entry>
-    <title>Floral clock blooms in honour for the Royal Botanic Garden Edinburgh’s 350th anniversary</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13261/floral-clock-blooms-in-honour-for-the-royal-botanic-garden-edinburgh-s-350th-anniversary" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Work has finished to complete this year’s design on the world’s oldest Floral Clock in Edinburgh’s West Princes Street Gardens.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13261/floral-clock-blooms-in-honour-for-the-royal-botanic-garden-edinburgh-s-350th-anniversary</id>
-    <published>2021-07-30T14:45:00+01:00</published>
-    <updated>2021-07-30T14:45:00+01:00</updated>
   </entry>
   <entry>
 		<author>
@@ -443,23 +443,6 @@ New figures show that there were only 2,600 people on the furlough scheme at the
     <thr:total>0</thr:total>
   </entry>
   <entry>
-    <title>MoD FAILING TO PROTECT WOMEN IN THE ARMED FORCES, SAYS WEST DUNBARTONSHIRE’S MP</title>
-    <link rel="alternate" href="http://martindocherty.scot/mod-failing-to-protect-women-in-the-armed-forces-says-west-dunbartonshires-mp/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>West Dunbartonshire’s MP Martin Docherty-Hughes has called on the UK government to do more to protect women serving in the armed forces following a damning report published by the parliamentary Defence Select Committee. Local MP Martin – who is Scotland’s only representative on the Defence Select Committee – has urged the Ministry of Defence (MoD) … </p>
-<p class="link-more"><a href="http://martindocherty.scot/mod-failing-to-protect-women-in-the-armed-forces-says-west-dunbartonshires-mp/" class="more-link">Continue reading<span class="screen-reader-text"> "MoD FAILING TO PROTECT WOMEN IN THE ARMED FORCES, SAYS WEST DUNBARTONSHIRE’S MP"</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/mod-failing-to-protect-women-in-the-armed-forces-says-west-dunbartonshires-mp/">MoD FAILING TO PROTECT WOMEN IN THE ARMED FORCES, SAYS WEST DUNBARTONSHIRE’S MP</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Communications Officer</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1620699</id>
-    <published>2021-07-29T09:26:04Z</published>
-    <updated>2021-07-29T09:26:04Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>Catching up with Beach Access North East</title>
     <link rel="alternate" href="https://www.emma-lewell-buck.net/catching-up-with-beach-access-north-east/" type="text/html"/>
     <content type="xhtml">
@@ -611,31 +594,6 @@ Meanwhile the Government's stamp duty holiday has helped to lead to a sharp anec
     <published>2021-07-27T09:55:45Z</published>
     <updated>2021-07-27T09:55:45Z</updated>
   </entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>Jack Gebhard</name>
-					</author>
-
-		<title type="html"><![CDATA[Olympic success will have lasting legacy for swimming in Worcester]]></title>
-		<link rel="alternate" type="text/html" href="https://www.walker4worcester.com/2021/07/olympic-success-will-have-lasting-legacy-for-swimming-in-worcester/"/>
-
-		<id>https://www.walker4worcester.com/?p=2240</id>
-		<updated>2021-07-27T09:15:11Z</updated>
-		<published>2021-07-27T09:15:11Z</published>
-		<category scheme="https://www.walker4worcester.com" term="News"/><category scheme="https://www.walker4worcester.com" term="Sport"/>
-		<summary type="html"><![CDATA[With the action underway at the Tokyo Aquatics Centre, and following the gold medal win for Team GB’s Adam Peaty in in the Men’s 100m Breaststroke, and Tom Daley and Matty Lee in the Men’s Synchronised 10m Platform, Worcester MP is hoping the Olympics will leave local people #InspiredToTry swimming. Robin Walker said: “I send [&#8230;]]]></summary>
-
-					<content type="html" xml:base="https://www.walker4worcester.com/2021/07/olympic-success-will-have-lasting-legacy-for-swimming-in-worcester/"><![CDATA[<p>With the action underway at the Tokyo Aquatics Centre, and following the gold medal win for Team GB’s Adam Peaty in in the Men’s 100m Breaststroke, and Tom Daley and Matty Lee in the Men’s Synchronised 10m Platform, Worcester MP is hoping the Olympics will leave local people #InspiredToTry swimming.</p>
-<p>Robin Walker said: “I send my congratulations, and those of the nation, to Adam Peaty on another amazing gold medal. Also to Tom Daley and Matty Lee after their sensational performance receiving gold medals. I will be continuing to cheer on the rest of Team GB as the action continues.</p>
-<p>We are fortunate in Worcester to have a number of fantastic clubs and I hope the excitement of the Olympics will provide the motivation for many residents to be #InspiredToTry any of the fantastic sports of swimming, para swimming, diving, water polo, open water swimming or artistic swimming.</p>
-<p>People can find their local clubs by using Swim England’s club finding tool here <a href="https://protect-eu.mimecast.com/s/ZrUJCGv3jfQ1Gr2cpkwni?domain=discover.swimming.org/">discover.swimming.org/</a>.</p>
-<p>Robin Walker said: “Who knows, the next Adam Peaty, Ellie Simmonds or Alice Dearing could start their future Olympic journey in our pools! But even if we don’t unearth the next Olympic superstar, the joy and health benefits being part of a club can bring is more than worth it on its own.”</p>
-]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.walker4worcester.com/2021/07/olympic-success-will-have-lasting-legacy-for-swimming-in-worcester/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.walker4worcester.com/2021/07/olympic-success-will-have-lasting-legacy-for-swimming-in-worcester/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry>
 		<author>
 			<name>Josh Keeling</name>
@@ -651,7 +609,7 @@ Meanwhile the Government's stamp duty holiday has helped to lead to a sharp anec
 		<summary type="html"><![CDATA[<p>Last week I visited Stokes Wood Primary School and New Parks Adventure Playground who are both taking part in Leicester’s brilliant Holiday Activities and Food programme.</p>
 <p>At Stokes Wood headteacher, Jane Gadsby, and her team have been giving children such a great start to their summer with mud monsters, henna hand painting, mini golf and delicious sandwiches.</p>
 <p>At New Parks Adventure Playground, Jo and the whole team here are doing amazing work offering fun and food to children for 5 weeks over the summer. &#160;</p>
-<p>Related postsLiz pops into Cancer Research RoadshowGiving children ...</p>
+<p>Related posts‘Five a day is the healthy way’Care ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-visits-holiday-activities-and-food-programmes/">Liz visits Holiday Activities and Food programmes</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -662,7 +620,7 @@ Meanwhile the Government's stamp duty holiday has helped to lead to a sharp anec
 <p>At New Parks Adventure Playground, Jo and the whole team here are doing amazing work offering fun and food to children for 5 weeks over the summer. &nbsp;</p>
 <p><img loading="lazy" class="alignnone size-large wp-image-11238" src="https://lizkendall.org/wp-content/uploads/2021/07/NPAP-540x405.jpg" alt="" width="540" height="405" srcset="https://lizkendall.org/wp-content/uploads/2021/07/NPAP-540x405.jpg 540w, https://lizkendall.org/wp-content/uploads/2021/07/NPAP-260x195.jpg 260w, https://lizkendall.org/wp-content/uploads/2021/07/NPAP-184x138.jpg 184w, https://lizkendall.org/wp-content/uploads/2021/07/NPAP.jpg 680w" sizes="(max-width: 540px) 100vw, 540px" /></p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-9671" data-post-type="none" ><a href="https://lizkendall.org/liz-pops-into-cancer-research-roadshow/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2019/09/EEWrLznXoAQFJZt-150x150.jpg" alt="Liz pops into Cancer Research Roadshow" width="150" height="150" /></a><a href="https://lizkendall.org/liz-pops-into-cancer-research-roadshow/" class="wp_rp_title">Liz pops into Cancer Research Roadshow</a></li><li data-position="1" data-poid="in-5889" data-post-type="none" ><a href="https://lizkendall.org/giving-children-the-best-start-in-life/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="Giving children the best start in life" width="150" height="150" /></a><a href="https://lizkendall.org/giving-children-the-best-start-in-life/" class="wp_rp_title">Giving children the best start in life</a></li><li data-position="2" data-poid="in-5728" data-post-type="none" ><a href="https://lizkendall.org/mercury-opinion-travellers-sites-policy-must-be-fair/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/17.jpg" alt="Mercury opinion: Travellers&#8217; sites policy must be fair" width="150" height="150" /></a><a href="https://lizkendall.org/mercury-opinion-travellers-sites-policy-must-be-fair/" class="wp_rp_title">Mercury opinion: Travellers&#8217; sites policy must be fair</a></li><li data-position="3" data-poid="in-9747" data-post-type="none" ><a href="https://lizkendall.org/liz-speaks-in-brexit-debate-3/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/26.jpg" alt="Liz speaks in Brexit debate" width="150" height="150" /></a><a href="https://lizkendall.org/liz-speaks-in-brexit-debate-3/" class="wp_rp_title">Liz speaks in Brexit debate</a></li><li data-position="4" data-poid="in-6905" data-post-type="none" ><a href="https://lizkendall.org/voting-for-equal-pay/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/12/Equal-Pay-150x150.png" alt="Voting for Equal Pay" width="150" height="150" /></a><a href="https://lizkendall.org/voting-for-equal-pay/" class="wp_rp_title">Voting for Equal Pay</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-7786" data-post-type="none" ><a href="https://lizkendall.org/five-a-day-is-the-healthy-way/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/04/5-150x150.jpg" alt="‘Five a day is the healthy way’" width="150" height="150" /></a><a href="https://lizkendall.org/five-a-day-is-the-healthy-way/" class="wp_rp_title">‘Five a day is the healthy way’</a></li><li data-position="1" data-poid="in-6057" data-post-type="none" ><a href="https://lizkendall.org/care-funding-needs-financial-advice-money-marketing-20-feb/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="Care funding needs financial advice (Money Marketing, 20 Feb)" width="150" height="150" /></a><a href="https://lizkendall.org/care-funding-needs-financial-advice-money-marketing-20-feb/" class="wp_rp_title">Care funding needs financial advice (Money Marketing, 20 Feb)</a></li><li data-position="2" data-poid="in-6286" data-post-type="none" ><a href="https://lizkendall.org/fears-as-3-7-million-women-overdue-for-vital-smear-tests/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/5.jpg" alt="Fears as 3.7 million women overdue for vital smear tests (The Sun, 24 April)" width="150" height="150" /></a><a href="https://lizkendall.org/fears-as-3-7-million-women-overdue-for-vital-smear-tests/" class="wp_rp_title">Fears as 3.7 million women overdue for vital smear tests (The Sun, 24 April)</a></li><li data-position="3" data-poid="in-4370" data-post-type="none" ><a href="https://lizkendall.org/we-cannot-tolerate-child-poverty/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" alt="Liz backs City plan on child poverty" width="150" height="150" /></a><a href="https://lizkendall.org/we-cannot-tolerate-child-poverty/" class="wp_rp_title">Liz backs City plan on child poverty</a></li><li data-position="4" data-poid="in-8890" data-post-type="none" ><a href="https://lizkendall.org/latest-leicester-mercury-column/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/25.jpg" alt="My latest Leicester Mercury Column" width="150" height="150" /></a><a href="https://lizkendall.org/latest-leicester-mercury-column/" class="wp_rp_title">My latest Leicester Mercury Column</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-visits-holiday-activities-and-food-programmes/">Liz visits Holiday Activities and Food programmes</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -1720,7 +1678,7 @@ Bexleyheath and…</div>
 
 
 
-&lt;p&gt;Applicants should send their CV with a covering letter to:&amp;nbsp;&lt;a href="ma&amp;#105;&amp;#x6c;&amp;#x74;&amp;#x6f;:t&amp;#117;&amp;#x6c;&amp;#x69;&amp;#x70;.s&amp;#105;&amp;#x64;&amp;#x64;&amp;#x69;q.m&amp;#112;&amp;#x40;&amp;#x70;&amp;#x61;rl&amp;#105;&amp;#x61;&amp;#x6d;&amp;#x65;nt&amp;#46;&amp;#x75;&amp;#x6b;"&gt;&amp;#x74;&amp;#x75;li&amp;#x70;&amp;#x2e;&amp;#115;id&amp;#x64;&amp;#x69;q.&amp;#x6d;&amp;#x70;&amp;#64;pa&amp;#x72;&amp;#x6c;ia&amp;#x6d;&amp;#x65;&amp;#110;t.&amp;#x75;&amp;#x6b;&lt;/a&gt;&amp;nbsp;with the title “Job application: &amp;lt;your name&amp;gt;”&lt;/p&gt;
+&lt;p&gt;Applicants should send their CV with a covering letter to:&amp;nbsp;&lt;a href="m&amp;#x61;&amp;#x69;l&amp;#116;&amp;#x6f;:t&amp;#x75;&amp;#x6c;i&amp;#112;&amp;#x2e;si&amp;#x64;&amp;#x64;i&amp;#113;&amp;#x2e;mp&amp;#x40;&amp;#x70;a&amp;#114;&amp;#x6c;i&amp;#97;&amp;#x6d;&amp;#x65;n&amp;#x74;&amp;#x2e;u&amp;#107;"&gt;&amp;#x74;&amp;#x75;&amp;#x6c;&amp;#x69;&amp;#x70;&amp;#x2e;&amp;#x73;&amp;#x69;&amp;#x64;&amp;#x64;&amp;#x69;&amp;#x71;&amp;#x2e;&amp;#x6d;&amp;#112;&amp;#64;&amp;#112;&amp;#97;&amp;#114;&amp;#108;iament.uk&lt;/a&gt;&amp;nbsp;with the title “Job application: &amp;lt;your name&amp;gt;”&lt;/p&gt;
 
 
 
@@ -2005,10 +1963,10 @@ Bexleyheath and…</div>
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-610846a7e27b5" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-610846a7e295d" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-610846a7e2b01" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-610846a7e2bfc" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-61085594ea9f0" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-61085594eac0c" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-61085594eada2" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-61085594eaea5" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2059,7 +2017,8 @@ Bexleyheath and…</div>
     <link rel="alternate" href="https://www.markpritchard.com/news/new-gp-surgery-back-track-shifnal" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><span>New GP Surgery Back on Track for Shifnal</span>
-            <div class="field-news-date"><time datetime="2021-02-16T12:00:00Z">Tuesday, 16 February, 2021</time></div>
+            <div class="field-news-date"><time datetime="2021-02-16T12:00:00Z">Tuesday, 16 February, 2021</time>
+</div>
       
 <span>Tue, 16/02/2021 - 13:45</span>
 
@@ -2068,7 +2027,11 @@ Bexleyheath and…</div>
 
 
   <div>
-      <img src="https://www.markpritchard.com/sites/www.markpritchard.com/files/styles/gallery_large/public/2021-02/Shifnal%20GP%20Surgery.png?itok=ZieKSzXo" width="830" height="540" alt="Shifnal GP Surgery Plans" typeof="foaf:Image"/></div>
+      <img src="/sites/www.markpritchard.com/files/styles/gallery_large/public/2021-02/Shifnal%20GP%20Surgery.png?itok=ZieKSzXo" width="830" height="540" alt="Shifnal GP Surgery Plans" typeof="foaf:Image"/>
+
+
+
+  </div>
 </div>
 
             <div class="body"><p>The local Clinical Commissioning Group has confirmed that the funding is in place to build a new GP surgery for Shifnal.</p>
@@ -2380,10 +2343,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-610847ec95b52" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-610856dc7dff6" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-610847ec95b52').iPhorm({"id":5,"uniqueId":"610847ec95b52","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-610856dc7dff6').iPhorm({"id":5,"uniqueId":"610856dc7dff6","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2458,10 +2421,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-610847ec95b52" class="iphorm iphorm-form-5" action="/feed/#iphorm-610847ec95b52" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-610856dc7dff6" class="iphorm iphorm-form-5" action="/feed/#iphorm-610856dc7dff6" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="610847ec95b52" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="610856dc7dff6" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2470,22 +2433,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_610847ec95b52" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_610847ec95b52" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_610856dc7dff6" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_610856dc7dff6" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_610847ec95b52" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_610847ec95b52" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_610856dc7dff6" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_610856dc7dff6" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_610847ec95b52" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_610847ec95b52" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_610856dc7dff6" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_610856dc7dff6" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2495,7 +2458,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_610847ec95b52_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_610856dc7dff6_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2514,7 +2477,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-610847ec95b52 script').remove();
+    jQuery('#iphorm-outer-610856dc7dff6 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
