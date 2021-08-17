@@ -7,14 +7,14 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-17T10:35:57Z</updated>
+  <updated>2021-08-17T11:33:08Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
   <entry>
     <title>Local MP Maria Miller returns to Westminster for the recall of Parliament following the crisis in Afghanistan. </title>
     <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-maria-miller-returns-westminster-recall-parliament-following-crisis-afghanistan" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maria said, “The scenes of people attempting to flee Afghanistan are heart breaking and on Wednesday when Parliament is recalled. I shall be urging the Government to do everything possible to ensure not only the safety of British Citizens but also those Afghans who now fear for their lives under…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maria said, “The scenes of people attempting to flee Afghanistan are heart breaking and on Wednesday when Parliament is recalled, I shall be urging the Government to do everything possible to ensure not only the safety of British Citizens but also those Afghans who now fear for their lives under…</div>
     </content>
     <id>https://www.maria4basingstoke.co.uk/news/local-mp-maria-miller-returns-westminster-recall-parliament-following-crisis-afghanistan</id>
     <published>2021-08-17T13:00:00+01:00</published>
@@ -29,6 +29,74 @@
     <id>https://www.bobstewart.org.uk/news/our-guilt-afghanistan</id>
     <published>2021-08-17T13:00:00+01:00</published>
     <updated>2021-08-17T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Claimant Count July 2021</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/claimant-count-july-2021" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/Claimant%20count%20image_6.jpg?itok=TU6eeJyX" width="740" height="423" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p class="MsoNormal"><strong>The number of unemployed claimants in Dagenham and Rainham constituency in July 2021 was 6,025.</strong> This represents a rate of 8.6% of the economically active population aged 16 to 64. The equivalent UK claimant rate was 5.4%. </p>
+              <p class="MsoNormal">
+                <strong>There are 40 more claimants than in June 2021 and there are 3,290 more claimants than in March 2020 before the UK lockdown began. Note the majority of this increase happed in March-May 2020 at the start of the coronavirus (COVID-19) pandemic. </strong>
+              </p>
+              <p class="MsoNormal">
+                <strong>There were 995 claimants aged 18-24 in July 2021, 65 lower than June 2021 and 520 higher than March 2020. </strong>
+              </p>
+              <p class="MsoNormal">As part of the government’s response to coronavirus (COVID-19), a number of enhancements were introduced to Universal Credit. These may have increased the number of employed people who are eligible for unemployment-related benefits. </p>
+              <p class="MsoNormal">Whilst some of the increase in the Claimant Count will be due to people who have become unemployed, some will also be due to employed people who have become eligible for Universal Credit as part of the government response.</p>
+              <p class="MsoNormal">Figures are not seasonally adjusted and are rounded to the nearest five. “Unemployed claimants” include people claiming Jobseeker’s Allowance or who are claiming Universal Credit and are required to seek work.</p>
+              <p class="MsoNormal">
+                <strong>Long term trends             </strong>
+              </p>
+              <p class="MsoNormal">The unadjusted claimant count is currently <strong>not a good indicator of long- term trends</strong> in the number of people looking for work. It does however provide us with a <strong>measure of how the number of claimants has changed in response to the coronavirus pandemic.</strong> The adjusted alternative claimant count <strong>is updated on a quarterly basis.</strong></p>
+              <p class="MsoNormal">
+                <strong>The ongoing impact of coronavirus on Universal Credit</strong>
+              </p>
+              <p class="MsoNormal">Under Universal Credit, a broader spectrum of people are required to look for work than under Jobseeker’s Allowance. This has the effect of increasing the number of unemployed claimants. In addition to this, as part of the government’s response to Coronavirus (COVID-19), a number of enhancements were introduced to Universal Credit. Consequently, <strong>whilst some of the increase in the unemployed claimant count will be due to people who have become unemployed, some will also be due to employed people who have become eligible for Universal Credit as part of the government response to Coronavirus.</strong></p>
+              <p>
+                <strong>Jon Cruddas MP: </strong>
+                <em>"The claimant count never gives a truly accurate picture of unemployment, but it is clear there is a fallout from the pandemic. In the coming months I will be working with the local authority and cross sector organisations to ensure my constituents have the support they need to get back on their feet. We are on the cusp of huge investment into the area with work starting on the film studios at Dagenham East by the end of this year, and London's three historic markets being up and running by 2027 at Dagenham Dock. These projects will bring thousands of skilled local jobs, training, and education opportunities for local people."</em>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/barking-dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Barking &amp; Dagenham</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/claimant-count" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Claimant Count</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/tags/unemployment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Unemployment</a>
+            </li>
+            <li class="taxonomy-term-reference-3">
+              <a href="/tags/universal-credit" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Universal Credit</a>
+            </li>
+            <li class="taxonomy-term-reference-4">
+              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>margaret</name>
+    </author>
+    <id>1548 at https://joncruddas.org.uk</id>
+    <published>2021-08-17T11:01:21Z</published>
+    <updated>2021-08-17T11:01:21Z</updated>
   </entry>
   <entry>
     <title>Fact checking the BBC</title>
@@ -141,66 +209,6 @@
     <id>https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-129</id>
     <published>2021-08-16T13:00:00+01:00</published>
     <updated>2021-08-16T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>MP Secures Road Resurface in Rainham</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/mp-secures-road-resurface-rainham" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/DSC_1479_4.JPG?itok=JllpXpme" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p class="MsoNormal"> </p>
-              <p class="MsoNormal">Earlier in the year Jon Cruddas MP and the Labour team in Rainham raised concerns about the poor state of repair of Upminster Road North. The local MP had been contacted by residents in the northern part of the ward who all expressed that the road was now becoming dangerous for drivers due to potholes and other damage to the carriageway.</p>
-              <p class="MsoNormal">After mounting pressure, Havering Council have now responded to the Dagenham and Rainham MP to confirm that the whole of Upminster Road North will be resurfaced in September (next month).</p>
-              <p class="MsoNormal"><strong>Jon said:</strong> <em>“The roads and pavements across Rainham have long been on our agenda but Havering Council have failed to act in the past. The state of the road was in rapid decline, so this is a very welcome announcement. </em></p>
-              <p class="MsoNormal">
-                <em>“The local Labour Action Team are working hard to hold the council to account over the lack of support for basic infrastructure in the south of the borough. So, we are hoping that this is the first of many improvements for Rainham.”</em>
-              </p>
-              <p class="MsoNormal"><strong>Simon Darvill from the Rainham Labour Action Team said;</strong> <em>“We spoke with lots of people in the area and the state of Upminster Road North was raised consistently. Jon has delivered a great result for local people. This is the sort of thing ward councillors should be picking up but if they won’t fight for investment in the ward it falls on Labour to step in.”</em></p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/rainham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rainham</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/road" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Road</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/travel" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Travel</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/upminster-road-north" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Upminster Road North</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/investment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Investment</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/tags/campaign" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Campaign</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1547 at https://joncruddas.org.uk</id>
-    <published>2021-08-16T11:21:08Z</published>
-    <updated>2021-08-16T11:21:08Z</updated>
   </entry>
   <entry>
     <title>Reform proposed for city’s public transport companies</title>
@@ -730,7 +738,7 @@ Ministers need to be straight with the public and ...</p>
 <p class="dcr-s23rjr">Ministers need to be straight with the public and provide clarity about progress on a globally recognised international vaccine passport – working with the EU and US to get travel moving again.</p>
 <p>Read more in <a href="https://www.theguardian.com/society/2021/aug/04/status-of-some-uk-citizens-vaccinated-overseas-still-not-recognised-by-nhs">the Guardian</a>.</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-3867" data-post-type="none" ><a href="https://lizkendall.org/couple-to-take-legal-action-over-death-of-newborn-son/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/30.jpg" alt="Couple to take legal action over death of newborn son" width="150" height="150" /></a><a href="https://lizkendall.org/couple-to-take-legal-action-over-death-of-newborn-son/" class="wp_rp_title">Couple to take legal action over death of newborn son</a></li><li data-position="1" data-poid="in-4065" data-post-type="none" ><a href="https://lizkendall.org/liz-visits-gold-standard-accredited-lakelands-hospice/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2012/10/P1010439-540x4051-150x150.jpg" alt="Liz visits &#8216;Gold Standard&#8217; hospice" width="150" height="150" /></a><a href="https://lizkendall.org/liz-visits-gold-standard-accredited-lakelands-hospice/" class="wp_rp_title">Liz visits &#8216;Gold Standard&#8217; hospice</a></li><li data-position="2" data-poid="in-5889" data-post-type="none" ><a href="https://lizkendall.org/giving-children-the-best-start-in-life/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="Giving children the best start in life" width="150" height="150" /></a><a href="https://lizkendall.org/giving-children-the-best-start-in-life/" class="wp_rp_title">Giving children the best start in life</a></li><li data-position="3" data-poid="in-6901" data-post-type="none" ><a href="https://lizkendall.org/fighting-to-save-the-john-o-gaunt-pub/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/12/John-O-Gaunt-150x150.png" alt="Fighting to save the John O Gaunt Pub" width="150" height="150" /></a><a href="https://lizkendall.org/fighting-to-save-the-john-o-gaunt-pub/" class="wp_rp_title">Fighting to save the John O Gaunt Pub</a></li><li data-position="4" data-poid="in-6598" data-post-type="none" ><a href="https://lizkendall.org/united-action-needed-after-horror-lizs-latest-mercury-column/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/27.jpg" alt="United action needed after horror &#8211; Liz&#8217;s latest Mercury Column" width="150" height="150" /></a><a href="https://lizkendall.org/united-action-needed-after-horror-lizs-latest-mercury-column/" class="wp_rp_title">United action needed after horror &#8211; Liz&#8217;s latest Mercury Column</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10614" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-for-a-circuit-break-on-peston/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/10/IMG_2922-150x150.jpg" alt="Liz calls for a circuit break on Peston" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-for-a-circuit-break-on-peston/" class="wp_rp_title">Liz calls for a circuit break on Peston</a></li><li data-position="1" data-poid="in-2357" data-post-type="none" ><a href="https://lizkendall.org/liz-speaks-in-debate-on-academies-bill/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/15.jpg" alt="Liz speaks in debate on Academies Bill" width="150" height="150" /></a><a href="https://lizkendall.org/liz-speaks-in-debate-on-academies-bill/" class="wp_rp_title">Liz speaks in debate on Academies Bill</a></li><li data-position="2" data-poid="in-5421" data-post-type="none" ><a href="https://lizkendall.org/abbey-community-drop-in-3/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/27.jpg" alt="Abbey Community Drop-In" width="150" height="150" /></a><a href="https://lizkendall.org/abbey-community-drop-in-3/" class="wp_rp_title">Abbey Community Drop-In</a></li><li data-position="3" data-poid="in-10591" data-post-type="none" ><a href="https://lizkendall.org/liz-visits-local-schools/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/10/EjURTrSXgAI9nfU-150x150.jpg" alt="Liz visits local schools" width="150" height="150" /></a><a href="https://lizkendall.org/liz-visits-local-schools/" class="wp_rp_title">Liz visits local schools</a></li><li data-position="4" data-poid="in-8332" data-post-type="none" ><a href="https://lizkendall.org/campaigning-for-action-on-climate-change/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/12/friends-150x150.jpg" alt="Campaigning for action on climate change" width="150" height="150" /></a><a href="https://lizkendall.org/campaigning-for-action-on-climate-change/" class="wp_rp_title">Campaigning for action on climate change</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/status-of-some-uk-citizens-vaccinated-overseas-still-not-recognised-by-nhs/">Status of some UK citizens vaccinated overseas still not recognised by NHS</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -1951,10 +1959,10 @@ The decision was taken by the Kent Resilience Forum in anticipation of a big…<
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-611b8f9dc8a57" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-611b8f9dc8c4e" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-611b8f9dc8dbe" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-611b8f9dc8eaa" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-611b9d04283c7" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-611b9d04285de" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-611b9d0428772" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-611b9d0428873" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2297,10 +2305,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-611b905f7988e" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-611b9dcaafba4" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-611b905f7988e').iPhorm({"id":5,"uniqueId":"611b905f7988e","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-611b9dcaafba4').iPhorm({"id":5,"uniqueId":"611b9dcaafba4","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2375,10 +2383,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-611b905f7988e" class="iphorm iphorm-form-5" action="/feed/#iphorm-611b905f7988e" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-611b9dcaafba4" class="iphorm iphorm-form-5" action="/feed/#iphorm-611b9dcaafba4" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="611b905f7988e" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="611b9dcaafba4" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2387,22 +2395,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_611b905f7988e" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_611b905f7988e" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_611b9dcaafba4" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_611b9dcaafba4" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_611b905f7988e" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_611b905f7988e" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_611b9dcaafba4" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_611b9dcaafba4" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_611b905f7988e" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_611b905f7988e" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_611b9dcaafba4" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_611b9dcaafba4" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2412,7 +2420,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_611b905f7988e_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_611b9dcaafba4_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2431,7 +2439,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-611b905f7988e script').remove();
+    jQuery('#iphorm-outer-611b9dcaafba4 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
