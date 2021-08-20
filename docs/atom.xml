@@ -7,9 +7,173 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-20T08:41:27Z</updated>
+  <updated>2021-08-20T09:36:54Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Parking zone survey - Village</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/parking-zone-3" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <form class="webform-client-form webform-client-form-1552" action="/rss.xml" method="post" id="webform-client-form-1552" accept-charset="UTF-8">
+          <div><fieldset class="webform-component-fieldset webform-component--civicrm-1-activity-1-fieldset-fieldset form-wrapper"><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-markup webform-component--civicrm-1-activity-1-fieldset-fieldset--spacer1">
+ 
+</div>
+<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-410">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-410">Do you support the Controlled Parking Zone in your area? </label>
+ <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_410" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-410" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_410]"><option value="" selected="selected">- None -</option><option value="1">Yes</option><option value="2">No</option><option value="3">Not sure</option></select>
+</div>
+<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-411">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-411">Were you aware of/did you participate in the consultation for these plans?  </label>
+ <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_411" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-411" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_411]"><option value="" selected="selected">- None -</option><option value="1">Yes</option><option value="2">No</option></select>
+</div>
+<div class="form-item webform-component webform-component-select webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-413">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-413">Do you think the council should have been more flexible on agreeing enforcement hours of the scheme? </label>
+ <select class="civicrm-enabled form-select" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_413" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-413" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_413]"><option value="" selected="selected">- None -</option><option value="1">Yes</option><option value="2">No</option><option value="3">Not sure</option></select>
+</div>
+<div class="form-item webform-component webform-component-textarea webform-component--civicrm-1-activity-1-fieldset-fieldset--civicrm-1-activity-1-cg57-custom-414">
+  <label for="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-414">Do you have any comments? </label>
+ <div class="form-textarea-wrapper resizable"><textarea class="civicrm-enabled form-textarea" data-civicrm-field-key="civicrm_1_activity_1_cg57_custom_414" id="edit-submitted-civicrm-1-activity-1-fieldset-fieldset-civicrm-1-activity-1-cg57-custom-414" name="submitted[civicrm_1_activity_1_fieldset_fieldset][civicrm_1_activity_1_cg57_custom_414]" cols="60" rows="4"/></div>
+</div>
+</div></fieldset>
+<div class="form-item webform-component webform-component-markup webform-component--spacer3">
+ 
+</div>
+<fieldset class="webform-component-fieldset webform-component--civicrm-1-contact-1-fieldset-fieldset form-wrapper"><legend><span class="fieldset-legend">Your contact details</span></legend><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-civicrm_contact static webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-existing">
+<input data-hide-method="hide" data-no-hide-blank="0" class="civicrm-enabled" data-civicrm-field-key="civicrm_1_contact_1_contact_existing" type="hidden" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_existing]" value=""/>
+
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-first-name">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="First Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_first_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-first-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_first_name]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-contact-last-name">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Last Name" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_contact_last_name" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-contact-last-name" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_contact_last_name]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-street-address">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address">Street Address </label>
+ <input placeholder="Street address" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_street_address" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-street-address" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_street_address]" value="" size="60" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-city">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city">City </label>
+ <input placeholder="City" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_address_city" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-city" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_city]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-address-postal-code">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code">Postal Code <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Postal Code" class="civicrm-enabled form-text required" data-civicrm-field-key="civicrm_1_contact_1_address_postal_code" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-address-postal-code" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_address_postal_code]" value="" size="7" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-email webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-email-email">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email">Email </label>
+ <input class="email civicrm-enabled form-text form-email" placeholder="Email" data-civicrm-field-key="civicrm_1_contact_1_email_email" type="email" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_email_email]" size="20"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-phone-phone">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone">Phone Number </label>
+ <input placeholder="Phone number" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_1_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_phone_phone]" value="" size="20" maxlength="128"/>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-2-phone-phone">
+  <label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone">Mobile </label>
+ <input placeholder="Mobile" class="civicrm-enabled form-text" data-civicrm-field-key="civicrm_1_contact_2_phone_phone" type="text" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-2-phone-phone" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_2_phone_phone]" value="" size="20" maxlength="128"/>
+</div>
+</div></fieldset>
+<div class="form-item webform-component webform-component-markup webform-component--spacer">
+ 
+</div>
+<fieldset class="webform-component-fieldset webform-component--group-fieldset form-wrapper"><legend><span class="fieldset-legend">Can Jon update you about news and campaigns?</span></legend><div class="fieldset-wrapper"><div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-228">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">Can Jon stay in contact by email <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-1">Yes Jon can email me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_228" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_228]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-228-2">No Jon cannot email me </label>
+
+</div>
+</div>
+</div>
+<div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-226">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">Can Jon stay in contact by phone? <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_226" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_226]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-1">Yes Jon can phone me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_226" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_226]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-226-2">No Jon cannot phone me </label>
+
+</div>
+</div>
+</div>
+<div class="col-md-4 form-item webform-component webform-component-radios webform-component--group-fieldset--civicrm-1-contact-1-cg45-custom-227">
+  <label for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">Can Jon stay in contact by SMS? <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227" class="form-radios civicrm-enabled"><div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_227" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-1" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_227]" value="1"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-1">Yes Jon can SMS me </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227">
+ <input required="required" class="civicrm-enabled form-radio" data-civicrm-field-key="civicrm_1_contact_1_cg45_custom_227" type="radio" id="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-2" name="submitted[group_fieldset][civicrm_1_contact_1_cg45_custom_227]" value="0"/>  <label class="option" for="edit-submitted-group-fieldset-civicrm-1-contact-1-cg45-custom-227-2">No Jon cannot SMS me </label>
+
+</div>
+</div>
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--opt-out-at-any-time">
+ <p>You can opt out at any time. You can find my privacy policy <a href="https://joncruddas.org.uk/legal-and-privacy">here</a>. Any previous opting information you have given Jon will display on this petition form</p>
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--group-fieldset--spacer2">
+ 
+</div>
+</div></fieldset>
+<input type="hidden" name="details[sid]"/>
+<input type="hidden" name="details[page_num]" value="1"/>
+<input type="hidden" name="details[page_count]" value="1"/>
+<input type="hidden" name="details[finished]" value="0"/>
+<input type="hidden" name="form_build_id" value="form-ocBMS41eicckaOZ2bfTQfl_gOFUaUaQ6nFjbHmB9TKw"/>
+<input type="hidden" name="form_id" value="webform_client_form_1552"/>
+<div class="form-actions"><input class="webform-submit button-primary btn-primary btn form-submit" type="submit" name="op" value="Submit"/></div></div>
+        </form>
+      </div>
+    </content>
+    <author>
+      <name>Jon</name>
+    </author>
+    <id>1552 at https://joncruddas.org.uk</id>
+    <published>2021-08-20T09:14:30Z</published>
+    <updated>2021-08-20T09:14:30Z</updated>
+  </entry>
+  <entry>
+		<author>
+			<name>Team JP</name>
+					</author>
+
+		<title type="html"><![CDATA[John&#8217;s article on: Evolving economies]]></title>
+		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2021/08/20/johns-article-on-evolving-economies/"/>
+
+		<id>http://johnpenrose.org/wp/?p=4850</id>
+		<updated>2021-08-20T09:02:26Z</updated>
+		<published>2021-08-20T09:02:24Z</published>
+		<category scheme="http://johnpenrose.org/wp" term="Best Brexit"/><category scheme="http://johnpenrose.org/wp" term="Low Cost Britain"/><category scheme="http://johnpenrose.org/wp" term="National Campaigns"/><category scheme="http://johnpenrose.org/wp" term="Newspaper Articles"/><category scheme="http://johnpenrose.org/wp" term="UK Productivity &amp; Growth"/>
+		<summary type="html"><![CDATA[This article was originally published in &#8216;Onward&#8217;. For hundreds of years, businesses have transformed our lives for the better by creating wealth, improving living standards, creating jobs, and inventing cool gadgets that make life easier, more interesting and fun. But they can create problems too; if we don’t set things up properly, it’s easy to [&#8230;]]]></summary>
+
+					<content type="html" xml:base="http://johnpenrose.org/wp/2021/08/20/johns-article-on-evolving-economies/"><![CDATA[
+<p><em><strong>This article was </strong></em><strong><em>originally published in &#8216;Onward&#8217;.</em></strong></p>
+
+
+
+<p>For hundreds of years, businesses have transformed our lives for the better by creating wealth, improving living standards, creating jobs, and inventing cool gadgets that make life easier, more interesting and fun. But they can create problems too; if we don’t set things up properly, it’s easy to leave the door open for monopolies, rip-offs and scams to flourish. And if they do, then citizen-consumers will start to tread a lot more warily, distrusting the system and feeling like we’ve got to check everything because we aren’t sure if it’s really on our side.<br></p>
+
+
+
+<p>And that’s a serious problem. Partly because all that checking and distrust slows everything down; high trust societies and economies work faster, better and more productively than low ones. And partly because if we think the system is set up for bosses or bureaucrats or cronies rather than us, then we won’t care if it crumbles and is replaced by something else. There are plenty of competing creeds that would love to brand profits and businesses as inherently bad or evil activities that constantly have to apologise and atone for some indelible, original sin.<br></p>
+
+
+
+<p>And if they succeed, the legitimacy of our entire liberal, democratic, freemarket society is undermined. So it’s essential for us to set the system up properly in the first place so it’s clearly on the side of the many. That means being clearly and unapologetically on the side of consumers, with strong rules to protect us from scams, cons and rip-offs, plus lots more choice so that we can all find what we want, rather than what some politician or bureaucrat has decided for us instead.<br></p>
+
+
+
+<p>The latest challenge comes from digitisation. It’s creating all sorts of brilliant, amazing new things that we all love, but it is also giving fresh legs to neweconomy versions of the old scams and rip-offs too. That means we need a new, re-tooled Competition Act so we can deal with digital dodginess just as easily as the more traditional analogue versions, and updated regulators to apply the new laws too. The world won’t stop moving and improving, so we can’t either.</p>
+]]></content>
+		
+			</entry>
   <entry>
     <title>Humanitarian aid will be vital to save and protect lives in Afghanistan</title>
     <link rel="alternate" href="https://preetkaurgill.com/content/humanitarian-aid-will-be-vital-save-and-protect-lives-afghanistan" type="text/html"/>
@@ -233,74 +397,6 @@ Following the tragic…</div>
     <id>https://www.annemariemorris.co.uk/news/afghanistan</id>
     <published>2021-08-19T13:00:00+01:00</published>
     <updated>2021-08-19T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Poplar 100 - Celebrating Working Class History</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/poplar-100-celebrating-working-class-history" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/0_Screenshot-2021-07-22-at-182258.jpg?itok=_XqyGkpz" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p class="MsoNormal"> </p>
-              <p class="MsoNormal">In 1921, the recently elected Poplar Borough Council found itself on the wrong end of a ruling by the High Court and 30 Councillors were sent to jail for Contempt of Court.</p>
-              <p class="MsoNormal">Their crime was a refusal to collect the cross-London precept for the London County Council, the Metropolitan Police, the Metropolitan Asylums Board and the Metropolitan Water Board from their poverty stricken residents.</p>
-              <p class="MsoNormal">The Poplar 100 project was established by the George Lansbury Trust to mark the centenary of the rebellion.</p>
-              <p class="MsoNormal"><strong>Jon Cruddas MP said:</strong> <em>"It is vital that we celebrate this landmark centenary. 100 years ago Labour in local government stood strong in successfully resisting central government on behalf of the poor and underprivileged of the East End – what we now term ‘Poplarism’. Thousands marched in support of their thirty imprisoned Borough Council representatives led by George Lansbury in one of the landmark struggles in working class history.”</em></p>
-              <p class="MsoNormal">September 1921 was the crucial phase of the Poplar Rates Rebellion, the moment the Poplar councillors were gaoled for their defiance. To commemorate these momentous events Poplar 100 have a number of upcoming online events, details of which can be found below:</p>
-              <p class="MsoNormal"><strong>1)</strong> A special walking tour led by David Rosenberg on 5 September<em> (<strong>to register please go to: </strong><a href="https://protect-eu.mimecast.com/s/eTlQCp8y0CB7Q8RtDPET1?domain=clicks.eventbrite.com">https://www.eventbrite.co.uk/e/walking-tour-of-radical-poplar-and-the-rates-rebellion-of-1921-tickets-165794187879</a>).</em></p>
-              <p class="MsoNormal"><strong>2)</strong> A reflection on the councillors' experience of imprisonment (and how it compares to prison conditions today), held on 8 September on the 100th anniversary of the final arrest <em>(<strong>to register please go to: </strong><a href="https://protect-eu.mimecast.com/s/5x30Cr8AwCGWwvBfyCyin?domain=clicks.eventbrite.com">https://www.eventbrite.co.uk/e/imprisonment-poplar-council-in-prison-1921-tickets-162786862889</a>).</em></p>
-              <p class="MsoNormal"><strong>3)</strong> On 14 September stories from the archives of the National Archives, the LSE, and the People's History Museum will explore what the documents tell us about the Rebellion and the government response<em> (<strong>to register please go to: </strong><a href="https://protect-eu.mimecast.com/s/LnBWCwVJBfW201wi8KR-D?domain=clicks.eventbrite.com">https://www.eventbrite.co.uk/e/poplar-councillors-revolt-centenary-stories-from-the-archives-tickets-164815791469</a>).</em></p>
-              <p class="MsoNormal"><strong>4)</strong> The Poplar councillors were the first group of ordinary, working-class councillors elected in Poplar. Generally poor themselves, they made extraordinary sacrifices for their local people in fighting against an unfair system. A special event on 17 September will feature relatives and descendants of those men and women reflecting on their struggle in 1921 <em>(<strong>to register please go to: </strong><a href="https://protect-eu.mimecast.com/s/ev8wCyoLEuRp6MBTyg_g0?domain=clicks.eventbrite.com">https://www.eventbrite.co.uk/e/the-poplar-rates-rebellion-1921-2021-who-were-the-councillors-tickets-162560772647</a>).</em></p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dagenham</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/events" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Events</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/celebration" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Celebration</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/working-class" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Working Class</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/lansbury" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Lansbury</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/tags/poplar" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Poplar</a>
-            </li>
-            <li class="taxonomy-term-reference-7">
-              <a href="/tags/rates" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rates</a>
-            </li>
-            <li class="taxonomy-term-reference-8">
-              <a href="/tags/rebellion" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rebellion</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1550 at https://joncruddas.org.uk</id>
-    <published>2021-08-19T09:13:32Z</published>
-    <updated>2021-08-19T09:13:32Z</updated>
   </entry>
   <entry>
     <title>Afghanistan Debate</title>
@@ -773,85 +869,6 @@ You have received two doses of a covid vaccine more than 2…</div>
     <updated>2021-08-16T13:00:00+01:00</updated>
   </entry>
   <entry>
-		<author>
-			<name>Team JP</name>
-					</author>
-
-		<title type="html"><![CDATA[The Independent: Former minister John Penrose backs calls to halt ‘long decline of British manufacturing’]]></title>
-		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2021/08/13/the-independent-former-minister-john-penrose-backs-calls-to-halt-long-decline-of-british-manufacturing/"/>
-
-		<id>http://johnpenrose.org/wp/?p=4846</id>
-		<updated>2021-08-13T13:50:59Z</updated>
-		<published>2021-08-13T13:50:57Z</published>
-		<category scheme="http://johnpenrose.org/wp" term="Best Brexit"/><category scheme="http://johnpenrose.org/wp" term="Low Cost Britain"/><category scheme="http://johnpenrose.org/wp" term="National Campaigns"/><category scheme="http://johnpenrose.org/wp" term="UK Productivity &amp; Growth"/>
-		<summary type="html"><![CDATA[This article was written by David Lynch and originally published on The Independent website. John Penrose has given his support to a 10-point plan which aims to increase the value of manufacturing to 15% of GDP by 2025. A former&#160;Government&#160;minister has backed a plan which aims to reverse the “long, slow decline of&#160;British&#160;manufacturing”. John Penrose&#160;gave [&#8230;]]]></summary>
-
-					<content type="html" xml:base="http://johnpenrose.org/wp/2021/08/13/the-independent-former-minister-john-penrose-backs-calls-to-halt-long-decline-of-british-manufacturing/"><![CDATA[
-<p>This article was written by David Lynch and originally published on <a href="https://www.independent.co.uk/business/former-minister-backs-calls-to-halt-long-decline-of-british-manufacturing-b1902144.html" target="_blank" rel="noreferrer noopener">The Independent</a> website.</p>
-
-
-
-<p>John Penrose has given his support to a 10-point plan which aims to increase the value of manufacturing to 15% of GDP by 2025.</p>
-
-
-
-<p>A former&nbsp;<a href="https://www.independent.co.uk/topic/government">Government</a>&nbsp;minister has backed a plan which aims to reverse the “long, slow decline of&nbsp;<a href="https://www.independent.co.uk/topic/british">British</a>&nbsp;manufacturing”.</p>
-
-
-
-<p><a href="https://www.independent.co.uk/topic/john-penrose">John Penrose</a>&nbsp;gave his backing to the 10-point plan from a cross-party think tank, which has also warned that the UK faces a decade of decline if it fails to increase manufacturing’s value to 15% of&nbsp;<a href="https://www.independent.co.uk/topic/gdp">GDP</a>&nbsp;by 2025.</p>
-
-
-
-<p>The Institute for Prosperity said manufacturing and reindustrialisation is “key” to boosting the economy and to the Government’s “levelling up” agenda.</p>
-
-
-
-<p>Weston-Super-Mare Conservative MP Mr Penrose said: “The long, slow decline of British manufacturing has deep roots, so reversing it will need big, structural changes to our education system, our economy and our society.</p>
-
-
-
-<p>“We’re already making progress in areas like building new infrastructure, improving technical education and turbocharging capital investment, but there’s still a long way to go. So perhaps the recommendation that matters most is the last one – be more ambitious.”</p>
-
-
-
-<p>According to the think tank, UK manufacturing has declined to less than 10% of GDP over the last 40 years, “eroded by a lack of support and rapid deindustrialisation”.</p>
-
-
-
-<p>This compares with about 20% of GDP in countries such as Germany and South Korea.</p>
-
-
-
-<p>The institute, founded by Labour Party donor John Mills, set out 10 ways to increase manufacturing’s contribution to the national income.</p>
-
-
-
-<p>This includes a call to “rebalance the economy” by increasing manufacturing to 15% of GDP.</p>
-
-
-
-<p>The think tank called for more funding for technical training, rewards for capital expenditure, the establishment of a national investment bank, and prioritising infrastructure investments with the “highest social payback”.</p>
-
-
-
-<p>It also recommends creating a Green Investment Allowance to reduce energy costs, overhauling planning rules for industrial activities, increased investment in research and development, using tax incentives to encourage companies to stay in the UK, and to set ambitious targets to make “Britain the easiest place to set up a manufacturing business”.</p>
-
-
-
-<p>Former business secretary&nbsp;<a href="https://www.independent.co.uk/topic/vince-cable">Vince Cable</a>&nbsp;who also backs the 10-point plan, said: “At a time when the Government seems to be going cold on industrial strategy, and leaving the long-term future of the economy to the short-term vagaries of capital markets, it is great to see this very positive reassertion of the value of manufacturing and the need for sustained rebalancing of the economy.”</p>
-
-
-
-<p>Mr Mills is also the founder of JML, a consumer goods distribution company, and a lifelong Labour supporter.</p>
-
-
-
-<p>He said: “To achieve strong economic growth and make the UK a global powerhouse once more, we need to start with a solid manufacturing base. Our 10 proposed reforms set out today clearly outline the key steps the Government needs to take immediately to achieve economic prosperity.”</p>
-]]></content>
-		
-			</entry>
-  <entry>
     <title>Vice President Howard Marriner </title>
     <link rel="alternate" href="https://www.bexleyheathandcrayford.com/news/vice-president-howard-marriner" type="text/html"/>
     <content type="xhtml">
@@ -1110,11 +1127,30 @@ Ministers need to be straight with the public and ...</p>
 <p class="dcr-s23rjr">Ministers need to be straight with the public and provide clarity about progress on a globally recognised international vaccine passport – working with the EU and US to get travel moving again.</p>
 <p>Read more in <a href="https://www.theguardian.com/society/2021/aug/04/status-of-some-uk-citizens-vaccinated-overseas-still-not-recognised-by-nhs">the Guardian</a>.</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-8473" data-post-type="none" ><a href="https://lizkendall.org/liz-interviewed-on-bbc-east-midlands-today/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2017/03/East-midlands-today-080317-1-150x150.jpg" alt="Liz interviewed about Glenfield children&#8217;s heart surgery unit" width="150" height="150" /></a><a href="https://lizkendall.org/liz-interviewed-on-bbc-east-midlands-today/" class="wp_rp_title">Liz interviewed about Glenfield children&#8217;s heart surgery unit</a></li><li data-position="1" data-poid="in-3814" data-post-type="none" ><a href="https://lizkendall.org/supporting-local-businesses/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2012/08/supporting-local-businesses-260x1951-150x150.jpg" alt="Supporting local businesses" width="150" height="150" /></a><a href="https://lizkendall.org/supporting-local-businesses/" class="wp_rp_title">Supporting local businesses</a></li><li data-position="2" data-poid="in-4465" data-post-type="none" ><a href="https://lizkendall.org/liz-votes-in-favour-of-gay-marriage/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/30.jpg" alt="Liz votes in favour of Gay Marriage" width="150" height="150" /></a><a href="https://lizkendall.org/liz-votes-in-favour-of-gay-marriage/" class="wp_rp_title">Liz votes in favour of Gay Marriage</a></li><li data-position="3" data-poid="in-4812" data-post-type="none" ><a href="https://lizkendall.org/supporting-home-start/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/04/Homestart-260x1731-150x150.jpg" alt="Supporting Home-Start" width="150" height="150" /></a><a href="https://lizkendall.org/supporting-home-start/" class="wp_rp_title">Supporting Home-Start</a></li><li data-position="4" data-poid="in-7375" data-post-type="none" ><a href="https://lizkendall.org/today-programme-bbc-radio-4-on-labours-pledge-for-one-to-one-care-for-every-woman-during-labour-and-childbirth-11th-april/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/23.jpg" alt="Today Programme, BBC Radio 4, on Labour&#8217;s pledge for one-to-one care for every woman during labour and childbirth (11th April)" width="150" height="150" /></a><a href="https://lizkendall.org/today-programme-bbc-radio-4-on-labours-pledge-for-one-to-one-care-for-every-woman-during-labour-and-childbirth-11th-april/" class="wp_rp_title">Today Programme, BBC Radio 4, on Labour&#8217;s pledge for one-to-one care for every woman during labour and childbirth (11th April)</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-5610" data-post-type="none" ><a href="https://lizkendall.org/5610/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/10/meeting-Glebelands-students-16th-Oct-2013-540x39611-150x150.jpg" alt="Liz meets with students from Glebelands Primary School" width="150" height="150" /></a><a href="https://lizkendall.org/5610/" class="wp_rp_title">Liz meets with students from Glebelands Primary School</a></li><li data-position="1" data-poid="in-8459" data-post-type="none" ><a href="https://lizkendall.org/the-government-must-take-action-if-it-wants-a-country-that-works-for-everyone/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="The Government must take action if it wants a country that works for everyone" width="150" height="150" /></a><a href="https://lizkendall.org/the-government-must-take-action-if-it-wants-a-country-that-works-for-everyone/" class="wp_rp_title">The Government must take action if it wants a country that works for everyone</a></li><li data-position="2" data-poid="in-11122" data-post-type="none" ><a href="https://lizkendall.org/liz-attends-after-school-club/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2021/06/AS-150x150.jpg" alt="Liz attends after school club" width="150" height="150" /></a><a href="https://lizkendall.org/liz-attends-after-school-club/" class="wp_rp_title">Liz attends after school club</a></li><li data-position="3" data-poid="in-8519" data-post-type="none" ><a href="https://lizkendall.org/liz-meets-with-environmental-studies/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2017/04/es-150x150.jpg" alt="Liz meets with Environmental Studies" width="150" height="150" /></a><a href="https://lizkendall.org/liz-meets-with-environmental-studies/" class="wp_rp_title">Liz meets with Environmental Studies</a></li><li data-position="4" data-poid="in-7961" data-post-type="none" ><a href="https://lizkendall.org/break-in-at-guru-nanak-gurdwara/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" alt="Break in at Guru Nanak gurdwara" width="150" height="150" /></a><a href="https://lizkendall.org/break-in-at-guru-nanak-gurdwara/" class="wp_rp_title">Break in at Guru Nanak gurdwara</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/status-of-some-uk-citizens-vaccinated-overseas-still-not-recognised-by-nhs/">Status of some UK citizens vaccinated overseas still not recognised by NHS</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
 			</entry>
+  <entry>
+    <title>COVID-19: MOVING BEYOND LEVEL 0</title>
+    <link rel="alternate" href="http://martindocherty.scot/covid-19-moving-beyond-level-0/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Scotland’s First Minister has confirmed that West Dunbartonshire will join the rest of Scotland in emerging from almost all Covid-19 restrictions on Monday 9th August 2021. In a statement to Parliament, the First Minister confirmed that falling infection rates and the success of the mass vaccination programme has made it possible to move beyond the … </p>
+<p class="link-more"><a href="http://martindocherty.scot/covid-19-moving-beyond-level-0/" class="more-link">Continue reading<span class="screen-reader-text"> "COVID-19: MOVING BEYOND LEVEL 0"</span></a></p>
+<p>The post <a rel="nofollow" href="http://martindocherty.scot/covid-19-moving-beyond-level-0/">COVID-19: MOVING BEYOND LEVEL 0</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Communications Officer</name>
+    </author>
+    <id>http://martindocherty.scot/?p=1626787</id>
+    <published>2021-08-03T15:58:20Z</published>
+    <updated>2021-08-03T15:58:20Z</updated>
+    <category term="Campaign Emails"/>
+    <category term="Latest Issues"/>
+    <category term="News"/>
+  </entry>
   <entry>
     <title>Visit to the Southampton Children’s Play Association Family Day</title>
     <link rel="alternate" href="https://www.roystonsmith.co.uk/2021/08/03/visit-to-the-southampton-childrens-play-association-family-day/" type="text/html"/>
@@ -2046,10 +2082,10 @@ The decision was taken by the Kent Resilience Forum in anticipation of a big…<
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-611f6855d66d0" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-611f6855d68b0" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-611f6855d6a36" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-611f6855d6b2c" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-611f75d3ee296" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-611f75d3ee50f" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-611f75d3ee6fb" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-611f75d3ee835" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2392,10 +2428,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-611f69912881d" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-611f771392dae" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-611f69912881d').iPhorm({"id":5,"uniqueId":"611f69912881d","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-611f771392dae').iPhorm({"id":5,"uniqueId":"611f771392dae","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2470,10 +2506,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-611f69912881d" class="iphorm iphorm-form-5" action="/feed/#iphorm-611f69912881d" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-611f771392dae" class="iphorm iphorm-form-5" action="/feed/#iphorm-611f771392dae" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="611f69912881d" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="611f771392dae" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2482,22 +2518,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_611f69912881d" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_611f69912881d" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_611f771392dae" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_611f771392dae" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_611f69912881d" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_611f69912881d" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_611f771392dae" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_611f771392dae" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_611f69912881d" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_611f69912881d" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_611f771392dae" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_611f771392dae" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2507,7 +2543,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_611f69912881d_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_611f771392dae_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2526,7 +2562,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-611f69912881d script').remove();
+    jQuery('#iphorm-outer-611f771392dae script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
