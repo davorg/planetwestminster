@@ -27,7 +27,7 @@ feeds:
     url: http://www.nigelmillsmp.com/feed/atom/
     web: http://www.nigelmillsmp.com/
   - title: "snp: Argyll and Bute: Brendan O'Hara"
-    url: http://www.brendanoharamp.scot/feed/
+    url: http://www.brendanoharamp.scot/feed/atom
     web: http://www.brendanoharamp.scot/
   - title: 'con: Arundel and South Downs: Nick Herbert'
     url: http://feeds.feedburner.com/NickHerbertNewsAndBlog
@@ -42,26 +42,20 @@ feeds:
     url: https://www.angelarayner.co.uk/feed/atom/
     web: https://www.angelarayner.co.uk/
   - title: 'con: Banbury: Victoria Prentis'
-    url: https://www.victoriaprentis.com/feed/
+    url: https://www.victoriaprentis.com/news/feed/
     web: https://victoriaprentis.com/
-  - title: 'lab: Barking: Margaret Hodge'
-    url: http://margaret-hodge.co.uk/feed/
-    web: http://margaret-hodge.co.uk/
   - title: 'lab: Barnsley Central: Dan Jarvis'
     url: https://www.danjarvis.org/news.rss
     web: https://www.danjarvis.org/
   - title: 'con: Basingstoke: Maria Miller'
     url: https://www.maria4basingstoke.co.uk/news/feed
     web: https://www.maria4basingstoke.co.uk/
-  - title: 'lab: Bassetlaw: John Mann'
-    url: https://www.mann4bassetlaw.com/blog1.rss
-    web: https://www.mann4bassetlaw.com/
-  - title: 'lab: Batley and Spen: Tracy Brabin'
-    url: https://www.tracybrabinmp.com/feed/
-    web: https://tracy4batleyandspen.com/
-  - title: 'con: Beaconsfield: Dominic Grieve'
-    url: https://dominicgrieve.org.uk/news/feed/
-    web: https://dominicgrieve.org.uk/
+  - title: 'con: Bassetlaw: Brendan Clarke-Smith'
+    url: https://www.brendanclarkesmith.com/news/feed
+    web: https://www.brendanclarkesmith.com/
+  - title: 'con: Beaconsfield: Joy Morrisey'
+    url: https://www.joymorrissey.uk/news/feed
+    web: https://www.joymorrissey.uk/
   - title: 'con: Beckenham: Bob Stewart'
     url: https://www.bobstewart.org.uk/news/feed
     web: https://www.bobstewart.org.uk/
@@ -80,35 +74,23 @@ feeds:
   - title: 'con: Bexleyheath and Crayford: David Evennett'
     url: https://www.bexleyheathandcrayford.com/news/feed
     web: http://bexleyheathandcrayford.com/
-  - title: 'lab: Birkenhead: Frank Field'
-    url: http://www.frankfield.co.uk/newsfeed.aspx
-    web: http://www.frankfield.co.uk/
   - title: 'lab: Birmingham, Edgbaston: Preet Gill'
     url: https://preetkaurgill.com/taxonomy/term/36/feed/
     web: https://www.preetkaurgill.com/
   - title: 'lab: Birmingham, Erdington: Jack Dromey'
-    url: https://www.jackdromey.org/blog.rss
-    web: https://www.jackdromey.org/
-  - title: 'lab: Birmingham, Hall Green: Roger Godsiff'
-    url: http://feeds.feedburner.com/RogerGodsiffsRssFeed
-    web: http://www.rogergodsiffmp.co.uk/
-  - title: 'lab: Birmingham, Hodge Hill: Liam Byrne'
-    url: https://liambyrne.co.uk/feed/
-    web: https://liambyrne.co.uk/
+    url: https://www.jackdromey.co.uk/feed/atom/
+    web: https://www.jackdromey.co.uk/
   - title: 'lab: Birmingham, Northfield: Richard Burden'
     url: http://richardburden.com/feed/
     web: http://richardburden.com/
   - title: 'lab: Birmingham, Selly Oak: Steve McCabe'
-    url: https://www.stevemccabe.org/rss.xml
-    web: https://www.stevemccabe.org
-  - title: 'lab: Blackburn: Kate Hollern'
-    url: http://www.katehollern.org/blog.rss
-    web: http://www.katehollern.org
-  - title: 'lab: Blackpool South: Gordon Marsden'
-    url: http://www.gordonmarsden.com/blog.rss
-    web: http://www.gordonmarsden.com/
+    url: https://www.stevemccabe.org/feed/atom
+    web: https://www.stevemccabe.org/
+  - title: 'con: Blackpool South: Scott Benton'
+    url: https://www.scottbenton.org.uk/news/feed
+    web: https://www.scottbenton.org.uk/
   - title: 'lab: Bolton South East: Yasmin Qureshi'
-    url: https://www.yasminqureshi.org.uk/bolton.rss
+    url: https://www.yasminqureshi.org.uk/feed/atom/
     web: https://yasminqureshi.org.uk/
   - title: 'con: Boston and Skegness: Matt Warman'
     url: https://www.mattwarman.co.uk/feed/

@@ -7,33 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-29T10:33:30Z</updated>
+  <updated>2021-08-29T11:56:00Z</updated>
   <link rel="self" href="http://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://mps.theplanetarium.org/</id>
-  <entry>
-    <title>Let’s end the secrecy about the German election</title>
-    <link rel="alternate" href="https://johnredwoodsdiary.com/2021/08/29/lets-end-the-secrecy-about-the-german-election/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The BBC and Channel 4 always go to town over any US Presidential election, and  provide comment about US Congressional  mid terms. Any error or politically incorrect comment by a Republican is played up, and suitable  bon mots by Democrats are reported. There is even sometimes commentary designed to produce a little balance.</p>
-<p>When it comes to a pivotal and important European General election there is usually a deafening silence. In a month’s time Germany goes to the polls to choose a replacement Chancellor for Mrs Merkel. Voters will also be invited to pass judgement on how green electors want policy to be, how much more power the EU should enjoy, and how prudent the budget of the EU’s largest economy should be. Given the media’s enthusiasm for all things EU the lack of interest in all this is noteworthy.</p>
-<p>Many  people in the UK have not even  heard the names of the 3 main challengers to take over as Chancellor. Armin Laschet is the new leader of Merkel’s CDU party (sort of Conservative). Annalena Baerbock is the chosen Chancellor candidate for the Greens. Olaf Scholz is the leader of the SDP (Labour like).</p>
-<p>The election has been through three  phases so far. It began with a surge for the Greens when they announced their fresh new candidate for Chancellor who briefly went into first place in the polls. It swung back to the CDU . In the last few days the lagging SPD has had a strong run and pulled level with the CDU in joint first.</p>
-<p>The Greens have fallen back into third thanks to claims that Ms Baerbock’s CV had elements of fiction in it and that her book had borrowed material from elsewhere without credits. More importantly Green  policies of raising fuel taxes and subsidising cycling are going down badly. The CDU has lost traction partly thanks to Mr L:aschet’s unfortunate joke cracking as a backdrop to the German President speaking about the deaths of people in the recent floods. Mr Scholz has picked up support by avoiding such disasters.</p>
-<p>There have been some continuities in the polls. The polls have always said the 3 main parties remain very unpopular, struggling to get much above 20% each. The polls have always said the 3 Chancellor candidates are unpopular, with more than half the voters often preferring none of the top 3. They have also said that the most talked about possible coalitions, CDU/Green/Free Democrats  (Jamaica) and SDP/Free Democrats/Green (Traffic light) are more unpopular than any of the top three parties! The polls regularly give the Eurosceptic AFD 9-11% so they will definitely have no role to play in a future German government as none of the pro EU parties want them in a coalition.</p>
-<p>The green arguments are especially important. Mr Laschet as current head of the government of Rhineland Palatinate has to defend the decision to allow the loss of six more settlements and a major expansion of the strip mine for lignite at Garzweiler. The CDU/SPD coalition federal government led by Merkel has just agreed that Germany will continue to mine coal and burn it for electricity until 2038. This means Germany will not make much of a contribution to COP26 and the climate change pledges, refusing to match the UK by ending electricity from coal early. German electors seem worried by the lignite expansion but not enough to make the SPD less popular. They seem even more worried by the Greens wish to use taxes and subsidies to change things faster. There are also important differences over taxes, spending levels, borrowing and the size of the EU budget. I will keep you posted.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The BBC and Channel 4 always go to town over any US Presidential election, and  provide comment about US Congressional  mid terms. Any error or politically incorrect comment by a Republican is played up, and suitable  bon mots by Democrats are reported. There is even sometimes commentary designed to produce a little balance. When it…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=31036</id>
-    <published>2021-08-29T05:02:09Z</published>
-    <updated>2021-08-29T05:02:09Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
   <entry>
 		<title>Thank you for saving so many lives</title>
 		<link rel="alternate" type="text/html" href="https://www.stephen-mcpartland.com/47-news/1879-thank-you-for-saving-so-many-lives"/>
@@ -51,6 +27,23 @@
 		<category term="Featured"/>
 		<category term="Local News"/>
 	</entry>
+  <entry>
+		<author>
+			<name>Yasmin Qureshi</name>
+					</author>
+
+		<title type="html"><![CDATA[Gurkha Pensions]]></title>
+		<link rel="alternate" type="text/html" href="https://www.yasminqureshi.org.uk/news/2021/08/27/gurkha-pensions/"/>
+
+		<id>https://www.yasminqureshi.org.uk/?p=1524</id>
+		<updated>2021-08-27T22:26:08Z</updated>
+		<published>2021-08-27T22:26:08Z</published>
+		<category scheme="https://www.yasminqureshi.org.uk" term="News"/><category scheme="https://www.yasminqureshi.org.uk" term="armed forces"/><category scheme="https://www.yasminqureshi.org.uk" term="Army"/><category scheme="https://www.yasminqureshi.org.uk" term="British Army"/><category scheme="https://www.yasminqureshi.org.uk" term="Defence"/><category scheme="https://www.yasminqureshi.org.uk" term="Gurkha"/><category scheme="https://www.yasminqureshi.org.uk" term="Pension"/><category scheme="https://www.yasminqureshi.org.uk" term="pensioners"/><category scheme="https://www.yasminqureshi.org.uk" term="Pensions"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="https://www.yasminqureshi.org.uk/news/2021/08/27/gurkha-pensions/"><![CDATA[]]></content>
+		
+			</entry>
   <entry>
     <title>Statement on situation in Afghanistan</title>
     <link rel="alternate" href="https://chionwurahmp.com/2021/08/statement-on-situation-in-afghanistan/" type="text/html"/>
@@ -104,6 +97,26 @@
     <updated>2021-08-27T15:44:11Z</updated>
     <category term="News"/>
   </entry>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>simonlefevre</name>
+					</author>
+
+		<title type="html"><![CDATA[Constituents Update &#8211; 27th August 2021]]></title>
+		<link rel="alternate" type="text/html" href="https://www.jackdromey.co.uk/news/2021/08/27/constituents-update-27th-august-2021/"/>
+
+		<id>https://www.jackdromey.co.uk/?p=313</id>
+		<updated>2021-08-27T15:33:28Z</updated>
+		<published>2021-08-27T15:33:28Z</published>
+		<category scheme="https://www.jackdromey.co.uk" term="News"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="https://www.jackdromey.co.uk/news/2021/08/27/constituents-update-27th-august-2021/"><![CDATA[]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.jackdromey.co.uk/news/2021/08/27/constituents-update-27th-august-2021/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.jackdromey.co.uk/news/2021/08/27/constituents-update-27th-august-2021/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
   <entry>
     <title>Gwynne and Councillors respond to Bredbury Park Expansion appeal</title>
     <link rel="alternate" href="https://andrewgwynne.co.uk/gwynne-and-councillors-respond-to-bredbury-park-expansion-appeal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gwynne-and-councillors-respond-to-bredbury-park-expansion-appeal" type="text/html"/>
@@ -229,32 +242,13 @@ Andrew Gwynne, MP for Denton and Reddish, has today released a statement alongsi
     <updated>2021-08-27T10:56:59Z</updated>
   </entry>
   <entry>
-		<author>
-			<name>Stockton North Labour Team</name>
-					</author>
-
-		<title type="html"><![CDATA[Alex responds to latest CQC report into Tees, Esk and Wear Valley NHS Foundation Trust]]></title>
-		<link rel="alternate" type="text/html" href="https://www.alexcunninghammp.com/2021/08/alex-responds-to-latest-cqc-report-into-tees-esk-and-wear-valley-nhs-foundation-trust/"/>
-
-		<id>https://www.alexcunninghammp.com/?p=14190</id>
-		<updated>2021-08-27T08:42:13Z</updated>
-		<published>2021-08-27T08:42:12Z</published>
-		<category scheme="https://www.alexcunninghammp.com" term="News"/>
-		<summary type="html"><![CDATA[<p>Responding to the latest CQC report into the Tees, Esk and Wear Valley NHS Foundation Trust’s psychiatric intensive care units – including its hospital at Rosebery Park, Stockton North MP Alex Cunningham said: “Patients, family members and staff all deserve to know that the facilities provided by the Trust are fit for purpose and working [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.alexcunninghammp.com/2021/08/alex-responds-to-latest-cqc-report-into-tees-esk-and-wear-valley-nhs-foundation-trust/">Alex responds to latest CQC report into Tees, Esk and Wear Valley NHS Foundation Trust</a> appeared first on <a rel="nofollow" href="https://www.alexcunninghammp.com">Alex Cunningham MP</a>.</p>
-]]></summary>
-
-		
-			</entry>
-  <entry>
     <title>Council calls for increase in number of Afghan refugees to be welcomed to UK</title>
     <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13286/council-calls-for-increase-in-number-of-afghan-refugees-to-be-welcomed-to-uk" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Edinburgh's Council Leader is to write to the UK Government calling for the number of Afghan refugees to be welcomed to the UK to be increased from the 20,000 already committed over five years.</div>
     </content>
     <id>https://www.edinburgh.gov.uk/news/article/13286/council-calls-for-increase-in-number-of-afghan-refugees-to-be-welcomed-to-uk</id>
-    <published>2021-08-26T14:29:00+01:00</published>
-    <updated>2021-08-26T14:29:00+01:00</updated>
+    <published>2021-08-26T14:29:00+01:00Z</published>
   </entry>
   <entry>
     <title>MP: Councillors need to know full impact of Giant Warehouse on preferred new Hospital site</title>
@@ -263,8 +257,15 @@ Andrew Gwynne, MP for Denton and Reddish, has today released a statement alongsi
       <div xmlns="http://www.w3.org/1999/xhtml">Local MP Maria Miller has welcomed Basingstoke Council’s decision to rethink their approval to build a giant warehouse at Junction 7 of the M3 but has written to the Chief Executive to ask that Councillors are fully briefed on the full impact of the development on the preferred site for a new…</div>
     </content>
     <id>https://www.maria4basingstoke.co.uk/news/mp-councillors-need-know-full-impact-giant-warehouse-preferred-new-hospital-site</id>
-    <published>2021-08-26T13:00:00+01:00</published>
-    <updated>2021-08-26T13:00:00+01:00</updated>
+    <published>2021-08-26T13:00:00+01:00Z</published>
+  </entry>
+  <entry>
+    <title>Joy Morrissey MP thanks Armed Forces personnel in Afghanistan</title>
+    <link rel="alternate" href="https://www.joymorrissey.uk/news/joy-morrissey-mp-thanks-armed-forces-personnel-afghanistan" type="text/html"/>
+    <content type="text">Thank you to our brave Armed Forces personnel doing vital work in challenging conditions to help British nationals and vulnerable Afghan women &amp; children get to safety. Thank you @britisharmy @royalairforceregiment @royalnavy @ministryofdefence @foreignanddevelopmentoffice @ukhomeoffice
+</content>
+    <id>https://www.joymorrissey.uk/news/joy-morrissey-mp-thanks-armed-forces-personnel-afghanistan</id>
+    <published>2021-08-26T13:00:00+01:00Z</published>
   </entry>
   <entry>
     <title>MP speaks directly to Defence Secretary on Linda Norgrove Foundation workers in Afghanistan</title>
@@ -332,8 +333,7 @@ The changes would have seen only 4 services per day in each direction at Reston,
 However,…</div>
     </content>
     <id>https://www.johnlamont.org/news/lner-delay-timetable-change-after-reston-backlash</id>
-    <published>2021-08-25T13:00:00+01:00</published>
-    <updated>2021-08-25T13:00:00+01:00</updated>
+    <published>2021-08-25T13:00:00+01:00Z</published>
   </entry>
   <entry>
     <title>Statement on the Fourth Anniversary of the Rohingya refugee crisis </title>
@@ -347,8 +347,7 @@ However,…</div>
       <name>Rushanara Ali</name>
     </author>
     <id>http://www.rushanaraali.org/statement_on_the_fourth_anniversary_of</id>
-    <published>2021-08-25T10:38:00+01:00</published>
-    <updated>2021-08-25T10:38:00+01:00</updated>
+    <published>2021-08-25T10:38:00+01:00Z</published>
   </entry>
   <entry>
     <title>Gurhka hunger strike</title>
@@ -503,24 +502,6 @@ However,…</div>
     <updated>2021-08-24T14:22:34Z</updated>
   </entry>
   <entry>
-  <title>MP encourages residents to have their say on hospital merger plans</title>
-  <link rel="alternate" href="http://timfarron.co.uk/en/article/2021/1411334/mp-encourages-residents-to-have-their-say-on-hospital-merger-plans"/>
-  <updated>2021-08-24T09:33:00Z</updated>
-  <id>http://timfarron.co.uk/en/article/2021/1411334/mp-encourages-residents-to-have-their-say-on-hospital-merger-plans</id>
-  <summary type="text">Local MP Tim Farron is urging people in the South Lakes to have their say on the future of hospitals in South Cumbria and Lancashire.
-One of the ideas put forward would be to close the Royal Lancaster Infirmary and the Royal Preston Hospital and replace them with a single hospital.
-A petition set up by Tim opposing plans to merge the two hospitals has gathered more than 4,000 signatures.</summary>
-  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img class="content-edited" alt="Tim outside the Royal Lancaster Infirmary" title="Tim outside the Royal Lancaster Infirmary" src="/en/image/6m11rH/360/240/tim-outside-the-royal-lancaster-infirmary.png" style="width: 360px; height: 240px; float: right;"/>Local MP Tim Farron is urging people in the South Lakes to have their say on the future of hospitals in South Cumbria and Lancashire.</p>
-<p>One of the ideas put forward would be to close the Royal Lancaster Infirmary and the Royal Preston Hospital and replace them with a single hospital.</p>
-<p>A petition set up by Tim opposing plans to merge the two hospitals has gathered more than 4,000 signatures.</p>
-<p>Residents can take part and share their views anonymously by heading to <a href="https://www.smartsurvey.co.uk/s/LSCNewHospitalsProgramme/">https://www.smartsurvey.co.uk/s/LSCNewHospitalsProgramme/</a></p>
-<p>Tim said: <em>"This is a crucial moment for the future of health services in the South Lakes.</em></p>
-<p><em>"It's so important we get across the message that improvements and investment to our local hospitals are badly needed but that moving services south of Lancaster is not the answer.</em></p>
-<p><em>"Make your voice heard and help us fight to make sure that people aren't forced to travel even further for emergency care."</em></p>
-<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
-  <category term="Article"/>
-</entry>
-  <entry>
     <title>Conor backs Labour’s plan for apprenticeships after Tory cuts</title>
     <link rel="alternate" href="https://www.conormcginn.co.uk/2021/08/23/conor-backs-labours-plan-to-create-100000-apprenticeships-after-tory-cuts/" type="text/html"/>
     <author>
@@ -539,8 +520,7 @@ A petition set up by Tim opposing plans to merge the two hospitals has gathered 
       <div xmlns="http://www.w3.org/1999/xhtml">The global reaction to the ghastly scenes unfolding in Afghanistan has understandably dominated the news agenda for the last fortnight, shifting focus away from how this country is faring after the majority of lockdown restrictions were lifted on 19th July. I would like to refocus on these matters…</div>
     </content>
     <id>https://www.bobstewart.org.uk/news/covid-passports</id>
-    <published>2021-08-23T13:00:00+01:00</published>
-    <updated>2021-08-23T13:00:00+01:00</updated>
+    <published>2021-08-23T13:00:00+01:00Z</published>
   </entry>
   <entry>
     <title>Anne Marie's Weekly Column </title>
@@ -550,8 +530,7 @@ A petition set up by Tim opposing plans to merge the two hospitals has gathered 
 In just over a year of negotiations, the Government completed our withdrawal from the EU and agreed a Trade and Cooperation Agreement – the broadest and most far-reaching bilateral trade agreement ever. Unfortunately, one vital area of this partnership is not working well – the arrangements…</div>
     </content>
     <id>https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-130</id>
-    <published>2021-08-23T13:00:00+01:00</published>
-    <updated>2021-08-23T13:00:00+01:00</updated>
+    <published>2021-08-23T13:00:00+01:00Z</published>
   </entry>
   <entry>
     <title>Lee Anderson MP's Weekly Column</title>
@@ -560,8 +539,7 @@ In just over a year of negotiations, the Government completed our withdrawal fro
       <div xmlns="http://www.w3.org/1999/xhtml">We live in a Social Media age where a minority of people are very quick to criticise anyone or anything they have a grievance with, but we must not submerge ourselves too much into this world as the real world can often paint a much different picture. Take the Cancer Research shop in Sutton for…</div>
     </content>
     <id>https://www.leeanderson.org.uk/news/lee-anderson-mps-weekly-column-4</id>
-    <published>2021-08-22T13:00:00+01:00</published>
-    <updated>2021-08-22T13:00:00+01:00</updated>
+    <published>2021-08-22T13:00:00+01:00Z</published>
   </entry>
   <entry>
     <title>Anne-Marie's thoughts on Afghanistan</title>
@@ -570,9 +548,74 @@ In just over a year of negotiations, the Government completed our withdrawal fro
       <div xmlns="http://www.w3.org/1999/xhtml">It is hard to put into words how gut-wrenching it is to see the unfolding situation in Afghanistan.  I am acutely aware of the sacrifices made by UK service personnel and their families, many of whom are my friends, colleagues and constituents. As a former Defence Minister, I am also very well…</div>
     </content>
     <id>https://www.teamtrevelyan.co.uk/news/anne-maries-thoughts-afghanistan</id>
-    <published>2021-08-20T13:00:00+01:00</published>
-    <updated>2021-08-20T13:00:00+01:00</updated>
+    <published>2021-08-20T13:00:00+01:00Z</published>
   </entry>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>AG</name>
+					</author>
+
+		<title type="html"><![CDATA[We must step up to plate in time of crisis]]></title>
+		<link rel="alternate" type="text/html" href="https://stevemccabe.org/2021/08/20/we-must-step-up-to-plate-in-time-of-crisis/"/>
+
+		<id>https://stevemccabe.org/?p=5102</id>
+		<updated>2021-08-20T11:26:48Z</updated>
+		<published>2021-08-20T11:20:41Z</published>
+		<category scheme="https://stevemccabe.org" term="Uncategorised"/><category scheme="https://stevemccabe.org" term="Afghanistan"/><category scheme="https://stevemccabe.org" term="foreign affairs"/><category scheme="https://stevemccabe.org" term="International Affairs"/>
+		<summary type="html"><![CDATA[I&#8217;m back in Parliament today, following events in Afghanistan. For 20 years we&#8217;ve been battling extremists obsessed with perverting Islamic ideals. Whether it&#8217;s Daesh who emerged from the remnants of Al Qaeda or the Taliban, their striking feature, apart from their barbarity, is their attitude towards women who can&#8217;t hold jobs but can be sold<a class="more-link" href="https://stevemccabe.org/2021/08/20/we-must-step-up-to-plate-in-time-of-crisis/">Continue reading <span class="screen-reader-text">We must step up to plate in time of crisis</span> <span class="meta-nav" aria-hidden="true">&#8594;</span></a>]]></summary>
+
+					<content type="html" xml:base="https://stevemccabe.org/2021/08/20/we-must-step-up-to-plate-in-time-of-crisis/"><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="5104" data-permalink="https://stevemccabe.org/2021/08/20/we-must-step-up-to-plate-in-time-of-crisis/steve-mccabe-mp-column-image-1/" data-orig-file="https://i1.wp.com/stevemccabe.org/wp-content/uploads/2021/08/Steve-McCabe-MP-Column-Image-1.jpeg?fit=1126%2C232&amp;ssl=1" data-orig-size="1126,232" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Steve-McCabe-MP-Column-Image-1" data-image-description="" data-image-caption="" data-medium-file="https://i1.wp.com/stevemccabe.org/wp-content/uploads/2021/08/Steve-McCabe-MP-Column-Image-1.jpeg?fit=300%2C62&amp;ssl=1" data-large-file="https://i1.wp.com/stevemccabe.org/wp-content/uploads/2021/08/Steve-McCabe-MP-Column-Image-1.jpeg?fit=870%2C179&amp;ssl=1" loading="lazy" width="870" height="179" src="https://i1.wp.com/stevemccabe.org/wp-content/uploads/2021/08/Steve-McCabe-MP-Column-Image-1.jpeg?resize=870%2C179&#038;ssl=1" alt="" class="wp-image-5104" srcset="https://i1.wp.com/stevemccabe.org/wp-content/uploads/2021/08/Steve-McCabe-MP-Column-Image-1.jpeg?resize=1024%2C211&amp;ssl=1 1024w, https://i1.wp.com/stevemccabe.org/wp-content/uploads/2021/08/Steve-McCabe-MP-Column-Image-1.jpeg?resize=300%2C62&amp;ssl=1 300w, https://i1.wp.com/stevemccabe.org/wp-content/uploads/2021/08/Steve-McCabe-MP-Column-Image-1.jpeg?resize=768%2C158&amp;ssl=1 768w, https://i1.wp.com/stevemccabe.org/wp-content/uploads/2021/08/Steve-McCabe-MP-Column-Image-1.jpeg?w=1126&amp;ssl=1 1126w" sizes="(max-width: 870px) 100vw, 870px" data-recalc-dims="1" /></figure></div>
+
+
+
+<p>I&#8217;m back in Parliament today, following events in Afghanistan.</p>
+
+
+
+<p>For 20 years we&#8217;ve been battling extremists obsessed with perverting Islamic ideals. Whether it&#8217;s Daesh who emerged from the remnants of Al Qaeda or the Taliban, their striking feature, apart from their barbarity, is their attitude towards women who can&#8217;t hold jobs but can be sold and taken as slaves.</p>
+
+
+
+<p>This isn&#8217;t about religion or cultural differences, it&#8217;s about human rights. We paid a high price fighting for this in Afghanistan.</p>
+
+
+
+<p>I&#8217;ll never forget my visits to the Centre for Defence Medicine, at Selly Oak Hospital, where so many of our troops were treated. We lost around 460 personnel with a further 2,000 injured. Their bravery brought hope to many.</p>
+
+
+
+<p>It&#8217;s not been at all easy but until last week, Afghanistan was a place where girls went to school and women could work in the civil service, the judiciary and the media.</p>
+
+
+
+<p>It started going wrong when Donald Trump tried to save his re-election campaign by claiming he could end the war. Not surprisingly, the Taliban outmanoeuvred the great deal maker and played him for the fool he was.</p>
+
+
+
+<p>Once Trump set the wheels in motion, the outcome was probably inevitable although astonishing that only weeks ago, our PM still thought there was little threat. There are those who say it wasn&#8217;t our fight as many also decried going to war with Hitler. Sometimes we need to take a stand against evil.</p>
+
+
+
+<p>The fate of the Afghanistan people is once again in the hands of the Taliban. We can redeem ourselves, a little, by now doing right by those who helped our troops and the obviously genuine refugees trying to flee this awful regime.</p>
+
+
+
+<p>Our PM is believed to liken himself to Winston Churchill, right now he looks more like Neville Chamberlain. If he&#8217;s to salvage anything from this debacle, he needs to honour our obligations to those people to whom we owe a huge debt.</p>
+
+
+
+<p>There can be no backsliding from him or his Home Secretary and he needs to learn this simple truth.</p>
+
+
+
+<p>You can&#8217;t negotiate deals with extremists!</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://stevemccabe.org/2021/08/20/we-must-step-up-to-plate-in-time-of-crisis/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://stevemccabe.org/2021/08/20/we-must-step-up-to-plate-in-time-of-crisis/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
   <entry>
     <title>Humanitarian aid will be vital to save and protect lives in Afghanistan</title>
     <link rel="alternate" href="https://preetkaurgill.com/content/humanitarian-aid-will-be-vital-save-and-protect-lives-afghanistan" type="text/html"/>
@@ -721,8 +764,19 @@ In just over a year of negotiations, the Government completed our withdrawal fro
 You can find more information on their website through the links below, but it is designed to help low income households by putting a cap on the amount you have to pay for your…</div>
     </content>
     <id>https://www.robin-millar.org.uk/news/welsh-waterdwr-cymru-helpu-tariff</id>
-    <published>2021-08-19T13:00:00+01:00</published>
-    <updated>2021-08-19T13:00:00+01:00</updated>
+    <published>2021-08-19T13:00:00+01:00Z</published>
+  </entry>
+  <entry>
+    <title>Blackpool MP Scott Benton visits South Shore Fire Station</title>
+    <link rel="alternate" href="https://www.scottbenton.org.uk/news/blackpool-mp-scott-benton-visits-south-shore-fire-station" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Blackpool South MP Scott Benton visited South Shore Fire Station to tour the facilities and speak to staff.
+During his visit, he inspected equipment and was invited to try on a ‘Hazmat’ Chemical Protection Suit.
+Blackpool South MP Scott Benton said:
+“I was very pleased to visit to South Shore Fire…</div>
+    </content>
+    <id>https://www.scottbenton.org.uk/news/blackpool-mp-scott-benton-visits-south-shore-fire-station</id>
+    <published>2021-08-19T13:00:00+01:00Z</published>
   </entry>
   <entry>
     <title>Statement on Afghanistan</title>
@@ -824,6 +878,15 @@ The post <a href="http://karinsmyth.com/2021/08/18/afghanistan-statement/">Afgha
     <category term="News"/>
   </entry>
   <entry>
+    <title>Taliban take over Afghanistan; Parliament recalled.</title>
+    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/taliban-take-over-afghanistan-parliament-recalled" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This week I made an unexpected return to Parliament, which was recalled due to the tragic situation in Afghanistan. Whilst many MPs use the parliamentary recess to take holidays with their families, me included, we do spend most of the summer using it as an opportunity to catch up on work in the…</div>
+    </content>
+    <id>https://www.brendanclarkesmith.com/news/taliban-take-over-afghanistan-parliament-recalled</id>
+    <published>2021-08-18T13:00:00+01:00Z</published>
+  </entry>
+  <entry>
     <title>Dan Jarvis - Speech in the Debate on Afghanistan, 18 August 2021</title>
     <link rel="alternate" href="http://www.danjarvis.org/afghanistan_speech" type="text/html"/>
     <content type="xhtml">
@@ -836,45 +899,7 @@ The post <a href="http://karinsmyth.com/2021/08/18/afghanistan-statement/">Afgha
       <name>Admin</name>
     </author>
     <id>http://www.danjarvis.org/afghanistan_speech</id>
-    <published>2021-08-18T12:56:10+01:00</published>
-    <updated>2021-08-18T12:56:10+01:00</updated>
-  </entry>
-  <entry>
-    <title>Emma Meets with Tyne Tunnel 2 Executives</title>
-    <link rel="alternate" href="https://www.emma-lewell-buck.net/emma-meets-with-tyne-tunnel-2-executives/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;Last week, I met with the Chief Exec and Operations Manager of Tyne Tunnel 2 to raise concerns following a spike in complaints about the tunnel operators since the introduction of the controversial “pay later” scheme. &lt;/p&gt;
-
-
-
-&lt;p&gt;I have to agree with many of the complaints, I believe that the payment instructions could be clearer. The ticket states a date and a time however, if you wait until the date shown, it’ll be too late and you’ll incur a £30 fine, I can see how many people are easily misunderstanding what the ticket says.&lt;/p&gt;
-
-
-
-&lt;p&gt;During the meeting, I asked the Chief Executive, Phill Smith if he could look at other options and suggested changes should be made to the wording on the tickets to make it clearer.&lt;/p&gt;
-
-
-
-&lt;p&gt;Furthermore, I learnt about plans for the tunnel to remove the barriers completely in a new system called&amp;nbsp;Open Road Tolling.&amp;nbsp; This would mean that there would be no barriers and payments will need to be made either using an online account or the pay later option. Tyne Tunnel 2 say this would increase tunnel capacity, reduce carbon emissions and mean more a more reliable and quicker journey through the tunnel.&lt;/p&gt;
-
-
-
-&lt;p&gt;However, I again expressed concern that more drivers may receive fines, as the onus would be&amp;nbsp;on drivers to remember to pay the toll as under the new system, they would not receive a ticket which in many cases acts as a reminder. I also asked what facilities have TT2 put in place to support those drivers who do not have access to the internet, in order to pay their toll charge. It was explained that drivers who do not have smart phones or access to the internet could pay their toll at shops who have a PayPoint facility.&lt;/p&gt;
-
-
-
-&lt;p&gt;I feel many constituents’ pain and frustration. Many people have told me that the current system of pay later is confusing and lacks clarity, I agree and will continue to seek a resolution to this matter.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Last week, I met with the Chief Exec and Operations Manager of Tyne Tunnel 2 to raise concerns following a spike in complaints about the tunnel operators since the introduction of the controversial “pay later” scheme. I have to agree with many of the complaints, I believe that the payment instructions could be clearer. The […]</div>
-    </summary>
-    <author>
-      <name>Joan Whelan</name>
-    </author>
-    <id>https://www.emma-lewell-buck.net/?p=3128</id>
-    <published>2021-08-18T09:08:18Z</published>
-    <updated>2021-08-18T09:08:18Z</updated>
-    <category term="Latest News"/>
+    <published>2021-08-18T12:56:10+01:00Z</published>
   </entry>
   <entry>
     <title>Vice President Howard Marriner </title>
@@ -885,8 +910,7 @@ He was both a great Conservative and civic leader.
 Howard was elected as a Crayford councillor in 2006 and then Barnehurst in 2010 and 2014, he always put his residents first…</div>
     </content>
     <id>https://www.bexleyheathandcrayford.com/news/vice-president-howard-marriner</id>
-    <published>2021-08-13T13:00:00+01:00</published>
-    <updated>2021-08-13T13:00:00+01:00</updated>
+    <published>2021-08-13T13:00:00+01:00Z</published>
   </entry>
   <entry>
     <title>BT Openreach upgrading our broadband</title>
@@ -950,20 +974,6 @@ Howard was elected as a Crayford councillor in 2006 and then Barnehurst in 2010 
     <category term="Uncategorized"/>
   </entry>
   <entry>
-    <title>Argyll &amp; Bute MP demands equality for 6,700 ‘WASPI’ women across constituency</title>
-    <link rel="alternate" href="https://brendanoharamp.scot/2021/08/06/argyll-bute-mp-demands-equality-for-6700-waspi-women-across-constituency/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Brendan O’Hara MP calls for DWP to take immediate action in response to damning PHSO report The UK Department of Work and Pensions (DWP) must act with “utmost urgency” to rectify mistakes resulting in 6,700 women across Argyll &amp; Bute – and 3.8 million women across the UK – being kept in the dark over […]</div>
-    </content>
-    <author>
-      <name>Editor</name>
-    </author>
-    <id>https://brendanoharamp.scot/?p=9479</id>
-    <published>2021-08-06T13:27:44Z</published>
-    <updated>2021-08-06T13:27:44Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>Christina Rees MP backs the Labour Party safer communities campaign following pledges to crack down on anti-social behaviour</title>
     <link rel="alternate" href="https://www.christinarees.org/christina-rees-mp-backs-the-labour-party-safer-communities-campaign-following-pledges-to-crack-down-on-anti-social-behaviour/" type="text/html"/>
     <content type="xhtml">
@@ -1010,7 +1020,7 @@ Ministers need to be straight with the public and ...</p>
 <p class="dcr-s23rjr">Ministers need to be straight with the public and provide clarity about progress on a globally recognised international vaccine passport – working with the EU and US to get travel moving again.</p>
 <p>Read more in <a href="https://www.theguardian.com/society/2021/aug/04/status-of-some-uk-citizens-vaccinated-overseas-still-not-recognised-by-nhs">the Guardian</a>.</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-8976" data-post-type="none" ><a href="https://lizkendall.org/liz-supports-menphys-charity-pop-up-shop/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/04/memph-150x150.jpg" alt="Liz supports Menphys charity pop up shop" width="150" height="150" /></a><a href="https://lizkendall.org/liz-supports-menphys-charity-pop-up-shop/" class="wp_rp_title">Liz supports Menphys charity pop up shop</a></li><li data-position="1" data-poid="in-4852" data-post-type="none" ><a href="https://lizkendall.org/camerons-3-con-trick-on-elderly-care/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/19.jpg" alt="Cameron&#8217;s 3 con trick on elderly care" width="150" height="150" /></a><a href="https://lizkendall.org/camerons-3-con-trick-on-elderly-care/" class="wp_rp_title">Cameron&#8217;s 3 con trick on elderly care</a></li><li data-position="2" data-poid="in-6337" data-post-type="none" ><a href="https://lizkendall.org/miliband-vow-on-clock-watch-care-belfast-telegraph-15-may/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/19.jpg" alt="Miliband vow on &#8216;clock-watch care&#8217; (Belfast Telegraph, 15 May)" width="150" height="150" /></a><a href="https://lizkendall.org/miliband-vow-on-clock-watch-care-belfast-telegraph-15-may/" class="wp_rp_title">Miliband vow on &#8216;clock-watch care&#8217; (Belfast Telegraph, 15 May)</a></li><li data-position="3" data-poid="in-3360" data-post-type="none" ><a href="https://lizkendall.org/mps-seek-job-cuts-rethink/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/12.jpg" alt="MP seeks job cuts rethink" width="150" height="150" /></a><a href="https://lizkendall.org/mps-seek-job-cuts-rethink/" class="wp_rp_title">MP seeks job cuts rethink</a></li><li data-position="4" data-poid="in-9215" data-post-type="none" ><a href="https://lizkendall.org/liz-supports-bill-to-improve-quality-of-rented-homes/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/10/homes-fitness-human-habitation-bill-150x150.jpg" alt="Liz supports Bill to improve quality of rented homes" width="150" height="150" /></a><a href="https://lizkendall.org/liz-supports-bill-to-improve-quality-of-rented-homes/" class="wp_rp_title">Liz supports Bill to improve quality of rented homes</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-8627" data-post-type="none" ><a href="https://lizkendall.org/liz-talks-smells-with-residents/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2017/07/IMG_0376-150x150.jpg" alt="Liz talks smells with residents" width="150" height="150" /></a><a href="https://lizkendall.org/liz-talks-smells-with-residents/" class="wp_rp_title">Liz talks smells with residents</a></li><li data-position="1" data-poid="in-6968" data-post-type="none" ><a href="https://lizkendall.org/question-time-debate-from-watford-colosseum-watford-observer-10-january/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/26.jpg" alt="Question Time debate from Watford Colosseum (Watford Observer, 10 January)" width="150" height="150" /></a><a href="https://lizkendall.org/question-time-debate-from-watford-colosseum-watford-observer-10-january/" class="wp_rp_title">Question Time debate from Watford Colosseum (Watford Observer, 10 January)</a></li><li data-position="2" data-poid="in-5734" data-post-type="none" ><a href="https://lizkendall.org/city-fans-secure-stadium-as-an-asset-of-community-value/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/11/Untitled-e1387466056795-150x150.png" alt="City Fans secure stadium as an “asset of community value”" width="150" height="150" /></a><a href="https://lizkendall.org/city-fans-secure-stadium-as-an-asset-of-community-value/" class="wp_rp_title">City Fans secure stadium as an “asset of community value”</a></li><li data-position="3" data-poid="in-10865" data-post-type="none" ><a href="https://lizkendall.org/liz-responds-to-news-that-all-care-homes-in-england-have-been-offered-the-coronavirus-vaccine/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" alt="Liz responds to news that all care homes in England have been offered the coronavirus vaccine" width="150" height="150" /></a><a href="https://lizkendall.org/liz-responds-to-news-that-all-care-homes-in-england-have-been-offered-the-coronavirus-vaccine/" class="wp_rp_title">Liz responds to news that all care homes in England have been offered the coronavirus vaccine</a></li><li data-position="4" data-poid="in-11067" data-post-type="none" ><a href="https://lizkendall.org/liz-visits-beaumont-leys-shopping-centre/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2021/05/E0Ow82qXMAEoEC5-150x150.jpg" alt="Liz visits Beaumont Leys Shopping Centre" width="150" height="150" /></a><a href="https://lizkendall.org/liz-visits-beaumont-leys-shopping-centre/" class="wp_rp_title">Liz visits Beaumont Leys Shopping Centre</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/status-of-some-uk-citizens-vaccinated-overseas-still-not-recognised-by-nhs/">Status of some UK citizens vaccinated overseas still not recognised by NHS</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -1081,298 +1091,6 @@ Ministers need to be straight with the public and ...</p>
     <category term="#Wycombe"/>
   </entry>
   <entry>
-		<author>
-			<name>Nigel Mills MP</name>
-					</author>
-
-		<title type="html"><![CDATA[Nigel&#8217;s July Newsletter]]></title>
-		<link rel="alternate" type="text/html" href="http://www.nigelmillsmp.com/2021/07/23/nigels-july-newsletter-3/"/>
-
-		<id>https://www.nigelmillsmp.com/?p=3065</id>
-		<updated>2021-07-23T15:04:27Z</updated>
-		<published>2021-07-23T15:04:25Z</published>
-		<category scheme="http://www.nigelmillsmp.com" term="Uncategorised"/>
-		<summary type="html"><![CDATA[
-<p>  Subscribe to Nigel&#8217;s email newsletter here. </p>
-
-
-
-
-
-
-
-<p>Dear Constituent,</p>
-
-
-
-<p>Welcome to my July&#160;email newsletter. I hope you and your families are staying safe and well during this challenging time, as we start to try to return to normality from the pandemic and enjoy the Summer, whilst still trying to be cautious and sensible with precautions where possible&#160;in the face of rising cases.&#160;</p>
-
-
-
-<p>It is only right that at this critical juncture in our journey out of lockdown, we take a moment to [...]]]></summary>
-
-					<content type="html" xml:base="http://www.nigelmillsmp.com/2021/07/23/nigels-july-newsletter-3/"><![CDATA[
-<p>  Subscribe to Nigel&#8217;s email newsletter <a href="https://www.nigelmillsmp.com/newsletter/">here</a>. </p>
-
-
-
-<figure class="wp-block-image"><img src="https://s3-eu-west-1.amazonaws.com/cloudycdn/uploads/1507626306.png" alt=""/></figure>
-
-
-
-<p><em>Dear Constituent,</em></p>
-
-
-
-<p>Welcome to my July&nbsp;email newsletter. I hope you and your families are staying safe and well during this challenging time, as we start to try to return to normality from the pandemic and enjoy the Summer, whilst still trying to be cautious and sensible with precautions where possible&nbsp;in the face of rising cases.&nbsp;</p>
-
-
-
-<p>It is only right that at this critical juncture in our journey out of lockdown, we take a moment to reflect on the extraordinary sacrifices of the wonderful people who make up our NHS, our key workers, and all those involved in the vaccine rollout.&nbsp;</p>
-
-
-
-<p>Below you&#8217;ll find updates on the latest cases and vaccination restrictions, a link to my new online survey and details of what&#8217;s been happening in Parliament and around Amber Valley.&nbsp;</p>
-
-
-
-<p><strong><u>Online Summer Survey – let me know your views:</u></strong></p>
-
-
-
-<p>As we head towards Summer Recess in Parliament, I’m about to start delivering my annual report across Amber Valley – please say hello if you see me out and about.</p>
-
-
-
-<p>In the report and online, I’m launching a survey to get your views on local issues and recovering from Covid-19, from health appointments to boosting our economy.</p>
-
-
-
-<p>Please take just a couple of minutes to complete my Summer Survey and let me know your views <a href="https://www.nigelmillsmp.com/nigels-summer-survey/">here</a>.</p>
-
-
-
-<p><strong><u>Easing Lockdown Restrictions</u></strong></p>
-
-
-
-<p>On Monday 19<sup>th </sup>July 2021, the Government lifted all remaining restrictions on social distancing in England. This represents a further step towards normality as we adjust to living with this virus. Although coronavirus cases are continuing to rise nationally, we have not seen the corresponding rise in hospitalisations and deaths that we would expect given the rates of illness we observed last year. It is, therefore, becoming increasingly clear that the link between infections and serious illness is sufficiently broken to enable this further relaxation of restrictions. However, we must remain careful and exercise our own good judgement to keep transmission in our local community to a minimum.</p>
-
-
-
-<p><strong><u>Local Case Rates</u></strong></p>
-
-
-
-<p>The Delta (B.1.617.2) variant continues to spread across the country and Public Health England (PHE) is now confident that it has overtaken the Alpha variant to become the most dominant strain of the virus circulating in the UK. The Delta variant is believed to be around 60% more transmissible than the Alpha variant, which itself is more transmissible than the original strain of coronavirus. Encouragingly however, new analysis by PHE shows that 2 doses of COVID-19 vaccines are highly effective against hospitalisation from the Delta variant.</p>
-
-
-
-<p>As predicted in light of this, cases continue to rise nationally, and this trend is no different locally in Amber Valley. You can find the latest case data <a href="https://coronavirus.data.gov.uk/easy_read?postcode=DE7%206DG">here</a>. We are now ahead of the England average which highlights the need for us to remain careful.&nbsp;</p>
-
-
-
-<p><strong><u>Local Vaccines</u></strong></p>
-
-
-
-<p>The Country’s vaccine program continues apace with more than 46.2 million people in the UK having received at least one dose of a coronavirus vaccine &#8211; part of the biggest inoculation programme the country has ever launched.</p>
-
-
-
-<p>I was pleased to see the rollout expanded after the Government hit its target of offering a first jab to everyone in the top priority groups &#8211; all those over the age of 50, plus those in high-risk categories by mid-April. With every adult in the UK now having been offered their first dose of the vaccine. A terrific effort, nationally and locally.</p>
-
-
-
-<p>As of last Saturday 17<sup>th</sup> July, Amber Valley had successfully given at least one dose of the vaccine to 88% of local adults, with 72.8% having received both jabs. This remains slightly above the average for England which stands at 87.7% of adults having received one jab, and 68% both jabs. These figures are a testament to the exemplary vaccine program here in our constituency.</p>
-
-
-
-<p>I will continue to engage with ministers, the public health team, and the local NHS to ensure that this area continues to see the full roll out of vaccines.</p>
-
-
-
-<p><strong><u>Easing of restrictions</u></strong></p>
-
-
-
-<p>As of Monday 19<sup>th</sup> July, all legal restrictions on social distancing in England have been lifted. This is truly excellent news, and I’m very much looking forward to seeing Amber Valley businesses, organisations, and individuals operating at full capacity without legal restrictions.</p>
-
-
-
-<p>The following measures are now in place across England:</p>
-
-
-
-<p>&#8211; No limits on how many people can meet.</p>
-
-
-
-<p>&#8211; 1m-plus rule removed (except in some places like hospitals).</p>
-
-
-
-<p>&#8211; Face coverings no longer required by law.</p>
-
-
-
-<p>&#8211; Nightclubs can open.</p>
-
-
-
-<p>&#8211; Pubs and restaurants no longer table service only.</p>
-
-
-
-<p>&#8211; No limits on guests at weddings and funerals.</p>
-
-
-
-<p>&#8211; No limits on people attending concerts, theatres or sports events.</p>
-
-
-
-<p>&#8211; No restrictions on communal worship.</p>
-
-
-
-<p>It is important to remember, however, that this easing of restrictions is designed to empower ourselves as individuals to use our common sense to slow the spread of the virus, which is still very present in our communities. Therefore, I implore you to enjoy these new freedoms responsibly.</p>
-
-
-
-<p>As ever, to find out more information on what restrictions apply in your area please look <a href="https://www.gov.uk/guidance/covid-19-coronavirus-restrictions-what-you-can-and-cannot-do">here</a>.&nbsp;</p>
-
-
-
-<p><strong><u>Supporting our local economy</u></strong></p>
-
-
-
-<p>As we try to re-open, it&#8217;s key to support our local economy to bounce back, and provide a boost to local jobs and businesses. Unemployment is Amber Valley is currently at 4.2%, which is below the national average of 5.6% and 150 lower than in May 2021. As the Job Retention Scheme (furlough) starts to wind down, we need to remain cautious, but there are lots of vacancies around and local employers advertising job opportunities, including the Kickstart Scheme to help young people get back into work. I&#8217;ll also look to organise a Job Fair, maybe initially virtually, over the next few months &#8211; please get in touch if you&#8217;d like to be involved in this.&nbsp;</p>
-
-
-
-<p><strong><u>Borders Bill</u></strong></p>
-
-
-
-<p>I’ve recently welcomed the Government’s New Plan for Immigration, also known as the Borders Bill, into parliament. This legislation intends to:</p>
-
-
-
-<ul><li>Speed up the removal of failed asylum seekers and dangerous foreign criminals.</li><li>Introduce maximum life sentences for people smugglers.</li><li>Empower the Border Force to do more to stop and seize small boats and search containers for hidden migrants.</li><li>Stop illegal arrivals gaining immediate entry into the asylum system if they have travelled through a safe county (like France).</li><li>Increase the maximum sentence for illegally entering the UK.</li><li>Grant resettled refugees indefinite leave to remain.</li><li>Better integrate refugees who are resettled.</li></ul>
-
-
-
-<p>I know constituents want more to be done to reduce illegal immigration. I will, therefore, continue to engage with ministers throughout this Bill’s journey through parliament to ensure the Government delivers on its manifesto commitments of reducing illegal immigration to UK.</p>
-
-
-
-<p><strong><u>In Parliament:</u></strong></p>
-
-
-
-<p>In Parliament this month, I&#8217;ve been asking questions on travel restrictions, catch-up education and English Votes for English Laws legislation.</p>
-
-
-
-<p>During recent questions to the Secretary of State for Transport, I raised the issue on behalf of constituents of families with children under 18 wanting to travel abroad, but who aren&#8217;t eligible for the vaccine as yet. I&#8217;m pleased the Secretary of State agreed to look into this issue, and you can find out more on his answer <a href="https://www.theyworkforyou.com/debates/?id=2021-07-19b.670.0&amp;s=speaker%3A24965#g680.4">here</a>.</p>
-
-
-
-<p>I&#8217;ve also asked the Secretary of State for Education about catch-up tutoring for school pupils following the pandemic, and you can find the full debate on this <a href="https://www.theyworkforyou.com/debates/?id=2021-07-06c.768.0&amp;s=speaker%3A24965#g776.0">here</a>.&nbsp;</p>
-
-
-
-<p>And, during Business Questions in the House, I asked about the continuation of English Votes for English Laws legislation, as part of a continued fair settlement of devolution across the UK. You can find more on this <a href="https://www.theyworkforyou.com/debates/?id=2021-06-24b.1011.0&amp;s=speaker%3A24965#g1023.2">here</a>&nbsp;and on my Twitter feed <a href="https://twitter.com/nigelmills">here</a>.&nbsp;</p>
-
-
-
-<p>You can also find more on my recent parliamentary appearances and questions <a href="https://www.theyworkforyou.com/search/?pid=24965&amp;pop=1#n4">here</a>.&nbsp;</p>
-
-
-
-<p><strong><u>Solar Farm</u></strong></p>
-
-
-
-<p>Locally, I’ve been working with local residents and councillors to help oppose plans to construct a 310-acre solar farm on a vast swathe of green space between Alfreton and Oakerthorpe. The solar farm has been proposed by Kronos Solar and is subject to several planning applications across Amber Valley Borough Council and North East Derbyshire District Council. I think this would destroy our local landscape due it&#8217;s scale and extent, so whilst I&#8217;m not against renewable energy or solar panels, I think these applications are inappropriate.&nbsp;</p>
-
-
-
-<p>The applications are still awaiting determination by the councils (likely to be in September) so there&#8217;s still time to comment or lodge any concerns you may have.&nbsp;</p>
-
-
-
-<p>You can find details of the residents&#8217; objection group, and information on the individual applications and how to comment if you haven&#8217;t already, <a href="https://www.facebook.com/savealfretoncountryside/">here</a>.&nbsp;</p>
-
-
-
-<p><strong><u>Amber Valley Borough Council Local Plan consultation &#8211; Have your say!</u></strong></p>
-
-
-
-<p>The new administration at the Borough Council has launched a new consultation on the next stage of preparing Amber Valley&#8217;s Local Plan, a development document which will set out and plan future housing growth in the area, and making sure we have the infrastructure improvements to match any new homes. I welcome the planned reduction in the overall number of new homes being proposed, which is part of the consultation. The Council are also consulting on the options for the overall strategy (spatial strategy) of the plan, which include focusing housing growth on the Derby City urban area border, in and around Amber Valley&#8217;s four key towns, or in the wider area and villages.&nbsp;&nbsp;</p>
-
-
-
-<p>The consultation on the proposals and headline strategy for the plan so far is open from now until the 30th September 2021. Please do take opportunity to feed in your views to the Council &#8211; I know how strongly residents rightly feel over housing in our area, and so this is the most important chance to have your say on making sure we protect our Green Belt and shaping&nbsp;the future of planning in our area. You can find the consultation and how to submit your views on the proposals <a href="https://www.ambervalley.gov.uk/planning/planning-policy/local-plan/alternative-spatial-strategy-options-for-housing-and-economic-growth/">here</a>.</p>
-
-
-
-<p><strong><u>Street Watch:</u></strong></p>
-
-
-
-<p>As always, if there are any street repairs in your area, such as potholes, pavement repairs or broken street lights, you can report these issues and concerns to me quickly and easily&nbsp;<a href="http://www.nigelmillsmp.com/street-watch/">here</a> so I can ask for the repairs to be investigated and addressed.</p>
-
-
-
-<p><strong>GDPR and privacy notice:</strong></p>
-
-
-
-<p>Data laws&nbsp;changed with the introduction of the new GDPR legislation: you can find my office’s privacy policy <a href="http://www.nigelmillsmp.com/privacy/">here</a> and, if you don’t want to receive these emails anymore, you can unsubscribe <a href="mailto:nigel@nigelmillsmp.com?subject=Unsubscribe&amp;body=Unsubscribe%20from%20newsletter.%20">here</a>.</p>
-
-
-
-<p><strong>Get in Touch!</strong></p>
-
-
-
-<p>As always, you can contact me by hitting the &#8216;reply&#8217; button on this email, or you can ring my office on 01773 744341.</p>
-
-
-
-<p><strong>Twitter and Facebook</strong></p>
-
-
-
-<p>You can also follow me on Twitter <a href="https://twitter.com/nigelmills">@NigelMills </a>and like&nbsp;me on Facebook&nbsp;<a href="https://www.facebook.com/nigelmillsofficial/">here</a> to stay up to date with news and events in Amber Valley throughout the month.</p>
-
-
-
-<p><em>Yours sincerely,</em></p>
-
-
-
-<figure class="wp-block-image"><img src="http://www.nigelmillsmp.com/wp-content/uploads/2015/07/Nigel-signature.jpg" alt=""/></figure>
-
-
-
-<p>Promoted by Nigel Mills MP, of Unicorn House, Wellington Street, Ripley, Derbyshire, DE5 3EH.</p>
-
-
-
-<p>You&#8217;re receiving this newsletter because you subscribed to my mailing list.</p>
-
-
-
-<p>Would you like to unsubscribe? Unsubscribe from this Newsletter <a href="mailto:nigel@nigelmillsmp.com?subject=Unsubscribe&amp;body=Unsubscribe%20from%20newsletter.%20">here</a>.</p>
-]]></content>
-		
-			</entry>
-  <entry>
     <title>“Universal Credit uplift should be permanent” says city councillor</title>
     <link rel="alternate" href="http://nottinghamlabour.org.uk/2021/07/22/universal-credit-uplift-should-be-permanent-says-city-councillor/" type="text/html"/>
     <content type="html">
@@ -1413,8 +1131,7 @@ poverty.”&lt;/p&gt;
 The decision was taken by the Kent Resilience Forum in anticipation of a big…</div>
     </content>
     <id>https://www.damiangreen.co.uk/news/our-man-westminster-operation-brock-0</id>
-    <published>2021-07-22T13:00:00+01:00</published>
-    <updated>2021-07-22T13:00:00+01:00</updated>
+    <published>2021-07-22T13:00:00+01:00Z</published>
   </entry>
   <entry>
     <title>Funding Opportunities for Voluntary Organisations &amp; Charities</title>
@@ -1601,145 +1318,6 @@ The decision was taken by the Kent Resilience Forum in anticipation of a big…<
     <category term="Press Release"/>
   </entry>
   <entry>
-    <title>5 Secrets of the Best Webinars</title>
-    <link rel="alternate" href="https://www.lucianaberger.com/5-secrets-of-the-best-webinars/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>There seems to be a webinar for everything — from cooking an apple pie and setting up your email list to creating a company and making your first million. This form of interaction with the target audience became popular for a good reason. It allows to achieve numerous goals:</p>
-
-
-
-<ul><li>Selling products</li><li>Attracting new audience</li><li>Improving engagement</li><li>Building and improving brand awareness</li><li>Creating an image of an expert for yourself or your company</li><li>Distributing content</li></ul>
-
-
-
-<p>And that’s we’ve just scratched the surface. Every person who creates a webinar has their own unique goals in mind. This wide array of benefits is what makes webinars such a great way to promote your brand.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1088" height="706" src="https://www.lucianaberger.com/wp-content/uploads/2021/07/1-1-1088x706.jpg" alt="" class="wp-image-164" srcset="https://www.lucianaberger.com/wp-content/uploads/2021/07/1-1-1088x706.jpg 1088w, https://www.lucianaberger.com/wp-content/uploads/2021/07/1-1-325x211.jpg 325w, https://www.lucianaberger.com/wp-content/uploads/2021/07/1-1-768x498.jpg 768w, https://www.lucianaberger.com/wp-content/uploads/2021/07/1-1-1536x996.jpg 1536w, https://www.lucianaberger.com/wp-content/uploads/2021/07/1-1.jpg 2048w" sizes="(max-width: 1088px) 100vw, 1088px"/></figure>
-
-
-
-<p>However, there is one issue with them — they’re popular. Ironic, we know. But this popularity makes it hard for new webinars to actually attract the audience because people are already bored of them. That’s why we need to create a truly outstanding webinar to make it stand out, gain the interest of the audience, and be a success everyone will be talking about for a while. Here is how to do it.</p>
-
-
-
-<h2>Start with the topic</h2>
-
-
-
-<p>While it seems like an obvious thing — to have a great topic for a webinar — many lecturers miss the whole point of creating one. What might seem like an amazing thing to talk about for you can be hard to understand or useless for your listeners. Topics that don’t get attention from the public are born because the lecturer didn’t think of their audience’s interests hard enough.</p>
-
-
-
-<p>So before picking a matter to talk about, determine your target audience. What are its interests, what does it want and need to know? Do your best to put yourself in the shoes of your future listeners and understand what they want to hear during the perfect webinar. This will help you to figure out the best topic your audience will find valuable.</p>
-
-
-
-<p>Also, make sure that the topic isn’t too complicated if it’s your first webinar. Start with basics and slowly raise the difficulty of your lectures. This will help you to attract both beginners and advanced specialists gradually thus improving your image and positioning you as a true expert in your field.</p>
-
-
-
-<p>Tip: you can test topics in your blog if you have one. Or on some kind of platform such as Medium. It will help you understand if the matter is really interesting to the target audience. Also, you can promote your future webinar in such an article.</p>
-
-
-
-<p>Finally, remember about keywords, especially if you plan to keep your webinar uploaded somewhere online for people to watch and rewatch it after the actual stream. By including relevant keywords in the title and the description of your webinar you will increase the chances that users will find your webinar through the search.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1088" height="725" src="https://www.lucianaberger.com/wp-content/uploads/2021/07/2-1-1088x725.jpg" alt="" class="wp-image-165" srcset="https://www.lucianaberger.com/wp-content/uploads/2021/07/2-1-1088x725.jpg 1088w, https://www.lucianaberger.com/wp-content/uploads/2021/07/2-1-325x217.jpg 325w, https://www.lucianaberger.com/wp-content/uploads/2021/07/2-1-768x512.jpg 768w, https://www.lucianaberger.com/wp-content/uploads/2021/07/2-1-1536x1024.jpg 1536w, https://www.lucianaberger.com/wp-content/uploads/2021/07/2-1.jpg 2048w" sizes="(max-width: 1088px) 100vw, 1088px"/></figure>
-
-
-
-<h2>Figure out the best date and time</h2>
-
-
-
-<p>The best day and time for your webinar really depends on your target audience. While some experts say that it’s best to host a lecture on Tuesday through Thursday, and others say that Monday through Friday is fine, too, some listeners might find weekends the best time for a webinar. So before selecting a date, think of your target audience — when they would be able to make time for your lecture? The best solution would be to ask your future listeners when they want to attend your webinar if you have such an opportunity, of course.</p>
-
-
-
-<p>Things get especially tricky when your audience is spread around the globe. If you understand that some of your listeners live in a drastically different time zone from other listeners, you should consider holding two streams for these groups.</p>
-
-
-
-<p>Another thing you should consider is holidays in different countries — you wouldn’t want to have a webinar when a large part of your audience is busy having a vacation or celebrating.</p>
-
-
-
-<h2>Invest time in your presentation</h2>
-
-
-
-<p>Your slides are just as important as whatever you’re telling your audience. Many lecturers treat presentations as just some visual entertainment for their listeners — why pack slides with information if you already tell it verbally? But that’s a false thought. Think of this — your visual presentation can later become a valuable piece of information both for those who attended your webinar and those who just found slides later. Why would you want to lose an opportunity to keep attracting attention to your work even after your stream? Moreover, an informative presentation you send to your attendees after the webinar is another way to show your audience that you care.</p>
-
-
-
-<p>So take your time and put enough work into your presentation — it will be worth the effort. If you aren’t sure about your design skills, it will be a good idea to get a designer. The slides should both be informative and look appealing.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1088" height="725" src="https://www.lucianaberger.com/wp-content/uploads/2021/07/3-1-1088x725.jpg" alt="" class="wp-image-166" srcset="https://www.lucianaberger.com/wp-content/uploads/2021/07/3-1-1088x725.jpg 1088w, https://www.lucianaberger.com/wp-content/uploads/2021/07/3-1-325x217.jpg 325w, https://www.lucianaberger.com/wp-content/uploads/2021/07/3-1-768x512.jpg 768w, https://www.lucianaberger.com/wp-content/uploads/2021/07/3-1-1536x1024.jpg 1536w, https://www.lucianaberger.com/wp-content/uploads/2021/07/3-1.jpg 2048w" sizes="(max-width: 1088px) 100vw, 1088px"/></figure>
-
-
-
-<h2>Actually, talk about the matter</h2>
-
-
-
-<p>We all know these webinars that seem to have the sole purpose of promoting some product of a lecturer. And they’re extremely annoying. People listen to a person bragging about their product for an hour and get little to no information from the lecture. That’s something you don’t want to do if you really want to create a useful and popular webinar.</p>
-
-
-
-<p>Build your material with useful information and be generous when sharing your knowledge. The bad example would be to start telling about some matter and then say, “I’ve told about it in my book in chapter four — you can read all the info there.” Don’t be greedy — tell your audience at least half of the information, and then follow it with encouraging listeners to get your book if they want to know even more.</p>
-
-
-
-<h2>Answer questions</h2>
-
-
-
-<p>Don’t end a webinar once you’re finished with your material. Ask the audience if they have any questions and give as detailed answers as possible. Of course, you should remember about time, too. So it would be a good idea to dedicate, for example, an hour to the lecture itself and then another 30 minutes — to the questions.</p>
-
-
-
-<p>Creating and holding a truly outstanding webinar is not an easy task. Yet, if you succeed, you will benefit a lot from your work. Use our tips, and you’ll definitely host a useful and engaging lecture.</p>
-<p>The post <a rel="nofollow" href="https://www.lucianaberger.com/5-secrets-of-the-best-webinars/">5 Secrets of the Best Webinars</a> appeared first on <a rel="nofollow" href="https://www.lucianaberger.com">Berger</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>There seems to be a webinar for everything — from cooking an apple pie and setting up your email list to creating a company and making your first million. This form of interaction with the […]</p>
-<p>The post <a rel="nofollow" href="https://www.lucianaberger.com/5-secrets-of-the-best-webinars/">5 Secrets of the Best Webinars</a> appeared first on <a rel="nofollow" href="https://www.lucianaberger.com">Berger</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>lambed</name>
-    </author>
-    <id>https://www.lucianaberger.com/?p=160</id>
-    <published>2021-07-08T11:22:21Z</published>
-    <updated>2021-07-08T11:22:21Z</updated>
-    <category term="Education"/>
-  </entry>
-  <entry>
-		<author>
-			<name>petermiddlehurst</name>
-					</author>
-
-		<title type="html"><![CDATA[Child Poverty in East Newcastle]]></title>
-		<link rel="alternate" type="text/html" href="http://www.nickbrownmp.com/2021/07/01/child-poverty-in-east-newcastle/"/>
-
-		<id>https://www.nickbrownmp.com/?p=532</id>
-		<updated>2021-07-01T17:04:55Z</updated>
-		<published>2021-07-01T17:04:55Z</published>
-		<category scheme="http://www.nickbrownmp.com" term="News"/>
-		<summary type="html"><![CDATA[]]></summary>
-
-					<content type="html" xml:base="http://www.nickbrownmp.com/2021/07/01/child-poverty-in-east-newcastle/"><![CDATA[]]></content>
-		
-			</entry>
-  <entry>
     <title>Judith welcomes agreement on Bulls Elite Academy</title>
     <link rel="alternate" href="https://judithcummins.org.uk/mp-welcomes-agreement-on-bulls-elite-academy/" type="text/html"/>
     <content type="html">
@@ -1836,149 +1414,6 @@ The decision was taken by the Kent Resilience Forum in anticipation of a big…<
     <published>2021-05-19T16:06:00Z</published>
     <updated>2021-05-19T16:06:00Z</updated>
     <category term="Melksham"/>
-  </entry>
-  <entry>
-    <title>Steve Reed calls on Council to work with residents to save South Norwood Library</title>
-    <link rel="alternate" href="https://www.stevereedmp.co.uk/2021/03/08/steve-challenges-council-to-address-residents-concerns-over-closure-of-south-norwood-library/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<div data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false     js-master-row  mk-grid">
-				
-<div class="vc_col-sm-12 wpb_column column_container  jupiter-donut- _ jupiter-donut-height-full">
-		<div class=" vc_custom_1615380759618">
-
-<div id="text-block-2" class="mk-text-block  jupiter-donut- ">
-
-	
-	<p>Steve Reed has asked Croydon Council to listen to local people over the future of South Norwood Library.  The library’s future is uncertain because the Conservative Government has cut funding to Croydon by 70% and pushed it into a financial crisis.</p>
-<p>Local MP Steve Reed has spoken to residents and campaign groups who are fighting to save the library.  He’s now written to the Council asking them to consider how closing the library will affect the areas poorest residents who may not have access to WiFi or quiet spaces for learning or reading at home.  He’s also asked the Council to fully involve the local community before taking any decisions.</p>
-<p>Steve Reed said: “Croydon Council is faced with some really difficult decisions after ten years of Conservative funding cuts.  But they do not have to go it alone. Now more than ever people want a say over what happens in their area. The Council should harness this enthusiasm and work with residents to come up with plan that could protect library services for South Norwood.”</p>
-<p><a href="https://protect-eu.mimecast.com/s/ue8jCq7zvFrArvJhZnZ9o?domain=stevereedmp.co.uk" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">You can see the full letter here.</a></p>
-<p>If you would like to get involved in the campaign to save South Norwood library, email Steve at steve.reed@croydonlabour.org.uk</p>
-
-	<div class="clearboth"/>
-</div>
-
-	</div>
-</div>
-	</div>
-
-<div data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false     js-master-row  mk-grid">
-				
-<div class="vc_col-sm-12 wpb_column column_container  jupiter-donut- _ jupiter-donut-height-full">
-	<div class="templatera_shortcode">
-<div data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false     js-master-row  mk-grid">
-				
-<div class="vc_col-sm-12 wpb_column column_container  jupiter-donut- _ jupiter-donut-height-full">
-	
-<div id="padding-5" class="mk-padding-divider jupiter-donut-  jupiter-donut-clearfix"/>
-
-<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_center"><span class="vc_sep_holder vc_sep_holder_l"><span style="border-color:#e4003b;" class="vc_sep_line"/></span><div class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left"><div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey"><span class="vc_icon_element-icon fa fa-ravelry" style="color:#e4003b !important"/></div></div><span class="vc_sep_holder vc_sep_holder_r"><span style="border-color:#e4003b;" class="vc_sep_line"/></span>
-</div></div>
-	</div>
-
-<div data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false srmp-news-biog-row   vc_custom_1565524828402  js-master-row  mk-grid">
-				
-<div class="vc_col-sm-3 wpb_column column_container  jupiter-donut- _ jupiter-donut-height-full">
-	
-<div id="box-7" class="mk-employees jupiter-donut-margin-bottom-10 jupiter-donut-margin-top-10 one-column u6col u5col u4col u3col o0col  simple c_cs srmp-news-biog-picture jupiter-donut-">
-	<ul>
-
-	
-		<li class="mk-employee-item jupiter-donut-colitem jupiter-donut-align-center jupiter-donut-display-inline-block jupiter-donut-float-left m_7">
-			<div class="item-holder">
-				<div class="team-thumbnail jupiter-donut-position-relative jupiter-donut-width-100-per jupiter-donut-height-100-per jupiter-donut-overflow-hidden rounded-true">
-							<img alt="Steve Reed" title="Steve Reed" src="https://www.stevereedmp.co.uk/wp-content/uploads/bfi_thumb/dummy-transparent-p7ncr68rldpmeabl0klitslzdo3peli33t8kue4se0.png" data-mk-image-src-set="{&quot;default&quot;:&quot;https://www.stevereedmp.co.uk/wp-content/uploads/MAY-17-Jo-Cox-charity-single-300x300.jpg&quot;,&quot;2x&quot;:&quot;&quot;,&quot;mobile&quot;:&quot;&quot;,&quot;responsive&quot;:&quot;true&quot;}"/>
-
-
-					
-				</div>
-
-				<div class="team-info-wrapper m_7" itemscope="itemscope" itemtype="https://schema.org/Person">
-						<span class="team-member-name jupiter-donut-font-16 jupiter-donut-display-block jupiter-donut-font-weight-bold jupiter-donut-text-transform-up jupiter-donut-color-333">Steve Reed</span>
-					<span class="team-member-position jupiter-donut-font-12 jupiter-donut-text-transform-up jupiter-donut-display-block jupiter-donut-color-777 jupiter-donut-letter-spacing-1">Member of Parliment for Croydon North</span>
-					
-					<div class="clearboth"/>
-
-					
-<ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-612b6186032ae" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-612b61860355f" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-612b618603789" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-612b6186038da" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
-	</ul>
-				</div>
-			</div>
-		</li>
-
-					<div class="clearboth"/>
-			</ul>
-<div class="clearboth"/>
-</div>
-</div>
-
-<div class="vc_col-sm-9 wpb_column column_container  jupiter-donut- _ jupiter-donut-height-full">
-		<div class=" vc_custom_1566604184155">
-
-<div id="text-block-9" class="mk-text-block  jupiter-donut- srmp-news-biog-text">
-
-	
-	<p><a href="https://en.wikipedia.org/wiki/Steve_Reed_(politician)" target="_blank" rel="noopener noreferrer">Steven Reed</a> is Labour MP for Croydon North and Shadow Minister for Children and Families. In 2018 his private member’s bill on <a href="https://www.stevereedmp.co.uk/2018/07/06/mental-health-campaigners-celebrate-as-senis-law-passes-through-the-commons/">reducing violent mental health restraint</a> became law. In June 2019 he launched <a href="https://www.stevereedmp.co.uk/achievements/inequality/">Labour’s civil society strategy</a> outlining radical plans to empower citizens and communities.</p>
-<p>Steve chairs the Cooperative Councils Innovation Network, co-chairs the All-Party Parliamentary Group for London, was Leader of Lambeth Council 2006-12 where he led the council’s children’s services to become best-rated in the country and pioneered the public-health approach to tackling violent youth crime. He worked in publishing for 16 years and was an elected trade union branch secretary.</p>
-
-	<div class="clearboth"/>
-</div>
-
-	</div>
-</div>
-	</div>
-</div></div>
-	</div>
-
-<p>The post <a rel="nofollow" href="https://www.stevereedmp.co.uk/2021/03/08/steve-challenges-council-to-address-residents-concerns-over-closure-of-south-norwood-library/">Steve Reed calls on Council to work with residents to save South Norwood Library</a> appeared first on <a rel="nofollow" href="https://www.stevereedmp.co.uk">Steve Reed MP</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://www.stevereedmp.co.uk/2021/03/08/steve-challenges-council-to-address-residents-concerns-over-closure-of-south-norwood-library/">Steve Reed calls on Council to work with residents to save South Norwood Library</a> appeared first on <a rel="nofollow" href="https://www.stevereedmp.co.uk">Steve Reed MP</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Steve Reed MP</name>
-    </author>
-    <id>https://www.stevereedmp.co.uk/?p=10621</id>
-    <published>2021-03-08T11:17:51Z</published>
-    <updated>2021-03-08T11:17:51Z</updated>
-    <category term="Croydon Community Notice Board"/>
-    <category term="News"/>
-  </entry>
-  <entry>
-    <title>New GP Surgery Back on Track for Shifnal</title>
-    <link rel="alternate" href="https://www.markpritchard.com/news/new-gp-surgery-back-track-shifnal" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><span>New GP Surgery Back on Track for Shifnal</span>
-            <div class="field-news-date"><time datetime="2021-02-16T12:00:00Z">Tuesday, 16 February, 2021</time></div>
-      
-<span>Tue, 16/02/2021 - 13:45</span>
-
-  <div class="field-news-image-gallery">
-
-
-
-  <div>
-      <img src="https://www.markpritchard.com/sites/www.markpritchard.com/files/styles/gallery_large/public/2021-02/Shifnal%20GP%20Surgery.png?itok=7QLeV7k9" width="830" height="540" alt="Shifnal GP Surgery Plans" typeof="foaf:Image"/></div>
-</div>
-
-            <div class="body"><p>The local Clinical Commissioning Group has confirmed that the funding is in place to build a new GP surgery for Shifnal.</p>
-<p>Commenting, Mark Pritchard MP said:</p>
-<p>"I'm delighted that, in the last 24 hours, the Shropshire NHS Clinical Commissioning Group has confirmed to me that the new GP surgery in Shifnal will go ahead this year.  The building plans are well advanced and NHS England has provided the extra funding needed.  Local councillors and Shifnal Matters 2021 have supported me in pushing for this new surgery, and I'm glad that the NHS has listened to local needs."</p>
-
-
-</div>
-      </div>
-    </content>
-    <id>425 at https://www.markpritchard.com</id>
-    <published>2021-02-16T13:45:06Z</published>
-    <updated>2021-02-16T13:45:06Z</updated>
   </entry>
   <entry>
     <title>COVID-19 Advice and Assistance</title>
@@ -2248,10 +1683,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-612b6253bac17" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-612b6c24a988d" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-612b6253bac17').iPhorm({"id":5,"uniqueId":"612b6253bac17","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-612b6c24a988d').iPhorm({"id":5,"uniqueId":"612b6c24a988d","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2326,10 +1761,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-612b6253bac17" class="iphorm iphorm-form-5" action="/feed/#iphorm-612b6253bac17" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-612b6c24a988d" class="iphorm iphorm-form-5" action="/feed/#iphorm-612b6c24a988d" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="612b6253bac17" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="612b6c24a988d" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2338,22 +1773,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_612b6253bac17" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_612b6253bac17" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_612b6c24a988d" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_612b6c24a988d" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_612b6253bac17" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_612b6253bac17" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_612b6c24a988d" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_612b6c24a988d" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_612b6253bac17" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_612b6253bac17" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_612b6c24a988d" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_612b6c24a988d" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2363,7 +1798,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_612b6253bac17_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_612b6c24a988d_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2382,7 +1817,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-612b6253bac17 script').remove();
+    jQuery('#iphorm-outer-612b6c24a988d script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2419,7 +1854,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzSLXooYWUW5ug6jG5yRFMpdz-P0SkOwzRTN2uc_kftWRzWsSSbIlvJIMayOd9v2dJqgzIVZEyWY02746JBRQ' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxtmJD34YRV6CNP0Q8NISFLysbgVAAfdnP_yu5ycEWhgwBXaYwCSzwhqirsoulzfyn0GGfvYQPoAL8kdGpWdw' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
