@@ -27,7 +27,7 @@ jobs:
     - name: Create pages
       run: |
         mkdir -p docs
-        perlanet
+        perlanet > perlanet.log 2>&1
 
     - name: Commit new page
       if: github.repository == 'davorg/planetwestminster'
@@ -39,4 +39,12 @@ jobs:
         git add docs/
         if [ "$GIT_STATUS" != "" ]; then git commit -m "Automated Web page generation"; fi
         if [ "$GIT_STATUS" != "" ]; then git push; fi
+
+    - name: Archive perlanet logs
+      working-directory: $HOME
+      uses: actions/upload-artifact@v2
+      with:
+        name: perlanet.log
+        path: perlanet.log
+        retention-days: 3
 
