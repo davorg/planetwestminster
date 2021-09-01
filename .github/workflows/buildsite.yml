@@ -41,9 +41,8 @@ jobs:
         if [ "$GIT_STATUS" != "" ]; then git push; fi
 
     - name: Archive perlanet logs
-      working-directory: $HOME
       uses: actions/upload-artifact@v2
       with:
         name: perlanet.log
-        path: ./perlanet.log
+        path: $HOME/perlanet.log
         retention-days: 3
