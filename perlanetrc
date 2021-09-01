@@ -107,15 +107,12 @@ feeds:
   - title: 'con: Broadland: Jerome Mayhew'
     url: https://www.jeromemayhew.org.uk/news/feed
     web: https://www.jeromemayhew.org.uk/
-  - title: 'con: Broxbourne: Charles Walker'
-    url: http://www.charleswalker.org/rss.xml
-    web: http://www.charleswalker.org/
-  - title: 'speaker: Buckingham: John Bercow'
-    url: http://www.johnbercow.co.uk/rss.xml
-    web: http://www.johnbercow.co.uk/
-  - title: 'lab: Bury South: Ivan Lewis'
-    url: http://www.burysouthlabour.co.uk/feed/
-    web: http://www.ivanlewis.org.uk/
+  - title: 'con: Buckingham: Greg Smith'
+    url: https://www.gregsmith.co.uk/news/feed
+    web: https://www.gregsmith.co.uk/
+  - title: 'con: Bury South: Christian Wakeford'
+    url: https://www.christianwakeford.org.uk/news/feed
+    web: https://www.christianwakeford.org.uk/
   - title: 'lab: Cardiff South and Penarth: Stephen Doughty'
     url: http://www.stephendoughty.org.uk/feed/
     web: http://www.stephendoughty.org.uk/
