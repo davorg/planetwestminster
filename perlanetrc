@@ -18,26 +18,26 @@ feeds:
     url: https://www.robin-millar.org.uk/news/feed
     web: https://www.robin-millar.org.uk/
   - title: 'con: Aldridge-Brownhills: Wendy Morton'
-    url: https://wendymorton.co.uk/feed/
-    web: https://wendymorton.co.uk/
+    url: http://wendymorton.co.uk/feed/
+    web: http://wendymorton.co.uk/
   - title: 'lab: Alyn and Deeside: Mark Tami'
-    url: https://www.marktami.co.uk/feed/
-    web: https://www.marktami.co.uk/
+    url: http://www.marktami.co.uk/feed/
+    web: http://www.marktami.co.uk/
   - title: 'con: Amber Valley: Nigel Mills'
-    url: https://www.nigelmillsmp.com/feed/atom/
-    web: https://www.nigelmillsmp.com/
+    url: http://www.nigelmillsmp.com/feed/atom/
+    web: http://www.nigelmillsmp.com/
   - title: "snp: Argyll and Bute: Brendan O'Hara"
-    url: https://www.brendanoharamp.scot/feed/atom
-    web: https://www.brendanoharamp.scot/
+    url: http://www.brendanoharamp.scot/feed/atom
+    web: http://www.brendanoharamp.scot/
   - title: 'con: Arundel and South Downs: Nick Herbert'
-    url: https://feeds.feedburner.com/NickHerbertNewsAndBlog
-    web: https://www.nickherbert.com/
+    url: http://feeds.feedburner.com/NickHerbertNewsAndBlog
+    web: http://www.nickherbert.com/
   - title: 'con: Ashfield: Lee Anderson'
     url: https://www.leeanderson.org.uk/news/feed
     web: https://www.leeanderson.org.uk/
   - title: 'con: Ashford: Damian Green'
     url: https://www.damiangreen.co.uk/news/feed
-    web: https://www.damiangreen.co.uk/
+    web: http://www.damiangreen.co.uk/
   - title: 'lab: Ashton-under-Lyne: Angela Rayner'
     url: https://www.angelarayner.co.uk/feed/atom/
     web: https://www.angelarayner.co.uk/
@@ -69,11 +69,11 @@ feeds:
     url: https://www.rushanaraali.org/latest_news.rss
     web: https://www.rushanaraali.org/
   - title: 'con: Beverley and Holderness: Graham Stuart'
-    url: https://www.grahamstuart.com/feed/
+    url: https://www.grahamstuart.com/news/feed/
     web: https://www.grahamstuart.com/
   - title: 'con: Bexleyheath and Crayford: David Evennett'
     url: https://www.bexleyheathandcrayford.com/news/feed
-    web: https://bexleyheathandcrayford.com/
+    web: http://bexleyheathandcrayford.com/
   - title: 'lab: Birmingham, Edgbaston: Preet Gill'
     url: https://preetkaurgill.com/taxonomy/term/36/feed/
     web: https://www.preetkaurgill.com/
@@ -94,61 +94,58 @@ feeds:
     web: https://yasminqureshi.org.uk/
   - title: 'con: Boston and Skegness: Matt Warman'
     url: https://www.mattwarman.co.uk/feed/
-    web: https://www.mattwarman.net/
+    web: https://www.mattwarman.co.uk/
   - title: 'lab: Bradford South: Judith Cummins'
-    url: https://judithcummins.org.uk/feed/
-    web: https://www.judithcummins.org.uk/
-  - title: 'con: Braintree: James Cleverly'
-    url: https://www.cleverly4braintree.com/home.rss
-    web: https://www.cleverly4braintree.com/
+    url: http://judithcummins.org.uk/feed/
+    web: http://www.judithcummins.org.uk/
   - title: 'lab: Brighton, Kemptown: Lloyd Russell-Moyle'
-    url: https://russell-moyle.co.uk/blog/?feed=rss2
+    url: http://russell-moyle.co.uk/blog/?feed=rss2
     web: http://russell-moyle.co.uk/blog/
   - title: 'lab: Bristol South: Karin Smyth'
     url: http://karinsmyth.com/feed/
     web: http://www.karinsmyth.com/
-  - title: 'con: Broadland: Keith Simpson'
-    url: https://www.keithsimpson.com/rss.xml
-    web: https://www.keithsimpson.com/
+  - title: 'con: Broadland: Jerome Mayhew'
+    url: https://www.jeromemayhew.org.uk/news/feed
+    web: https://www.jeromemayhew.org.uk/
   - title: 'con: Broxbourne: Charles Walker'
     url: http://www.charleswalker.org/rss.xml
     web: http://www.charleswalker.org/
   - title: 'speaker: Buckingham: John Bercow'
     url: http://www.johnbercow.co.uk/rss.xml
-    web: https://www.johnbercow.co.uk/
+    web: http://www.johnbercow.co.uk/
   - title: 'lab: Bury South: Ivan Lewis'
     url: http://www.burysouthlabour.co.uk/feed/
-    web: https://www.ivanlewis.org.uk/
+    web: http://www.ivanlewis.org.uk/
   - title: 'lab: Cardiff South and Penarth: Stephen Doughty'
     url: http://www.stephendoughty.org.uk/feed/
     web: http://www.stephendoughty.org.uk/
   - title: 'snp: Central Ayrshire: Philippa Whitford'
     url: https://whitford.scot/feed/
-    web: https://whitford.scot/
+    web: http://whitford.scot/
   - title: 'lab: Chesterfield: Toby Perkins'
-    url: https://feeds.feedburner.com/tobyperkinsmp
-    web: https://www.tobyperkins.org.uk/
+    url: http://feeds.feedburner.com/tobyperkinsmp
+    web: http://www.tobyperkins.org.uk/
   - title: 'con: Chippenham: Michelle Donelan'
     url: https://michelledonelan.co.uk/feed/
-    web: https://michelledonelan.co.uk/
+    web: http://michelledonelan.co.uk/
   - title: 'con: Cities of London and Westminster: Mark Field'
-    url: https://markfieldmp.com/home/feed/
-    web: https://www.markfieldmp.com/
+    url: http://markfieldmp.com/home/feed/
+    web: http://www.markfieldmp.com/
   - title: 'lab: Clwyd South: Susan Elan Jones'
     url: http://www.susanelanjones.co.uk/feed/
     web: http://www.susanelanjones.co.uk/
   - title: 'lab: Croydon North: Steve Reed'
-    url: https://www.steve4croydon.com/feed/
-    web: https://www.steve4croydon.com
+    url: http://www.steve4croydon.com/feed/
+    web: http://www.steve4croydon.com
   - title: 'lab: Dagenham and Rainham: Jon Cruddas'
     url: https://joncruddas.org.uk/rss.xml
     web: https://joncruddas.org.uk/
   - title: 'lab: Denton and Reddish: Andrew Gwynne'
     url: https://andrewgwynne.co.uk/feed/
-    web: https://www.andrewgwynne.co.uk/
+    web: http://www.andrewgwynne.co.uk/
   - title: 'snp: Dundee East: Stewart Hosie'
     url: https://www.stewarthosie.com/feed.xml
-    web: https://stewarthosie.com/
+    web: http://stewarthosie.com/
   - title: 'pc: Dwyfor Meirionnydd: Liz Saville Roberts'
     url: https://www.lizsavilleroberts.org/feed/
     web: https://www.lizsavilleroberts.org/
@@ -171,8 +168,8 @@ feeds:
     url: https://tommysheppardmp.scot/index.php?format=feed&type=rss
     web: https://tommysheppardmp.scot/
   - title: 'snp: Edinburgh North and Leith: Deidre Brock'
-    url: https://www.edinburgh.gov.uk/rss/news
-    web: https://www.edinburgh.gov.uk/councillors/44/deidre_brock
+    url: http://www.edinburgh.gov.uk/rss/news
+    web: http://www.edinburgh.gov.uk/councillors/44/deidre_brock
   - title: 'con: Elmet and Rothwell: Alec Shelbrooke'
     url: http://www.alecshelbrooke.co.uk/feed/
     web: http://www.alecshelbrooke.co.uk/
@@ -184,22 +181,22 @@ feeds:
     web: https://chrisgrayling.net/
   - title: 'con: Esher and Walton: Dominic Raab'
     url: http://dominicraab.com/feed/atom/
-    web: https://www.dominicraab.com/
+    web: http://www.dominicraab.com/
   - title: 'con: Folkestone and Hythe: Damian Collins'
-    url: https://damiancollins.com/feed/
-    web: https://www.damiancollins.com/
+    url: http://damiancollins.com/feed/
+    web: http://www.damiancollins.com/
   - title: 'lab: Gateshead: Ian Mearns'
-    url: https://www.ianmearns.org.uk/feed/
-    web: https://www.ianmearns.org.uk/
+    url: http://www.ianmearns.org.uk/feed/
+    web: http://www.ianmearns.org.uk/
   - title: 'snp: Glasgow Central: Alison Thewliss'
-    url: https://bellgrovebelle.blogspot.com/feeds/posts/default
-    web: https://bellgrovebelle.blogspot.co.uk/
+    url: http://bellgrovebelle.blogspot.com/feeds/posts/default
+    web: http://bellgrovebelle.blogspot.co.uk/
   - title: 'snp: Glasgow East: David Linden'
     url: http://www.davidlinden.scot/feed
     web: http://www.davidlinden.scot/
   - title: 'snp: Glasgow North: Patrick Grady'
     url: https://patrickgrady.scot/?format=feed&type=atom
-    web: https://www.patrickgrady.scot/
+    web: http://www.patrickgrady.scot/
   - title: 'con: Great Yarmouth: Brandon Lewis'
     url: https://www.brandonlewis.co/feed/
     web: https://www.brandonlewis.co/
@@ -208,13 +205,13 @@ feeds:
     web: http://www.matthewpennycook.com/
   - title: 'lab: Hackney South and Shoreditch: Meg Hillier'
     url: http://www.meghillier.com/rss/?section=news
-    web: https://www.meghillier.com/
+    web: http://www.meghillier.com/
   - title: 'lab: Hampstead and Kilburn: Tulip Siddiq'
-    url: https://www.tulipsiddiq.com/feed/
-    web: https://www.tulipsiddiq.com/
+    url: http://www.tulipsiddiq.com/feed/
+    web: http://www.tulipsiddiq.com/
   - title: 'con: Harlow: Robert Halfon'
     url: http://new.roberthalfon.com/feed/
-    web: https://www.roberthalfon.com/
+    web: http://www.roberthalfon.com/
   - title: 'con: Hemel Hempstead: Mike Penning'
     url: http://www.mikepenning.com/rss.xml
     web: http://www.mikepenning.com/
@@ -234,8 +231,8 @@ feeds:
     url: https://www.jonathandjanogly.com/feed
     web: https://www.jonathandjanogly.com/
   - title: 'lab: Hyndburn: Graham Jones'
-    url: https://hhgrahamjones.blogspot.com/feeds/posts/default
-    web: https://hhgrahamjones.blogspot.co.uk/
+    url: http://hhgrahamjones.blogspot.com/feeds/posts/default
+    web: http://hhgrahamjones.blogspot.co.uk/
   - title: 'snp: Inverness, Nairn, Badenoch and Strathspey: Drew Hendry'
     url: https://www.drewhendrymp.scot/feed/
     web: https://www.drewhendrymp.scot/
@@ -246,32 +243,32 @@ feeds:
     url: http://www.lesleylaird.com/feed/
     web: http://www.lesleylaird.com/
   - title: 'dup: Lagan Valley: Jeffrey M. Donaldson'
-    url: https://www.jeffreydonaldson.org/blog/feed
-    web: https://www.jeffreydonaldson.org/
+    url: http://www.jeffreydonaldson.org/blog/feed
+    web: http://www.jeffreydonaldson.org/
   - title: 'lab: Leicester East: Keith Vaz'
-    url: https://www.keithvazmp.com/feed/
-    web: https://www.keithvazmp.com/
+    url: http://www.keithvazmp.com/feed/
+    web: http://www.keithvazmp.com/
   - title: 'lab: Leicester West: Liz Kendall'
     url: https://www.lizkendall.org/feed/atom/
-    web: https://www.lizkendall.org/
+    web: http://www.lizkendall.org/
   - title: 'lab: Leigh: Jo Platt'
     url: http://www.joplatt.me/index.php?format=feed&type=atom
     web: http://www.joplatt.me/
   - title: 'lab: Lewisham, Deptford: Vicky Foxcroft'
-    url: https://www.vickyfoxcroft.org.uk/news.rss
-    web: https://www.vickyfoxcroft.org.uk/
+    url: http://www.vickyfoxcroft.org.uk/news.rss
+    web: http://www.vickyfoxcroft.org.uk/
   - title: 'lab: Liverpool, Wavertree: Luciana Berger'
-    url: https://www.lucianaberger.com/feed/
-    web: https://www.lucianaberger.com/
+    url: http://www.lucianaberger.com/feed/
+    web: http://www.lucianaberger.com/
   - title: 'lab: Llanelli: Nia Griffith'
-    url: https://niagriffith.org.uk/feed/
-    web: https://niagriffith.org.uk/
+    url: http://niagriffith.org.uk/feed/
+    web: http://niagriffith.org.uk/
   - title: 'con: Ludlow: Philip Dunne'
-    url: https://www.philipdunne.com/rss.xml
-    web: https://www.philipdunne.com/
+    url: http://www.philipdunne.com/rss.xml
+    web: http://www.philipdunne.com/
   - title: 'lab: Makerfield: Yvonne Fovargue'
-    url: https://yvonnefovargue.blogspot.com/feeds/posts/default
-    web: https://yvonnefovargue.blogspot.co.uk/
+    url: http://yvonnefovargue.blogspot.com/feeds/posts/default
+    web: http://yvonnefovargue.blogspot.co.uk/
   - title: 'lab: Manchester, Withington: Jeff Smith'
     url: http://www.jeffsmith.org.uk/issues.rss
     web: http://www.jeffsmith.org.uk/
@@ -282,8 +279,8 @@ feeds:
     url: http://blog.dorries.org/rss.xml
     web: http://blog.dorries.org/
   - title: 'con: Mid Norfolk: George Freeman'
-    url: https://www.georgefreeman.co.uk/rss.xml
-    web: https://www.georgefreeman.co.uk/
+    url: http://www.georgefreeman.co.uk/rss.xml
+    web: http://www.georgefreeman.co.uk/
   - title: 'con: Milton Keynes North: Mark Lancaster'
     url: http://lancaster4mk.org/home/rss
     web: http://lancaster4mk.org/
@@ -291,44 +288,44 @@ feeds:
     url: https://angusmacneilsnp.com/feed/
     web: https://angusmacneilsnp.com/
   - title: 'lab: Neath: Christina Rees'
-    url: https://www.christinarees.org/feed/
-    web: https://www.christinarees.org/
+    url: http://www.christinarees.org/feed/
+    web: http://www.christinarees.org/
   - title: 'con: Newark: Robert Jenrick'
-    url: https://www.robertjenrick.com/feed/
-    web: https://www.robertjenrick.com/
+    url: http://www.robertjenrick.com/feed/
+    web: http://www.robertjenrick.com/
   - title: 'con: Newbury: Richard Benyon'
     url: http://richardbenyon.com/feed/
     web: http://www.richardbenyon.com/
   - title: 'lab: Newcastle upon Tyne Central: Chi Onwurah'
-    url: https://chionwurahmp.com/feed/
-    web: https://chionwurahmp.com/
+    url: http://chionwurahmp.com/feed/
+    web: http://chionwurahmp.com/
   - title: 'lab: Newcastle upon Tyne East: Nick Brown'
-    url: https://www.nickbrownmp.com/feed/atom
-    web: https://www.nickbrownmp.com/
+    url: http://www.nickbrownmp.com/feed/atom
+    web: http://www.nickbrownmp.com/
   - title: 'lab: Newcastle upon Tyne North: Catherine McKinnell'
     url: https://www.catherinemckinnellmp.co.uk/feed/
-    web: https://www.catherinemckinnell.co.uk/
+    web: http://www.catherinemckinnell.co.uk/
   - title: 'con: Newton Abbot: Anne Marie Morris'
     url: https://www.annemariemorris.co.uk/news/feed
-    web: https://www.annemariemorris.co.uk/
+    web: http://www.annemariemorris.co.uk/
   - title: 'dup: North Antrim: Ian Paisley Jnr'
     url: http://www.ianpaisleymp.co.uk/feed/
     web: http://www.ianpaisleymp.co.uk/
   - title: 'lab: North Durham: Kevan Jones'
-    url: https://kevanjonesmp.org.uk/./rss.xml
-    web: https://www.kevanjonesmp.org.uk/
+    url: http://kevanjonesmp.org.uk/./rss.xml
+    web: http://www.kevanjonesmp.org.uk/
   - title: 'con: North East Bedfordshire: Alistair Burt'
     url: http://www.alistair-burt.co.uk/news/feed
     web: http://www.alistair-burt.co.uk/
   - title: 'con: North East Somerset: Jacob Rees-Mogg'
     url: http://www.jacobreesmogg.com/feed/
-    web: https://www.jacobreesmogg.com/
+    web: http://www.jacobreesmogg.com/
   - title: 'con: North Herefordshire: Bill Wiggin'
     url: https://billwiggin.wordpress.com/feed/
     web: http://www.billwiggin.com/
   - title: 'con: North West Hampshire: Kit Malthouse'
-    url: https://kitmalthouse.com/feed/
-    web: https://www.kitmalthouse.com/
+    url: http://kitmalthouse.com/feed/
+    web: http://www.kitmalthouse.com/
   - title: 'lab: Nottingham East: Chris Leslie'
     url: http://www.chrisleslie.org/feed/
     web: http://www.chrisleslie.org/
@@ -336,95 +333,95 @@ feeds:
     url: http://nottinghamlabour.org.uk/feed/
     web: http://www.nottinghamlabour.org.uk
   - title: 'lab: Oldham East and Saddleworth: Debbie Abrahams'
-    url: https://www.debbieabrahams.org.uk/feed
-    web: https://www.debbieabrahams.org.uk/
+    url: http://www.debbieabrahams.org.uk/feed
+    web: http://www.debbieabrahams.org.uk/
   - title: 'snp: Paisley and Renfrewshire South: Mhairi Black'
     url: https://mhairiblack.wordpress.com/feed/
-    web: https://www.mhairiblack.scot
+    web: http://www.mhairiblack.scot
   - title: 'snp: Perth and North Perthshire: Pete Wishart'
-    url: https://www.petewishartmp.com/home/feed/
-    web: https://www.petewishartmp.com/
+    url: http://www.petewishartmp.com/home/feed/
+    web: http://www.petewishartmp.com/
   - title: 'con: Portsmouth North: Penny Mordaunt'
     url: http://www.pennymordaunt.com/feed.xml
-    web: https://www.pennymordaunt.com/
+    web: http://www.pennymordaunt.com/
   - title: 'lab: Portsmouth South: Stephen Morgan'
     url: https://stephenjmorgan.org/feed/
     web: https://stephenjmorgan.org
   - title: 'lab: Rhondda: Chris Bryant'
-    url: https://www.chrisbryantmp.org.uk/feed/
-    web: https://www.chrisbryantmp.org.uk/
+    url: http://www.chrisbryantmp.org.uk/feed/
+    web: http://www.chrisbryantmp.org.uk/
   - title: 'con: Romsey and Southampton North: Caroline Nokes'
     url: http://carolinenokes.com/feed/
-    web: https://www.carolinenokes.com/
+    web: http://www.carolinenokes.com/
   - title: 'snp: Ross, Skye and Lochaber: Ian Blackford'
     url: http://ianblackford.com/blog/feeds/atom/
     web: http://ianblackford.com/
   - title: 'lab: Rotherham: Sarah Champion'
-    url: https://www.sarahchampionmp.com/feed/
-    web: https://www.sarahchampionmp.com/
+    url: http://www.sarahchampionmp.com/feed/
+    web: http://www.sarahchampionmp.com/
   - title: 'con: Rutland and Melton: Alan Duncan'
     url: http://www.alanduncan.org.uk/articles/rss
     web: http://www.alanduncan.org.uk/
   - title: 'con: Saffron Walden: Kemi Badenoch'
     url: http://kemibadenoch.org.uk/feed/
-    web: https://kemibadenoch.org.uk/
+    web: http://kemibadenoch.org.uk/
   - title: 'lab: Sheffield, Heeley: Louise Haigh'
-    url: https://www.louisehaigh.org.uk/blog/feeds/atom/
-    web: https://www.louisehaigh.org.uk/
+    url: http://www.louisehaigh.org.uk/blog/feeds/atom/
+    web: http://www.louisehaigh.org.uk/
   - title: 'con: Sherwood: Mark Spencer'
     url: https://www.markspencermp.co.uk/feed.xml
-    web: https://www.markspencermp.co.uk/
+    web: http://www.markspencermp.co.uk/
   - title: 'con: South Basildon and East Thurrock: Stephen Metcalfe'
-    url: https://stephenmetcalfe.blogspot.com/feeds/posts/default
+    url: http://stephenmetcalfe.blogspot.com/feeds/posts/default
     web: http://stephenmetcalfemp.com/
   - title: 'lab: South Shields: Emma Lewell-Buck'
-    url: https://www.emma-lewell-buck.net/feed/
-    web: https://www.emma-lewell-buck.net/
+    url: http://www.emma-lewell-buck.net/feed/
+    web: http://www.emma-lewell-buck.net/
   - title: 'con: Southampton, Itchen: Royston Smith'
     url: https://www.roystonsmith.co.uk/feed/
-    web: https://www.roystonsmith.co.uk/
+    web: http://www.roystonsmith.co.uk/
   - title: 'lab: St Helens North: Conor McGinn'
-    url: https://www.conormcginn.co.uk/feed/
-    web: https://www.conormcginn.co.uk/
+    url: http://www.conormcginn.co.uk/feed/
+    web: http://www.conormcginn.co.uk/
   - title: 'con: St Ives: Derek Thomas'
     url: http://derekthomas.org/feed/
-    web: https://derekthomas.org/
+    web: http://derekthomas.org/
   - title: 'lab: Stalybridge and Hyde: Jonathan Reynolds'
-    url: https://www.jonathanreynolds.org.uk/blog.rss
-    web: https://www.jonathanreynolds.org.uk/
+    url: http://www.jonathanreynolds.org.uk/blog.rss
+    web: http://www.jonathanreynolds.org.uk/
   - title: 'con: Stevenage: Stephen McPartland'
     url: http://www.stephen-mcpartland.com/?format=feed&type=atom
     web: http://www.stephenmcpartland.co.uk/
   - title: 'lab: Stockport: Ann Coffey'
-    url: https://anncoffeymp.com/home/feed/
-    web: https://anncoffeymp.com/
+    url: http://anncoffeymp.com/home/feed/
+    web: http://anncoffeymp.com/
   - title: 'lab: Stockton North: Alex Cunningham'
     url: https://www.alexcunninghammp.com/feed/atom
-    web: https://www.alexcunninghammp.com/
+    web: http://www.alexcunninghammp.com/
   - title: 'con: Stone: Bill Cash'
     url: http://www.billcashmp.co.uk/index.php?format=feed&type=atom
     web: http://www.billcashmp.co.uk/
   - title: 'con: Sutton and Cheam: Paul Scully'
-    url: https://www.scully.org.uk/feed/
-    web: https://www.scully.org.uk/
+    url: http://www.scully.org.uk/feed/
+    web: http://www.scully.org.uk/
   - title: 'lab: Swansea East: Carolyn Harris'
     url: http://carolynharris4swanseaeast.co.uk/feed
     web: http://carolynharris4swanseaeast.co.uk
   - title: 'lab: Swansea West: Geraint Davies'
-    url: https://www.geraintdavies.org.uk/news.rss
-    web: https://www.geraintdavies.org.uk/
+    url: http://www.geraintdavies.org.uk/news.rss
+    web: http://www.geraintdavies.org.uk/
   - title: 'con: The Cotswolds: Geoffrey Clifton-Brown'
-    url: https://www.cliftonbrown.co.uk/rss.xml
-    web: https://www.cliftonbrown.co.uk/
+    url: http://www.cliftonbrown.co.uk/rss.xml
+    web: http://www.cliftonbrown.co.uk/
   - title: 'con: The Wrekin: Mark Pritchard'
-    url: https://www.markpritchard.com/rss.xml
-    web: https://www.markpritchard.com/
+    url: http://www.markpritchard.com/rss.xml
+    web: http://www.markpritchard.com/
   - title: 'lab: Wallasey: Angela Eagle'
-    url: https://www.angelaeaglemp.co.uk/feed/
-    web: https://www.angelaeaglemp.co.uk/
+    url: http://www.angelaeaglemp.co.uk/feed/
+    web: http://www.angelaeaglemp.co.uk/
   - title: 'con: Welwyn Hatfield: Grant Shapps'
-    url: https://www.shapps.com/feed/
-    web: https://www.shapps.com/
+    url: http://www.shapps.com/feed/
+    web: http://www.shapps.com/
   - title: 'lab: Wentworth and Dearne: John Healey'
     url: http://www.johnhealey.net/feeds/posts/default
     web: http://www.johnhealey.net/
@@ -436,7 +433,7 @@ feeds:
     web: http://www.martindocherty.scot
   - title: 'con: West Worcestershire: Harriett Baldwin'
     url: http://www.harriettbaldwin.com/feed
-    web: https://www.harriettbaldwin.com/
+    web: http://www.harriettbaldwin.com/
   - title: 'ld: Westmorland and Lonsdale: Tim Farron'
     url: http://timfarron.co.uk/en/feed/atom1
     web: http://timfarron.co.uk/
@@ -444,23 +441,23 @@ feeds:
     url: http://johnpenrose.org/wp/feed/atom/
     web: http://johnpenrose.org/
   - title: 'lab: Wigan: Lisa Nandy'
-    url: https://www.lisanandy.co.uk/feed/
-    web: https://www.lisanandy.co.uk/
+    url: http://www.lisanandy.co.uk/feed/
+    web: http://www.lisanandy.co.uk/
   - title: 'con: Windsor: Adam Afriyie'
     url: http://adamafriyie.org/index.php/feed/
-    web: https://adamafriyie.org/
+    web: http://adamafriyie.org/
   - title: 'con: Wokingham: John Redwood'
-    url: https://johnredwoodsdiary.com/feed/
-    web: https://johnredwoodsdiary.com/
+    url: http://johnredwoodsdiary.com/feed/
+    web: http://johnredwoodsdiary.com/
   - title: 'lab: Wolverhampton North East: Emma Reynolds'
     url: http://www.emmareynolds.org.uk/feed
     web: http://www.emmareynolds.org.uk/
   - title: 'con: Worcester: Robin Walker'
     url: http://www.walker4worcester.com/feed/atom/
-    web: https://www.walker4worcester.com/
+    web: http://www.walker4worcester.com/
   - title: 'con: Wycombe: Steven Baker'
-    url: https://www.stevebaker.info/feed/
-    web: https://www.stevebaker.info/
+    url: http://www.stevebaker.info/feed/
+    web: http://www.stevebaker.info/
 opml: opml.xml
 page:
   file: docs/index.html
