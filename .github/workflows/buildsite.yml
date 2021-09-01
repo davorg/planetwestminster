@@ -44,5 +44,5 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: perlanet.log
-        path: $HOME/perlanet.log
+        path: ./perlanet.log
         retention-days: 3
