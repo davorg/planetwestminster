@@ -7,9 +7,68 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-13T06:35:42Z</updated>
+  <updated>2021-09-13T09:35:05Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Dagenham Village Petition Against the CPZ</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/dagenham-village-petition-against-cpz" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/photo1.jpg?itok=6wvh4d_t" width="740" height="423" alt=""/>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+              <p class="MsoNormal"> </p>
+              <p class="MsoNormal">On Friday (10.09.21) residents of Dagenham Village met with Jon Cruddas MP on Church Street to accept a petition against the Controlled Parking Zone due to be introduced to the area imminently. Despite the majority of residents voting against the scheme, the council are planning to push through the CPZ for access purposes based on advice from the London Fire Brigade.</p>
+              <p class="MsoNormal">Petitioning residents have resoundingly rejected this argument explaining <em>“It only seems to matter if a fire engine can get to us between 08.30 and 17.30 Monday to Saturday. If there is a fire in the evening or on a Sunday, the emergency access is of no consequence at all.”</em> Concerns have also been raised regarding the expansion of the shopping parade free permit system, whereby local people still have to register for their 30 minutes free by phone or risk getting a ticket.</p>
+              <p class="MsoNormal"><strong>Jon Cruddas MP said:</strong> <em>“It was good to meet with residents to discuss the issue face to face having received hundreds of emails and phone calls about the CPZ in recent weeks. There is clearly a strength of feeling in the community that the council aren’t listening. </em></p>
+              <p class="MsoNormal">
+                <em>“I will be including this petition with the results of my independent consultation and will raise the concerns of local people with the Chief Executive, and Leader of the Council, when I meet with them in the coming weeks.”</em>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            <li class="taxonomy-term-reference-0">
+              <a href="/tags/dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dagenham</a>
+            </li>
+            <li class="taxonomy-term-reference-1">
+              <a href="/tags/cpz" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">CPZ</a>
+            </li>
+            <li class="taxonomy-term-reference-2">
+              <a href="/tags/parking" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">parking</a>
+            </li>
+            <li class="taxonomy-term-reference-3">
+              <a href="/tags/community" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">community</a>
+            </li>
+            <li class="taxonomy-term-reference-4">
+              <a href="/tags/cars" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cars</a>
+            </li>
+            <li class="taxonomy-term-reference-5">
+              <a href="/tags/campaign" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Campaign</a>
+            </li>
+            <li class="taxonomy-term-reference-6">
+              <a href="/tags/petition" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Petition</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>andrew</name>
+    </author>
+    <id>1560 at https://joncruddas.org.uk</id>
+    <published>2021-09-13T08:46:22Z</published>
+    <updated>2021-09-13T08:46:22Z</updated>
+  </entry>
   <entry>
     <title>Managing the NHS</title>
     <link rel="alternate" href="https://johnredwoodsdiary.com/2021/09/13/managing-the-nhs/" type="text/html"/>
@@ -43,6 +102,50 @@
     <published>2021-09-12T10:00:55Z</published>
     <updated>2021-09-12T10:00:55Z</updated>
     <category term="Uncategorised"/>
+  </entry>
+  <entry>
+    <title>Social care</title>
+    <link rel="alternate" href="https://www.philipdunne.com/news/social-care-0" type="text/html"/>
+    <content type="html">  &lt;div data-history-node-id="7008" class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-date field--type-datetime field--label-hidden field--item"&gt;10 September 2021&lt;/div&gt;
+      
+      &lt;div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
+          
+            &lt;div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"&gt;&lt;span&gt;Social care&lt;/span&gt;&lt;/div&gt;
+      
+            &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;p&gt;This week the Prime Minister announced the government’s plan to put additional resource into the NHS and fix the broken funding system for social care.&lt;/p&gt;
+
+&lt;p&gt;Social care is an issue that successive governments have failed to address. So whatever one makes of the plan to fix the system, the Prime Minister deserves credit for tackling an issue that others have kicked into the long grass for decades.&lt;/p&gt;
+
+&lt;p&gt;The ramifications are significant here in Shropshire, where just under 30% of the population is aged over 65, compared to 18.5% across the country. So clearly, demands on the local social care system are profound, and likely to grow as life expectancies continue to increase, thanks to healthier lifestyles and advances in modern medicine. The burden on local authorities has  been funded in recent years through extra Council Tax precepts.&lt;/p&gt;
+
+&lt;p&gt;The pandemic has put huge pressure on the NHS, despite the heroic efforts of staff, and while urgent care continued, there is now a significant backlog of elective and routine treatments which must be addressed. This includes surgeries like hip replacement, knee surgery, and cataract treatment, all of which can severely limit quality of life if delayed.&lt;/p&gt;
+
+&lt;p&gt;To counter this, the PM announced funding for a million more operations to take place next year, with NHS capacity boosted by 10% over the next three years. Funding will then taper away into the care system, once the backlog has been addressed.&lt;/p&gt;
+
+&lt;p&gt;The way in which families currently fund care can impose a catastrophic burden, especially for dementia care. Under the current care system, anyone with assets over £23,350 pays for their care in full. This can lead to spiralling costs and the eventual liquidation of a family’s assets, including the family home. Around one in seven people now pay over £100,000 for care costs.&lt;/p&gt;
+
+&lt;p&gt;So adjusting the means test and introducing a cap on the cost of care of £86,000 from October 2023, will make a significant difference to the lives of many people in care in South Shropshire. No one with less than £20,000 in savings or housing wealth will have to pay for their care.&lt;/p&gt;
+
+&lt;p&gt;In order to pay for these changes, the PM outlined a new dedicated Health &amp; Social Care levy of 1.25% on National Insurance. But unlike normal NI charges on earnings, this levy will be also apply to dividend income and earnings by pensioners still working, While no tax rise is welcome, I recognise the pandemic required the NHS backlog to be fixed and the social care funding nettle to be grasped. This has to be paid for.&lt;/p&gt;&lt;/div&gt;
+      
+      &lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+</content>
+    <author>
+      <name>jon</name>
+    </author>
+    <id>7008 at https://www.philipdunne.com</id>
+    <published>2021-09-10T21:00:00Z</published>
+    <updated>2021-09-10T21:00:00Z</updated>
   </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
@@ -213,66 +316,6 @@ Commenting Jerome said: "Having read the…</div>
     <category term="Front Page"/>
     <category term="Keeping You Informed"/>
     <category term="Other"/>
-  </entry>
-  <entry>
-    <title>Dunne quizzes Minister on Ajax armoured vehicle procurement</title>
-    <link rel="alternate" href="https://www.philipdunne.com/parliament/dunne-quizzes-minister-ajax-armoured-vehicle-procurement" type="text/html"/>
-    <content type="html">  &lt;div data-history-node-id="7007" class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      
-            &lt;div class="field field--name-field-date field--type-datetime field--label-hidden field--item"&gt;9 September 2021&lt;/div&gt;
-      
-      &lt;div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items"&gt;
-              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
-          
-            &lt;div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"&gt;&lt;span&gt;Dunne quizzes Minister on Ajax armoured vehicle procurement&lt;/span&gt;&lt;/div&gt;
-      
-            &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;p&gt;Following the Government statement on Ajax armoured vehicle procurement, Philip Dunne seeks confirmation from the Minister that the British Army, the chiefs of staff and the Ministry of Defence all share the Minister’s determination to deliver these vehicles once the health and safety issues have been addressed.&lt;/p&gt;&lt;/div&gt;
-      
-      &lt;/div&gt;
-&lt;/div&gt;
-              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--video paragraph--view-mode--default"&gt;
-            
-        &lt;div class="video-relative"&gt;
-            
-            &lt;div class="field field--name-field-video field--type-video-embed-field field--label-hidden field--item"&gt;&lt;div class="video-embed-field-provider-youtube video-embed-field-responsive-video form-group"&gt;&lt;iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" class="embed-video" id="embed-video-94050" allowscriptaccess="always" src="https://www.youtube-nocookie.com/embed/JKTiyXp9924?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1"&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-      
-            &lt;div class="overlay"&gt;
-                &lt;div class="paragraph-image-wrapper" style="background-image: url()"&gt;&lt;/div&gt;
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class="caption"&gt;
-            
-        &lt;/div&gt;
-      &lt;/div&gt;
-&lt;/div&gt;
-              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
-          
-            &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;h3&gt;&lt;a href="https://hansard.parliament.uk/search/MemberContributions?house=Commons&amp;memberId=1542"&gt;Philip Dunne (Ludlow) (Con)&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;The Minister has been very clear with the House today that the contract in place is a firm price contract to deliver the 589 vehicles and the various variants to their specification. Can he assure the House that the rest of the system, for which he is responsible to this House, shares his determination to deliver these vehicles once the health and safety issues have been addressed—that the British Army, the chiefs of staff in their entirety and the Ministry of Defence share his determination?&lt;/p&gt;
-
-&lt;h3&gt;&lt;a href="https://hansard.parliament.uk/search/MemberContributions?house=Commons&amp;memberId=4507"&gt;Jeremy Quin (The Minister for Defence Procurement)&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;As my right hon. Friend knows very well from his experience, this is an important platform for the future of the British Army, and it really will help us deliver against the threats we are contemplating daily. We need to have it sorted, and we need to have it into service. The commitment that I am showing to work with General Dynamics to resolve these issues, if they can possibly be resolved—and I sincerely hope they can be—is shared throughout the Ministry of Defence and throughout the armed forces. We want this into service, but we want it into service on the basis that it will work, fill our requirements and be the effective tool that our military deserve and need.&lt;/p&gt;&lt;/div&gt;
-      
-      &lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-  
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-</content>
-    <author>
-      <name>jon</name>
-    </author>
-    <id>7007 at https://www.philipdunne.com</id>
-    <published>2021-09-09T18:49:40Z</published>
-    <updated>2021-09-09T18:49:40Z</updated>
   </entry>
   <entry>
     <title>Gwynne backs ambitious hedgerow investment</title>
@@ -577,62 +620,6 @@ With representatives from many of our parks, nature reserves and communities, we
 			<thr:total>0</thr:total>
 			</entry>
   <entry>
-    <title>MP Walks Covid Memorial Wall with Constituents</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/mp-walks-covid-memorial-wall-constituents" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="field field-name-field-image field-type-image field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even">
-              <img typeof="foaf:Image" src="https://joncruddas.org.uk/sites/default/files/styles/large/public/field/image/IMG_2229.jpg?itok=IlbA_ojr" width="740" height="423" alt=""/>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-          <div class="field-items">
-            <div class="field-item even" property="content:encoded">
-              <p class="MsoNormal"> </p>
-              <p class="MsoNormal">Katherine Edmunds of Blacksmiths Lane Rainham reached out to Jon Cruddas as her MP to join her and her father, Peter Pears on Wednesday 8 September to commemorate the loss of her brother and Peter’s son, Matt  who died as a result of the Covid pandemic.</p>
-              <p class="MsoNormal">Bereaved families gathered on Westminster Bridge to walk the length of the National Covid Memorial Wall where hearts have been painted as a memorial to those who have died. As well as an act of commemoration the bereaved families are demanding that the Government bring forward the promised public inquiry rather than its start being delayed until some time in 2022.</p>
-              <p class="MsoNormal"><strong>Jon said</strong> <em>“It was a privilege to join Kathy and the many others today to remember Matt and the more than 132,000 people who lost their lives in the Covid pandemic. This gave all of us a time to reflect on the lives of those who died. I join with the families in calling on the Government for the public inquiry to commence as soon as possible to learn from the many mistakes that were made in order that the nation can be properly prepared in the future.”  </em></p>
-            </div>
-          </div>
-        </div>
-        <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden clearfix">
-          <ul class="links">
-            <li class="taxonomy-term-reference-0">
-              <a href="/tags/dagenham" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dagenham</a>
-            </li>
-            <li class="taxonomy-term-reference-1">
-              <a href="/tags/havering" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">havering</a>
-            </li>
-            <li class="taxonomy-term-reference-2">
-              <a href="/tags/covid19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Covid19</a>
-            </li>
-            <li class="taxonomy-term-reference-3">
-              <a href="/tags/coronavirus" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Coronavirus</a>
-            </li>
-            <li class="taxonomy-term-reference-4">
-              <a href="/tags/covid-wall" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Covid Wall</a>
-            </li>
-            <li class="taxonomy-term-reference-5">
-              <a href="/tags/memorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Memorial</a>
-            </li>
-            <li class="taxonomy-term-reference-6">
-              <a href="/tags/bereavement" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Bereavement</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </content>
-    <author>
-      <name>andrew</name>
-    </author>
-    <id>1559 at https://joncruddas.org.uk</id>
-    <published>2021-09-09T10:26:45Z</published>
-    <updated>2021-09-09T10:26:45Z</updated>
-  </entry>
-  <entry>
   <title>MP joins local leaders in urging Chancellor not to cut Universal Credit</title>
   <link rel="alternate" href="http://timfarron.co.uk/en/article/2021/1411973/mp-joins-local-leaders-in-urging-chancellor-not-to-cut-universal-credit"/>
   <updated>2021-09-08T14:49:00Z</updated>
@@ -813,7 +800,7 @@ It is expected that NHS Scotland will receive 15% more funding from this levy th
 <div dir="auto">&nbsp;</div>
 <div dir="auto">&nbsp;</div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-9788" data-post-type="none" ><a href="https://lizkendall.org/liz-blasts-tory-school-cuts/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2019/11/schools_post-150x150.png" alt="Liz blasts Tories for additional £2.5 million cuts to Leicester West primary schools" width="150" height="150" /></a><a href="https://lizkendall.org/liz-blasts-tory-school-cuts/" class="wp_rp_title">Liz blasts Tories for additional £2.5 million cuts to Leicester West primary schools</a></li><li data-position="1" data-poid="in-4812" data-post-type="none" ><a href="https://lizkendall.org/supporting-home-start/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/04/Homestart-260x1731-150x150.jpg" alt="Supporting Home-Start" width="150" height="150" /></a><a href="https://lizkendall.org/supporting-home-start/" class="wp_rp_title">Supporting Home-Start</a></li><li data-position="2" data-poid="in-2545" data-post-type="none" ><a href="https://lizkendall.org/liz-working-on-the-health-and-social-care-bill/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/29.jpg" alt="Liz working on the Health and Social Care Bill" width="150" height="150" /></a><a href="https://lizkendall.org/liz-working-on-the-health-and-social-care-bill/" class="wp_rp_title">Liz working on the Health and Social Care Bill</a></li><li data-position="3" data-poid="in-6919" data-post-type="none" ><a href="https://lizkendall.org/meals-on-wheels-for-elderly-in-63-decline-under-coalition-analysis-finds-the-guardian-3-january/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" alt="Meals on wheels for elderly in 63% decline under coalition, analysis finds (The Guardian, 3 January)" width="150" height="150" /></a><a href="https://lizkendall.org/meals-on-wheels-for-elderly-in-63-decline-under-coalition-analysis-finds-the-guardian-3-january/" class="wp_rp_title">Meals on wheels for elderly in 63% decline under coalition, analysis finds (The Guardian, 3 January)</a></li><li data-position="4" data-poid="in-10130" data-post-type="none" ><a href="https://lizkendall.org/liz-writes-to-business-secretary/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/04/Business-support-grant-2-150x150.png" alt="Liz raises concerns about business support grant schemes" width="150" height="150" /></a><a href="https://lizkendall.org/liz-writes-to-business-secretary/" class="wp_rp_title">Liz raises concerns about business support grant schemes</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10545" data-post-type="none" ><a href="https://lizkendall.org/care-homes-facing-closure-crisis-as-empty-beds-double-amid-covid-pandemic/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/14.jpg" alt="Care homes facing closure crisis as empty beds double amid Covid pandemic" width="150" height="150" /></a><a href="https://lizkendall.org/care-homes-facing-closure-crisis-as-empty-beds-double-amid-covid-pandemic/" class="wp_rp_title">Care homes facing closure crisis as empty beds double amid Covid pandemic</a></li><li data-position="1" data-poid="in-2564" data-post-type="none" ><a href="https://lizkendall.org/liz-continues-her-work-on-the-health-and-social-care-bill/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/2.jpg" alt="Liz continues her work on the Health and Social Care Bill" width="150" height="150" /></a><a href="https://lizkendall.org/liz-continues-her-work-on-the-health-and-social-care-bill/" class="wp_rp_title">Liz continues her work on the Health and Social Care Bill</a></li><li data-position="2" data-poid="in-8550" data-post-type="none" ><a href="https://lizkendall.org/nine-schools-in-leicester-west-would-lose-398000-a-year-under-tory-plans/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/19.jpg" alt="Nine schools in Leicester West would lose £398,000 a year under Tory plans" width="150" height="150" /></a><a href="https://lizkendall.org/nine-schools-in-leicester-west-would-lose-398000-a-year-under-tory-plans/" class="wp_rp_title">Nine schools in Leicester West would lose £398,000 a year under Tory plans</a></li><li data-position="3" data-poid="in-10636" data-post-type="none" ><a href="https://lizkendall.org/liz-responds-to-chancellors-economic-statement/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/22.jpg" alt="Liz responds to Chancellor&#8217;s economic statement" width="150" height="150" /></a><a href="https://lizkendall.org/liz-responds-to-chancellors-economic-statement/" class="wp_rp_title">Liz responds to Chancellor&#8217;s economic statement</a></li><li data-position="4" data-poid="in-6070" data-post-type="none" ><a href="https://lizkendall.org/liz-backs-lgbt-history-month/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/02/LGBT-150x150.jpg" alt="Liz backs LGBT History Month" width="150" height="150" /></a><a href="https://lizkendall.org/liz-backs-lgbt-history-month/" class="wp_rp_title">Liz backs LGBT History Month</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-raises-concerns-over-crisis-in-afghanistan/">Liz raises concerns over crisis in Afghanistan</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -1069,7 +1056,7 @@ I am receiving a significant number of letters and emails from my constituents w
 
 
 
-&lt;p&gt;Applicants should email their CV and a one page covering letter to &amp;#116;&amp;#x75;l&amp;#x69;p&amp;#46;&amp;#x73;i&amp;#x64;d&amp;#105;&amp;#x71;.&amp;#x6d;p&amp;#x40;&amp;#x70;a&amp;#x72;l&amp;#x69;a&amp;#109;&amp;#x65;n&amp;#x74;.&amp;#117;&amp;#x6b; with the subject line &amp;#8216;Job application &amp;#8211; *Full name*&amp;#8217;&lt;/p&gt;
+&lt;p&gt;Applicants should email their CV and a one page covering letter to tul&amp;#105;&amp;#x70;&amp;#x2e;&amp;#x73;&amp;#x69;ddi&amp;#113;&amp;#x2e;&amp;#x6d;&amp;#x70;&amp;#x40;par&amp;#108;&amp;#105;&amp;#x61;&amp;#x6d;&amp;#x65;&amp;#x6e;t.u&amp;#107; with the subject line &amp;#8216;Job application &amp;#8211; *Full name*&amp;#8217;&lt;/p&gt;
 
 
 
@@ -1310,57 +1297,6 @@ I am a supporter of our Conservative manifesto commitment to Net Zero by 2050, a
     <published>2021-08-19T12:22:46Z</published>
     <updated>2021-08-19T12:22:46Z</updated>
     <category term="Welfare"/>
-  </entry>
-  <entry>
-    <title>Statement on Afghanistan</title>
-    <link rel="alternate" href="https://debbieabrahams.org.uk/statement-on-afghanistan/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="themeum-title " style="text-align:left"><h3 style="font-size:45px;line-height: normal;display:block;margin:0px 0px 10px 0px;color:#ed1c24;">Debbie Abrahams MP's  <span style="color:#06396a;">Statement on Afghanistan</span></h3></div><div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"/></div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<p>Many constituents have contacted me about the appalling and deteriorating situation in Afghanistan, after the Taliban took control of the capital city of Kabul on Sunday, August 15.</p>
-<p>I share your profound concern and distress about the impact this will have on the lives of Afghan people, particularly women and those who have been working alongside NATO forces, NGOs and many others.</p>
-<p>I was in the Chamber today to speak not only as the vice-Chair of the Afghanistan APPG, but also on behalf of my co-worker and dear friend Marzia Babakarkhail. Like so many others, Marzia had to flee her home in Afghanistan after the Taliban tried to assassinate her. You can watch my speech in full <a href="https://parliamentlive.tv/event/index/392a628b-beda-4bc1-91df-584f2a1cdf90?in=13:37:34">here.</a></p>
-<p>The present situation on-ground in Afghanistan is shocking and worsening by the hour. The withdrawal of international forces in the country, especially those of the U.S, has lead to the inevitable fall of the Afghani Government, just two weeks before the U.S. was due to complete its troop withdrawal. I remain extremely concerned about the speed with which the insurgents stormed across the country, capturing all major cities in a matter of days.</p>
-<p>We now face the tragic rollback of the gains that UK soldiers, diplomats and NGO workers, and their coalition and Afghan partners made over the last twenty years.</p>
-<p>Women and girls will lose the freedoms they gained and those speaking out face real threats to their lives alongside members of the LGBT+ community and religious minorities who were viciously targeted under Taliban rule and now face extermination. This is in part due to the catastrophic miscalculation of the capacity and legitimacy of the Afghan government, and the resilience of Afghan security forces trained and equipped by the U.S. and its allies. That the international community has been caught out in this way is quite shocking and speaks volumes about our priorities and the lack of a human rights focus in our foreign policies.</p>
-<p>The international community’s response including the UK’s has been absolutely woeful and far too slow considering the immense danger so many are in as the situation is so fast-changing. This is a shameful dereliction of duty.</p>
-<p>The immediate focus must be for the government to accelerate efforts to get UK nationals, support staff and the thousands of Afghans nationals who have served and worked alongside coalition forces out of the country. As well as the women activists who are now in grave danger of Taliban reprisals, many of whom have already faced threats. We have already seen reports of Taliban hit squads hunt down those they see as “collaborating” with coalition forces.</p>
-<p>We should help lead that effort by committing to a British Afghanistan Resettlement Programme, to create safe and legal routes so those suffering at the hands of the Taliban can make a new life here in Britain. The Government’s proposal to take just an initial 5,000 refugees followed by only 20,000 over 5 years is not enough. Many of those at the highest risk will not survive waiting for five years to escape the Taliban. This policy must urgently be expanded to ensure people to whom we owe a huge debt are not abandoned because of an arbitrary target. And the promises made by ministers in Parliament must be reflected on the ground.</p>
-<p>I support the deployment of troops to Kabul to provide security and capacity to carry out the evacuation. Soldiers and diplomats must be given the resources that they need. But it is increasingly clear there was a failure to plan for a safe and swift evacuation process and ministers have serious questions to answer over the lack of preparedness. Having said that I am also very grateful to Ambassador Bristow who is personally processing applications from Afghan nationals for refuge, and to Lord Tariq Ahmad who has been helping me to get a woman activist under threat and her husband out of Kabul.</p>
-<p>Our veterans who served in Afghanistan as well as the families of those who died serving our country must know that their sacrifices were not in vain. The differences they have made to women and girls in particular are immense. What they must be feeling must be overwhelming; we must make sure that they get the resources and support they need.</p>
-<p>The Taliban must be judged on what they do, not what they say. There are worrying reports of night raids and arrests of suspects by armed men with a number of local journalists and civil rights workers believed to have been detained. Women face obliteration of their rights, despite the warm words of the Taliban that too many have been willing to entertain. There have been reports of women being sent home from work and told to send their male relatives instead. There are reports of girls as young as ten are being sold off to Taliban fighters, mothers are having their eyes gouged out in front of their children, and reprisals against those who helped coalition forces. According to the UNHCR, women and children make up 80% of those fleeing the conflict.</p>
-<p>The role of Pakistan in this conflict is absolutely key. During my speech, I called on the Foreign Secretary to restore specific aid funding to Pakistan in response to the influx of Afghan refugees who are crossing into Pakistan, as 350,000 Afghans are on the move inside the country.</p>
-<p>The Pakistani Ambassador to the European Union, Zaheer Aslam Janjua recently disclosed that “Pakistan doesn’t have the capacity or the resources to take any more refugees” as Pakistan is already home to more than 1.4 million registered Afghan refugees, according to UN data. However, it is also home to an estimated two million more unregistered Afghan refugees, according to Pakistani government estimates.</p>
-<p>Pakistan also has a potential role in moderating the Taliban’s behaviour. I am hopeful that the commitment that Pakistan has expressed to me over human rights in Kashmir will extend across the region – as you know human rights are universal. Pakistan has made clear that they need help from the international community in keeping the region terrorist-free and managing the 1600mile Durand line, which separates Pakistan and Afghanistan. This is something we could do collectively as this porous border poses a threat not just to Pakistan but to us all especially as there are already concerns that the Taliban might begin to question the legitimacy of the border now that it is in power.</p>
-<p>The steps that Pakistan now takes will be vitally important as the Taliban’s takeover will affect the country more deeply than any other regional power and it is important that the UK government remains in dialogue with the Pakistani Prime Minister.</p>
-<p>In the longer term, global Britain must work with its allies to restore not just our reputation but our role in facilitating a law and rules-based system with human rights across the world.</p>
-<p>Please be assured, I will do all I can to continue to highlight the plight of the Afghan people.</p>
-
-		</div>
-	</div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1547808642785 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="themeum-title-donate " style="text-align:center"><div class="col-sm-12 col-md-12 col-lg-6 col-xs-12 themeum-title-call no-padding"><h2 class="call-to-title" style="color:#ffffff;font-size:24px;font-weight:700;text-transform:capitalize;">Feel strongly about this article? </h2></div><div class="col-sm-12 col-md-12 col-lg-6 col-xs-12 themeum-join-campaign text-right no-padding"><a class="bordered-button champ btn btn-transparent " href="http://debbieabrahams.org.uk/contact">Contact Debbie</a></div></div></div></div></div></div>
-<p>The post <a rel="nofollow" href="https://debbieabrahams.org.uk/statement-on-afghanistan/">Statement on Afghanistan</a> appeared first on <a rel="nofollow" href="https://debbieabrahams.org.uk">Debbie Abrahams, MP for Oldham East and Saddleworth</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://debbieabrahams.org.uk/statement-on-afghanistan/">Statement on Afghanistan</a> appeared first on <a rel="nofollow" href="https://debbieabrahams.org.uk">Debbie Abrahams, MP for Oldham East and Saddleworth</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Constituency Office</name>
-    </author>
-    <id>https://debbieabrahams.org.uk/?p=6855</id>
-    <published>2021-08-18T15:33:55Z</published>
-    <updated>2021-08-18T15:33:55Z</updated>
-    <category term="Events"/>
-    <category term="News"/>
-    <category term="Oldham &amp; Saddleworth"/>
-    <category term="Parliament"/>
-    <category term="Profile"/>
-    <category term="Afghanistan"/>
-    <category term="Foreign Affairs"/>
   </entry>
   <entry>
     <title>STATEMENT ON AFGHANISTAN</title>
@@ -2250,10 +2186,10 @@ The decision was taken by the Kent Resilience Forum in anticipation of a big…<
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-613eefb6c5cf0" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-613eefb6c5eda" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-613eefb6c608c" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-613eefb6c6188" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-613f1999e8f5e" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-613f1999e913f" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-613f1999e92cc" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-613f1999e93ba" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2596,10 +2532,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-613ef098e7d53" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-613f1aaa02f6b" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-613ef098e7d53').iPhorm({"id":5,"uniqueId":"613ef098e7d53","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-613f1aaa02f6b').iPhorm({"id":5,"uniqueId":"613f1aaa02f6b","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2674,10 +2610,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-613ef098e7d53" class="iphorm iphorm-form-5" action="/feed/#iphorm-613ef098e7d53" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-613f1aaa02f6b" class="iphorm iphorm-form-5" action="/feed/#iphorm-613f1aaa02f6b" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="613ef098e7d53" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="613f1aaa02f6b" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2686,22 +2622,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_613ef098e7d53" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_613ef098e7d53" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_613f1aaa02f6b" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_613f1aaa02f6b" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_613ef098e7d53" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_613ef098e7d53" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_613f1aaa02f6b" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_613f1aaa02f6b" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_613ef098e7d53" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_613ef098e7d53" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_613f1aaa02f6b" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_613f1aaa02f6b" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2711,7 +2647,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_613ef098e7d53_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_613f1aaa02f6b_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2730,7 +2666,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-613ef098e7d53 script').remove();
+    jQuery('#iphorm-outer-613f1aaa02f6b script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
