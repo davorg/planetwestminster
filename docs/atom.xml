@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-02T12:34:56Z</updated>
+  <updated>2022-01-02T15:35:54Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -27,6 +27,70 @@
     <published>2022-01-02T08:15:29Z</published>
     <updated>2022-01-02T08:15:29Z</updated>
     <category term="Uncategorized"/>
+  </entry>
+  <entry>
+    <title>2022 Year Ahead – Letter from Westminster – January 2022</title>
+    <link rel="alternate" href="https://www.philipdunne.com/news/2022-year-ahead-letter-westminster-january-2022" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="7068" class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      
+            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">1 January 2022</div>
+      
+      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>2022 Year Ahead – Letter from Westminster – January 2022</span></div>
+      
+            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span><span>It is with a deep sense of regret that for the second year in a row, my letter at the turn of a New Year cannot but focus on the coronavirus pandemic. </span></span></span></p>
+
+<p><span><span><span>Like all of us one year ago, when the first doses of the vaccine were being rolled out, I hoped that these jabs and the unfortunate restrictions put in place to curb the spread of the Delta variant would be the final push towards defeating covid from our lives. </span></span></span></p>
+
+<p><span><span><span>Sadly, the virus has mutated, putting an end to any such hopes this winter. I write ahead of the Christmas break, and I am mindful that we are still unsure of the impact of the Omicron variant on cases, hospitalisations and deaths. But it is a clear reminder that covid is still with us for the foreseeable future. I urge everyone to get their booster jab as soon as they are eligible, to help protect our community this year. </span></span></span></p>
+
+<p><span><span><span>Looking back over the past year, it is remarkable that we have gone from administering the first approved dose of the vaccine anywhere in the world last December, to over 120 million doses administered now, one million of which have been in Shropshire. This has been in no small part thanks to the remarkable efforts of NHS staff, and the hard work of our local GPs and Primary Care Network staff and volunteers here in South Shropshire, to whom we should be very grateful. </span></span></span></p>
+
+<p><span><span><span>Despite all the havoc wreaked on the Parliamentary timetable in 2020, the past 12 months have been a busy time in Westminster, with several landmark pieces of legislation passing into law. The first serious effort in decades to reform funding of social care was a landmark moment.</span></span></span></p>
+
+<p><span><span><span>For me, perhaps the most significant was the Environment Act. There are many reasons for this, given it is such a wide-ranging piece of legislation, covering plastic waste, pollinators, ancient woodlands, a new Office for Environmental Protection, and air and water quality targets - all helping us to leave the environment in a better state than we found it. </span></span></span></p>
+
+<p><span><span><span>But it also represented the culmination of my long running campaign to introduce legislation to reduce sewage pollution into our rivers. After pressing the government hard to take action on this issue, supported by many campaigning organisations, including the Rivers Trust, Angling Trust and Surfers Against Sewage, I am delighted that we secured a legal duty on water companies progressively to reduce the impact of sewage discharges from storm overflows, which contains the essence of what I have been campaigning for since the 2019 General Election.  </span></span></span></p>
+
+<p><span><span><span>This is not the end of sewage pollution, and I will continue to do all I can to keep up the fight. But the progress we made this year was the most meaningful step forward on this issue in decades. </span></span></span></p>
+
+<p><span><span><span>Over the next year, I expect the government to progress further in delivering on its manifesto commitments, though the immediate need to combat the pandemic will continue to be the primary focus. </span></span></span></p>
+
+<p><span><span><span>The Environmental Audit Committee will continue our work holding government to account for its environmental commitments, including those made at COP26 in November last year. We have a number of inquiries underway, including examining how HM Treasury could incorporate environmental sustainability into its leading measures of the UK’s economic success. </span></span></span></p>
+
+<p><span><span><span>I remain happy to engage with constituents on these and any other issues of concern, and the best way to contact me is via email at <a href="mailto:philip.dunne.mp@parliament.uk">philip.dunne.mp@parliament.uk</a>. I wish everyone in South Shropshire a Happy New Year, with best wishes for 2022. </span></span></span></p>
+
+<p> </p>
+
+<p><span><span><span>Philip </span></span></span></p>
+
+<p> </p>
+
+<p><span><span><span>Rt Hon Philip Dunne</span></span></span></p>
+
+<p><span><span><span>MP for Ludlow </span></span></span></p>
+
+<p> </p></div>
+      
+      </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+</div>
+    </content>
+    <author>
+      <name>jon</name>
+    </author>
+    <id>7068 at https://www.philipdunne.com</id>
+    <published>2022-01-01T22:00:00Z</published>
+    <updated>2022-01-01T22:00:00Z</updated>
   </entry>
   <entry>
     <title>Happy New Year 2022</title>
@@ -323,64 +387,6 @@
     <updated>2021-12-24T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>Christmas Message</title>
-    <link rel="alternate" href="https://www.philipdunne.com/news/christmas-message" type="text/html"/>
-    <content type="html">  &lt;div data-history-node-id="7078" class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      
-            &lt;div class="field field--name-field-date field--type-datetime field--label-hidden field--item"&gt;22 December 2021&lt;/div&gt;
-      
-      &lt;div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items"&gt;
-              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
-          
-            &lt;div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"&gt;&lt;span&gt;Christmas Message&lt;/span&gt;&lt;/div&gt;
-      
-            &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;As the year begins to draw to a close, it is very disappointing for us all that this year, like last, Christmas has been overshadowed by a rapidly spreading variant of covid. I am pleased the Prime Minister has announced today there will be no further restrictions affecting Christmas. &lt;br /&gt;&lt;br /&gt;
-Unlike last year, however, our population now benefits from protection from multiple doses of coronavirus vaccine. Some 126 million doses have been administered since Maggie Keenan became the first person in the world to receive an approved vaccine dose in Coventry Hospital on 8th December last year, over one million in Shropshire. &lt;br /&gt;&lt;br /&gt;
-But the rapid spread of the Omicron variant does mean that people will have to think carefully about how they see others this Christmas, and take precautions where possible, including taking a lateral flow test just before meeting others. I know this will impact how some will have wanted to spend Christmas, since it is traditionally when family and friends come together. &lt;br /&gt;&lt;br /&gt;
-The best thing we can do to protect ourselves and others in the community is to go for your booster jab as soon as you become eligible, if you have not already. I had my booster in mid-November.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-      
-      &lt;/div&gt;
-&lt;/div&gt;
-              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--image paragraph--view-mode--default"&gt;
-              
-      &lt;div class="image-container"&gt;
-        
-            &lt;div class="field field--name-field-paragraph-image field--type-entity-reference field--label-hidden field--item"&gt;  &lt;img src="https://www.philipdunne.com/sites/philipdunne.com/files/2021-12/philip_dunne_vaccination_centre.jpg" width="1200" height="902" alt="Philip Dunne MP at Covid-19 Vaccination Centre" typeof="foaf:Image" class="img-responsive" /&gt;&lt;/div&gt;
-      
-        &lt;div class="caption"&gt;
-          &lt;div class="svg"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-          &lt;/div&gt;
-&lt;/div&gt;
-              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
-          
-            &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Having visited local vaccination clinics and seen the extraordinary lengths our vaccinators and volunteers have gone to (one small example from Alveley &lt;a href="https://philipdunne.us10.list-manage.com/track/click?u=fb244e747480742ef945f74b1&amp;id=75293c5a30&amp;e=4b7a5db5f4"&gt;&lt;span&gt;here&lt;/span&gt;&lt;/a&gt;), I know the considerable effort going on to see us through this tough period, and ensure as many people as possible are protected.&lt;br /&gt;&lt;br /&gt;
-I cannot predict how the impact of Omicron will develop in coming weeks, nor whether further measures will be needed from the government in response, though I sincerely hope not - I shall seek evidence of increasing hospitalisation rates before I vote for further measures. &lt;br /&gt;&lt;br /&gt;
-I know some will be looking ahead with trepidation. But this Christmas, I would encourage them to take heart from the way in which we have responded to the challenges we have faced over the past two years. &lt;br /&gt;&lt;br /&gt;
-Coronavirus has shown more starkly than any other time since I have been your MP the strength of our community spirit in South Shropshire. So I know we will come through this challenge, just as we have before. &lt;br /&gt;&lt;br /&gt;
-I wish you and your family a very Happy Christmas, with best wishes for the year ahead. &lt;br /&gt;&lt;br /&gt;
-With kind regards&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Philip&lt;/strong&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;
- &lt;/p&gt;&lt;/div&gt;
-      
-      &lt;/div&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-  
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-</content>
-    <author>
-      <name>jon</name>
-    </author>
-    <id>7078 at https://www.philipdunne.com</id>
-    <published>2021-12-22T22:00:00Z</published>
-    <updated>2021-12-22T22:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Residents charged for window cleaning in burned-out flats. MP responds.</title>
     <link rel="alternate" href="https://www.shapps.com/residents-charged-for-window-cleaning-in-burned-out-flats-mp-responds/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=residents-charged-for-window-cleaning-in-burned-out-flats-mp-responds" type="text/html"/>
     <content type="xhtml">
@@ -550,7 +556,7 @@ Beverley Racecourse played a vital role in delivering COVID-19 vaccine doses ear
 Phone messages and emails will be checked regularly for emergencies only.<br />
 If you are a constituent that requires urgent help, I&#8217;ve put together a list of emergency contacts that may be helpful. Find them here.<br />
 I hope everyone has a safe and restful Christmas, and a happy new year!</p>
-<p>Related postsLiz calls for strategy to vaccinate all care home staffLiz discusses social care with Labour councillorsPreventing crime through mediationLiz visits West Gate SchoolMP shows support for carers over a cuppa</p>
+<p>Related postsLiz backs campaign to give parents better support for childcare under Universal CreditLiz appointed Shadow Health MinisterLiz&#8217;s latest column for the Leicester Mercury&#8216;Time for action&#8217;: Campaigners call for widespread changes to save Bury ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/christmas-office-closure/">Christmas Office Closure</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -559,7 +565,7 @@ I hope everyone has a safe and restful Christmas, and a happy new year!</p>
 <p>If you are a constituent that requires urgent help, I&#8217;ve put together a list of emergency contacts that may be helpful. <a href="https://lizkendall.org/urgent-contacts-christmas/">Find them here.</a></p>
 <p>I hope everyone has a safe and restful Christmas, and a happy new year!</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10905" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-for-strategy-to-vaccinate-all-care-home-staff/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" alt="Liz calls for strategy to vaccinate all care home staff" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-for-strategy-to-vaccinate-all-care-home-staff/" class="wp_rp_title">Liz calls for strategy to vaccinate all care home staff</a></li><li data-position="1" data-poid="in-10449" data-post-type="none" ><a href="https://lizkendall.org/liz-discusses-social-care-with-labour-councillors/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/09/200910-LGA-Group-Meeting-03-150x150.png" alt="Liz discusses social care with Labour councillors" width="150" height="150" /></a><a href="https://lizkendall.org/liz-discusses-social-care-with-labour-councillors/" class="wp_rp_title">Liz discusses social care with Labour councillors</a></li><li data-position="2" data-poid="in-7974" data-post-type="none" ><a href="https://lizkendall.org/preventing-crime-through-mediation/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/07/rj-150x150.jpg" alt="Preventing crime through mediation" width="150" height="150" /></a><a href="https://lizkendall.org/preventing-crime-through-mediation/" class="wp_rp_title">Preventing crime through mediation</a></li><li data-position="3" data-poid="in-11323" data-post-type="none" ><a href="https://lizkendall.org/liz-visits-west-gate-school/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-15-at-15.00.46-150x150.jpeg" alt="Liz visits West Gate School" width="150" height="150" /></a><a href="https://lizkendall.org/liz-visits-west-gate-school/" class="wp_rp_title">Liz visits West Gate School</a></li><li data-position="4" data-poid="in-3611" data-post-type="none" ><a href="https://lizkendall.org/mp-shows-support-for-carers-over-a-cuppa-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/18.jpg" alt="MP shows support for carers over a cuppa" width="150" height="150" /></a><a href="https://lizkendall.org/mp-shows-support-for-carers-over-a-cuppa-2/" class="wp_rp_title">MP shows support for carers over a cuppa</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-9588" data-post-type="none" ><a href="https://lizkendall.org/liz-backs-campaign-for-better-childcare-support-under-uc/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2019/07/Liz-and-Save-the-Children-150x150.png" alt="Liz backs campaign to give parents better support for childcare under Universal Credit" width="150" height="150" /></a><a href="https://lizkendall.org/liz-backs-campaign-for-better-childcare-support-under-uc/" class="wp_rp_title">Liz backs campaign to give parents better support for childcare under Universal Credit</a></li><li data-position="1" data-poid="in-2216" data-post-type="none" ><a href="https://lizkendall.org/liz-appointed-shadow-health-minister/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" alt="Liz appointed Shadow Health Minister" width="150" height="150" /></a><a href="https://lizkendall.org/liz-appointed-shadow-health-minister/" class="wp_rp_title">Liz appointed Shadow Health Minister</a></li><li data-position="2" data-poid="in-10192" data-post-type="none" ><a href="https://lizkendall.org/lizs-latest-column-for-the-leicester-mercury-3/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/05/Untitled-150x150.png" alt="Liz&#8217;s latest column for the Leicester Mercury" width="150" height="150" /></a><a href="https://lizkendall.org/lizs-latest-column-for-the-leicester-mercury-3/" class="wp_rp_title">Liz&#8217;s latest column for the Leicester Mercury</a></li><li data-position="3" data-poid="in-7007" data-post-type="none" ><a href="https://lizkendall.org/time-for-action-campaigners-call-for-widespread-changes-to-save-bury-hospice-bury-times-30-january/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2015/01/Bury-North-1-150x150.png" alt="&#8216;Time for action&#8217;: Campaigners call for widespread changes to save Bury Hospice (Bury Times, 30 January)" width="150" height="150" /></a><a href="https://lizkendall.org/time-for-action-campaigners-call-for-widespread-changes-to-save-bury-hospice-bury-times-30-january/" class="wp_rp_title">&#8216;Time for action&#8217;: Campaigners call for widespread changes to save Bury Hospice (Bury Times, 30 January)</a></li><li data-position="4" data-poid="in-5548" data-post-type="none" ><a href="https://lizkendall.org/liz-explains-how-labour-will-stand-up-for-ordinary-people/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/24.jpg" alt="Liz explains how Labour will stand up for ordinary people " width="150" height="150" /></a><a href="https://lizkendall.org/liz-explains-how-labour-will-stand-up-for-ordinary-people/" class="wp_rp_title">Liz explains how Labour will stand up for ordinary people </a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/christmas-office-closure/">Christmas Office Closure</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -718,8 +724,11 @@ I hope everyone has a safe and restful Christmas, and a happy new year!</p>
     <title>Christmas Message 2021</title>
     <link rel="alternate" href="https://joncruddas.org.uk/christmas-message-2021" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><span property="schema:name">Christmas Message 2021</span>
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<span property="schema:name">Christmas Message 2021</span>
+
 <span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/user/12" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Andrew</span></span>
+
 <span property="schema:dateCreated" content="2021-12-21T10:45:00+00:00">Tue, 12/21/2021 - 10:45</span>
 </div>
     </content>
@@ -1779,23 +1788,6 @@ Expert advice is important but decisions must be made by those we elect, who are
     <updated>2021-12-14T16:42:20Z</updated>
   </entry>
   <entry>
-    <title>MARTIN PAYS TRIBUTE TO FAMILIES OF LISA BROWN AND JAGTAR SINGH JOHAL IN PARLIAMENTARY DEBATE</title>
-    <link rel="alternate" href="http://martindocherty.scot/martin-pays-tribute-to-families-of-lisa-brown-and-jagtar-singh-johal-in-parliamentary-debate/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>SNP MP Martin Docherty-Hughes has paid tribute to families in West Dunbartonshire during a debate in the House of Commons calling for better consular assistance for UK citizens experiencing trauma abroad. Local MP Docherty-Hughes – who is Vice-Chair of the All-Party Parliamentary Group (APPG) on Deaths Abroad, Consular Services and Assistance – cited West Dunbartonshire’s … </p>
-<p class="link-more"><a href="http://martindocherty.scot/martin-pays-tribute-to-families-of-lisa-brown-and-jagtar-singh-johal-in-parliamentary-debate/" class="more-link">Continue reading<span class="screen-reader-text"> "MARTIN PAYS TRIBUTE TO FAMILIES OF LISA BROWN AND JAGTAR SINGH JOHAL IN PARLIAMENTARY DEBATE"</span></a></p>
-<p>The post <a rel="nofollow" href="http://martindocherty.scot/martin-pays-tribute-to-families-of-lisa-brown-and-jagtar-singh-johal-in-parliamentary-debate/">MARTIN PAYS TRIBUTE TO FAMILIES OF LISA BROWN AND JAGTAR SINGH JOHAL IN PARLIAMENTARY DEBATE</a> appeared first on <a rel="nofollow" href="http://martindocherty.scot">Martin Docherty-Hughes MP</a>.</p>
-</div>
-    </content>
-    <author>
-      <name>Communications Officer</name>
-    </author>
-    <id>http://martindocherty.scot/?p=1741782</id>
-    <published>2021-12-14T16:25:07Z</published>
-    <updated>2021-12-14T16:25:07Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>Vaccine Passports</title>
     <link rel="alternate" href="https://www.bobstewart.org.uk/news/vaccine-passports" type="text/html"/>
     <content type="xhtml">
@@ -2241,8 +2233,11 @@ For example, the process of taking notes on long lectures trains the speed of wr
     <title>End Fire and Rehire</title>
     <link rel="alternate" href="https://www.dianajohnson.co.uk/content/end-fire-and-rehire" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><span property="schema:name">End Fire and Rehire</span>
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<span property="schema:name">End Fire and Rehire</span>
+
 <span rel="schema:author"><span lang="" about="https://www.dianajohnson.co.uk/user/37" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">David</span></span>
+
 <span property="schema:dateCreated" content="2021-10-22T15:02:00+00:00">Fri, 10/22/2021 - 16:02</span>
 </div>
     </content>
@@ -2392,10 +2387,10 @@ For example, the process of taking notes on long lectures trains the speed of wr
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-61d19afaec496" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-61d19afaec6c4" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-61d19afaec8b3" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-61d19afaec9a2" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-61d1c4c516ab8" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-61d1c4c516cb7" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-61d1c4c516e64" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-61d1c4c516f6f" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2711,10 +2706,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-61d19bd1a471e" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-61d1c5a94843f" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-61d19bd1a471e').iPhorm({"id":5,"uniqueId":"61d19bd1a471e","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-61d1c5a94843f').iPhorm({"id":5,"uniqueId":"61d1c5a94843f","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2789,10 +2784,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-61d19bd1a471e" class="iphorm iphorm-form-5" action="/feed/#iphorm-61d19bd1a471e" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-61d1c5a94843f" class="iphorm iphorm-form-5" action="/feed/#iphorm-61d1c5a94843f" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="61d19bd1a471e" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="61d1c5a94843f" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2801,22 +2796,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_61d19bd1a471e" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_61d19bd1a471e" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_61d1c5a94843f" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_61d1c5a94843f" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_61d19bd1a471e" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_61d19bd1a471e" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_61d1c5a94843f" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_61d1c5a94843f" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_61d19bd1a471e" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_61d19bd1a471e" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_61d1c5a94843f" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_61d1c5a94843f" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2826,7 +2821,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_61d19bd1a471e_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_61d1c5a94843f_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2845,7 +2840,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-61d19bd1a471e script').remove();
+    jQuery('#iphorm-outer-61d1c5a94843f script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2904,7 +2899,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzW_9fd_FPDdosQUN60ks-pMUdmxEW-ugTk7AZYT-trF640OPHuSy7sIyUnK2cHmIOx7t_URl70OjzHa3dc1w' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwDexkeC5dWl8eEczajRtR-xKqXrFJPffX9iwqcu9jJCpjxo1Mkd439rfpZk5x_f35IEzqAST6mBWvzru0sSg' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
