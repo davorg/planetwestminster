@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-31T15:37:05Z</updated>
+  <updated>2022-03-31T18:34:23Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -61,74 +61,96 @@
     <category term="Meter reading day"/>
   </entry>
   <entry>
-    <title>Environmental Audit Committee launches new inquiry into accelerating the transition from fossil fuels and securing energy supplies</title>
-    <link rel="alternate" href="https://www.philipdunne.com/news/environmental-audit-committee-launches-new-inquiry-accelerating-transition-fossil-fuels-and" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="7147" class="layout layout--onecol">
-    <div class="layout__region layout__region--content">
+    <title>Dunne questions PM on energy security strategy as EAC launches new inquiry</title>
+    <link rel="alternate" href="https://www.philipdunne.com/news/dunne-questions-pm-energy-security-strategy-eac-launches-new-inquiry" type="text/html"/>
+    <content type="html">  &lt;div data-history-node-id="7147" class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
       
-            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">31 March 2022</div>
+            &lt;div class="field field--name-field-date field--type-datetime field--label-hidden field--item"&gt;31 March 2022&lt;/div&gt;
       
-      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+      &lt;div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
           
-            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Environmental Audit Committee launches new inquiry into accelerating the transition from fossil fuels and securing energy supplies</span></div>
+            &lt;div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"&gt;&lt;span&gt;Dunne questions PM on energy security strategy as EAC launches new inquiry&lt;/span&gt;&lt;/div&gt;
       
-            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span><strong><span>How can the UK reduce reliance on oil and gas and accelerate the transition to net zero? </span></strong></span></span></p>
-
-<p><span><span><span>In response to the surge in fossil fuel prices and continued speculation on what will be included in the Government’s Energy Security Strategy, the Environmental Audit Committee today launches an inquiry examining how the UK can reduce its reliance on oil and gas and protect households from soaring fossil fuel prices. </span></span></span></p>
-
-<p><span><span><span>Currently, fossil fuels make up three-quarters of the UK’s energy mix, with oil and gas being used to generate electricity, heat our homes and fuel our vehicles. As a result of international agreements and domestic legislation on meeting net zero, the UK has been pressing ahead with its renewable energy ambitions. In the light of Russia’s ongoing invasion of Ukraine and the resulting surge in oil and gas prices, there is renewed focus on how the UK can improve its energy security and accelerate the shift away from fossil fuels. </span></span></span></p>
-
-<p><span><span><span>During this inquiry, the EAC will be considering the transitional role of oil and gas exploration and development on the UK continental shelf, and how the UK can phase out fossil fuel use and subsidies in line with the commitments made at COP26 in Glasgow to limit temperature increases to 1.5°C. This work will complement any inquiry the Business, Energy and Industrial Strategy (BEIS) committee undertakes on the UK’s 2035 power sector targets and the future electricity mix in the light of the expected Energy Security Strategy. </span></span></span></p>
-
-<p><span><span><span>This latest EAC inquiry comes as many households across the UK are facing a cost of living crisis with rocketing bills and inflation creating a significant additional squeeze on household finances. Protecting households from high fossil fuel prices and fuel poverty, while ensuring security of supply and continued progress towards net zero, is critical if any energy security strategy is to be successful.   </span></span></span></p>
-
-<p><span><span><span>Environmental Audit Committee chairman, Rt Hon Philip Dunne MP, said:</span></span></span></p>
-
-<blockquote>
-<p><span><span><span>“The Government’s Energy Security Strategy is sorely needed as many households across the country struggle with an ever-increasing cost of living crisis. As speculation mounts over what will be included in the strategy, our committee is wasting no time exploring how to secure domestic energy supplies, accelerate the UK’s transition to net zero and protect households from eye-watering fossil fuel prices. </span></span></span></p>
-
-<p><span><span><span>“Security of energy supply is absolutely vital. There will be a continued role for oil and gas in the coming three decades as we make the transition to net zero. But how much of the UK’s oil and gas reserves can be exploited while limiting global temperature rises to 1.5c in line with the Paris Agreement? Can we make better use of resources in the North Sea for our own domestic energy supplies to reduce reliance on imports? Should the Government continue to provide tax breaks or financial support to the fossil fuel industry? Can we turbocharge renewable energy installations and energy efficiency improvements to power and heat homes affordably? </span></span></span></p>
-
-<p><span><span><span>“We will be exploring these questions, and many others, as we dive into this issue.”</span></span></span></p>
-</blockquote>
-
-<p><span><span><span> </span></span></span></p>
-
-<h3><span><span><span>Terms of reference</span></span></span></h3>
-
-<p><span><span>The Committee invites written submissions of no more than 3000 words, addressing any or all of the issues raised in the following terms of reference, <strong>by Friday 6th May 2022</strong>:</span></span></p>
-
-<p><span><span><span><em>Securing sustainable energy supplies and protecting households from high prices</em></span></span></span></p>
-
-<ul><li><span><span><span><span>How effective will the Government’s Energy Security Strategy be: at reducing reliance on oil and gas at the pace required to limit global heating to 1.5 degrees; securing alternative energy supplies; and protecting households from high fossil fuel prices?</span></span></span></span></li>
-	<li><span><span><span><span>Should Government policies on onshore energy generation or exploration be revised in light of the energy security situation? Given the current and potential speed of deployment, what low-carbon energy sources are most likely to secure supplies of affordable and sustainable energy rapidly?</span></span></span></span></li>
-	<li><span><span><span><span>Is the Government doing enough to protect the high number of households likely to fall into fuel poverty as a result of high fossil fuel prices over the coming year? To what extent, and how rapidly, could energy saving or efficiency measures help to reduce reliance on oil and gas and relieve fuel poverty?</span></span></span></span></li>
-	<li><span><span><span><span>Which elements of the International Energy Agency’s 10-point plans to Reduce Reliance on Russian Natural Gas and Cut Oil Use are relevant to the UK and which could the Government seek to implement as a priority?</span></span></span></span></li>
-</ul><p><span><span><span><em>Tax and the fossil fuel industry</em></span></span></span></p>
-
-<ul><li><span><span><span><span>What impact will high prices for oil and gas have on production and the net zero transition? What are the pros and cons of a windfall tax levied on fossil energy producers? How should the revenue from any levy be allocated?</span></span></span></span></li>
-	<li><span><span><span><span>Should the Government continue to provide tax reliefs or financial support to the fossil fuel industry, such as the ring-fence corporate tax relief for new oil and gas fields?</span></span></span></span></li>
-	<li><span><span><span><span>How can Government phase out support for fossil fuels whilst most effectively supporting households through the transition?</span></span></span></span></li>
-</ul><p><span><span><span><em>The transitional role of oil and gas in the energy mix</em></span></span></span></p>
-
-<ul><li><span><span><span><span>Can the UK’s oil and gas reserves be exploited while limiting global temperature rises to 1.5c in line with the Paris Agreement?</span></span></span></span></li>
-	<li><span><span><span><span>Is carbon capture and storage technology sufficiently mature to be deployed at scale in the necessary timescale? What economic opportunities are there in carbon capture in the North Sea? What risks are there to relying on carbon capture technologies?</span></span></span></span></li>
-	<li><span><span><span><span>While the UK continues to use fossil fuels during the transition to net zero, how significant is the environmental or carbon benefit of exploiting domestic oil and gas reserves compared to importing fuels from other major suppliers?</span></span></span></span></li>
-	<li><span><span><span><span>Is the North Sea Transition Deal structured appropriately to meet net zero goals and support a ‘just transition’ for those working within the oil and gas sector in the UK? Is there sufficient independent oversight of the Deal?</span></span></span></span></li>
-	<li><span><span><span><span>Is the North Sea Transition Deal genuinely compatible with the UK’s current domestic carbon targets and international obligations? How rigorous is the proposed Climate Compatibility Checkpoint for new oil and gas fields?</span></span></span></span></li>
-</ul><p><span><span><span> </span></span></span></p></div>
+            &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;p&gt;Philip Dunne, Chair of the Environmental Audit Committee, questioned the PM on &lt;span&gt;&lt;span&gt;&lt;span&gt;the Government’s Energy Security Strategy as the Committee&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; launches a new inquiry into accelerating the transition from fossil fuels and securing energy supplies.&lt;/p&gt;&lt;/div&gt;
       
-      </div>
-</div>
-          </div>
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--video paragraph--view-mode--default"&gt;
+            
+        &lt;div class="video-relative"&gt;
+            
+            &lt;div class="field field--name-field-video field--type-video-embed-field field--label-hidden field--item"&gt;&lt;div class="video-embed-field-provider-youtube video-embed-field-responsive-video form-group"&gt;&lt;iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" class="embed-video" id="embed-video-31453" allowscriptaccess="always" src="https://www.youtube-nocookie.com/embed/NtBP3EgpXKQ?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+            &lt;div class="overlay"&gt;
+                &lt;div class="paragraph-image-wrapper" style="background-image: url()"&gt;&lt;/div&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="caption"&gt;
+            
+        &lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+              &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
+          
+            &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt;How can the UK reduce reliance on oil and gas and accelerate the transition to net zero? &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;In response to the surge in fossil fuel prices and continued speculation on what will be included in the Government’s Energy Security Strategy, the Environmental Audit Committee today launches an inquiry examining how the UK can reduce its reliance on oil and gas and protect households from soaring fossil fuel prices. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Currently, fossil fuels make up three-quarters of the UK’s energy mix, with oil and gas being used to generate electricity, heat our homes and fuel our vehicles. As a result of international agreements and domestic legislation on meeting net zero, the UK has been pressing ahead with its renewable energy ambitions. In the light of Russia’s ongoing invasion of Ukraine and the resulting surge in oil and gas prices, there is renewed focus on how the UK can improve its energy security and accelerate the shift away from fossil fuels. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;During this inquiry, the EAC will be considering the transitional role of oil and gas exploration and development on the UK continental shelf, and how the UK can phase out fossil fuel use and subsidies in line with the commitments made at COP26 in Glasgow to limit temperature increases to 1.5°C. This work will complement any inquiry the Business, Energy and Industrial Strategy (BEIS) committee undertakes on the UK’s 2035 power sector targets and the future electricity mix in the light of the expected Energy Security Strategy. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;This latest EAC inquiry comes as many households across the UK are facing a cost of living crisis with rocketing bills and inflation creating a significant additional squeeze on household finances. Protecting households from high fossil fuel prices and fuel poverty, while ensuring security of supply and continued progress towards net zero, is critical if any energy security strategy is to be successful.   &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Environmental Audit Committee chairman, Rt Hon Philip Dunne MP, said:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;“The Government’s Energy Security Strategy is sorely needed as many households across the country struggle with an ever-increasing cost of living crisis. As speculation mounts over what will be included in the strategy, our committee is wasting no time exploring how to secure domestic energy supplies, accelerate the UK’s transition to net zero and protect households from eye-watering fossil fuel prices. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;“Security of energy supply is absolutely vital. There will be a continued role for oil and gas in the coming three decades as we make the transition to net zero. But how much of the UK’s oil and gas reserves can be exploited while limiting global temperature rises to 1.5c in line with the Paris Agreement? Can we make better use of resources in the North Sea for our own domestic energy supplies to reduce reliance on imports? Should the Government continue to provide tax breaks or financial support to the fossil fuel industry? Can we turbocharge renewable energy installations and energy efficiency improvements to power and heat homes affordably? &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;“We will be exploring these questions, and many others, as we dive into this issue.”&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Terms of reference&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;The Committee invites written submissions of no more than 3000 words, addressing any or all of the issues raised in the following terms of reference, &lt;strong&gt;by Friday 6th May 2022&lt;/strong&gt;:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;em&gt;Securing sustainable energy supplies and protecting households from high prices&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;How effective will the Government’s Energy Security Strategy be: at reducing reliance on oil and gas at the pace required to limit global heating to 1.5 degrees; securing alternative energy supplies; and protecting households from high fossil fuel prices?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Should Government policies on onshore energy generation or exploration be revised in light of the energy security situation? Given the current and potential speed of deployment, what low-carbon energy sources are most likely to secure supplies of affordable and sustainable energy rapidly?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Is the Government doing enough to protect the high number of households likely to fall into fuel poverty as a result of high fossil fuel prices over the coming year? To what extent, and how rapidly, could energy saving or efficiency measures help to reduce reliance on oil and gas and relieve fuel poverty?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Which elements of the International Energy Agency’s 10-point plans to Reduce Reliance on Russian Natural Gas and Cut Oil Use are relevant to the UK and which could the Government seek to implement as a priority?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;em&gt;Tax and the fossil fuel industry&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;What impact will high prices for oil and gas have on production and the net zero transition? What are the pros and cons of a windfall tax levied on fossil energy producers? How should the revenue from any levy be allocated?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Should the Government continue to provide tax reliefs or financial support to the fossil fuel industry, such as the ring-fence corporate tax relief for new oil and gas fields?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;How can Government phase out support for fossil fuels whilst most effectively supporting households through the transition?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;em&gt;The transitional role of oil and gas in the energy mix&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Can the UK’s oil and gas reserves be exploited while limiting global temperature rises to 1.5c in line with the Paris Agreement?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Is carbon capture and storage technology sufficiently mature to be deployed at scale in the necessary timescale? What economic opportunities are there in carbon capture in the North Sea? What risks are there to relying on carbon capture technologies?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;While the UK continues to use fossil fuels during the transition to net zero, how significant is the environmental or carbon benefit of exploiting domestic oil and gas reserves compared to importing fuels from other major suppliers?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Is the North Sea Transition Deal structured appropriately to meet net zero goals and support a ‘just transition’ for those working within the oil and gas sector in the UK? Is there sufficient independent oversight of the Deal?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Is the North Sea Transition Deal genuinely compatible with the UK’s current domestic carbon targets and international obligations? How rigorous is the proposed Climate Compatibility Checkpoint for new oil and gas fields?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+      
+      &lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
   
-    </div>
-  </div>
+    &lt;/div&gt;
+  &lt;/div&gt;
 
-</div>
-    </content>
+</content>
     <author>
       <name>jon</name>
     </author>
@@ -356,6 +378,20 @@ The MP had the chance to meet with researchers working on the latest breakthroug
       <div xmlns="http://www.w3.org/1999/xhtml">Anne-Marie Trevelyan, MP for Berwick-upon-Tweed, met DCMS Minister Julia Lopez today to discuss concerns she and her constituents had over plans to convert the old and deteriorating copper landline networks to newer digital VOIP [voice over internet protocol] systems. The plans were underway and…</div>
     </content>
     <id>https://www.teamtrevelyan.co.uk/news/mp-meets-minister-discuss-storm-arwen-landline-concerns</id>
+    <published>2022-03-31T13:00:00+01:00</published>
+    <updated>2022-03-31T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Scott Benton MP welcomes £872,720 of funding to support cultural organisations in Blackpool South</title>
+    <link rel="alternate" href="https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-ps872720-funding-support-cultural-organisations-blackpool-south" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+Blackpool South is set to benefit from the next round of the Conservative Government’s Culture Recovery Fund, with £35 million being provided to help iconic cultural and heritage organisations in England protect jobs as they recover from the pandemic.
+
+
+341 organisations across England will…</div>
+    </content>
+    <id>https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-ps872720-funding-support-cultural-organisations-blackpool-south</id>
     <published>2022-03-31T13:00:00+01:00</published>
     <updated>2022-03-31T13:00:00+01:00</updated>
   </entry>
@@ -743,20 +779,6 @@ I encourage not only school groups…</div>
     <updated>2022-03-28T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Intensive investment boost for schools in Blackpool under Conservative Government’s Levelling Up plans</title>
-    <link rel="alternate" href="https://www.scottbenton.org.uk/news/intensive-investment-boost-schools-blackpool-under-conservative-governments-levelling-plans" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-Schools in Blackpool will receive extra support to help people receive the best possible education and gain the skills and knowledge needed to unleash their potential. 
-
-
-The Conservative Government is targeting intensive investment in areas across the country where school outcomes are weakest –…</div>
-    </content>
-    <id>https://www.scottbenton.org.uk/news/intensive-investment-boost-schools-blackpool-under-conservative-governments-levelling-plans</id>
-    <published>2022-03-28T13:00:00+01:00</published>
-    <updated>2022-03-28T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Anne Marie's Weekly Column</title>
     <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-152" type="text/html"/>
     <content type="xhtml">
@@ -899,7 +921,7 @@ The Chancellor had a choice. He could have scrapped his unfair national insuranc
 <p class="x_MsoNormal">This tax raising Chancellor is out of touch, and his failure to tackle the cost-of-living crisis has been given a <a href="https://www.ft.com/content/c041350e-5822-4c58-9d78-ea256629f20c?accessToken=zwAAAX-7pYO0kdPAQTUOWCJMWNOdeOolZinyDA.MEUCIEjcIWoHuzx7Fdo108RucuaSSHhTPYO4lajWJ7Gua-egAiEAqY2y3bP66wzOiO7BM19IyX4C0wFw-jMz1IT6QID1JXo&amp;sharetype=gift?token=325f3514-adbb-4c38-9c73-39674b690b55" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">crushing verdict by people in Leicester.</a>&nbsp;&nbsp;</p>
 <p class="x_MsoNormal">Labour would tax fairly, spend wisely, and grow our economy. You can watch Labour’s Shadow Chancellor, Rachel Reeves, respond the Spring Statement <a href="https://www.parliamentlive.tv/Event/Index/fcf17935-ca44-419c-81ad-a02caf216a77">here</a> or read it <a href="https://hansard.parliament.uk/Commons/2022-03-23/debates/5794DE1D-BBED-49D3-943C-84CFE39A2526/FinancialStatement#contribution-02D78708-B690-4F06-8A34-C99883959F78">here&nbsp;</a></p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-4910" data-post-type="none" ><a href="https://lizkendall.org/liz-speaks-about-the-contribution-older-people-make-to-the-economy/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/13.jpg" alt="Liz hosts reception in Parliament about older people and the economy" width="150" height="150" /></a><a href="https://lizkendall.org/liz-speaks-about-the-contribution-older-people-make-to-the-economy/" class="wp_rp_title">Liz hosts reception in Parliament about older people and the economy</a></li><li data-position="1" data-poid="in-3462" data-post-type="none" ><a href="https://lizkendall.org/state-funded-elderly-care-declining-labour-figures-suggest/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/14.jpg" alt="State-funded elderly care declining, Labour figures suggest" width="150" height="150" /></a><a href="https://lizkendall.org/state-funded-elderly-care-declining-labour-figures-suggest/" class="wp_rp_title">State-funded elderly care declining, Labour figures suggest</a></li><li data-position="2" data-poid="in-7369" data-post-type="none" ><a href="https://lizkendall.org/our-needs-have-been-forgotten-take-a-break-9th-april/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2015/04/2015-04-09-15.30.35-150x150.jpg" alt="&#8216;Our needs have been forgotten&#8217; (Take a Break, 9th April)" width="150" height="150" /></a><a href="https://lizkendall.org/our-needs-have-been-forgotten-take-a-break-9th-april/" class="wp_rp_title">&#8216;Our needs have been forgotten&#8217; (Take a Break, 9th April)</a></li><li data-position="3" data-poid="in-9045" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-for-government-action-following-grenfell-tower-tragedy/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/10.jpg" alt="Liz calls for Government action following Grenfell Tower tragedy" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-for-government-action-following-grenfell-tower-tragedy/" class="wp_rp_title">Liz calls for Government action following Grenfell Tower tragedy</a></li><li data-position="4" data-poid="in-9501" data-post-type="none" ><a href="https://lizkendall.org/liz-continues-to-fight-for-windrush-generation/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2019/05/IMG-20190514-WA0003-150x150.jpg" alt="Liz continues to fight for Windrush Generation" width="150" height="150" /></a><a href="https://lizkendall.org/liz-continues-to-fight-for-windrush-generation/" class="wp_rp_title">Liz continues to fight for Windrush Generation</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10614" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-for-a-circuit-break-on-peston/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/10/IMG_2922-150x150.jpg" alt="Liz calls for a circuit break on Peston" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-for-a-circuit-break-on-peston/" class="wp_rp_title">Liz calls for a circuit break on Peston</a></li><li data-position="1" data-poid="in-6797" data-post-type="none" ><a href="https://lizkendall.org/fullhurst-community-college-students-visit-westminster/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/11/IMG_2449-150x150.jpg" alt="Fullhurst Community College students visit Westminster" width="150" height="150" /></a><a href="https://lizkendall.org/fullhurst-community-college-students-visit-westminster/" class="wp_rp_title">Fullhurst Community College students visit Westminster</a></li><li data-position="2" data-poid="in-11175" data-post-type="none" ><a href="https://lizkendall.org/liz-visits-the-new-parks-hub/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2021/07/hub-150x150.jpg" alt="Liz visits the New Parks Hub" width="150" height="150" /></a><a href="https://lizkendall.org/liz-visits-the-new-parks-hub/" class="wp_rp_title">Liz visits the New Parks Hub</a></li><li data-position="3" data-poid="in-3688" data-post-type="none" ><a href="https://lizkendall.org/3688/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/23.jpg" alt="Two-tier exams &#8216;write off&#8217; many" width="150" height="150" /></a><a href="https://lizkendall.org/3688/" class="wp_rp_title">Two-tier exams &#8216;write off&#8217; many</a></li><li data-position="4" data-poid="in-2667" data-post-type="none" ><a href="https://lizkendall.org/hustings-at-leicester-college/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/28.jpg" alt="Hustings at Leicester College " width="150" height="150" /></a><a href="https://lizkendall.org/hustings-at-leicester-college/" class="wp_rp_title">Hustings at Leicester College </a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/the-chancellors-spring-statement-fails-to-deliver/">The Chancellor’s Spring Statement fails to deliver</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -1472,7 +1494,7 @@ The Kremlin must be reeling in shock. President Putin was no doubt briefed that 
 
 
 
-&lt;p&gt;Applicants should send their CV and a one page covering letter to &lt;a href="m&amp;#97;&amp;#x69;&amp;#x6c;t&amp;#111;&amp;#x3a;&amp;#x74;u&amp;#108;&amp;#x69;&amp;#x70;.&amp;#115;&amp;#x69;&amp;#x64;d&amp;#105;&amp;#x71;&amp;#x2e;m&amp;#112;&amp;#x40;&amp;#x70;a&amp;#114;&amp;#x6c;&amp;#x69;a&amp;#109;&amp;#x65;&amp;#x6e;t&amp;#46;&amp;#x75;&amp;#x6b;"&gt;t&amp;#x75;l&amp;#x69;&amp;#x70;.&amp;#x73;i&amp;#100;&amp;#x64;i&amp;#x71;.&amp;#109;&amp;#x70;&amp;#64;&amp;#x70;a&amp;#114;&amp;#x6c;i&amp;#x61;&amp;#x6d;e&amp;#x6e;t&amp;#46;&amp;#x75;k&lt;/a&gt; with the subject heading ‘Caseworker – Full name’. Due to the expected high volume of applications, only successful those applicants selected for interview will receive a response.&lt;/p&gt;
+&lt;p&gt;Applicants should send their CV and a one page covering letter to &lt;a href="m&amp;#97;&amp;#x69;lt&amp;#x6f;&amp;#x3a;tu&amp;#x6c;&amp;#x69;p.&amp;#x73;&amp;#x69;d&amp;#100;&amp;#x69;&amp;#x71;.&amp;#109;&amp;#x70;&amp;#x40;p&amp;#97;&amp;#x72;li&amp;#97;&amp;#x6d;en&amp;#x74;&amp;#x2e;uk"&gt;t&amp;#x75;&amp;#x6c;i&amp;#112;&amp;#x2e;s&amp;#105;&amp;#x64;&amp;#x64;i&amp;#x71;&amp;#x2e;m&amp;#112;&amp;#x40;p&amp;#97;&amp;#x72;&amp;#x6c;i&amp;#x61;&amp;#x6d;e&amp;#110;&amp;#x74;.&amp;#117;&amp;#x6b;&lt;/a&gt; with the subject heading ‘Caseworker – Full name’. Due to the expected high volume of applications, only successful those applicants selected for interview will receive a response.&lt;/p&gt;
 </content>
     <summary type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Closing date: Sunday 13th February 2022 Job title: CaseworkerWorking for: Tulip Siddiq MPLocation: Constituency Office (Hampstead and Kilburn)Salary: In line with IPSA payscales and dependent on experience Tulip Siddiq MP is looking for an enthusiastic and responsible individual to join her busy team and support constituents as a caseworker. Previous […]</div>
@@ -1663,6 +1685,29 @@ start to deliver for people.”&lt;/p&gt;
 ]]></content>
 		
 			</entry>
+  <entry>
+    <title>Vaccination Update</title>
+    <link rel="alternate" href="https://kitmalthouse.com/2021/vaccination-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vaccination-update" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>The Lights in Andover is one of 10 additional GP-led vaccination sites opening up in Hampshire over the next couple of days to deliver the lifesaving vaccine to the most vulnerable.  </p>
+
+
+
+<p>This is great news for Andover and the surrounding villages where the most vulnerable residents will have easier access to a vaccination site when their time comes to receive it. For now, vaccinations remain limited to the most vulnerable and the NHS will be contacting recipients. You can find further information about the vaccination programme on the NHS website. <a rel="noreferrer noopener" href="https://www.england.nhs.uk/coronavirus/covid-19-vaccination-programme/?fbclid=IwAR1fpUmKNp4yRr6QmFb7LJiCh5LvoLTJx6-Qah39dx87VAq6ASeUi1ZiApM" target="_blank">https://www.england.nhs.uk/…/covid-19-vaccination…/</a>This is more progress on the path to recovery and a bit of good news as we keep up the fight against C-19. </p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The Lights in Andover is one of 10 additional GP-led vaccination sites opening up in Hampshire over the next couple of days to deliver the lifesaving vaccine to the most vulnerable. This is great news for Andover and the surrounding villages where the most vulnerable residents will have easier access to a vaccination site when […]</div>
+    </summary>
+    <author>
+      <name>Charles Hosmer</name>
+    </author>
+    <id>https://kitmalthouse.com/?p=2829</id>
+    <published>2021-12-21T14:26:15Z</published>
+    <updated>2021-12-21T14:26:15Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
 			<name>simonlefevre</name>
@@ -1856,10 +1901,10 @@ For example, the process of taking notes on long lectures trains the speed of wr
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-6245c8fc4dddb" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-6245c8fc4e279" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-6245c8fc4e66e" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-6245c8fc4e8e4" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-6245f33769096" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-6245f3376926c" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-6245f337693f8" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-6245f337694f2" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2151,10 +2196,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6245ca568b18c" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6245f408a1570" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6245ca568b18c').iPhorm({"id":5,"uniqueId":"6245ca568b18c","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6245f408a1570').iPhorm({"id":5,"uniqueId":"6245f408a1570","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2229,10 +2274,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6245ca568b18c" class="iphorm iphorm-form-5" action="/feed/#iphorm-6245ca568b18c" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6245f408a1570" class="iphorm iphorm-form-5" action="/feed/#iphorm-6245f408a1570" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6245ca568b18c" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6245f408a1570" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2241,22 +2286,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6245ca568b18c" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6245ca568b18c" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6245f408a1570" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6245f408a1570" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6245ca568b18c" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6245ca568b18c" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6245f408a1570" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6245f408a1570" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6245ca568b18c" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6245ca568b18c" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6245f408a1570" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6245f408a1570" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2266,7 +2311,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6245ca568b18c_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6245f408a1570_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2285,7 +2330,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6245ca568b18c script').remove();
+    jQuery('#iphorm-outer-6245f408a1570 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2322,7 +2367,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzh0CKRCDeXIiuIdDLzsUC1qHWVE559ndN_YkYvJy7QtIqQnTWwcMAeZNvq8MdhshC_d1pXL9m95ezAOL_ImA' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwF_ncgq7JcalsU2Qv2Ih-Fw5vRP17KTO5xbgMyvnzHhAjTvJ_alm3T3bC9S5j87GJ-bduEjoW5k-X04DVxaQ' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
