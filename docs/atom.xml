@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-20T09:35:38Z</updated>
+  <updated>2022-05-20T12:39:14Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -20,6 +20,57 @@ On the final day of the Queen’s Speech Debate, Labour tabled an amendment to�
     <id>https://www.robin-millar.org.uk/news/windfall-tax-north-sea-oil-and-gas-profits</id>
     <published>2022-05-20T13:00:00+01:00</published>
     <updated>2022-05-20T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Maria welcomes Health Minister to Basingstoke to discuss new Hospital plans</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/maria-welcomes-health-minister-basingstoke-discuss-new-hospital-plans" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Basingstoke MP, Maria Miller, was delighted to welcome the Minister for Health, Edward Argar MP, to visit Basingstoke and North Hampshire Hospital today. 
+The Minister met with Maria; Hampshire Hospitals NHS Foundation Trust staff, including Chief Executive Alex Whitfield; Leader of Basingstoke and…</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/maria-welcomes-health-minister-basingstoke-discuss-new-hospital-plans</id>
+    <published>2022-05-20T13:00:00+01:00</published>
+    <updated>2022-05-20T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Ministerial Visit: Brendan Clarke-Smith MP welcomes Lee Rowley MP to Retford and Worksop</title>
+    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/ministerial-visit-brendan-clarke-smith-mp-welcomes-lee-rowley-mp-retford-and-worksop" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It was a pleasure welcoming Parliamentary Under Secretary of State for Business and Industry Lee Rowley MP to Retford and Worksop yesterday discuss what the government can do to help support business, discuss some of the challenges we face, but also to showcase many of the good things we also have…</div>
+    </content>
+    <id>https://www.brendanclarkesmith.com/news/ministerial-visit-brendan-clarke-smith-mp-welcomes-lee-rowley-mp-retford-and-worksop</id>
+    <published>2022-05-20T13:00:00+01:00</published>
+    <updated>2022-05-20T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Borders MP shows his support for Christian Aid Week 2022 </title>
+    <link rel="alternate" href="https://www.johnlamont.org/news/borders-mp-shows-his-support-christian-aid-week-2022" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Borders MP John Lamont this week attended a Christian Aid Week Reception in Parliament to show his support for Christian Aid Week (16-20 May) and find out more about the events and activities taking place across the UK. 
+This year, Christian Aid Week is encouraging people to stand with women in…</div>
+    </content>
+    <id>https://www.johnlamont.org/news/borders-mp-shows-his-support-christian-aid-week-2022</id>
+    <published>2022-05-20T13:00:00+01:00</published>
+    <updated>2022-05-20T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Unemployed Claimant Count April 2022</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/unemployed-claimant-count-april-2022" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<span property="schema:name">Unemployed Claimant Count April 2022</span>
+
+<span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/user/14" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Ione</span></span>
+
+<span property="schema:dateCreated" content="2022-05-20T09:41:00+00:00">Fri, 05/20/2022 - 10:41</span>
+</div>
+    </content>
+    <author>
+      <name>Ione</name>
+    </author>
+    <id>1124 at https://joncruddas.org.uk</id>
+    <published>2022-05-20T09:41:00Z</published>
+    <updated>2022-05-20T09:41:00Z</updated>
   </entry>
   <entry>
     <title>The civil service should do more learning and less churning</title>
@@ -353,35 +404,6 @@ The proposals would see a passing loop built near Burneside station so that two 
     <category term="Windfall tax"/>
   </entry>
   <entry>
-    <title>Brendan Clarke-Smith MP urges museums across Bassetlaw to bid for funding to Level Up culture </title>
-    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-urges-museums-across-bassetlaw-bid-funding-level-culture" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Press Release 
- 
-Date: 19/05/2022
-
-New funding is being awarded to museums, galleries, libraries and cultural venues across the country in the next round of funding thanks to the Conservative Government.
-
- 
-
-Brendan Clarke-Smith MP is calling on local museums and galleries across Bassetlaw to bid…</div>
-    </content>
-    <id>https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-urges-museums-across-bassetlaw-bid-funding-level-culture</id>
-    <published>2022-05-19T13:00:00+01:00</published>
-    <updated>2022-05-19T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Catastrophic start to nationalised Borders Railway</title>
-    <link rel="alternate" href="https://www.johnlamont.org/news/catastrophic-start-nationalised-borders-railway" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Rachael Hamilton MSP and John Lamont MP have slammed the latest cuts to Borders Railway services, following the nationalisation of Scotrail by the SNP Government.
-ScotRail is preparing to announce a raft of cuts to its services, following an announcement by the drivers’ union ASLEF that it will…</div>
-    </content>
-    <id>https://www.johnlamont.org/news/catastrophic-start-nationalised-borders-railway</id>
-    <published>2022-05-19T13:00:00+01:00</published>
-    <updated>2022-05-19T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Graham Stuart MP Launches Parliamentary Coronavirus Memorial Quilt Competition for Beverley and Holderness</title>
     <link rel="alternate" href="https://www.grahamstuart.com/news/graham-stuart-mp-launches-parliamentary-coronavirus-memorial-quilt-competition-beverley-and" type="text/html"/>
     <content type="xhtml">
@@ -681,18 +703,6 @@ Sarah also had the chance to see the Hub&#8217;s new ...</p>
     <category term="Keeping You Informed"/>
     <category term="Other"/>
     <category term="Your community"/>
-  </entry>
-  <entry>
-    <title>Maria welcomes Council Tax rebate payments to help with cost of energy bills </title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/maria-welcomes-council-tax-rebate-payments-help-cost-energy-bills" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Local MP, Maria Miller, welcomed the £150 Council Tax rebate payment that has begun to be sent to Basingstoke residents by the Borough Council. 
- 
-Maria said: “I am pleased to see that the government has announced a package of support - the Energy Bills Rebate - to help households with rising…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/maria-welcomes-council-tax-rebate-payments-help-cost-energy-bills</id>
-    <published>2022-05-18T13:00:00+01:00</published>
-    <updated>2022-05-18T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>MP speaks to Bloomberg on green trade</title>
@@ -1003,6 +1013,33 @@ Stephen, the Lead Project Officer in Norfolk,…</div>
     <category term="charities"/>
     <category term="funding"/>
     <category term="voluntary groups"/>
+  </entry>
+  <entry>
+    <title>Carmarthenshire Young Farmers Club</title>
+    <link rel="alternate" href="https://niagriffith.org.uk/2022/05/carmarthenshire-young-farmers-club/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><img width="500" height="277" src="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?resize=500%2C277&amp;ssl=1" class="attachment-charitas-lite-medium-thumb size-charitas-lite-medium-thumb wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" srcset="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?resize=272%2C150&amp;ssl=1 272w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?resize=500%2C277&amp;ssl=1 500w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?zoom=2&amp;resize=500%2C277 1000w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="8422" data-permalink="https://niagriffith.org.uk/2022/05/carmarthenshire-young-farmers-club/220514-carms-yfc-1/" data-orig-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?fit=1080%2C1440&amp;ssl=1" data-orig-size="1080,1440" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="220514 Carms YFC 1" data-image-description="" data-medium-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?fit=790%2C1053&amp;ssl=1"/>
+<p>Great performances &amp; creative work by members of Carmarthenshire Young Farmers Club on the showground at Nantyci. </p>
+
+
+
+<figure class="wp-block-image"><img data-attachment-id="8424" data-permalink="https://niagriffith.org.uk/2022/05/carmarthenshire-young-farmers-club/220514-carms-yfc-2/" data-orig-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-2.jpg?fit=1080%2C1440&amp;ssl=1" data-orig-size="1080,1440" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="220514-Carms-YFC-2" data-image-description="" data-medium-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-2.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-2.jpg?fit=790%2C1053&amp;ssl=1" src="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-2.jpg?w=790&amp;ssl=1" alt="" class="wp-image-8424" srcset="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-2.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-2.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-2.jpg?resize=768%2C1024&amp;ssl=1 768w" sizes="(max-width: 790px) 100vw, 790px" data-recalc-dims="1"/></figure>
+
+
+
+<figure class="wp-block-image"><img data-attachment-id="8425" data-permalink="https://niagriffith.org.uk/2022/05/carmarthenshire-young-farmers-club/220514-carms-yfc-3/" data-orig-file="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-3.jpg?fit=1440%2C1080&amp;ssl=1" data-orig-size="1440,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="220514-Carms-YFC-3" data-image-description="" data-medium-file="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-3.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-3.jpg?fit=790%2C593&amp;ssl=1" src="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-3.jpg?w=790&amp;ssl=1" alt="" class="wp-image-8425" srcset="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-3.jpg?w=1440&amp;ssl=1 1440w, https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-3.jpg?resize=300%2C225&amp;ssl=1 300w, https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-3.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 790px) 100vw, 790px" data-recalc-dims="1"/></figure>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><img width="500" height="277" src="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?resize=500%2C277&amp;ssl=1" class="attachment-charitas-lite-medium-thumb size-charitas-lite-medium-thumb wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" srcset="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?resize=272%2C150&amp;ssl=1 272w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?resize=500%2C277&amp;ssl=1 500w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?zoom=2&amp;resize=500%2C277 1000w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="8422" data-permalink="https://niagriffith.org.uk/2022/05/carmarthenshire-young-farmers-club/220514-carms-yfc-1/" data-orig-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?fit=1080%2C1440&amp;ssl=1" data-orig-size="1080,1440" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="220514 Carms YFC 1" data-image-description="" data-medium-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/05/220514-Carms-YFC-1.jpg?fit=790%2C1053&amp;ssl=1"/>Great performances &amp; creative work by members of Carmarthenshire Young Farmers Club on the showground at Nantyci.</div>
+    </summary>
+    <author>
+      <name>Nia Griffith</name>
+    </author>
+    <id>http://niagriffith.org.uk/?p=8421</id>
+    <published>2022-05-14T13:54:02Z</published>
+    <updated>2022-05-14T13:54:02Z</updated>
+    <category term="News"/>
   </entry>
   <entry>
     <title>Weekly round-up</title>
@@ -1679,25 +1716,6 @@ Oxfordshire Railfreight Limited…</div>
     <category term="My Articles"/>
   </entry>
   <entry>
-    <title>Young Climate Warriors Ambassador Programme </title>
-    <link rel="alternate" href="https://joncruddas.org.uk/young-climate-warriors-ambassador-programme" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<span property="schema:name">Young Climate Warriors Ambassador Programme </span>
-
-<span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/user/14" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Ione</span></span>
-
-<span property="schema:dateCreated" content="2022-04-25T14:54:00+00:00">Mon, 04/25/2022 - 15:54</span>
-</div>
-    </content>
-    <author>
-      <name>Ione</name>
-    </author>
-    <id>1123 at https://joncruddas.org.uk</id>
-    <published>2022-04-25T14:54:00Z</published>
-    <updated>2022-04-25T14:54:00Z</updated>
-  </entry>
-  <entry>
     <title>Response to Barnsley FC's relegation</title>
     <link rel="alternate" href="http://www.danjarvis.org/bfcrelegation22" type="text/html"/>
     <content type="xhtml">
@@ -1728,29 +1746,6 @@ Oxfordshire Railfreight Limited…</div>
 					<content type="html" xml:base="http://www.nickbrownmp.com/2022/04/12/climate-and-environment-emergency-wwf-earth-hour/"><![CDATA[]]></content>
 		
 			</entry>
-  <entry>
-    <title>Ukraine Fundraising Concert</title>
-    <link rel="alternate" href="https://niagriffith.org.uk/2022/03/ukraine-fundraising-concert/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><img width="500" height="277" src="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?resize=500%2C277&amp;ssl=1" class="attachment-charitas-lite-medium-thumb size-charitas-lite-medium-thumb wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" srcset="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?resize=272%2C150&amp;ssl=1 272w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?resize=500%2C277&amp;ssl=1 500w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?zoom=2&amp;resize=500%2C277 1000w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="8416" data-permalink="https://niagriffith.org.uk/2022/03/ukraine-fundraising-concert/220326-ukraine-event/" data-orig-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?fit=1024%2C768&amp;ssl=1" data-orig-size="1024,768" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="220326 Ukraine Event" data-image-description="" data-medium-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?fit=790%2C593&amp;ssl=1"/>
-<p>Big thank you to all who helped make the Ukrainian fundraiser at EJ’s Cafe, Bar &amp; Restaurant  a success on Saturday, but especially to Y5 pupils at Ysgol Pen Rhos who read out very moving poems they had written, Cor Curiad for beautiful singing, Paolo, Stella, Llanelli Multicultural Network  and Llanelli Rotary Club  who have collected nearly £14,000 in a month to help Ukrainian refugees…. Money they can get to where it is needed through their Rotary International network, &amp; many thanks to everyone who has contributed. </p>
-
-
-
-<figure class="wp-block-image"><img data-attachment-id="8418" data-permalink="https://niagriffith.org.uk/2022/03/ukraine-fundraising-concert/220326-ukraine-event-2/" data-orig-file="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event-2.jpg?fit=1024%2C768&amp;ssl=1" data-orig-size="1024,768" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="220326-Ukraine-Event-2" data-image-description="" data-medium-file="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event-2.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event-2.jpg?fit=790%2C593&amp;ssl=1" src="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event-2.jpg?w=790&amp;ssl=1" alt="" class="wp-image-8418" srcset="https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event-2.jpg?w=1024&amp;ssl=1 1024w, https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event-2.jpg?resize=300%2C225&amp;ssl=1 300w, https://i1.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event-2.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 790px) 100vw, 790px" data-recalc-dims="1"/></figure>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><img width="500" height="277" src="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?resize=500%2C277&amp;ssl=1" class="attachment-charitas-lite-medium-thumb size-charitas-lite-medium-thumb wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" srcset="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?resize=272%2C150&amp;ssl=1 272w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?resize=500%2C277&amp;ssl=1 500w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?zoom=2&amp;resize=500%2C277 1000w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="8416" data-permalink="https://niagriffith.org.uk/2022/03/ukraine-fundraising-concert/220326-ukraine-event/" data-orig-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?fit=1024%2C768&amp;ssl=1" data-orig-size="1024,768" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="220326 Ukraine Event" data-image-description="" data-medium-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2022/04/220326-Ukraine-Event.jpg?fit=790%2C593&amp;ssl=1"/>Big thank you to all who helped make the Ukrainian fundraiser at EJ’s Cafe, Bar &amp; Restaurant a success on Saturday, but especially to Y5 pupils at Ysgol Pen Rhos who read out very moving poems they had written, Cor Curiad for beautiful singing, Paolo, Stella, Llanelli Multicultural Network and Llanelli Rotary Club who have […]</div>
-    </summary>
-    <author>
-      <name>Nia Griffith</name>
-    </author>
-    <id>http://niagriffith.org.uk/?p=8415</id>
-    <published>2022-03-28T08:50:38Z</published>
-    <updated>2022-03-28T08:50:38Z</updated>
-    <category term="News"/>
-  </entry>
   <entry>
     <title>Rushanara Ali MP statement in response to the Chancellor’s Spring statement</title>
     <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_mp_statement_springstatement" type="text/html"/>
@@ -1948,7 +1943,7 @@ The Kremlin must be reeling in shock. President Putin was no doubt briefed that 
 
 
 
-&lt;p&gt;Applicants should send their CV and a one page covering letter to &lt;a href="&amp;#x6d;&amp;#x61;&amp;#105;l&amp;#x74;&amp;#x6f;&amp;#x3a;&amp;#116;u&amp;#x6c;&amp;#x69;&amp;#x70;&amp;#46;s&amp;#x69;&amp;#x64;&amp;#x64;&amp;#105;q&amp;#x2e;&amp;#x6d;&amp;#x70;&amp;#64;p&amp;#x61;&amp;#x72;&amp;#x6c;&amp;#105;a&amp;#x6d;&amp;#x65;&amp;#x6e;&amp;#116;.&amp;#x75;&amp;#x6b;"&gt;tu&amp;#108;&amp;#x69;&amp;#x70;.si&amp;#100;&amp;#x64;&amp;#x69;q.m&amp;#112;&amp;#x40;&amp;#x70;ar&amp;#108;&amp;#x69;&amp;#x61;&amp;#x6d;en&amp;#116;&amp;#x2e;&amp;#x75;&amp;#x6b;&lt;/a&gt; with the subject heading ‘Caseworker – Full name’. Due to the expected high volume of applications, only successful those applicants selected for interview will receive a response.&lt;/p&gt;
+&lt;p&gt;Applicants should send their CV and a one page covering letter to &lt;a href="&amp;#x6d;&amp;#x61;&amp;#x69;&amp;#108;to:&amp;#x74;&amp;#x75;&amp;#x6c;&amp;#x69;&amp;#112;.si&amp;#x64;&amp;#x64;&amp;#x69;&amp;#113;&amp;#46;mp&amp;#64;&amp;#x70;&amp;#x61;&amp;#x72;&amp;#108;iam&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#x2e;&amp;#117;k"&gt;&amp;#x74;&amp;#x75;&amp;#x6c;&amp;#x69;&amp;#112;&amp;#46;siddi&amp;#x71;&amp;#x2e;&amp;#x6d;&amp;#x70;&amp;#x40;&amp;#112;arlia&amp;#x6d;&amp;#x65;&amp;#x6e;&amp;#x74;&amp;#x2e;&amp;#117;k&lt;/a&gt; with the subject heading ‘Caseworker – Full name’. Due to the expected high volume of applications, only successful those applicants selected for interview will receive a response.&lt;/p&gt;
 </content>
     <summary type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Closing date: Sunday 13th February 2022 Job title: CaseworkerWorking for: Tulip Siddiq MPLocation: Constituency Office (Hampstead and Kilburn)Salary: In line with IPSA payscales and dependent on experience Tulip Siddiq MP is looking for an enthusiastic and responsible individual to join her busy team and support constituents as a caseworker. Previous […]</div>
@@ -2302,10 +2297,10 @@ For example, the process of taking notes on long lectures trains the speed of wr
 
 					
 <ul class="mk-employeee-networks">
-			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-62875f6302ef5" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-62875f6303127" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
-			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-62875f63032d5" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
-			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-62875f63033eb" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
+			<li><a target="_blank" href="mailto:steve.reed.mp@parliament.uk" title="Get In Touch With Steve Reed"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-62878a5b9ba7c" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/SteveReedMP/" title="Steve Reed On Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-facebook" data-cacheid="icon-62878a5b9bce6" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M287.935 512h-95.935v-256h-64v-88.225l64-.029-.104-51.976c0-71.976 19.517-115.77 104.299-115.77h70.588v88.242h-44.115c-33.016 0-34.603 12.328-34.603 35.342l-.131 44.162h79.345l-9.352 88.225-69.927.029-.065 256z"/></svg></a></li>
+			<li><a target="_blank" href="https://twitter.com/stevereedmp" title="Steve Reed On Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-62878a5b9beea" style=" height:16px; width: 16px; " viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/stevereedmp/" title="Steve Reed On Instagram"><svg xmlns="http://www.w3.org/2000/svg" class="mk-svg-icon" data-name="mk-icon-instagram" data-cacheid="icon-62878a5b9c030" style=" height:16px; width: 16px; " viewBox="0 0 1792 1792"><path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"/></svg></a></li>
 	</ul>
 				</div>
 			</div>
@@ -2597,10 +2592,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-62876031b5552" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-62878b3a9cb20" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-62876031b5552').iPhorm({"id":5,"uniqueId":"62876031b5552","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-62878b3a9cb20').iPhorm({"id":5,"uniqueId":"62878b3a9cb20","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2675,10 +2670,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-62876031b5552" class="iphorm iphorm-form-5" action="/feed/#iphorm-62876031b5552" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-62878b3a9cb20" class="iphorm iphorm-form-5" action="/feed/#iphorm-62878b3a9cb20" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="62876031b5552" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="62878b3a9cb20" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2687,22 +2682,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_62876031b5552" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_62876031b5552" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_62878b3a9cb20" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_62878b3a9cb20" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_62876031b5552" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_62876031b5552" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_62878b3a9cb20" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_62878b3a9cb20" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_62876031b5552" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_62876031b5552" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_62878b3a9cb20" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_62878b3a9cb20" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2712,7 +2707,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_62876031b5552_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_62878b3a9cb20_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2731,7 +2726,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-62876031b5552 script').remove();
+    jQuery('#iphorm-outer-62878b3a9cb20 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2768,7 +2763,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyojYWxUV1evsRYAn5H43bNMNdGjdGotdDsQ168u3qETN3OpoEuL8A7kTNdzJ2u4dQVi7eAjrRgnenNw7CBCQ' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzbduDPO7zU38qGgKH8TvKX4fE3tcMUqcP-Q7NKwPwr7K227Y393umzQ8tCinG9-cBwERA9FefKk_9f50Q2Mg' class='b-hbp-video b-uploaded' frameborder='0' /&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
