@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-08-09T00:43:35Z</updated>
+  <updated>2022-08-09T03:53:07Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -51,6 +51,19 @@
     <category term="Featured"/>
     <category term="News"/>
     <category term="Press Release"/>
+    <category term="Uncategorised"/>
+  </entry>
+  <entry>
+    <title>Help with the Cost of Living</title>
+    <link rel="alternate" href="https://www.conormcginn.co.uk/2022/08/05/help-with-the-cost-of-living/" type="text/html"/>
+    <author>
+      <name>mancyia.uddin@parliament.uk</name>
+    </author>
+    <id>https://www.conormcginn.co.uk/?p=7503</id>
+    <published>2022-08-05T16:00:14Z</published>
+    <updated>2022-08-05T16:00:14Z</updated>
+    <category term="Conor in St Helens"/>
+    <category term="News"/>
     <category term="Uncategorised"/>
   </entry>
   <entry>
@@ -315,6 +328,23 @@ The post <a href="http://karinsmyth.com/2022/07/29/karin-smyth-mp-encourages-con
     <category term="News"/>
   </entry>
   <entry>
+		<author>
+			<name>petermiddlehurst</name>
+					</author>
+
+		<title type="html"><![CDATA[Climate and Environment Emergency: WWF Earth Hour]]></title>
+		<link rel="alternate" type="text/html" href="http://www.nickbrownmp.com/2022/04/12/climate-and-environment-emergency-wwf-earth-hour/"/>
+
+		<id>https://www.nickbrownmp.com/?p=663</id>
+		<updated>2022-04-12T20:20:46Z</updated>
+		<published>2022-04-12T19:53:23Z</published>
+		<category scheme="http://www.nickbrownmp.com" term="News"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="http://www.nickbrownmp.com/2022/04/12/climate-and-environment-emergency-wwf-earth-hour/"><![CDATA[]]></content>
+		
+			</entry>
+  <entry>
     <title>Keuntungan Saat Memainkan Situs Judi Slot Online</title>
     <link rel="alternate" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/" type="text/html"/>
     <content type="html">&lt;p&gt;&lt;a href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/"&gt;Keuntungan Saat Memainkan Situs Judi Slot Online&lt;/a&gt; &amp;#8211; Internet memiliki dampak luar biasa pada berbagai industri meskipun mungkin industri perjudian yang paling banyak mengalami perubahan. Perjudian online yang sederhana, dengan cepat menjadi industri multi-miliar dolar.&lt;/p&gt;
@@ -429,6 +459,31 @@ The post <a href="http://karinsmyth.com/2022/07/29/karin-smyth-mp-encourages-con
       <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="21" height="32" src="http://1.bp.blogspot.com/-kiBV-e2Yo8U/Ulaa1GJcJoI/AAAAAAAABTk/f3_kl1dzuuA/s220/Labour%2B4.jpg"/>
     </author>
     <thr:total>0</thr:total>
+  </entry>
+  <entry>
+    <title>Very proud day today – the law change I fought for to protect pensioners comes into force</title>
+    <link rel="alternate" href="https://www.marktami.co.uk/2020/11/25/very-proud-day-today-the-law-change-i-fought-for-to-protect-pensioners-comes-into-force/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://www.marktami.co.uk/2020/11/25/very-proud-day-today-the-law-change-i-fought-for-to-protect-pensioners-comes-into-force/">Very proud day today – the law change I fought for to protect pensioners comes into force</a> appeared first on <a rel="nofollow" href="https://www.marktami.co.uk">Mark Tami</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://www.marktami.co.uk/2020/11/25/very-proud-day-today-the-law-change-i-fought-for-to-protect-pensioners-comes-into-force/">Very proud day today – the law change I fought for to protect pensioners comes into force</a> appeared first on <a rel="nofollow" href="https://www.marktami.co.uk">Mark Tami</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Dan Rose</name>
+    </author>
+    <id>https://www.marktami.co.uk/?p=171</id>
+    <published>2020-11-25T17:46:37Z</published>
+    <updated>2020-11-25T17:46:37Z</updated>
+    <category term="news"/>
+    <category term="AffectsAllofUs"/>
+    <category term="Alyn&amp;Deeside"/>
+    <category term="ChangeTheLaw"/>
+    <category term="Government"/>
+    <category term="Pension"/>
+    <category term="Win"/>
   </entry>
   <entry>
     <title>New Hospital in Sutton Confirmed</title>
@@ -613,7 +668,7 @@ The post <a href="http://karinsmyth.com/2022/07/29/karin-smyth-mp-encourages-con
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxa9hdR58VaCLf2-H6GFUGlEuC6zQija2lQVs_MhlvgfB7VtRSORUU5LukL4oBW-RGxEojsfWl47sn0unVtlQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwPdh0A_6ExClkMni1Gbn-KysIExmAxvythf4lwlxpfGbAZhKFnF2zgGI5P-se2bdwY5kGqwH5LIWfXOGo63g' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
