@@ -7,9 +7,21 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-08-12T15:31:56Z</updated>
+  <updated>2022-08-12T18:31:44Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Steps forward for Earlestown Town Centre regeneration plans</title>
+    <link rel="alternate" href="https://www.conormcginn.co.uk/2022/08/12/steps-forward-for-earlestown-town-centre-regeneration-plans/" type="text/html"/>
+    <author>
+      <name>mancyia.uddin@parliament.uk</name>
+    </author>
+    <id>https://www.conormcginn.co.uk/?p=7506</id>
+    <published>2022-08-12T16:00:37Z</published>
+    <updated>2022-08-12T16:00:37Z</updated>
+    <category term="Conor in St Helens"/>
+    <category term="News"/>
+  </entry>
   <entry>
     <title>Yesterday’s meeting on energy</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2022/08/12/yesterdays-meeting-on-energy/" type="text/html"/>
@@ -83,19 +95,6 @@
     <category term="Featured"/>
     <category term="News"/>
     <category term="Press Release"/>
-    <category term="Uncategorised"/>
-  </entry>
-  <entry>
-    <title>Help with the Cost of Living</title>
-    <link rel="alternate" href="https://www.conormcginn.co.uk/2022/08/05/help-with-the-cost-of-living/" type="text/html"/>
-    <author>
-      <name>mancyia.uddin@parliament.uk</name>
-    </author>
-    <id>https://www.conormcginn.co.uk/?p=7503</id>
-    <published>2022-08-05T16:00:14Z</published>
-    <updated>2022-08-05T16:00:14Z</updated>
-    <category term="Conor in St Helens"/>
-    <category term="News"/>
     <category term="Uncategorised"/>
   </entry>
   <entry>
