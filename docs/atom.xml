@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-08-31T04:19:52Z</updated>
+  <updated>2022-08-31T06:46:22Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Consultation on electricity regulation</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2022/08/31/consultation-on-electricity-regulation/" type="text/html"/>
+    <content type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The UK government has recently published a consultation document on possible reform of the management and regulation of the UK electricity industry.&lt;/p&gt;
+&lt;p&gt;The UK fell under the EU system of control and regulation, which was progressively tightened and embodied in the 71 page 2019 Regulation. This Regulation wished to achieve two main aims, the integration of a Europe wide system of power provision and rapid progress to decarbonise the electricity used.  The two aims were self reinforcing. The Regulation warned that as more power came from  interruptible renewable sources there would be more need for interconnectors to allow the import and export of power across national boundaries to compensate for shortfalls in supply. The UK duly obliged even though we were in the process of exiting the EU, continuing its drive to rely more on interconnectors to the continent and very willing to add large extra volumes of wind energy to the system.&lt;/p&gt;
+&lt;p&gt;In line with other European countries the UK had developed twin market interventions to bring about the net zero progress. More low carbon power was attracted by offering long term contracts at guaranteed prices. In the early days of renewable power and for nuclear these were at premium prices to the then market wholesale price. The investors putting in the new capacity agreed to pay back any money earned over the contract price were energy prices to rocket, whilst requiring a subsidy all the time the contract prices remained above the wholesale price.  The grid operator also had to hold capacity auctions, offering money to owners of stand by plants that would work in periods of low wind or little solar to keep their capacity ready to run. As they hoped these plants were not going to run that often they needed to offer sufficient money to make it worthwhile maintaining , staffing and fuelling the plants ready to run. Gas plants ended up running a lot to keep the system going with more than half our electricity coming from gas on a typical light wind day.&lt;/p&gt;
+&lt;p&gt;The consultation document does not give a clear steer of what would be a better system to guarantee security of supply whilst also providing plenty of competitive pressure to keep prices under control. The original regulatory system set up by the UK in the 1980s before the EU took over was a simple one of generators bidding into the system their price offers. The grid  manager always took the next cheapest offer when having to scale up the output, and dropped off the dearest when cutting supply. The system was sufficiently attractive for there to be spare capacity so we never ran out of power even on cold dark windless busy day. Most of the power came from coal and gas, with a useful contribution from nuclear.&lt;/p&gt;
+&lt;p&gt;The immediate issues are the way some providers of renewable power can receive the elevated gas based price despite having much lower costs, and the lack of margin in our capacity for when the wind does not blow and the sun does not shine. The UK has also to prepare for a reduction in output from nuclear this decade, which is planned to see the closure of all but one of the existing nuclear stations. What are your thoughts on the changes we need?&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">  The UK government has recently published a consultation document on possible reform of the management and regulation of the UK electricity industry. The UK fell under the EU system of control and regulation, which was progressively tightened and embodied in the 71 page 2019 Regulation. This Regulation wished to achieve two main aims, the…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>http://johnredwoodsdiary.com/?p=33332</id>
+    <published>2022-08-31T04:06:59Z</published>
+    <updated>2022-08-31T04:06:59Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Chesterfield MP named ‘Long Live the Local’ parliamentary champion</title>
     <link rel="alternate" href="https://www.tobyperkins.org.uk/2022/08/30/chesterfield-mp-named-long-live-the-local-parliamentary-champion/" type="text/html"/>
@@ -31,28 +52,6 @@
     <category term="News"/>
     <category term="Press Release"/>
     <category term="Uncategorised"/>
-  </entry>
-  <entry>
-    <title>Making energy cheaper</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2022/08/30/making-energy-cheaper/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The Liz Truss team have said they want to ease the energy squeeze. They like the ideas of lower taxes and the removal of needless or excessively costly regulation. Energy would be a good place to start.</p>
-<p>Let us consider first of all the £16bn or more cost of fitting a smart meter in every home for electricity. Indeed total roll out may well cost more, given the reluctance of almost half the population to have one and the troubles with how the early ones worked. The idea is to charge the mounting costs to all bill payers.</p>
-<p>Whilst electricity is this dear why not pause the programme? By all means fit one where the householder is keen and applies willingly for one, but save all the promotional money and conversion costs where people need to be talked into it.</p>
-<p>Then there are the green levies. It is a good idea to cease charging these direct to bill payers for a bit. More importantly going forward the grid controllers should only sign contracts for renewables that can deliver affordable energy without subsidy. This should be easy at current gas prices.</p>
-<p>Large scale energy  intensive industry has to buy carbon permits over an initial and reducing free  allowance. Designed to cut fossil fuel use by industry, it can end up closing plants in the U.K. only to import more from abroad. The imports will often generate more CO2 than relying on domestic production given transport costs and more reliance on coal in China and Germany. So why not suspend this scheme whilst  U.K. energy prices remain so elevated? How many high energy using businesses will we lose if we carry on with dear gas and carbon penalties?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Liz Truss team have said they want to ease the energy squeeze. They like the ideas of lower taxes and the removal of needless or excessively costly regulation. Energy would be a good place to start. Let us consider first of all the £16bn or more cost of fitting a smart meter in every…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=33328</id>
-    <published>2022-08-30T04:02:58Z</published>
-    <updated>2022-08-30T04:02:58Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Opposition to Black Country Plan Continues!</title>
@@ -606,7 +605,7 @@ The post <a href="http://karinsmyth.com/2022/08/25/karin-smyth-mp-calls-on-the-g
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwXCfIPN7S9YGiSofi37ir3wa8kuu4pGxAU5TRUFheBVdD5QGqSSt1OMt7c-RhzYamA9J6NT1nI8L_RgBVHbw' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxXplrAciWjxxqPb_IwPGdJi-wgpomQvfnnQPQ9PVduAtLkWjfG5PWbYAZNLkBL8Pm1xXX6otzEFpCgFSFljg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
