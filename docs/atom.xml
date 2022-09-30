@@ -7,9 +7,32 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-09-30T09:32:57Z</updated>
+  <updated>2022-09-30T12:37:25Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+		<author>
+			<name>Team JP</name>
+					</author>
+
+		<title type="html"><![CDATA[John Swearing In]]></title>
+		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2022/09/21/john-swearing-in/"/>
+
+		<id>http://johnpenrose.org/wp/?p=5506</id>
+		<updated>2022-09-30T12:25:31Z</updated>
+		<published>2022-09-21T12:09:00Z</published>
+		<category scheme="http://johnpenrose.org/wp" term="Uncategorized"/>
+		<summary type="html"><![CDATA[Members of the House of Commons and the House of Lords take an oath of allegiance to the Crown. This is called swearing in. Members can either swear in using a religious text or take a non-religious, solemn affirmation. They do this before taking their seats in Parliament. This can happen after a general election [&#8230;]]]></summary>
+
+					<content type="html" xml:base="http://johnpenrose.org/wp/2022/09/21/john-swearing-in/"><![CDATA[
+<p>Members of the House of Commons and the House of Lords take an oath of allegiance to the Crown. This is called swearing in. Members can either swear in using a religious text or take a non-religious, solemn affirmation. They do this before taking their seats in Parliament. This can happen after a general election or by-election.</p>
+
+
+
+<p>As in this case, swearing in also happens after the death of the Monarch: for members of the House of Lords this is an obligation but for MPs it is optional and not doing so has no effect on them taking their seat or participating in business.</p>
+]]></content>
+		
+			</entry>
   <entry>
     <title>The Bank’s interest rate policy</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2022/09/30/the-banks-interest-rate-policy/" type="text/html"/>
@@ -88,69 +111,6 @@ The post <a href="http://karinsmyth.com/2022/09/29/karin-smyth-mp-labour-will-al
     <category term="Featured"/>
     <category term="News"/>
   </entry>
-  <entry>
-		<author>
-			<name>Team JP</name>
-					</author>
-
-		<title type="html"><![CDATA[Weston Mercury: North Somerset residents hear local proclamation of new king]]></title>
-		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2022/09/13/weston-mercury-north-somerset-residents-hear-local-proclamation-of-new-king/"/>
-
-		<id>http://johnpenrose.org/wp/?p=5502</id>
-		<updated>2022-09-13T15:09:13Z</updated>
-		<published>2022-09-13T15:09:13Z</published>
-		<category scheme="http://johnpenrose.org/wp" term="Local Visits"/><category scheme="http://johnpenrose.org/wp" term="Newspaper Articles"/>
-		<summary type="html"><![CDATA[CROWDS gathered in Weston yesterday, September 11, to hear&#160;a rare&#160;proclamation of the new King, Charles III. Scores of people attended the once-in-a-lifetime event, at&#160;the Italian Gardens, as the local Accession Proclamation was heard for North Somerset residents.&#160; The Proclamation of a&#160;new sovereign is an ancient&#160;tradition that can be traced back&#160;hundreds of years. The ceremony doesn&#8217;t [&#8230;]]]></summary>
-
-					<content type="html" xml:base="http://johnpenrose.org/wp/2022/09/13/weston-mercury-north-somerset-residents-hear-local-proclamation-of-new-king/"><![CDATA[
-<p>CROWDS gathered in Weston yesterday, September 11, to hear&nbsp;a rare&nbsp;proclamation of the new King, Charles III.</p>
-
-
-
-<p>Scores of people attended the once-in-a-lifetime event, at&nbsp;the Italian Gardens, as the local Accession Proclamation was heard for North Somerset residents.&nbsp;</p>
-
-
-
-<p>The Proclamation of a&nbsp;new sovereign is an ancient&nbsp;tradition that can be traced back&nbsp;hundreds of years.</p>
-
-
-
-<p>The ceremony doesn&#8217;t create a new king, but simply&nbsp;announces the accession which took place on Saturday, September 10, at St James&#8217;s Palace in London.&nbsp;</p>
-
-
-
-<p>It was read by North Somerset Council chairperson Cllr Karin Haverson, who was&nbsp;accompanied by Weston MP John Penrose, North Somerset MP Liam Fox, Weston’s deputy mayor Cllr Pete McAleer, and other councillors and dignitaries.</p>
-
-
-
-<p>At 3pm, the formal ceremony which marks the&nbsp;beginning of the King&#8217;s reign was read.&nbsp;</p>
-
-
-
-<p>Cllr Haverson said: &#8220;We come together this afternoon following the passing of our late Sovereign, Queen Elizabeth the Second.</p>
-
-
-
-<p>&#8220;Our sadness at this time is shared by people across the globe, as we remember with gratitude and great affection the lifetime of service given by our longest reigning monarch, and we give thanks for all she did for our country during her long and illustrious reign.</p>
-
-
-
-<p>&#8220;Here in North Somerset we held Her Majesty in great esteem and it was our immense fortune to be visited by her several times &#8211; including in her silver jubilee year in 1977 and most recently in 2007.</p>
-
-
-
-<p>&#8220;Many people will have personal memories of those visits, which will stay with them for a very long time.&#8221;</p>
-
-
-
-<p>Books of Condolence will remain to be signed at the Town Hall, in Weston,&nbsp;and at Castlewood in Clevedon throughout the period of national mourning.</p>
-
-
-
-<p>People can record their tributes in the books between 9am and 6pm, Monday to Friday.&nbsp;</p>
-]]></content>
-		
-			</entry>
   <entry>
     <title>Conor and St Helens North pay tribute to Her late Majesty Queen Elizabeth II</title>
     <link rel="alternate" href="https://www.conormcginn.co.uk/2022/09/12/conor-pays-tribute-to-her-late-majesty-queens-elisabeth-ii/" type="text/html"/>
@@ -289,7 +249,7 @@ The post <a href="http://karinsmyth.com/2022/09/29/karin-smyth-mp-labour-will-al
 
 
 
-&lt;p&gt;If there is anything I can do to help or if you have any questions &amp;#8211; or if you help to run or know of any organisations which should be added to this list &amp;#8211; please email me at &lt;a href="mailt&amp;#111;&amp;#58;&amp;#x74;&amp;#x75;&amp;#x6c;&amp;#x69;&amp;#x70;&amp;#x40;&amp;#x74;ulips&amp;#105;&amp;#100;&amp;#100;&amp;#x69;&amp;#x71;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;"&gt;&amp;#x74;&amp;#x75;li&amp;#x70;&amp;#x40;&amp;#116;ul&amp;#x69;&amp;#x70;si&amp;#x64;&amp;#x64;&amp;#105;q.&amp;#x63;&amp;#x6f;m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If there is anything I can do to help or if you have any questions &amp;#8211; or if you help to run or know of any organisations which should be added to this list &amp;#8211; please email me at &lt;a href="&amp;#x6d;&amp;#x61;il&amp;#x74;&amp;#x6f;&amp;#58;tu&amp;#x6c;&amp;#x69;&amp;#112;&amp;#64;t&amp;#x75;&amp;#x6c;&amp;#105;ps&amp;#x69;&amp;#x64;di&amp;#x71;&amp;#x2e;&amp;#99;om"&gt;&amp;#x74;&amp;#117;l&amp;#x69;&amp;#x70;&amp;#64;t&amp;#x75;&amp;#108;i&amp;#x70;&amp;#x73;id&amp;#x64;&amp;#105;q&amp;#x2e;&amp;#x63;&amp;#111;m&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -489,7 +449,7 @@ The post <a href="http://karinsmyth.com/2022/09/29/karin-smyth-mp-labour-will-al
 
 
 
-&lt;p&gt;If you require urgent mental health support please call&amp;nbsp;&lt;a href="tel:116123"&gt;116 123&lt;/a&gt;&amp;nbsp;to talk to Samaritans or email:&amp;nbsp;&lt;a href="&amp;#109;&amp;#x61;i&amp;#x6c;t&amp;#111;&amp;#x3a;j&amp;#x6f;&amp;#64;&amp;#115;&amp;#x61;m&amp;#x61;r&amp;#x69;&amp;#x74;a&amp;#x6e;s&amp;#x2e;o&amp;#114;&amp;#x67;"&gt;j&amp;#111;&amp;#x40;sa&amp;#x6d;&amp;#x61;r&amp;#105;&amp;#x74;&amp;#x61;n&amp;#115;&amp;#x2e;or&amp;#x67;&lt;/a&gt;&amp;nbsp;for a reply within 24 hours. They also offer non-urgent offer confidential support which can be found here: &lt;a href="https://www.samaritans.org/"&gt;https://www.samaritans.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you require urgent mental health support please call&amp;nbsp;&lt;a href="tel:116123"&gt;116 123&lt;/a&gt;&amp;nbsp;to talk to Samaritans or email:&amp;nbsp;&lt;a href="m&amp;#x61;&amp;#x69;l&amp;#116;&amp;#x6f;:&amp;#106;&amp;#x6f;&amp;#x40;s&amp;#x61;&amp;#x6d;a&amp;#114;&amp;#x69;t&amp;#97;&amp;#x6e;&amp;#x73;.&amp;#x6f;&amp;#x72;g"&gt;&amp;#106;&amp;#x6f;&amp;#64;&amp;#x73;a&amp;#x6d;a&amp;#114;&amp;#x69;&amp;#116;&amp;#x61;n&amp;#x73;.&amp;#x6f;r&amp;#103;&lt;/a&gt;&amp;nbsp;for a reply within 24 hours. They also offer non-urgent offer confidential support which can be found here: &lt;a href="https://www.samaritans.org/"&gt;https://www.samaritans.org/&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -873,7 +833,7 @@ The post <a href="http://karinsmyth.com/2022/09/29/karin-smyth-mp-labour-will-al
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzv1ZvC3xeZLet5XEkLKWIA5vUTYcfYZ_cf-458xlkt5sT6Y5Mc503a3NohcNxnWrP7FHgGrX2y2_2xBoTWRQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxLsJ3i3VXIUkDpeXAnkK0pNiFjWqvOqBaA7rMbgJvsMVCBYfkJljuuMrKVwSyy44h9atKvnA5fDCZnahH4iA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
