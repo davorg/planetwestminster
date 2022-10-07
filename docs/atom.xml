@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-10-07T15:31:21Z</updated>
+  <updated>2022-10-07T18:32:34Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -63,6 +63,16 @@
     <id>7266 at https://www.philipdunne.com</id>
     <published>2022-10-07T21:00:00Z</published>
     <updated>2022-10-07T21:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>10 ways we’re helping to tackle homelessness in Edinburgh this World Homeless Day</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13566/10-ways-we-re-helping-to-tackle-homelessness-in-edinburgh-this-world-homeless-day" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This Monday (10 October) marks World Homeless Day, which highlights the issues facing many people without a permanent home in our communities.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13566/10-ways-we-re-helping-to-tackle-homelessness-in-edinburgh-this-world-homeless-day</id>
+    <published>2022-10-07T17:13:00+01:00</published>
+    <updated>2022-10-07T17:13:00+01:00</updated>
   </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
@@ -334,12 +344,12 @@
     <updated>2022-10-07T12:30:47Z</updated>
   </entry>
   <entry>
-    <title>Robin welcomes UK Government intervention with Avanti West Coast</title>
-    <link rel="alternate" href="https://www.robin-millar.org.uk/news/robin-welcomes-uk-government-intervention-avanti-west-coast" type="text/html"/>
+    <title>Robin comments on UK Government intervention with Avanti West Coast</title>
+    <link rel="alternate" href="https://www.robin-millar.org.uk/news/robin-comments-uk-government-intervention-avanti-west-coast" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">It has been confirmed today that the Department for Transport has placed Avanti West Coast on a short-term contract and challenged it to deliver the urgent increase in services required. This intervention follows several months of severe disruption to Avant’s services that have culminated with the…</div>
     </content>
-    <id>https://www.robin-millar.org.uk/news/robin-welcomes-uk-government-intervention-avanti-west-coast</id>
+    <id>https://www.robin-millar.org.uk/news/robin-comments-uk-government-intervention-avanti-west-coast</id>
     <published>2022-10-07T13:00:00+01:00</published>
     <updated>2022-10-07T13:00:00+01:00</updated>
   </entry>
@@ -581,16 +591,6 @@ Following the…</div>
     <category term="Prime Minister"/>
     <category term="UK government"/>
     <category term="West Dunbartonshire"/>
-  </entry>
-  <entry>
-    <title>Challenge Poverty Week 2022 - more than 1,000 homes in Edinburgh to receive transformational energy efficiency upgrades</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13565/challenge-poverty-week-2022-more-than-1-000-homes-in-edinburgh-to-receive-transformational-energy-efficiency-upgrades" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The City of Edinburgh Council will improve the energy efficiency of more than 1,000 homes in the coming year, thanks to £5 million of Scottish Government funding.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13565/challenge-poverty-week-2022-more-than-1-000-homes-in-edinburgh-to-receive-transformational-energy-efficiency-upgrades</id>
-    <published>2022-10-06T11:12:00+01:00</published>
-    <updated>2022-10-06T11:12:00+01:00</updated>
   </entry>
   <entry>
     <title>Joy Morrissey MP welcomes Prime Minister Liz Truss speech to Conservative Party Conference 2022</title>
@@ -1080,7 +1080,7 @@ The fully funded policies announced in the speech to&#160; grow our economy and 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-4347" data-post-type="none" ><a href="https://lizkendall.org/closure-of-thales-uk-plant-in-braunstone-frith/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/13.jpg" alt="Closure of Thales UK plant in Braunstone Frith" width="150" height="150" /></a><a href="https://lizkendall.org/closure-of-thales-uk-plant-in-braunstone-frith/" class="wp_rp_title">Closure of Thales UK plant in Braunstone Frith</a></li><li data-position="1" data-poid="in-10990" data-post-type="none" ><a href="https://lizkendall.org/liz-reflects-on-a-year-of-the-pandemic/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" alt="Liz reflects on a year of the pandemic" width="150" height="150" /></a><a href="https://lizkendall.org/liz-reflects-on-a-year-of-the-pandemic/" class="wp_rp_title">Liz reflects on a year of the pandemic</a></li><li data-position="2" data-poid="in-8848" data-post-type="none" ><a href="https://lizkendall.org/meeting-alzheimers-society/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/24.jpg" alt="Meeting with the Alzheimer&#8217;s Society" width="150" height="150" /></a><a href="https://lizkendall.org/meeting-alzheimers-society/" class="wp_rp_title">Meeting with the Alzheimer&#8217;s Society</a></li><li data-position="3" data-poid="in-9069" data-post-type="none" ><a href="https://lizkendall.org/liz-visits-riverside-housing-association-properties/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/06/20180608_144159-150x150.jpg" alt="Liz visits Riverside Housing Association properties" width="150" height="150" /></a><a href="https://lizkendall.org/liz-visits-riverside-housing-association-properties/" class="wp_rp_title">Liz visits Riverside Housing Association properties</a></li><li data-position="4" data-poid="in-6606" data-post-type="none" ><a href="https://lizkendall.org/ministers-lose-control-of-nhs-waiting-times/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/08/GMB_1-150x150.jpg" alt="Ministers lose control of NHS waiting times" width="150" height="150" /></a><a href="https://lizkendall.org/ministers-lose-control-of-nhs-waiting-times/" class="wp_rp_title">Ministers lose control of NHS waiting times</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-5126" data-post-type="none" ><a href="https://lizkendall.org/liz-comments-on-the-proposed-crack-down-on-health-tourists/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/8.jpg" alt="Liz comments on the proposed crack-down on &#8216;health tourists&#8217;" width="150" height="150" /></a><a href="https://lizkendall.org/liz-comments-on-the-proposed-crack-down-on-health-tourists/" class="wp_rp_title">Liz comments on the proposed crack-down on &#8216;health tourists&#8217;</a></li><li data-position="1" data-poid="in-6237" data-post-type="none" ><a href="https://lizkendall.org/teens-share-video-tips-on-web-use-leicester-mercury-28-march/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/20.jpg" alt="Teens share video tips on web use (Leicester Mercury, 28 March)" width="150" height="150" /></a><a href="https://lizkendall.org/teens-share-video-tips-on-web-use-leicester-mercury-28-march/" class="wp_rp_title">Teens share video tips on web use (Leicester Mercury, 28 March)</a></li><li data-position="2" data-poid="in-4965" data-post-type="none" ><a href="https://lizkendall.org/liz-votes-for-action-to-cut-gas-and-electricity-bills-protect-the-environment-and-boost-green-jobs/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2013/06/energy-150x150.jpg" alt="Liz votes for action to cut gas and electricity bills, protect the environment and boost green jobs" width="150" height="150" /></a><a href="https://lizkendall.org/liz-votes-for-action-to-cut-gas-and-electricity-bills-protect-the-environment-and-boost-green-jobs/" class="wp_rp_title">Liz votes for action to cut gas and electricity bills, protect the environment and boost green jobs</a></li><li data-position="3" data-poid="in-6070" data-post-type="none" ><a href="https://lizkendall.org/liz-backs-lgbt-history-month/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/02/LGBT-150x150.jpg" alt="Liz backs LGBT History Month" width="150" height="150" /></a><a href="https://lizkendall.org/liz-backs-lgbt-history-month/" class="wp_rp_title">Liz backs LGBT History Month</a></li><li data-position="4" data-poid="in-10740" data-post-type="none" ><a href="https://lizkendall.org/10740-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/11/Screenshot-2020-11-19-at-13.30.09-e1605804607625-150x150.png" alt="Liz meets with Independent Workers Union of Great Britain" width="150" height="150" /></a><a href="https://lizkendall.org/10740-2/" class="wp_rp_title">Liz meets with Independent Workers Union of Great Britain</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/a-fairer-greener-future-with-the-labour-party/">A fairer, greener future with the Labour Party</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -1607,7 +1607,7 @@ Practically everyone…</div>
 
 
 
-&lt;p&gt;If there is anything I can do to help or if you have any questions &amp;#8211; or if you help to run or know of any organisations which should be added to this list &amp;#8211; please email me at &lt;a href="&amp;#109;a&amp;#x69;l&amp;#x74;o&amp;#x3a;t&amp;#x75;l&amp;#x69;p&amp;#x40;t&amp;#x75;l&amp;#x69;p&amp;#x73;&amp;#105;&amp;#x64;&amp;#100;&amp;#x69;&amp;#113;&amp;#x2e;&amp;#99;o&amp;#x6d;"&gt;t&amp;#117;&amp;#x6c;&amp;#x69;p&amp;#64;&amp;#116;&amp;#x75;&amp;#x6c;i&amp;#112;&amp;#x73;&amp;#x69;dd&amp;#105;&amp;#x71;&amp;#x2e;c&amp;#111;&amp;#x6d;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If there is anything I can do to help or if you have any questions &amp;#8211; or if you help to run or know of any organisations which should be added to this list &amp;#8211; please email me at &lt;a href="&amp;#x6d;a&amp;#x69;l&amp;#x74;o&amp;#x3a;&amp;#116;u&amp;#x6c;i&amp;#x70;&amp;#64;&amp;#x74;&amp;#117;&amp;#x6c;&amp;#105;p&amp;#x73;i&amp;#x64;d&amp;#x69;&amp;#113;&amp;#x2e;&amp;#x63;o&amp;#x6d;"&gt;&amp;#116;u&amp;#x6c;i&amp;#x70;&amp;#64;&amp;#x74;u&amp;#x6c;&amp;#105;&amp;#x70;&amp;#115;i&amp;#x64;d&amp;#x69;q&amp;#x2e;c&amp;#x6f;m&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -1807,7 +1807,7 @@ Practically everyone…</div>
 
 
 
-&lt;p&gt;If you require urgent mental health support please call&amp;nbsp;&lt;a href="tel:116123"&gt;116 123&lt;/a&gt;&amp;nbsp;to talk to Samaritans or email:&amp;nbsp;&lt;a href="&amp;#109;a&amp;#x69;l&amp;#x74;o&amp;#x3a;j&amp;#x6f;&amp;#64;&amp;#x73;&amp;#97;m&amp;#x61;r&amp;#x69;t&amp;#x61;n&amp;#x73;.&amp;#x6f;&amp;#114;&amp;#x67;"&gt;&amp;#x6a;&amp;#x6f;&amp;#x40;&amp;#x73;&amp;#x61;&amp;#x6d;&amp;#x61;&amp;#x72;&amp;#105;&amp;#116;&amp;#97;&amp;#110;s.org&lt;/a&gt;&amp;nbsp;for a reply within 24 hours. They also offer non-urgent offer confidential support which can be found here: &lt;a href="https://www.samaritans.org/"&gt;https://www.samaritans.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you require urgent mental health support please call&amp;nbsp;&lt;a href="tel:116123"&gt;116 123&lt;/a&gt;&amp;nbsp;to talk to Samaritans or email:&amp;nbsp;&lt;a href="&amp;#x6d;&amp;#97;i&amp;#x6c;&amp;#x74;&amp;#111;:&amp;#x6a;&amp;#x6f;&amp;#64;s&amp;#x61;&amp;#x6d;&amp;#97;r&amp;#x69;&amp;#x74;&amp;#97;n&amp;#x73;&amp;#x2e;&amp;#111;r&amp;#x67;"&gt;&amp;#106;&amp;#x6f;&amp;#64;&amp;#x73;a&amp;#109;&amp;#x61;r&amp;#x69;t&amp;#x61;n&amp;#115;&amp;#x2e;o&amp;#x72;g&lt;/a&gt;&amp;nbsp;for a reply within 24 hours. They also offer non-urgent offer confidential support which can be found here: &lt;a href="https://www.samaritans.org/"&gt;https://www.samaritans.org/&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -2691,10 +2691,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6340461641c1a" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63407087c8c8b" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6340461641c1a').iPhorm({"id":5,"uniqueId":"6340461641c1a","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63407087c8c8b').iPhorm({"id":5,"uniqueId":"63407087c8c8b","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2769,10 +2769,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6340461641c1a" class="iphorm iphorm-form-5" action="/feed/#iphorm-6340461641c1a" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63407087c8c8b" class="iphorm iphorm-form-5" action="/feed/#iphorm-63407087c8c8b" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6340461641c1a" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63407087c8c8b" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2781,22 +2781,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6340461641c1a" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6340461641c1a" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63407087c8c8b" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63407087c8c8b" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6340461641c1a" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6340461641c1a" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63407087c8c8b" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63407087c8c8b" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6340461641c1a" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6340461641c1a" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63407087c8c8b" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63407087c8c8b" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2806,7 +2806,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6340461641c1a_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63407087c8c8b_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2825,7 +2825,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6340461641c1a script').remove();
+    jQuery('#iphorm-outer-63407087c8c8b script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2862,7 +2862,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyxpwCUiBqA1JmK1jMHqiCPdCtys-M34YCdU2utldNzcX1P_ZvMlO5uwZyvBIi2B1XGrnLRAcF4jg286bP_pg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzXoXdbxkyW6QVHxphLJ8d2dde566OAow9S7mZROIWpRvqz11JbzOcu5Q8PGPvqZVwytcoX43ReYc4ZPDgVxA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
