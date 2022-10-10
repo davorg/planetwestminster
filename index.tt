@@ -18,7 +18,7 @@
     <!-- Bootstrap core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
-    <link rel="alternate" type="application/atom+xml" title="Atom" href="http://mps.theplanetarium.org/atom.xml" />
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="[% cfg.url %][% cfg.feed.file.split('/').last %]" />
     <meta property="og:title" content="[% feed.title %]" />
     <meta property="og:description" content="Aggregating the web feeds of Westminster MPs" />
     <meta property="og:type" content="website" />
