@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-02T15:35:53Z</updated>
+  <updated>2022-12-02T18:29:15Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Meeting with Citizens Advice Bureau</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2022/12/02/meeting-with-citizens-advice-bureau/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>I met the Chief of the local CAB today.</p>
+<p>He briefed me on a survey they have done about the cost of living issues.</p>
+<p>I explained I had done a lot on this. The decisions to uprate benefits and pensions by the full high inflation rate would help people, as did the direct cash support to deal with the immediate problem</p>
+<p>I pointed out the Welfare Secretary of State is currently consulting on how more people with no job can be helped to take one of the 1.3 million jobs still available. I offered to bring any proposals they might have to the Minister’s attention .</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I met the Chief of the local CAB today. He briefed me on a survey they have done about the cost of living issues. I explained I had done a lot on this. The decisions to uprate benefits and pensions by the full high inflation rate would help people, as did the direct cash support…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>http://johnredwoodsdiary.com/?p=33985</id>
+    <published>2022-12-02T16:51:39Z</published>
+    <updated>2022-12-02T16:51:39Z</updated>
+    <category term="Wokingham and West Berkshire Issues"/>
+  </entry>
   <entry>
     <title>Attleborough and Snetterton Business Forum</title>
     <link rel="alternate" href="https://www.georgefreeman.co.uk/news/attleborough-and-snetterton-business-forum" type="text/html"/>
@@ -72,24 +93,6 @@
     <updated>2022-12-02T14:11:00Z</updated>
   </entry>
   <entry>
-    <title>My Meeting with the Minister Responsible for Probate</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2022/12/02/my-meeting-with-the-minister-responsible-for-probate/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>I met Mike Freer, the Minister responsible for Probate, following several constituents’ case of delay in processing applications. The Minister confirmed that the office had been taking many months to determine a range of probate cases, and he was working with officials to shorten delays and improve processes. He agreed we should expect a better service. He promised to review personally a couple of cases that are still outstanding for Wokingham constituents.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I met Mike Freer, the Minister responsible for Probate, following several constituents’ case of delay in processing applications. The Minister confirmed that the office had been taking many months to determine a range of probate cases, and he was working with officials to shorten delays and improve processes. He agreed we should expect a better…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>https://johnredwoodsdiary.com/?p=33981</id>
-    <published>2022-12-02T13:53:05Z</published>
-    <updated>2022-12-02T13:53:05Z</updated>
-    <category term="Wokingham and West Berkshire Issues"/>
-  </entry>
-  <entry>
     <title>ROYAL MAIL ASKS ITS CUSTOMERS TO POST EARLY FOR CHRISTMAS DUE TO CWU STRIKE ACTION</title>
     <link rel="alternate" href="https://www.robin-millar.org.uk/news/royal-mail-asks-its-customers-post-early-christmas-due-cwu-strike-action" type="text/html"/>
     <content type="xhtml">
@@ -102,6 +105,17 @@ Royal Mail continues to deploy contingency plans to…</div>
     <updated>2022-12-02T12:00:00Z</updated>
   </entry>
   <entry>
+    <title>Statement on the Use of Hotels in Banbury for Asylum Seekers</title>
+    <link rel="alternate" href="https://www.victoriaprentis.com/news/statement-use-hotels-banbury-asylum-seekers" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I know that there has been considerable discussion over the past week about the use of hotels in Banbury for asylum seekers.
+The Home Office is required by law to provide accommodation for asylum seekers who would otherwise be homeless. They have a statutory duty to make sure it is decent, safe and…</div>
+    </content>
+    <id>https://www.victoriaprentis.com/news/statement-use-hotels-banbury-asylum-seekers</id>
+    <published>2022-12-02T12:00:00Z</published>
+    <updated>2022-12-02T12:00:00Z</updated>
+  </entry>
+  <entry>
     <title>My weekly 🎥 update 👇</title>
     <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/my-weekly-update" type="text/html"/>
     <id>https://www.maria4basingstoke.co.uk/news/my-weekly-update</id>
@@ -109,14 +123,60 @@ Royal Mail continues to deploy contingency plans to…</div>
     <updated>2022-12-02T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>Fostering in Nottinghamshire Drop-In Sessions</title>
-    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/fostering-nottinghamshire-drop-sessions" type="text/html"/>
+    <title>Record numbers of NHS doctors and nurses</title>
+    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/record-numbers-nhs-doctors-and-nurses" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Christmas is rapidly approaching and for many young people in care this can be a confusing and emotional time. They want to be excited for Christmas but feel they shouldn't be because they aren't with their birth family. Nottinghamshire Fostering Care are looking for people become one of their…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Brendan Clarke-Smith MP welcomes 2,415 new doctors and nurses for NHS in East Midlands
+Press Release 
+Date: 02/11/2022
+Recently released figures show that a record number of doctors and nurses are now working in the NHS in England – with the Conservative Government on track to deliver on its…</div>
     </content>
-    <id>https://www.brendanclarkesmith.com/news/fostering-nottinghamshire-drop-sessions</id>
+    <id>https://www.brendanclarkesmith.com/news/record-numbers-nhs-doctors-and-nurses</id>
     <published>2022-12-02T12:00:00Z</published>
     <updated>2022-12-02T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Graham Stuart MP Plants Tree at Beverley St Nicholas Primary School In Memory of Her Majesty the Queen</title>
+    <link rel="alternate" href="https://www.grahamstuart.com/news/graham-stuart-mp-plants-tree-beverley-st-nicholas-primary-school-memory-her-majesty-queen" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Graham Stuart, Member of Parliament for Beverley and Holderness, planted a tree today at Beverley St Nicholas Primary School as part of the Queen’s Green Canopy.
+The Queen’s Green Canopy is a new Government initiative which launches today with a commitment to provide almost half a million pounds to…</div>
+    </content>
+    <id>https://www.grahamstuart.com/news/graham-stuart-mp-plants-tree-beverley-st-nicholas-primary-school-memory-her-majesty-queen</id>
+    <published>2022-12-02T12:00:00Z</published>
+    <updated>2022-12-02T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The power of community at Christmas – my article for the Tameside Correspondent</title>
+    <link rel="alternate" href="https://andrewgwynne.co.uk/the-power-of-community-at-christmas-my-article-for-the-tameside-correspondent/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-power-of-community-at-christmas-my-article-for-the-tameside-correspondent" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-235898" src="http://andrewgwynne.co.uk/wp-content/uploads/2022/12/christmas-1024x535.jpg" alt="" width="1024" height="535" srcset="https://andrewgwynne.co.uk/wp-content/uploads/2022/12/christmas-1024x535.jpg 1024w, https://andrewgwynne.co.uk/wp-content/uploads/2022/12/christmas-300x157.jpg 300w, https://andrewgwynne.co.uk/wp-content/uploads/2022/12/christmas-768x401.jpg 768w, https://andrewgwynne.co.uk/wp-content/uploads/2022/12/christmas-1080x564.jpg 1080w, https://andrewgwynne.co.uk/wp-content/uploads/2022/12/christmas.jpg 1455w" sizes="(max-width: 1024px) 100vw, 1024px"/></p>
+<p><strong>IT’s no secret that I’m a big fan of Christmas. </strong></p>
+<p>Every year, I look forward to Christmas lights going up, digging tinsel out of the cupboard, and spending time with friends and family (oh, and mince pies…).</p>
+<p>One of the best parts of being a Member of Parliament is getting to go along to the various Christmas events which pop up every year right across Tameside.</p>
+<p>Last weekend, I went along to Christmas Fairs being held at Victoria Park Community Centre and St Mary’s church and was given the honour of leading the Christmas Tree switch-on on the Civic Square.</p>
+<p>I also went over to St George’s Community Centre in Dane Bank and helped Lyle make his lantern for the children’s lantern parade to Denton West End Community Library.</p>
+<p>It was a fantastic weekend and I’d like to say a huge thanks to everyone who played a part in organising these events. Your work is really appreciated and brings so much joy to local people.</p>
+<p>Even Scrooge himself would be struggling not to crack a smile at the Christmas spirit currently on display in Tameside.</p>
+<p>I’m not just talking about decorations and festive fairs. I’m also talking about the inspiring local people looking after those in need over the Christmas and winter months.</p>
+<p>For many families, Christmas will feel a little different this year. I know that the impact of the cost-of-living crisis is being felt acutely here in Tameside, and many people are really worried about what the future holds.</p>
+<p>With that in mind, it’s fantastic to see volunteers manning food banks and community pantries across Tameside, as well as helping with annual initiatives like the Tameside Toy Appeal.</p>
+<p>If you feel like you need support over the winter months, please visit <a href="https://www.tameside.gov.uk/healthyeatingandnutrition/foodbanks">https://www.tameside.gov.uk/healthyeatingandnutrition/foodbanks</a></p>
+<p>The post <a rel="nofollow" href="https://andrewgwynne.co.uk/the-power-of-community-at-christmas-my-article-for-the-tameside-correspondent/">The power of community at Christmas – my article for the Tameside Correspondent</a> appeared first on <a rel="nofollow" href="https://andrewgwynne.co.uk">Andrew Gwynne MP</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>IT’s no secret that I’m a big fan of Christmas.  Every year, I look forward to Christmas lights going up, digging tinsel out of the cupboard, and spending time with friends and family (oh, and mince pies…). One of the best parts of being a Member of Parliament is getting to go along to the […]</p>
+<p>The post <a rel="nofollow" href="https://andrewgwynne.co.uk/the-power-of-community-at-christmas-my-article-for-the-tameside-correspondent/">The power of community at Christmas – my article for the Tameside Correspondent</a> appeared first on <a rel="nofollow" href="https://andrewgwynne.co.uk">Andrew Gwynne MP</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Andrew Gwynne MP</name>
+    </author>
+    <id>https://andrewgwynne.co.uk/?p=235897</id>
+    <published>2022-12-02T10:16:43Z</published>
+    <updated>2022-12-02T10:16:43Z</updated>
+    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>North Aldridge Neighbourhood Watch Article</title>
@@ -458,35 +518,12 @@ Finally last week I was able…</div>
     <updated>2022-12-01T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>Horton Catch-up with OUHFT </title>
-    <link rel="alternate" href="https://www.victoriaprentis.com/news/horton-catch-ouhft" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It was good to catch-up with the Oxford University Hospitals NHS Foundation Trust to discuss the Horton General Hospital and health provision in Banbury.
-We know from the Autumn Statement that the Government remains committed to its New Hospitals Programme. The Trust submitted a bid as part of this…</div>
-    </content>
-    <id>https://www.victoriaprentis.com/news/horton-catch-ouhft</id>
-    <published>2022-12-01T12:00:00Z</published>
-    <updated>2022-12-01T12:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Cost of Living Fact Sheet</title>
     <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/cost-living-fact-sheet" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">The Government and I recognise that we are living through a tough period. That is why the Government has provided support to all households across the UK. Below is a fact sheet which outlines all of the support available during the current cost of living increase.</div>
     </content>
     <id>https://www.teamtrevelyan.co.uk/news/cost-living-fact-sheet</id>
-    <published>2022-12-01T12:00:00Z</published>
-    <updated>2022-12-01T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>November Newsletter 2022</title>
-    <link rel="alternate" href="https://www.grahamstuart.com/news/november-newsletter-2022" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Welcome to my November newsletter. It has been another busy month for me which included chairing a meeting to get your views on the proposed Molescroft Recycling Centre, launching my Curry Awards and speaking to schools during UK Parliament Week.
-Remembrance Sunday Service at the Cenotaph
-On…</div>
-    </content>
-    <id>https://www.grahamstuart.com/news/november-newsletter-2022</id>
     <published>2022-12-01T12:00:00Z</published>
     <updated>2022-12-01T12:00:00Z</updated>
   </entry>
@@ -619,7 +656,7 @@ Thank you to the FSB for helping to organise this really important meeting. To t
 <p>On Friday I hosted a roundtable meeting with the <a href="https://www.fsb.org.uk/fsb-regions-and-nations/fsb-east-midlands.html">East Midlands Federation of Small Businesses (FSB)</a> &#8211; a really important opportunity to hear directly from businesses based in Leicester West about the economic and supply-chain challenges they&#8217;re facing, and the support they need in order to plan for growth in the future.&nbsp;</p>
 <p>Thank you to the FSB for helping to organise this really important meeting. To thrive, businesses need economic stability, and investment in skills and clean growth. In Leicester we have an incredibly creative and innovative business community and I&#8217;ll do everything I can to support them as MP for Leicester West.</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-6510" data-post-type="none" ><a href="https://lizkendall.org/giving-local-people-their-say-on-lidl-proposals/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/06/lidl-150x150.jpg" alt="Giving local people their say on Lidl proposals " width="150" height="150" /></a><a href="https://lizkendall.org/giving-local-people-their-say-on-lidl-proposals/" class="wp_rp_title">Giving local people their say on Lidl proposals </a></li><li data-position="1" data-poid="in-5991" data-post-type="none" ><a href="https://lizkendall.org/liz-takes-on-energy-giant-in-row-over-unfair-gas-metre-charges/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/19.jpg" alt="Liz takes on energy giant in row over unfair gas meter charges" width="150" height="150" /></a><a href="https://lizkendall.org/liz-takes-on-energy-giant-in-row-over-unfair-gas-metre-charges/" class="wp_rp_title">Liz takes on energy giant in row over unfair gas meter charges</a></li><li data-position="2" data-poid="in-11660" data-post-type="none" ><a href="https://lizkendall.org/support-for-the-people-of-ukraine/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/22.jpg" alt="Support for the people of Ukraine" width="150" height="150" /></a><a href="https://lizkendall.org/support-for-the-people-of-ukraine/" class="wp_rp_title">Support for the people of Ukraine</a></li><li data-position="3" data-poid="in-1431" data-post-type="none" ><a href="https://lizkendall.org/holiday-magic/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/12.jpg" alt="Holiday magic" width="150" height="150" /></a><a href="https://lizkendall.org/holiday-magic/" class="wp_rp_title">Holiday magic</a></li><li data-position="4" data-poid="in-9410" data-post-type="none" ><a href="https://lizkendall.org/liz-visits-new-college/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2019/03/nc-150x150.jpg" alt="Liz Visits New College" width="150" height="150" /></a><a href="https://lizkendall.org/liz-visits-new-college/" class="wp_rp_title">Liz Visits New College</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-4220" data-post-type="none" ><a href="https://lizkendall.org/where-next-for-the-nhs-labours-vision-for-21st-century-care/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2012/11/Managers-in-Partnership-speech-Nov-2012-150x150.jpg" alt="Where next for the NHS? Labour&#8217;s vision for 21st century care" width="150" height="150" /></a><a href="https://lizkendall.org/where-next-for-the-nhs-labours-vision-for-21st-century-care/" class="wp_rp_title">Where next for the NHS? Labour&#8217;s vision for 21st century care</a></li><li data-position="1" data-poid="in-11074" data-post-type="none" ><a href="https://lizkendall.org/liz-meets-with-local-police-commanders/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" alt="Liz meets with local police commanders" width="150" height="150" /></a><a href="https://lizkendall.org/liz-meets-with-local-police-commanders/" class="wp_rp_title">Liz meets with local police commanders</a></li><li data-position="2" data-poid="in-10254" data-post-type="none" ><a href="https://lizkendall.org/liz-attends-anti-poverty-round-table-event-on-food/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/18.jpg" alt="Liz attends anti-poverty round table event on food" width="150" height="150" /></a><a href="https://lizkendall.org/liz-attends-anti-poverty-round-table-event-on-food/" class="wp_rp_title">Liz attends anti-poverty round table event on food</a></li><li data-position="3" data-poid="in-2690" data-post-type="none" ><a href="https://lizkendall.org/liz-helps-glenfield%e2%80%99s-heartlink-campaigners-present-petition-at-no-10-downing-street/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="Liz joins Glenfield’s HeartLink campaigners to present petition at No 10 Downing Street" width="150" height="150" /></a><a href="https://lizkendall.org/liz-helps-glenfield%e2%80%99s-heartlink-campaigners-present-petition-at-no-10-downing-street/" class="wp_rp_title">Liz joins Glenfield’s HeartLink campaigners to present petition at No 10 Downing Street</a></li><li data-position="4" data-poid="in-3464" data-post-type="none" ><a href="https://lizkendall.org/free-home-care-available-to-fewer-elderly-people/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/4.jpg" alt="Free home care available to fewer elderly people" width="150" height="150" /></a><a href="https://lizkendall.org/free-home-care-available-to-fewer-elderly-people/" class="wp_rp_title">Free home care available to fewer elderly people</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-hosts-roundtable-with-leicester-small-businesses/">Liz meets Leicester small businesses to discuss economic challenges</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -764,37 +801,6 @@ This includes…</div>
     <published>2022-11-30T10:21:50Z</published>
     <updated>2022-11-30T10:21:50Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>The importance of supporting local businesses – my weekly article for the Tameside Reporter</title>
-    <link rel="alternate" href="https://andrewgwynne.co.uk/the-importance-of-supporting-local-businesses-my-weekly-article-for-the-tameside-reporter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-importance-of-supporting-local-businesses-my-weekly-article-for-the-tameside-reporter" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-235894" src="http://andrewgwynne.co.uk/wp-content/uploads/2022/11/lbusinesses-1024x535.jpg" alt="" width="1024" height="535" srcset="https://andrewgwynne.co.uk/wp-content/uploads/2022/11/lbusinesses-1024x535.jpg 1024w, https://andrewgwynne.co.uk/wp-content/uploads/2022/11/lbusinesses-300x157.jpg 300w, https://andrewgwynne.co.uk/wp-content/uploads/2022/11/lbusinesses-768x401.jpg 768w, https://andrewgwynne.co.uk/wp-content/uploads/2022/11/lbusinesses-1080x564.jpg 1080w, https://andrewgwynne.co.uk/wp-content/uploads/2022/11/lbusinesses.jpg 1455w" sizes="(max-width: 1024px) 100vw, 1024px"/></p>
-<p>This weekend, we’ll celebrate Small Business Saturday. This national initiative aims to highlight the success of ours small businesses, as well as encouraging customers to shop locally.</p>
-<p>Every year, I mark Small Business Saturday by organising my Local Business Awards. If you ever need a demonstration of the wonderful array of businesses across Tameside, look no further than these awards. From shops, to restaurants, to plumbers to gyms; there’s no shortage of local businesses doing excellent work.</p>
-<p>These awards started as a bit of fun, but have evolved into a really competitive annual event, and one that aims to showcase local businesses that go above and beyond for their customers.</p>
-<p>I’ve long believed in the importance of championing and supporting small businesses. There’s the more obvious economic argument that doing so improves local and national output, but also the social one too. Local businesses are places where we see friends, neighbours, and connect with our community.</p>
-<p>Times are tough at the moment, not least for small business owners. In the same way as their customers, many businesses are having to contend with soaring energy bills, as well as rising cost of materials and wholesale goods.</p>
-<p>This is obviously cause for real concern, countless lives and livelihoods rest on the fortunes of local businesses, and the Government should be doing everything it can to keep them afloat during this economic crisis.</p>
-<p aria-hidden="true">In my role as a Member of Parliament, I’m lucky to regularly meet local business owners and try to support them in whatever way I can. The local business landscape of Tameside has totally transformed from when I was growing up in Denton, and that is thanks to local people who have put money and time on the line to pursue a dream.</p>
-<p>After all, that’s how all local businesses start; as a dream which becomes a reality through hard work, determination and a sprinkling of good luck.</p>
-<p>When local businesses succeed, we all do. So, this small business Saturday, if you’re able to, I’d encourage you to shop local. In fact, there’s no better time to do it in than the run-up to Christmas. Instead of popping online for that last-minute Christmas gift, maybe consider taking a walk down the high street and seeing what you can find. That way we can make sure that small businesses in Tameside continue to thrive over the months and years ahead.</p>
-<p>The post <a rel="nofollow" href="https://andrewgwynne.co.uk/the-importance-of-supporting-local-businesses-my-weekly-article-for-the-tameside-reporter/">The importance of supporting local businesses – my weekly article for the Tameside Reporter</a> appeared first on <a rel="nofollow" href="https://andrewgwynne.co.uk">Andrew Gwynne MP</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>This weekend, we’ll celebrate Small Business Saturday. This national initiative aims to highlight the success of ours small businesses, as well as encouraging customers to shop locally. Every year, I mark Small Business Saturday by organising my Local Business Awards. If you ever need a demonstration of the wonderful array of businesses across Tameside, look […]</p>
-<p>The post <a rel="nofollow" href="https://andrewgwynne.co.uk/the-importance-of-supporting-local-businesses-my-weekly-article-for-the-tameside-reporter/">The importance of supporting local businesses – my weekly article for the Tameside Reporter</a> appeared first on <a rel="nofollow" href="https://andrewgwynne.co.uk">Andrew Gwynne MP</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Andrew Gwynne MP</name>
-    </author>
-    <id>https://andrewgwynne.co.uk/?p=235893</id>
-    <published>2022-11-30T10:07:25Z</published>
-    <updated>2022-11-30T10:07:25Z</updated>
-    <category term="Local"/>
-    <category term="Media"/>
   </entry>
   <entry>
     <title>Scott Benton MP welcomes strengthened protections for children and free speech in the Conservative Government’s improved Online Safety Bill</title>
@@ -1984,6 +1990,21 @@ Jenrick MP, acknowledged the issues raised and agreed to look at ways to make th
     <updated>2022-03-07T09:19:25Z</updated>
     <category term="Slot Online"/>
   </entry>
+  <entry>
+    <title>Backbench Business Committee</title>
+    <link rel="alternate" href="http://www.ianmearns.org.uk/2022/01/28/backbench-business-committee/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_20766" style="width: 742px" class="wp-caption alignnone"><img class="size-full wp-image-20766" src="http://www.ianmearns.org.uk/wp-content/uploads/2022/01/backbench.png" alt="" width="732" height="830" srcset="http://www.ianmearns.org.uk/wp-content/uploads/2022/01/backbench.png 732w, http://www.ianmearns.org.uk/wp-content/uploads/2022/01/backbench-265x300.png 265w" sizes="(max-width: 732px) 100vw, 732px"/><p class="wp-caption-text">My article in House Magazine</p></div>
+</div>
+    </content>
+    <author>
+      <name>Ian Mearns</name>
+    </author>
+    <id>http://www.ianmearns.org.uk/?p=20765</id>
+    <published>2022-01-28T11:06:12Z</published>
+    <updated>2022-01-28T11:06:12Z</updated>
+    <category term="Uncategorised"/>
+  </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
 			<name>simonlefevre</name>
@@ -2283,10 +2304,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-638a1a81ec7ba" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-638a43dadd729" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-638a1a81ec7ba').iPhorm({"id":5,"uniqueId":"638a1a81ec7ba","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-638a43dadd729').iPhorm({"id":5,"uniqueId":"638a43dadd729","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2361,10 +2382,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-638a1a81ec7ba" class="iphorm iphorm-form-5" action="/feed/#iphorm-638a1a81ec7ba" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-638a43dadd729" class="iphorm iphorm-form-5" action="/feed/#iphorm-638a43dadd729" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="638a1a81ec7ba" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="638a43dadd729" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2373,22 +2394,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_638a1a81ec7ba" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_638a1a81ec7ba" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_638a43dadd729" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_638a43dadd729" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_638a1a81ec7ba" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_638a1a81ec7ba" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_638a43dadd729" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_638a43dadd729" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_638a1a81ec7ba" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_638a1a81ec7ba" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_638a43dadd729" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_638a43dadd729" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2398,7 +2419,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_638a1a81ec7ba_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_638a43dadd729_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2417,7 +2438,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-638a1a81ec7ba script').remove();
+    jQuery('#iphorm-outer-638a43dadd729 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
