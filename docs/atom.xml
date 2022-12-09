@@ -7,9 +7,49 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-09T03:29:42Z</updated>
+  <updated>2022-12-09T06:29:57Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+		<author>
+			<name>Team JP</name>
+					</author>
+
+		<title type="html"><![CDATA[John responds to being named December&#8217;s Parliamentary Tech Champion]]></title>
+		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2022/12/09/john-responds-to-being-named-decembers-parliamentary-tech-champion/"/>
+
+		<id>http://johnpenrose.org/wp/?p=5604</id>
+		<updated>2022-12-09T05:30:12Z</updated>
+		<published>2022-12-09T05:30:11Z</published>
+		<category scheme="http://johnpenrose.org/wp" term="Press Cuttings"/>
+		<summary type="html"><![CDATA[I’m honoured to be this month’s ‘Parliamentary Tech Champion’, because of the role technology can play in sharpening competition to create big, powerful citizen-consumers so markets work for people rather than the other way round.  This is a key theme in my Government-commissioned report on Competition Policy, Power to the People which made the case [&#8230;]]]></summary>
+
+					<content type="html" xml:base="http://johnpenrose.org/wp/2022/12/09/john-responds-to-being-named-decembers-parliamentary-tech-champion/"><![CDATA[
+<p><strong>I’m honoured to be this month’s ‘Parliamentary Tech Champion’, because of the role technology can play in sharpening competition to create big, powerful citizen-consumers so markets work for people rather than the other way round. </strong><br><br>This is a key theme in my Government-commissioned report on Competition Policy, Power to the People which made the case for a strong, pro-competitive but tightly-ringfenced Digital Market Unit to erode the power of online network monopolies which have emerged in the last few decades, giving consumers more choice and better deals as well as opening up more opportunities for entrepreneurs and wealth-creators too. <br><br>An example of what this means in practice is the UK’s world-leading changes in Open Banking, which are weakening the longstanding current-account stranglehold of incumbent high-street banks. By opening up data portability with APIs for third party payments providers (TPPs), banking customers suddenly have a growing choice of different and creative services to choose from, and we’ve created a thriving Open Banking FinTech eco-system in the process. The next challenge is to extend this success from current accounts to the whole of the financial sector (Open Finance), and then on to other industries like online retailing and utilities too (Open Everything). <br><br>Last but not least, consumers can become more powerful through transparency, partly because we can all make better-informed decisions about what we buy if the data is at our fingertips whenever we need it, and partly by shining a light on subsidies or sweetheart deals given to incumbents and special interests too. The recent Subsidy Control Bill improves transparency significantly, and there’s another opportunity in the upcoming the Online Safety Bill if we grasp the opportunity to protect people from lies or only seeing one set of views about anything from products and services to vaccines and political campaigns.</p>
+]]></content>
+		
+			</entry>
+  <entry>
+    <title>Gordon Brown takes Labour back to a broken model for the UK</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2022/12/09/gordon-brown-takes-labour-back-to-a-broken-model-for-the-uk/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>It was Gordon Brown who told us once devolution was granted to Scotland Scottish nationalism would melt away. As some of us feared, instead it gave the SNP a bigger platform and more resentments to work on. They proved masterful at governing badly whilst blaming the constitutional settlement and Whitehall for all their woes. Labour failed to put devolution in during the 1970s, used their big majority to do it after 1997, and later lost countless seats in Scotland as payment for their pains.</p>
+<p>Gordon is back again setting Labour policy on this most vexatious of political  insider questions. He wants more devolved powers for Scotland. He wishes to ignore England and make the devolution within our Union all the more lopsided. Just as the EU wiped England of their maps and tried to balkanise England into a set of unloved regions, so Gordon Brown wishes to do the same. He accepts that Labour lost the crucial referendum to set up an elected regional government in the North East and did not try again. So this time he wants to build regions up from so called partnerships between local Councils aggregating to a new region.</p>
+<p>There is no strong regional identity in most parts of England. Exeter does not want to be governed from Bristol, Liverpool does not want to be managed by Manchester. Wokingham is variously bundled into the South East, Rest of the South East (x London), Wessex, Thames Valley, Berks,Bucks and Oxon. None of these regional groupings command our loyalty or consent. We would not vote for any of them to have governments.</p>
+<p>People in my area belong to Wokingham Borough or to West Berks. We belong to the county of Berkshire in the country of England. We identify with Berkshire and with England without either having a government. Lop sided devolution has gone too far. Ignoring England’s views and needs is wrong. Those who say they want power devolved should listen to people’s own perceptions of their identities. The  best devolution of power is not to  new layers of government but to individuals and businesses to make more of our own decisions.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It was Gordon Brown who told us once devolution was granted to Scotland Scottish nationalism would melt away. As some of us feared, instead it gave the SNP a bigger platform and more resentments to work on. They proved masterful at governing badly whilst blaming the constitutional settlement and Whitehall for all their woes. Labour…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>https://johnredwoodsdiary.com/?p=34019</id>
+    <published>2022-12-09T05:04:45Z</published>
+    <updated>2022-12-09T05:04:45Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Edinburgh opens city-wide network of ‘Warm and Welcoming Spaces’ </title>
     <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13614/edinburgh-opens-city-wide-network-of-warm-and-welcoming-spaces-" type="text/html"/>
@@ -359,44 +399,6 @@ There are already around 3,107 claimants in Blackpool South, but more people are
     <category term="News"/>
   </entry>
   <entry>
-    <title>Further discussions with Minister Lucy Frazer about housing targets</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2022/12/08/further-discussions-with-minister-lucy-frazer-about-housing-targets/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>I am having further discussions with Minister Lucy Frazer about the Levelling Up Bill and the housing targets.</p>
-<p><a href="http://johnredwoodsdiary.com/wp-content/uploads/2022/12/JR-with-Lucy-Frazer-4.jpg"><img loading="lazy" class="wp-image-34016 aligncenter" src="http://johnredwoodsdiary.com/wp-content/uploads/2022/12/JR-with-Lucy-Frazer-4.jpg" alt="" width="552" height="464" srcset="http://johnredwoodsdiary.com/wp-content/uploads/2022/12/JR-with-Lucy-Frazer-4.jpg 640w, http://johnredwoodsdiary.com/wp-content/uploads/2022/12/JR-with-Lucy-Frazer-4-300x252.jpg 300w" sizes="(max-width: 552px) 100vw, 552px"/></a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I am having further discussions with Minister Lucy Frazer about the Levelling Up Bill and the housing targets.</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>https://johnredwoodsdiary.com/?p=34017</id>
-    <published>2022-12-08T09:50:33Z</published>
-    <updated>2022-12-08T09:50:33Z</updated>
-    <category term="Wokingham and West Berkshire Issues"/>
-  </entry>
-  <entry>
-		<author>
-			<name>Team JP</name>
-					</author>
-
-		<title type="html"><![CDATA[John speaks about dangers of disinformation and misinformation during the Online Safety Bill debate]]></title>
-		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2022/12/07/john-speaks-about-dangers-of-disinformation-and-misinformation-during-the-online-safety-bill-debate/"/>
-
-		<id>http://johnpenrose.org/wp/?p=5602</id>
-		<updated>2022-12-07T20:07:43Z</updated>
-		<published>2022-12-07T20:07:43Z</published>
-		<category scheme="http://johnpenrose.org/wp" term="National Campaigns"/>
-		<summary type="html"><![CDATA[]]></summary>
-
-					<content type="html" xml:base="http://johnpenrose.org/wp/2022/12/07/john-speaks-about-dangers-of-disinformation-and-misinformation-during-the-online-safety-bill-debate/"><![CDATA[
-<p><a href="https://www.youtube.com/@johnpenrose8893"></a></p>
-]]></content>
-		
-			</entry>
-  <entry>
     <title>Green Heart Hero awards</title>
     <link rel="alternate" href="https://www.conormcginn.co.uk/2022/12/07/green-heart-hero-awards/" type="text/html"/>
     <author>
@@ -491,7 +493,7 @@ If you make Britain your home you should pay your taxes here too. Today Labour v
 <p>&#160;<br />
 You can see what Labour&#8217;s Shadow Secretary of State for Health and Social Care had to say in the debate here.</p>
 <p>&#160;</p>
-<p>Related postsLiz&#8217;s fight to save children&#8217;s heart surgery unitLiz calls for Universal Family Care and LeaveLiz calls on Government to do more for social care during coronavirusLiz talks to students at the University ...</p>
+<p>Related postsTraveller site planning permission grantedConcerns over the safety of the deported Zimbabwean Evenia MawongeraLiz speaks at National Association for Hospital Education ConferenceLiz champions Teach First in Leicester WestLiz meets Cooperative Party Members ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-votes-for-nurses-not-non-doms/">Liz votes for nurses not non-doms</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -506,7 +508,7 @@ You can see what Labour&#8217;s Shadow Secretary of State for Health and Social 
 <div data-offset-key="25jai-0-0">&nbsp;</div>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-2516" data-post-type="none" ><a href="https://lizkendall.org/lizs-fight-to-save-childrens-heart-surgery-unit/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/4.jpg" alt="Liz&#8217;s fight to save children&#8217;s heart surgery unit" width="150" height="150" /></a><a href="https://lizkendall.org/lizs-fight-to-save-childrens-heart-surgery-unit/" class="wp_rp_title">Liz&#8217;s fight to save children&#8217;s heart surgery unit</a></li><li data-position="1" data-poid="in-9903" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-for-universal-family-care/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/02/Liz-care-commission-debate-speech-280116-540x303-1-150x150.jpg" alt="Liz calls for Universal Family Care and Leave" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-for-universal-family-care/" class="wp_rp_title">Liz calls for Universal Family Care and Leave</a></li><li data-position="2" data-poid="in-10142" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-on-government-to-do-more-for-social-care-during-coronavirus/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/22.jpg" alt="Liz calls on Government to do more for social care during coronavirus" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-on-government-to-do-more-for-social-care-during-coronavirus/" class="wp_rp_title">Liz calls on Government to do more for social care during coronavirus</a></li><li data-position="3" data-poid="in-9177" data-post-type="none" ><a href="https://lizkendall.org/liz-talks-to-students-at-the-university-of-leicester/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/10/DpTc4S-X4AAO_Fo-150x150.jpg" alt="Liz talks to students at the University of Leicester" width="150" height="150" /></a><a href="https://lizkendall.org/liz-talks-to-students-at-the-university-of-leicester/" class="wp_rp_title">Liz talks to students at the University of Leicester</a></li><li data-position="4" data-poid="in-3503" data-post-type="none" ><a href="https://lizkendall.org/learning-needs-to-be-a-lifelong-process/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/29.jpg" alt="Learning needs to be a lifelong process" width="150" height="150" /></a><a href="https://lizkendall.org/learning-needs-to-be-a-lifelong-process/" class="wp_rp_title">Learning needs to be a lifelong process</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-5730" data-post-type="none" ><a href="https://lizkendall.org/traveller-site-planning-permission-granted/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/1.jpg" alt="Traveller site planning permission granted" width="150" height="150" /></a><a href="https://lizkendall.org/traveller-site-planning-permission-granted/" class="wp_rp_title">Traveller site planning permission granted</a></li><li data-position="1" data-poid="in-5711" data-post-type="none" ><a href="https://lizkendall.org/concerns-over-the-safety-of-the-deported-zimbabwean-evenia-mawongera/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/29.jpg" alt="Concerns over the safety of the deported Zimbabwean Evenia Mawongera" width="150" height="150" /></a><a href="https://lizkendall.org/concerns-over-the-safety-of-the-deported-zimbabwean-evenia-mawongera/" class="wp_rp_title">Concerns over the safety of the deported Zimbabwean Evenia Mawongera</a></li><li data-position="2" data-poid="in-9724" data-post-type="none" ><a href="https://lizkendall.org/liz-speaks-at-national-association-for-hospital-education-conference/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2019/10/58d309ad-5383-4b6a-8cca-a9215d3334ca-150x150.png" alt="Liz speaks at National Association for Hospital Education Conference" width="150" height="150" /></a><a href="https://lizkendall.org/liz-speaks-at-national-association-for-hospital-education-conference/" class="wp_rp_title">Liz speaks at National Association for Hospital Education Conference</a></li><li data-position="3" data-poid="in-6545" data-post-type="none" ><a href="https://lizkendall.org/liz-champions-teach-first-in-leicester-west/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/07/DSCF5613-150x150.jpg" alt="Liz champions Teach First in Leicester West" width="150" height="150" /></a><a href="https://lizkendall.org/liz-champions-teach-first-in-leicester-west/" class="wp_rp_title">Liz champions Teach First in Leicester West</a></li><li data-position="4" data-poid="in-10260" data-post-type="none" ><a href="https://lizkendall.org/liz-meets-cooperative-party-members-and-councillors/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/25.jpg" alt="Liz meets Cooperative Party Members and Councillors" width="150" height="150" /></a><a href="https://lizkendall.org/liz-meets-cooperative-party-members-and-councillors/" class="wp_rp_title">Liz meets Cooperative Party Members and Councillors</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-votes-for-nurses-not-non-doms/">Liz votes for nurses not non-doms</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -867,6 +869,76 @@ Finally last week I was able…</div>
     <id>https://www.teamtrevelyan.co.uk/news/cost-living-fact-sheet</id>
     <published>2022-12-01T12:00:00Z</published>
     <updated>2022-12-01T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Llanelli Star Column – The importance of supporting local small businesses</title>
+    <link rel="alternate" href="https://niagriffith.org.uk/2022/11/llanelli-star-column-the-importance-of-supporting-local-small-businesses/" type="text/html"/>
+    <content type="html">
+&lt;p&gt;This Saturday, local businesses throughout Llanelli will be marking Small Business Saturday.&lt;/p&gt;
+
+
+
+&lt;p&gt;According
+to the Federation of Small Businesses, SMEs make up 99% of the business
+population in the UK and create 16 million jobs. Now in its tenth year, Small
+Business Saturday celebrates this success and encourages consumers to &amp;#8216;shop
+local&amp;#8217; and to support businesses in their own communities.&lt;/p&gt;
+
+
+
+&lt;p&gt;Small businesses are facing many
+difficulties including a crashed economy, soaring energy costs and supply chain
+issues. The Tory Government’s Autumn Statement with its high tax, low growth
+agenda will leave even less money in people’s pockets making things even
+harder. They need our support not only to survive but to thrive.&amp;nbsp; &lt;/p&gt;
+
+
+
+&lt;p&gt;Small businesses do much to enrich our lives
+and our communities, providing jobs, training and driving economic growth.&amp;nbsp; For them to succeed, they need a UK Government
+that is pro-worker and pro-business and one that is a strong and effective
+partner, bringing stability and practical support.&amp;nbsp; The current Tory chaos cannot provide that.&lt;/p&gt;
+
+
+
+&lt;p&gt;Only a change of government at a UK level
+can deliver the change that small businesses need.&lt;/p&gt;
+
+
+
+&lt;p&gt;Labour already has
+a plan that will help business owners looking to get on, both immediately and
+in the long-term.&amp;nbsp; &lt;/p&gt;
+
+
+
+&lt;p&gt;Our industrial
+strategy will set out a long-term framework for business policy, ensuring
+certainty, stability and no unexpected changes.&amp;nbsp;
+A UK Labour Government would keep energy bills down for good, with a
+credible strategy to increase the availability of cheap, clean, home-grown
+sources of power.&amp;nbsp; Support for the
+self-employed is also part of the equation and a UK Labour Government will
+extend the protections for self-employed workers including the right to sick
+pay.&lt;/p&gt;
+
+
+
+&lt;p&gt;This weekend, I
+will be supporting local small businesses in my constituency at every
+opportunity.&amp;nbsp; I hope that you will be
+able to too.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This Saturday, local businesses throughout Llanelli will be marking Small Business Saturday. According to the Federation of Small Businesses, SMEs make up 99% of the business population in the UK and create 16 million jobs. Now in its tenth year, Small Business Saturday celebrates this success and encourages consumers to ‘shop local’ and to support […]</div>
+    </summary>
+    <author>
+      <name>Nia Griffith</name>
+    </author>
+    <id>http://niagriffith.org.uk/?p=8648</id>
+    <published>2022-11-30T15:41:10Z</published>
+    <updated>2022-11-30T15:41:10Z</updated>
+    <category term="News"/>
   </entry>
   <entry>
 		<title>Apply for Pension Credit by 18 Dec, you could qualify for £324 Cost of Living Payment</title>
@@ -2175,10 +2247,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6392ab6bd315a" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6392d5bdcd5a8" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6392ab6bd315a').iPhorm({"id":5,"uniqueId":"6392ab6bd315a","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6392d5bdcd5a8').iPhorm({"id":5,"uniqueId":"6392d5bdcd5a8","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2253,10 +2325,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6392ab6bd315a" class="iphorm iphorm-form-5" action="/feed/#iphorm-6392ab6bd315a" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6392d5bdcd5a8" class="iphorm iphorm-form-5" action="/feed/#iphorm-6392d5bdcd5a8" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6392ab6bd315a" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6392d5bdcd5a8" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2265,22 +2337,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6392ab6bd315a" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6392ab6bd315a" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6392d5bdcd5a8" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6392d5bdcd5a8" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6392ab6bd315a" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6392ab6bd315a" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6392d5bdcd5a8" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6392d5bdcd5a8" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6392ab6bd315a" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6392ab6bd315a" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6392d5bdcd5a8" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6392d5bdcd5a8" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2290,7 +2362,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6392ab6bd315a_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6392d5bdcd5a8_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2309,7 +2381,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6392ab6bd315a script').remove();
+    jQuery('#iphorm-outer-6392d5bdcd5a8 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2346,7 +2418,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyHJsaaagTdf2rluezzBpkoVwBijcIA8fG55PpD_PYksbDphz-N622qPrpxS62n3ndzyFa9DF0l4J881DGsCQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzdeBVmLY2Kg4hdVow2VfagVOItAx8jtcXZvyMQ6hNyQd3-qds6dX3UojaUxf6u3krvnqVLAt4U1Rgg1ouCNg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
