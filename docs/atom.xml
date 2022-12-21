@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-21T12:32:13Z</updated>
+  <updated>2022-12-21T15:30:35Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Meet the City of Edinburgh Council concierge bringing Christmas cheer to tenants</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13624/meet-the-city-of-edinburgh-council-concierge-bringing-christmas-cheer-to-tenants" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Highrise homes are being made merry and bright this winter thanks to big-hearted Council worker Billy McGhee.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13624/meet-the-city-of-edinburgh-council-concierge-bringing-christmas-cheer-to-tenants</id>
+    <published>2022-12-21T14:24:00Z</published>
+    <updated>2022-12-21T14:24:00Z</updated>
+  </entry>
+  <entry>
+    <title>Child Support Collection (Domestic Abuse) Bill</title>
+    <link rel="alternate" href="http://wendymorton.co.uk/child-support-collection-domestic-abuse-bill/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>It was good to be able to be able to attend the Committee Stage of the Child Support Collection (Domestic Abuse) Bill and support this important piece of legislation.</p>
+<p>This seeks to help victims of domestic abuse by allowing for a Child Maintenance Service case to use “Collect and Pay”, if one parent objects to using the “Direct Pay” service on the grounds of domestic abuse by the other parent.</p>
+<p>The Bill will return to the House of Commons before hopefully going up to the House of Lords for consideration.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It was good to be able to be able to attend the Committee Stage of the Child Support Collection (Domestic Abuse) Bill and support this important piece of legislation. This […]</div>
+    </summary>
+    <author>
+      <name>Wendy Morton MP</name>
+    </author>
+    <id>http://wendymorton.co.uk/?p=4452</id>
+    <published>2022-12-21T13:57:25Z</published>
+    <updated>2022-12-21T13:57:25Z</updated>
+    <category term="News"/>
+  </entry>
   <entry>
     <title>Weekly Round-up :: 22 December 2022</title>
     <link rel="alternate" href="http://karinsmyth.com/2022/12/21/weekly-round-up-22-december-2022/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=weekly-round-up-22-december-2022" type="text/html"/>
@@ -59,13 +89,37 @@ The post <a href="http://karinsmyth.com/2022/12/21/weekly-round-up-22-december-2
     <category term="latest"/>
   </entry>
   <entry>
-    <title>Gingerbread Village Building Project</title>
-    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/gingerbread-village-building-project" type="text/html"/>
+    <title>Maria Congratulates Home Start Basingstoke on record year</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/maria-congratulates-home-start-basingstoke-record-year" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"> Buying some bits and bobs from local shops earlier in Harworth and Bircotes, then concentrating on a gingerbread village building project with my eldest.
- Very impressed with my handiwork. Some slight subsidence issues and no village infrastructure in place, but I think it looks almost identical…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Home Start, a local Basingstoke charity supporting vulnerable families, supported a record 364 children in the last year. The organisation works through a network of trained volunteers who offer expert advice and support to families, especially those with young children.  
+Maria said; 
+“I first met…</div>
     </content>
-    <id>https://www.brendanclarkesmith.com/news/gingerbread-village-building-project</id>
+    <id>https://www.maria4basingstoke.co.uk/news/maria-congratulates-home-start-basingstoke-record-year</id>
+    <published>2022-12-21T12:00:00Z</published>
+    <updated>2022-12-21T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>3iii Training in Worksop</title>
+    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/3iii-training-worksop" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"> Congratulations to 3iii Training in Worksop, who help local learners into employment, for their Constituency Responsible Business Champion 2022 award, from the All-Party Parliamentary Corporate Responsibility Group.
+It was a pleasure to catch up with owner Nicola Wharam to present the award. It’s…</div>
+    </content>
+    <id>https://www.brendanclarkesmith.com/news/3iii-training-worksop</id>
+    <published>2022-12-21T12:00:00Z</published>
+    <updated>2022-12-21T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Graham Stuart MP congratulates Maa’s in Beverley as winners of his Curry Awards</title>
+    <link rel="alternate" href="https://www.grahamstuart.com/news/graham-stuart-mp-congratulates-maas-beverley-winners-his-curry-awards" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Graham Stuart MP is delighted to crown Maa’s in Beverley as the winners of his Beverley and Holderness’ Favourite Curry Awards 2022.
+Maa’s is the clear favourite of curry-lovers in Beverley and Holderness, receiving over half the votes cast.
+Maa’s is run by its manager, Mohammed Saif, and has gone…</div>
+    </content>
+    <id>https://www.grahamstuart.com/news/graham-stuart-mp-congratulates-maas-beverley-winners-his-curry-awards</id>
     <published>2022-12-21T12:00:00Z</published>
     <updated>2022-12-21T12:00:00Z</updated>
   </entry>
@@ -87,30 +141,6 @@ The post <a href="http://karinsmyth.com/2022/12/21/weekly-round-up-22-december-2
     <id>1172 at https://joncruddas.org.uk</id>
     <published>2022-12-21T11:22:00Z</published>
     <updated>2022-12-21T11:22:00Z</updated>
-  </entry>
-  <entry>
-    <title>Remembering HM Queen Elizabeth II</title>
-    <link rel="alternate" href="http://wendymorton.co.uk/remembering-hm-queen-elizabeth-ii/" type="text/html"/>
-    <content type="html">&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;It was a pleasure to be in Parliament for the recent visit of HM King Charles III as Members from the House of Commons and House of Lords offered their Thanksgiving and Remembrance for our late Queen Elizabeth II.&lt;/p&gt;
-&lt;p&gt;The King first unveiled a plaque of remembrance on the floor of Westminster Hall, where Queen Elizabeth Lay-in-State.&lt;/p&gt;
-&lt;p&gt;Shortly after, Parliament was proud to present a pair of unique bronze sculptures featuring the heraldic beasts of the United Kingdom to mark the Platinum Jubilee.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It was a pleasure to be in Parliament for the recent visit of HM King Charles III as Members from the House of Commons and House of Lords offered their […]</div>
-    </summary>
-    <author>
-      <name>Wendy Morton MP</name>
-    </author>
-    <id>http://wendymorton.co.uk/?p=4449</id>
-    <published>2022-12-21T09:55:17Z</published>
-    <updated>2022-12-21T09:55:17Z</updated>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Santa’s little helpers go green</title>
@@ -272,28 +302,6 @@ The post <a href="http://karinsmyth.com/2022/12/21/weekly-round-up-22-december-2
     <category term="Grant Shapps"/>
     <category term="News"/>
     <category term="Welwyn Hatfield"/>
-  </entry>
-  <entry>
-    <title>Ukrainian community in Edinburgh recognised with a ceremonial tree on behalf of the late HM The Queen</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13623/ukrainian-community-in-edinburgh-recognised-with-a-ceremonial-tree-on-behalf-of-the-late-hm-the-queen" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">As part of The Queen's Green Canopy initiative a tree was planted and dedicated to Edinburgh's Ukrainian community today. </div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13623/ukrainian-community-in-edinburgh-recognised-with-a-ceremonial-tree-on-behalf-of-the-late-hm-the-queen</id>
-    <published>2022-12-20T13:19:00Z</published>
-    <updated>2022-12-20T13:19:00Z</updated>
-  </entry>
-  <entry>
-    <title>Local MP calls for industrial lithium-ion batteries to be classed as hazardous </title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-calls-industrial-lithium-ion-batteries-be-classed-hazardous" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">One of the UK’s largest insurers, Zurich Insurance, is reporting a 149% increase in e-bike and e-scooter fires and other devices powered by lithium battery saw fires jump by 63% . 
-Maria said;
-‘’Lithium-ion batteries are increasingly part of our everyday lives, in laptops, e-scooters, electric…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/local-mp-calls-industrial-lithium-ion-batteries-be-classed-hazardous</id>
-    <published>2022-12-20T12:00:00Z</published>
-    <updated>2022-12-20T12:00:00Z</updated>
   </entry>
   <entry>
     <title>A season of joy – but families are still struggling</title>
@@ -545,16 +553,6 @@ Maria said;
     <updated>2022-12-19T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>Energy Minister confirms start date for off-grid energy support</title>
-    <link rel="alternate" href="https://www.gregsmith.co.uk/news/energy-minister-confirms-start-date-grid-energy-support" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This afternoon Greg Smith MP met with Energy Minister Graham Stuart MP to discuss when off grid households will receive the promised £200 support for their energy bills. Greg was delighted that he confirmed the intended timings for the £200 Alternative Fuel Payment scheme for households who use…</div>
-    </content>
-    <id>https://www.gregsmith.co.uk/news/energy-minister-confirms-start-date-grid-energy-support</id>
-    <published>2022-12-19T12:00:00Z</published>
-    <updated>2022-12-19T12:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Go With The FLOW</title>
     <link rel="alternate" href="https://www.stephenkinnock.co.uk/go-with-the-flow/" type="text/html"/>
     <author>
@@ -593,7 +591,7 @@ Labour would scrap the tax ...</p>
 <p>Labour would scrap the tax loopholes that private schools benefit from so we could put £1.7 billion into state schools to ensure they can really give children the best start in life. You can see me speak to Tony Roe from BBC East Midlands about this in the clip above.</p>
 <p>&nbsp;</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-7229" data-post-type="none" ><a href="https://lizkendall.org/a-warm-welcome-at-the-welcome-club/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2015/03/IMG_6446-150x150.jpg" alt="A warm welcome at the Welcome Club" width="150" height="150" /></a><a href="https://lizkendall.org/a-warm-welcome-at-the-welcome-club/" class="wp_rp_title">A warm welcome at the Welcome Club</a></li><li data-position="1" data-poid="in-8579" data-post-type="none" ><a href="https://lizkendall.org/liz-meets-pupils-from-st-marys-fields-primary-school/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2017/07/smfs-150x150.jpg" alt="Liz meets pupils from St Mary’s Fields Primary School" width="150" height="150" /></a><a href="https://lizkendall.org/liz-meets-pupils-from-st-marys-fields-primary-school/" class="wp_rp_title">Liz meets pupils from St Mary’s Fields Primary School</a></li><li data-position="2" data-poid="in-3484" data-post-type="none" ><a href="https://lizkendall.org/constituents-visit-liz-in-parliament/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/10.jpg" alt="Constituents visit Liz in Parliament" width="150" height="150" /></a><a href="https://lizkendall.org/constituents-visit-liz-in-parliament/" class="wp_rp_title">Constituents visit Liz in Parliament</a></li><li data-position="3" data-poid="in-8045" data-post-type="none" ><a href="https://lizkendall.org/the-future-of-the-john-ogaunt-pub/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/02/jOHN-150x150.jpg" alt="The future of the John O’Gaunt Pub" width="150" height="150" /></a><a href="https://lizkendall.org/the-future-of-the-john-ogaunt-pub/" class="wp_rp_title">The future of the John O’Gaunt Pub</a></li><li data-position="4" data-poid="in-8385" data-post-type="none" ><a href="https://lizkendall.org/liz-questions-government-about-brexit-plans/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2017/01/240117-headshot-150x150.jpg" alt="Liz questions Government about Brexit plans" width="150" height="150" /></a><a href="https://lizkendall.org/liz-questions-government-about-brexit-plans/" class="wp_rp_title">Liz questions Government about Brexit plans</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-5433" data-post-type="none" ><a href="https://lizkendall.org/beaumont-leys-community-drop-in-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/30.jpg" alt="Beaumont Leys Community Drop-In" width="150" height="150" /></a><a href="https://lizkendall.org/beaumont-leys-community-drop-in-2/" class="wp_rp_title">Beaumont Leys Community Drop-In</a></li><li data-position="1" data-poid="in-10257" data-post-type="none" ><a href="https://lizkendall.org/liz-speaks-with-councillors-about-social-care/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/15.jpg" alt="Liz speaks with councillors about social care" width="150" height="150" /></a><a href="https://lizkendall.org/liz-speaks-with-councillors-about-social-care/" class="wp_rp_title">Liz speaks with councillors about social care</a></li><li data-position="2" data-poid="in-11048" data-post-type="none" ><a href="https://lizkendall.org/liz-responds-to-the-queens-speech/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/17.jpg" alt="Liz responds to the Queens&#8217; Speech" width="150" height="150" /></a><a href="https://lizkendall.org/liz-responds-to-the-queens-speech/" class="wp_rp_title">Liz responds to the Queens&#8217; Speech</a></li><li data-position="3" data-poid="in-5409" data-post-type="none" ><a href="https://lizkendall.org/braunstone-park-and-rowley-fields-community-drop-in-3/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/25.jpg" alt="Braunstone Park and Rowley Fields Community Drop-In" width="150" height="150" /></a><a href="https://lizkendall.org/braunstone-park-and-rowley-fields-community-drop-in-3/" class="wp_rp_title">Braunstone Park and Rowley Fields Community Drop-In</a></li><li data-position="4" data-poid="in-11287" data-post-type="none" ><a href="https://lizkendall.org/liz-meets-with-health-and-social-care-students/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2021/09/zzz-150x150.jpg" alt="Liz meets with Health and Social Care Students" width="150" height="150" /></a><a href="https://lizkendall.org/liz-meets-with-health-and-social-care-students/" class="wp_rp_title">Liz meets with Health and Social Care Students</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-calls-for-more-funding-to-help-schools/">Liz calls for more funding to help schools</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -748,17 +746,6 @@ The ten-year-old's winning design of reindeers, penguins and Father Christmas wa
       <div xmlns="http://www.w3.org/1999/xhtml">In response to a 20% rise in requests for support with urgent needs, such as food and household costs, over the last 12 months the Royal British Legion has allocated funding for a record level of grant distribution. The Everyday Needs Grants Programme is designed to allow the RBL to assist people…</div>
     </content>
     <id>https://www.robin-millar.org.uk/news/royal-british-legion-everyday-needs-grants</id>
-    <published>2022-12-15T12:00:00Z</published>
-    <updated>2022-12-15T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Graham Stuart MP Concerned About Long Wait To See An NHS Dentist in Beverley and Holderness</title>
-    <link rel="alternate" href="https://www.grahamstuart.com/news/graham-stuart-mp-concerned-about-long-wait-see-nhs-dentist-beverley-and-holderness" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Local MP, Graham Stuart, met a senior NHS official following concerns that residents are struggling to access NHS dentistry.
-During his meeting with Emma Wilson, who is the Head of Dental Commissioning for Yorkshire and the Humber, Graham raised constituents’ concerns that some residents are being…</div>
-    </content>
-    <id>https://www.grahamstuart.com/news/graham-stuart-mp-concerned-about-long-wait-see-nhs-dentist-beverley-and-holderness</id>
     <published>2022-12-15T12:00:00Z</published>
     <updated>2022-12-15T12:00:00Z</updated>
   </entry>
@@ -1660,37 +1647,6 @@ Bob, Michael and Peter wrote to Network Rail in October to…</div>
     <updated>2022-11-07T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>Berry Bros &amp; Rudd New Warehouse in Andover</title>
-    <link rel="alternate" href="https://kitmalthouse.com/2022/berry-bros-rudd-new-warehouse-in-andover/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=berry-bros-rudd-new-warehouse-in-andover" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. </p>
-
-
-
-<p>While much of their business is selling wine, most of it is helping wine buyers and collectors look after their stock, and the warehouse is where it is all stored. As I was shown round, I marvelled at the famous names on the shelves: Lafitte, Latour, Petrus etc. </p>
-
-
-
-<p>The Warehouse is chilled to 12 degrees throughout, but happily due to solar panels on the roof, will be carbon neutral. </p>
-
-
-
-<p>It’s a great vote of confidence in Andover and in the UK wine industry which I hope will continue to lead the world, with possibly the biggest collection of fine wines on the planet, here in North West Hampshire. </p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. While much of their business is selling wine, most of […]</div>
-    </summary>
-    <author>
-      <name>Kit Malthouse</name>
-    </author>
-    <id>https://kitmalthouse.com/?p=2968</id>
-    <published>2022-11-05T08:26:32Z</published>
-    <updated>2022-11-05T08:26:32Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
-  <entry>
     <title>Matt Warman MP secures key commitment on visas for international GPs</title>
     <link rel="alternate" href="https://mattwarman.co.uk/2022/11/04/matt-warman-mp-secures-key-commitment-on-visas-for-international-gps/" type="text/html"/>
     <content type="xhtml">
@@ -2309,10 +2265,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-63a2fca5080cb" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63a3266edaa80" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-63a2fca5080cb').iPhorm({"id":5,"uniqueId":"63a2fca5080cb","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63a3266edaa80').iPhorm({"id":5,"uniqueId":"63a3266edaa80","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2387,10 +2343,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-63a2fca5080cb" class="iphorm iphorm-form-5" action="/feed/#iphorm-63a2fca5080cb" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63a3266edaa80" class="iphorm iphorm-form-5" action="/feed/#iphorm-63a3266edaa80" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="63a2fca5080cb" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63a3266edaa80" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2399,22 +2355,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_63a2fca5080cb" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63a2fca5080cb" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63a3266edaa80" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63a3266edaa80" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_63a2fca5080cb" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63a2fca5080cb" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63a3266edaa80" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63a3266edaa80" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_63a2fca5080cb" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63a2fca5080cb" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63a3266edaa80" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63a3266edaa80" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2424,7 +2380,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63a2fca5080cb_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63a3266edaa80_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2443,7 +2399,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-63a2fca5080cb script').remove();
+    jQuery('#iphorm-outer-63a3266edaa80 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2480,7 +2436,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzx1KqUhyp8blCFlKkFQ4fE0UBTGYmyWJ7HdlZIq8Hr-bTGygIjOl6ZWC5CZApqRcCynWXF60KslWsjqJ5GTA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyQnLlOY0bN2p4VT6gZhgrPLp7C7U920z0eFTixHeQqIc14QVOZTeG98Zbzn0VaD5Qc83YjCJDejpBatLYAmQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
