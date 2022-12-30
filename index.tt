@@ -13,12 +13,23 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+[% IF config.google_ga -%]
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CXHZC7TNMQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '[% config.google_ga %]');
+    </script>
+[% END -%]
     <meta charset="utf-8" />
     <title>[% feed.title %]</title>
     <!-- Bootstrap core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
-    <link rel="alternate" type="application/atom+xml" title="Atom" href="[% cfg.url %][% cfg.feed.file.split('/').last %]" />
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="[% config.url %][% config.feed.file.split('/').last %]" />
     <meta property="og:title" content="[% feed.title %]" />
     <meta property="og:description" content="Aggregating the web feeds of Westminster MPs" />
     <meta property="og:type" content="website" />
@@ -62,7 +73,7 @@
           <a href="/opml.xml"><img alt="OPML" src="/image/opml.png" /> OPML</a></p>
           <h2>Sources</h2>
           <ul>
-[% FOR f IN cfg.feeds;
+[% FOR f IN config.feeds;
    bits = f.title.split(':\s*');
    party = bits.0 -%]
             <li class="link link-[% page.$party %]"><a href="[% f.web | html %]">[% bits.2 %], [% bits.1 %] ([% bits.0 %])</a></li>
@@ -116,19 +127,10 @@ google_ad_height = 600;
       </div><!-- row -->
       <div class="row">
         <div class="col-md-10">
-      <address>Made by <a href="https://twitter.com/[% cfg.author.twitter %]">@[% cfg.author.twitter | html %]</a> / Last built: [% feed.modified.strftime('%A %d %B %Y %H:%M') %]</address>
+      <address>Made by <a href="https://twitter.com/[% config.author.twitter %]">@[% config.author.twitter | html %]</a> / Last built: [% feed.modified.strftime('%A %d %B %Y %H:%M') %]</address>
         </div><!-- col-md-10 -->
       </div><!-- row -->
     </div><!-- container -->
-<script>
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' %3E%3C/script%3E"));
-</script>
-<script>
-var pageTracker = _gat._getTracker("UA-56332-11");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
