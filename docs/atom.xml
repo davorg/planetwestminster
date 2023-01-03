@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-03T06:29:55Z</updated>
+  <updated>2023-01-03T09:28:50Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -68,15 +68,56 @@
     <category term="Your community"/>
   </entry>
   <entry>
-    <title>As 2022 draws to a close I want to take a moment to reflect on the past twelve months. </title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/2022-draws-close-i-want-take-moment-reflect-past-twelve-months" type="text/html"/>
+    <title>Letter from Westminster - January 2023</title>
+    <link rel="alternate" href="https://www.philipdunne.com/news/letter-westminster-january-2023" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">As 2022 draws to a close I want to take a moment to reflect on the past twelve months. 
-This is the first time in three years that friends, and families have been able to spend time together during the festive season without covid restrictions in place. Since the beginning of the vaccination…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="7323" class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      
+            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">1 January 2023</div>
+      
+      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Letter from Westminster - January 2023</span></div>
+      
+            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span>As I wrote my Letter from Westminster this time last year, we were a nation still deep in the throes of the Covid pandemic. Twelve months later, the darkest days of the pandemic are behind us but for those who lost loved ones, life will never be quite the same again. </span></span></p>
+
+<p><span><span>It will take many months for our health service to recover from the treatment backlog due to the pandemic, but the Government recognises this. More investment in our health and social care sector announced by the new Chancellor Jeremy Hunt in his Autumn Statement, incidentally, bringing weekly spending on the NHS to over £1 billion more than at the time of the EU referendum. Here in Shropshire, the Hospitals Transformation Plan which local clinicians believe essential to improve quality of care is moving forward with renewed impetus. </span></span></p>
+
+<p><span><span>Looking back, 2022 was a tumultuous year in Westminster, but good progress was achieved in many areas. For several years I have campaigned for improvements to water quality of our rivers and waterways. On this front the Government have gone further than ever before. </span></span></p>
+
+<p><span><span>Progress began with the Environment Act, passed in 2021, introducing measures to tackle sewage pollution for the first time. Working with many campaigning organisations I helped secure a new legal duty on water companies to reduce the impact of sewage discharges. </span></span></p>
+
+<p><span><span><span><span>There is no quick fix for six decades of underinvestment in our Victorian sewerage infrastructure, now bursting at the seams, but it is welcome that </span></span>the Government announced <span><span>increased investment focussed on storm overflows. £56bn of capital investment in water treatment was announced over the next 25 years, more than double what has been spent annually since privatisation of the water sector, and quadruple what was spent each year when in public ownership.</span></span></span></span></p>
+
+<p><span><span>In November, I was pleased that the Government accepted a further recommendation made by myself and others to ensure that millions of pounds raised by the Treasury from fines on water companies for polluting in breach of permits will in future be redirected to the catchment affected by the pollution to improve water quality. </span></span></p>
+
+<p><span><span>The sum of these measures represents enormous progress towards cleaning up our rivers, but <span>this is not the end of sewage pollution, and I will continue to do all I can to keep up the fight in the years ahead.</span></span></span></p>
+
+<p><span><span>Looking to 2023, the Government are rightly focussed on the urgent challenges we face; from bringing down inflation and supporting the vulnerable through the cost of living and energy prices, to doing all we can to ensure that Putin’s war in Ukraine does not succeed. </span></span></p>
+
+<p><span><span>The UK has led the way in providing military and humanitarian aid to Ukraine and we should be proud of our warm welcome to those fleeing war who have found safety in our communities, including 550 here in Shropshire. We must not conflate the genuine sanctuary Ukrainian refugees seek with the many thousands of migrants who have landed on our shores via illegal routes driven by inhumane people traffickers in France. The Home Secretary will need to go further to put an end to this dreadful trade. </span></span></p>
+
+<p><span><span>Action is also needed to deliver economic growth and opportunity across the whole of our United Kingdom and I look forward to working with Shropshire Council in the coming months as they continue to bid for Government Levelling Up Funds to unlock the potential of towns like Craven Arms. </span></span></p>
+
+<p><span><span>As ever, there is much to do, but with Rishi Sunak at the helm, I feel positive for the year ahead. Happy New Year.</span></span></p></div>
+      
+      </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+</div>
     </content>
-    <id>https://www.maria4basingstoke.co.uk/news/2022-draws-close-i-want-take-moment-reflect-past-twelve-months</id>
-    <published>2022-12-31T12:00:00Z</published>
-    <updated>2022-12-31T12:00:00Z</updated>
+    <author>
+      <name>jon</name>
+    </author>
+    <id>7323 at https://www.philipdunne.com</id>
+    <published>2023-01-01T10:00:00Z</published>
+    <updated>2023-01-01T10:00:00Z</updated>
   </entry>
   <entry>
     <title>Lord Provost offers his condolences on death of Pope Emeritus Benedict XVI</title>
@@ -398,7 +439,7 @@ Out of hours noise service - Friday and…</div>
 The team will continue to monitor emails and voicemail remotely during this period.<br />
 If you are a constituent of Leicester West and require urgent assistance over the Christmas period, I’ve put together a list of emergency contacts which may be helpful: see the list here.<br />
 I hope everyone has a safe and restful Christmas, and a happy New Year!</p>
-<p>Related postsLiz asks Matt Hancock Urgent Question on coronavirus in care homesDementia is &#8216;one of greatest enemies of humanity&#8217; &#8211; PM (BBC News, ...</p>
+<p>Related postsMatt Hancock&#8217;s care home policy is &#8220;not good enough&#8221;Liz quizzed by Parks Primary School CouncilThink, Protect, Check, RespectPromoting sport in our schoolsNHS ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/happy-christmas/">Happy Christmas!</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -407,7 +448,7 @@ I hope everyone has a safe and restful Christmas, and a happy New Year!</p>
 <p>If you are a constituent of Leicester West and require <strong>urgent assistance</strong> over the Christmas period, I’ve put together a list of emergency contacts which may be helpful: <a href="https://lizkendall.org/urgent-contacts-christmas/">see the list here.</a></p>
 <p>I hope everyone has a safe and restful Christmas, and a happy New Year!</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10203" data-post-type="none" ><a href="https://lizkendall.org/liz-asks-matt-hancock-urgent-question-on-coronavirus-in-care-homes/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/05/IMG_1617-150x150.jpg" alt="Liz asks Matt Hancock Urgent Question on coronavirus in care homes" width="150" height="150" /></a><a href="https://lizkendall.org/liz-asks-matt-hancock-urgent-question-on-coronavirus-in-care-homes/" class="wp_rp_title">Liz asks Matt Hancock Urgent Question on coronavirus in care homes</a></li><li data-position="1" data-poid="in-6471" data-post-type="none" ><a href="https://lizkendall.org/dementia-is-one-of-greatest-enemies-of-humanity-pm-bbc-news-19-june/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/25.jpg" alt="Dementia is &#8216;one of greatest enemies of humanity&#8217; &#8211; PM (BBC News, 19 June)" width="150" height="150" /></a><a href="https://lizkendall.org/dementia-is-one-of-greatest-enemies-of-humanity-pm-bbc-news-19-june/" class="wp_rp_title">Dementia is &#8216;one of greatest enemies of humanity&#8217; &#8211; PM (BBC News, 19 June)</a></li><li data-position="2" data-poid="in-4744" data-post-type="none" ><a href="https://lizkendall.org/we-need-a-bold-plan-to-boost-jobs-and-our-economys-growth/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/23.jpg" alt="We need a bold plan to boost jobs and our economy&#8217;s growth" width="150" height="150" /></a><a href="https://lizkendall.org/we-need-a-bold-plan-to-boost-jobs-and-our-economys-growth/" class="wp_rp_title">We need a bold plan to boost jobs and our economy&#8217;s growth</a></li><li data-position="3" data-poid="in-11262" data-post-type="none" ><a href="https://lizkendall.org/liz-talks-to-national-care-association/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2021/09/NCA-Pic-for-website-150x150.png" alt="Liz talks to National Care Association" width="150" height="150" /></a><a href="https://lizkendall.org/liz-talks-to-national-care-association/" class="wp_rp_title">Liz talks to National Care Association</a></li><li data-position="4" data-poid="in-4812" data-post-type="none" ><a href="https://lizkendall.org/supporting-home-start/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/20.jpg" alt="Supporting Home-Start" width="150" height="150" /></a><a href="https://lizkendall.org/supporting-home-start/" class="wp_rp_title">Supporting Home-Start</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10437" data-post-type="none" ><a href="https://lizkendall.org/matt-hancocks-care-home-policy-is-not-good-enough/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/21.jpg" alt="Matt Hancock&#8217;s care home policy is &#8220;not good enough&#8221;" width="150" height="150" /></a><a href="https://lizkendall.org/matt-hancocks-care-home-policy-is-not-good-enough/" class="wp_rp_title">Matt Hancock&#8217;s care home policy is &#8220;not good enough&#8221;</a></li><li data-position="1" data-poid="in-8508" data-post-type="none" ><a href="https://lizkendall.org/liz-quizzed-by-parks-primary-school-council/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2017/03/C7sQbFnXgAEQAwE-150x150.jpg" alt="Liz quizzed by Parks Primary School Council" width="150" height="150" /></a><a href="https://lizkendall.org/liz-quizzed-by-parks-primary-school-council/" class="wp_rp_title">Liz quizzed by Parks Primary School Council</a></li><li data-position="2" data-poid="in-7841" data-post-type="none" ><a href="https://lizkendall.org/think-protect-check-respect-2/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2016/04/t-150x150.jpg" alt="Think, Protect, Check, Respect" width="150" height="150" /></a><a href="https://lizkendall.org/think-protect-check-respect-2/" class="wp_rp_title">Think, Protect, Check, Respect</a></li><li data-position="3" data-poid="in-5642" data-post-type="none" ><a href="https://lizkendall.org/promoting-sport-in-our-schools/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/5.jpg" alt="Promoting sport in our schools" width="150" height="150" /></a><a href="https://lizkendall.org/promoting-sport-in-our-schools/" class="wp_rp_title">Promoting sport in our schools</a></li><li data-position="4" data-poid="in-7274" data-post-type="none" ><a href="https://lizkendall.org/nhs-your-call-5-live-breakfast-12th-march/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/20.jpg" alt="NHS Your Call (5 Live Breakfast, 12th March)" width="150" height="150" /></a><a href="https://lizkendall.org/nhs-your-call-5-live-breakfast-12th-march/" class="wp_rp_title">NHS Your Call (5 Live Breakfast, 12th March)</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/happy-christmas/">Happy Christmas!</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -592,59 +633,6 @@ It was a pleasure to catch up with owner Nicola Wharam to present the award. It�
     <updated>2022-12-21T11:22:00Z</updated>
   </entry>
   <entry>
-    <title>Energy Support for Park Home and Care Home Residents</title>
-    <link rel="alternate" href="https://www.philipdunne.com/news/energy-support-park-home-and-care-home-residents" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="7327" class="layout layout--onecol">
-    <div class="layout__region layout__region--content">
-      
-            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">20 December 2022</div>
-      
-      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
-          
-            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Energy Support for Park Home and Care Home Residents</span></div>
-      
-            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span><span><span>The government this week announced details of how households without a direct relationship to a domestic energy supplier, including many care home residents and those living in park homes, will receive the £400 discount on their fuel bills through the Energy Bills Support Scheme Alternative Funding (EBSS Alternative Funding).</span></span></span></span></p>
-
-<p><span><span><span><span>The government is also providing a further £200 Alternative Fuel Payment (AFP) to help those households who use alternative fuels such as biomass or heating oil to meet energy costs this winter. </span></span></span></span></p>
-
-<p><span><span><span><span>Most households eligible for the AFP support will receive payment automatically via their electricity supplier in February, with no need to take any action. Those households who will need to apply for the AFP, for example because they do not have a relationship with an electricity supplier, will be able to do so in February, through a gov.uk online portal.</span></span></span></span></p>
-
-<p><span><span><span><span>South Shropshire MP Philip Dunne has welcomed the news: “</span><span>there are many park home residents in South Shropshire, so I have been raising the concerns of park home residents with Ministers repeatedly, both in private and in the House of Commons, urging the Government to clarify the support available and the mechanism by which it will be received.</span></span></span></span></p>
-
-<p><span><span><span><span>“I am pleased that this clarity has now been provided and those who faced being disadvantaged due to their heating arrangements will receive support this winter.”</span></span></span></span></p>
-
-<p><span><span><span><span>According to the Minister for Energy and Climate, Graham Stuart, online applications will open in January for those who are eligible for the £400 EBSS Alternative Funding to submit their details, alongside a helpline for those without online access.</span></span></span></span></p>
-
-<p><span><span><span><span>Payments to households that meet the eligibility criteria – including people who get their energy through a commercial contract or who are off-grid – will be made by local authorities. This is likely to include:</span></span></span></span></p>
-
-<ul><li><span><span><span><span><span>care home residents</span></span></span></span></span></li>
-	<li><span><span><span><span><span>residents of park homes</span></span></span></span></span></li>
-	<li><span><span><span><span><span>tenants in certain private and social rented homes</span></span></span></span></span></li>
-	<li><span><span><span><span><span>homes supplied via private wires</span></span></span></span></span></li>
-	<li><span><span><span><span><span>residents of caravans and houseboats on registered sites</span></span></span></span></span></li>
-	<li><span><span><span><span><span>farmers living in domestic farmhouses</span></span></span></span></span></li>
-	<li><span><span><span><span><span>off-grid households</span></span></span></span></span></li>
-</ul></div>
-      
-      </div>
-</div>
-          </div>
-  
-    </div>
-  </div>
-
-</div>
-    </content>
-    <author>
-      <name>jon</name>
-    </author>
-    <id>7327 at https://www.philipdunne.com</id>
-    <published>2022-12-20T16:24:57Z</published>
-    <updated>2022-12-20T16:24:57Z</updated>
-  </entry>
-  <entry>
     <title>Southfield School Thanks Local MP for Visit</title>
     <link rel="alternate" href="https://www.shapps.com/southfield-school-thanks-local-mp-for-visit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=southfield-school-thanks-local-mp-for-visit" type="text/html"/>
     <content type="html">
@@ -666,76 +654,6 @@ It was a pleasure to catch up with owner Nicola Wharam to present the award. It�
     <category term="Grant Shapps"/>
     <category term="News"/>
     <category term="Welwyn Hatfield"/>
-  </entry>
-  <entry>
-    <title>A season of joy – but families are still struggling</title>
-    <link rel="alternate" href="https://judithcummins.org.uk/a-season-of-joy-but-families-are-still-struggling/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;This column was first published in Bradford&amp;#8217;s Telegraph &amp;amp; Argus on Weds 14 December 2022&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;As the year draws to a close, this is the first festive season in three years where families and friends can truly come together and celebrate. It is our first restriction-free Christmas since 2019. For that reason alone, it should be a time of joy for people in Bradford of all faiths and none.&lt;/p&gt;
-
-
-
-&lt;p&gt;Yet, none of us is under any illusion that this will be an easy Christmas. Families in my constituency and across the country are struggling to keep their heads above the water with the runaway cost of living, soaring prices of essential food and unmanageable winter energy prices.&lt;/p&gt;
-
-
-
-&lt;p&gt;It is shocking that, according to a recent survey, almost half of families in Bradford are worried about affording gifts this Christmas, and over a quarter say they cannot afford to celebrate Christmas this year at all.&lt;/p&gt;
-
-
-
-&lt;p&gt;In autumn, the Government’s disastrous mini-budget blew a £30 billion hole in the economy that crashed the pound, weakened pensions and added hundreds of pounds a month to mortgage bills that will burden many families for years to come. But that is just one example of the last twelve years of Conservative mismanagement of our economy that means people are working harder and earning less. The Government has shown time and again that it is not looking out for working families. Just look at our NHS.&lt;/p&gt;
-
-
-
-&lt;p&gt;I constantly hear from residents who&amp;nbsp;struggle to get a GP appointment and, even when they do, it is often a telephone consultation. At many practices, face-to-face appointments are still not back to the levels they were before the pandemic. Irregular phone check-ups are no replacement for examining someone in person and leaves patients at risk of misdiagnosis or a missed diagnosis.&lt;/p&gt;
-
-
-
-&lt;p&gt;I have repeatedly raised in Parliament the shortage of GPs and the problems people have getting face-to-face appointments. But on top of over a decade of underinvestment in the NHS, rising demand and declining GP numbers mean that the NHS is struggling to cope.&lt;/p&gt;
-
-
-
-&lt;p&gt;The Government has also shown that it hasn’t much interest in looking out for the North either.&lt;/p&gt;
-
-
-
-&lt;p&gt;Time and again we were promised new, high speed, electrified rail infrastructure through Northern Powerhouse Rail with a stop in Bradford. I challenged the Deputy Prime Minister and Chancellor directly on their commitment to this and neither would offer me the guarantee the North needs. Lack of investment is holding back our region and the ‘make do’ revamp of existing lines just doesn’t cut it.&lt;/p&gt;
-
-
-
-&lt;p&gt;Meanwhile, Labour has a long-term plan to get our economy growing again, powered by the talent and effort of working people and business, creating good jobs, insulating homes and helping high streets thrive again by fixing unfair business rates.&lt;/p&gt;
-
-
-
-&lt;p&gt;And as we go into the New Year, there is cause for optimism in Bradford:&lt;/p&gt;
-
-
-
-&lt;p&gt;It was a proud moment in May when Bradford was announced to be the UK City of Culture 2025 and work is well underway to build up to our year in the limelight. I am also eagerly supporting news of the once-in-a-generation levelling up bid centred on Odsal that will spur on investment in Bradford &amp;#8211; bringing hundreds of jobs and over a billion pounds of social value to the city. If successful, these will boost regeneration in Bradford for decades to come. I am hosting a Ministerial visit to Odsal in the New Year precisely to showcase what Bradford South and the city has to offer. When given the opportunity it deserves, Bradford is ready to seize it.&lt;/p&gt;
-
-
-
-&lt;p&gt;Finally, in sport, the FIFA World Cup is well underway, and I commiserate with the England team on their knockout last Saturday against France. Let’s hope for success in the 2024 European Championship. The football world cup follows hot on the heels of the Rugby League World Cup that was hosted right here across the north of England, and saw our fantastic wheelchair team crowned world champions.&lt;/p&gt;
-
-
-
-&lt;p&gt;However you choose to celebrate the festive season, I wish you and your families a safe and merry Christmas, and a happy and peaceful New Year.&lt;/p&gt;
-&lt;h2 class="cprp_section_title"&gt;Related Posts&lt;/h2&gt;&lt;div class="cprp_items list "&gt;&lt;ul&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/judith-wants-bradford-at-the-centre-of-the-next-rugby-league-world-cup/" title="Judith wants Bradford at the centre of the next Rugby League World Cup"&gt;Judith wants Bradford at the centre of the next Rugby League World Cup&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;80&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;a href="https://judithcummins.org.uk/judith-wants-bradford-at-the-centre-of-the-next-rugby-league-world-cup/" title="Judith wants Bradford at the centre of the next Rugby League World Cup"&gt;&lt;img src="https://judithcummins.org.uk/wp-content/uploads/2019/10/SDP3245-0795-150x150.jpg" class="cprp_thumbnail" title="Judith wants Bradford at the centre of the next Rugby League World Cup" alt="Judith wants Bradford at the centre of the next Rugby League World Cup" /&gt;&lt;/a&gt;&lt;span class="cprp_excerpt_content"&gt;Judith Cummins MP has called on the government to use the power of sport as a ‘force for good’ to bring investment into Bradford. Speaking in a debate on the contribution of the Rugby League world cup to culture and sport in the UK, Judith highlighted how sport is at&amp;hellip;&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: bradford, cup, investment, local, time, people, odsal, will, news&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/government-must-act-now-to-end-crisis-in-dentistry/" title="Government must act now to end crisis in dentistry"&gt;Government must act now to end crisis in dentistry&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;79&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;span class="cprp_excerpt_content"&gt;Bradford South MP Judith Cummins has warned the government that if it does not act now, NHS dentistry in England faces collapse. Speaking in a debate on Access to NHS Dentistry which Judith co-sponsored, Judith told the government they were trying to solve long-term issues with short-term fixes: “The current&amp;hellip;&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: nhs, government, appointments, england, year, bradford, news, local&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/a-government-in-chaos-a-country-in-crisis/" title="A government in chaos, a country in crisis"&gt;A government in chaos, a country in crisis&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;79&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;a href="https://judithcummins.org.uk/a-government-in-chaos-a-country-in-crisis/" title="A government in chaos, a country in crisis"&gt;&lt;img src="https://judithcummins.org.uk/wp-content/uploads/2019/09/SDP3245-0255-150x150.jpg" class="cprp_thumbnail" title="A government in chaos, a country in crisis" alt="A government in chaos, a country in crisis" /&gt;&lt;/a&gt;&lt;span class="cprp_excerpt_content"&gt;Judith's latest op-ed for the Telegraph &amp;amp; Argus Weds 13 October 2021: With winter almost upon us, we see the Government of our country in chaos and our country teetering on the brink of crisis with queues at the forecourts; empty shelves and energy prices skyrocketing. A basic principle of&amp;hellip;&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: government, bradford, will, gp, prices, working, families, struggling, news, local&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/let-the-city-of-culture-win-transform-bradford/" title="Let the City of Culture win transform Bradford"&gt;Let the City of Culture win transform Bradford&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;78&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;a href="https://judithcummins.org.uk/let-the-city-of-culture-win-transform-bradford/" title="Let the City of Culture win transform Bradford"&gt;&lt;img src="https://judithcummins.org.uk/wp-content/uploads/2022/06/Culture-Win-150x150.png" class="cprp_thumbnail" title="Let the City of Culture win transform Bradford" alt="Let the City of Culture win transform Bradford" /&gt;&lt;/a&gt;&lt;span class="cprp_excerpt_content"&gt;The moment it was announced that Bradford had won the City of Culture 2025 title is a moment I will never forget. The crowds gathered in City Park erupted in cheers and applause at the sheer joy and immense pride of winning the title. I have said it many times&amp;hellip;&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: bradford, city, government, people, news, local&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class="cprp_data"&gt;&lt;div class="cprp_title"&gt;&lt;a href="https://judithcummins.org.uk/people-must-have-access-to-nhs-services-they-need/" title="People must have access to NHS services they need"&gt;People must have access to NHS services they need&lt;/a&gt;&lt;/div&gt;&lt;div class="cprp_percentage"&gt;78&lt;/div&gt;&lt;div class="cprp_excerpt"&gt;&lt;a href="https://judithcummins.org.uk/people-must-have-access-to-nhs-services-they-need/" title="People must have access to NHS services they need"&gt;&lt;img src="https://judithcummins.org.uk/wp-content/uploads/2022/08/FWWBpmGXwAEOSnB-150x150.png" class="cprp_thumbnail" title="People must have access to NHS services they need" alt="People must have access to NHS services they need" /&gt;&lt;/a&gt;&lt;span class="cprp_excerpt_content"&gt;In her latest column, Judith writes about the impact of the cost of living and lack of access to NHS Services: Originally printed in the Telegraph and Argus, Weds 31 August 2022: "When I speak to residents across Bradford South, it is clear that the cost-of-living crisis is a huge&amp;hellip;&lt;/span&gt;&lt;/div&gt;&lt;div class="cprp_tags"&gt;Tags: nhs, people, government, appointments, news, local&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This column was first published in Bradford’s Telegraph &amp; Argus on Weds 14 December 2022 As the year draws to a close, this is the first festive season in three years where families and friends can truly come together and celebrate. It is our first restriction-free Christmas since 2019. For that reason alone, it should […]</div>
-    </summary>
-    <author>
-      <name>Andrew Thornton</name>
-    </author>
-    <id>https://judithcummins.org.uk/?p=2688</id>
-    <published>2022-12-20T11:23:51Z</published>
-    <updated>2022-12-20T11:23:51Z</updated>
-    <category term="Local News"/>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Reporting Back – Christmas Message and Report to Constituents</title>
@@ -2245,10 +2163,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-63b3cb35dcf9a" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63b3f525e32b4" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-63b3cb35dcf9a').iPhorm({"id":5,"uniqueId":"63b3cb35dcf9a","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63b3f525e32b4').iPhorm({"id":5,"uniqueId":"63b3f525e32b4","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2323,10 +2241,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-63b3cb35dcf9a" class="iphorm iphorm-form-5" action="/feed/#iphorm-63b3cb35dcf9a" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63b3f525e32b4" class="iphorm iphorm-form-5" action="/feed/#iphorm-63b3f525e32b4" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="63b3cb35dcf9a" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63b3f525e32b4" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2335,22 +2253,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_63b3cb35dcf9a" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63b3cb35dcf9a" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63b3f525e32b4" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63b3f525e32b4" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_63b3cb35dcf9a" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63b3cb35dcf9a" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63b3f525e32b4" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63b3f525e32b4" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_63b3cb35dcf9a" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63b3cb35dcf9a" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63b3f525e32b4" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63b3f525e32b4" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2360,7 +2278,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63b3cb35dcf9a_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63b3f525e32b4_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2379,7 +2297,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-63b3cb35dcf9a script').remove();
+    jQuery('#iphorm-outer-63b3f525e32b4 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2416,7 +2334,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxcPf64ZKM-CjlZJHU9rJpYWdvkZpLDue4WxnGcUFP13iWpQnpGBuNliCmg_HcunKQCcRP7u0LYrtlD5XTFpw' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxkw3HOqOIXKNV2BfgINZFJcW3h-xLrwWeige-hJhKrJQLnpKTGhCn0-065rizEsMPBSoO_xMskC2tPytN3ww' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
