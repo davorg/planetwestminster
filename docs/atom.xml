@@ -7,9 +7,56 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-09T12:34:22Z</updated>
+  <updated>2023-01-09T15:32:48Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Happy New Year!</title>
+    <link rel="alternate" href="http://wendymorton.co.uk/happy-new-year-2/" type="text/html"/>
+    <content type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Happy New Year – it’s been lovely throughout the festive period to be out and about across my Aldridge-Brownhills constituency and join you at so many of your events.&lt;/p&gt;
+&lt;p&gt;It’s back to Parliament today in which we have a packed week of business to ensure that we continue to work on your priorities.&lt;/p&gt;
+&lt;p&gt;I am looking forward to being back in the constituency at the weekend and joining the Aldridge Youth Theatre for their annual Pantomime – Oh Yes I am!!!!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Happy New Year – it’s been lovely throughout the festive period to be out and about across my Aldridge-Brownhills constituency and join you at so many of your events. It’s […]</div>
+    </summary>
+    <author>
+      <name>Wendy Morton MP</name>
+    </author>
+    <id>http://wendymorton.co.uk/?p=4471</id>
+    <published>2023-01-09T14:48:58Z</published>
+    <updated>2023-01-09T14:48:58Z</updated>
+    <category term="News"/>
+  </entry>
+  <entry>
+    <title>Individual Issues raised by constituents NOVEMBER 2022</title>
+    <link rel="alternate" href="https://chionwurahmp.com/2023/01/individual-issues-raised-by-constituents-november-2022/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><img data-attachment-id="13115" data-permalink="https://chionwurahmp.com/2023/01/individual-issues-raised-by-constituents-november-2022/individual-issues-november-2022/" data-orig-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Individual-issues-NOVEMBER-2022.png?fit=1028%2C1242&amp;ssl=1" data-orig-size="1028,1242" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Individual issues NOVEMBER 2022" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Individual-issues-NOVEMBER-2022.png?fit=248%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Individual-issues-NOVEMBER-2022.png?fit=700%2C845&amp;ssl=1" decoding="async" loading="lazy" class="alignnone wp-image-13115 size-large" src="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Individual-issues-NOVEMBER-2022.png?resize=700%2C845&amp;ssl=1" alt="" width="700" height="845" srcset="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Individual-issues-NOVEMBER-2022.png?resize=848%2C1024&amp;ssl=1 848w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Individual-issues-NOVEMBER-2022.png?resize=248%2C300&amp;ssl=1 248w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Individual-issues-NOVEMBER-2022.png?resize=768%2C928&amp;ssl=1 768w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Individual-issues-NOVEMBER-2022.png?w=1028&amp;ssl=1 1028w" sizes="(max-width: 700px) 100vw, 700px" data-recalc-dims="1"/></p>
+</div>
+    </content>
+    <author>
+      <name>Chi Office</name>
+    </author>
+    <id>https://chionwurahmp.com/?p=13114</id>
+    <published>2023-01-09T13:59:09Z</published>
+    <updated>2023-01-09T13:59:09Z</updated>
+    <category term="Admin"/>
+    <category term="Casework"/>
+    <category term="Constituency Casework"/>
+    <category term="Constituency Corner"/>
+    <category term="Featured"/>
+    <category term="Front Page"/>
+    <category term="Keeping You Informed"/>
+    <category term="Other"/>
+    <category term="Your community"/>
+  </entry>
   <entry>
   <title>North West sees biggest drop in ambulance staff in the country</title>
   <link rel="alternate" href="http://timfarron.co.uk/en/article/2023/1439230/north-west-sees-biggest-drop-in-ambulance-staff-in-the-country"/>
@@ -29,157 +76,6 @@ Research commissioned by the Liberal Democrats found the region has lost 656 amb
 <address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
   <category term="Article"/>
 </entry>
-  <entry>
-		<author>
-			<name>Team JP</name>
-					</author>
-
-		<title type="html"><![CDATA[Telegraph: John says PM should not drop plans for war on Whitehall red tape]]></title>
-		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2023/01/09/telegraph-john-says-pm-should-not-drop-plans-for-war-on-whitehall-red-tape/"/>
-
-		<id>http://johnpenrose.org/wp/?p=5632</id>
-		<updated>2023-01-09T10:01:16Z</updated>
-		<published>2023-01-09T10:01:16Z</published>
-		<category scheme="http://johnpenrose.org/wp" term="Best Brexit"/><category scheme="http://johnpenrose.org/wp" term="Low Cost Britain"/><category scheme="http://johnpenrose.org/wp" term="National Campaigns"/><category scheme="http://johnpenrose.org/wp" term="Press Cuttings"/><category scheme="http://johnpenrose.org/wp" term="UK Productivity &amp; Growth"/>
-		<summary type="html"><![CDATA[This article was written by Nick Gutteridge, POLITICAL CORRESPONDENT, and Christopher Hope, ASSOCIATE EDITOR, and originally published by The Telegraph. Rishi Sunak has dropped plans to rein in Whitehall bureaucracy by setting Government departments “red tape budgets’’. Ministers would have been handed binding annual targets limiting the total regulatory cost they could impose on businesses. [&#8230;]]]></summary>
-
-					<content type="html" xml:base="http://johnpenrose.org/wp/2023/01/09/telegraph-john-says-pm-should-not-drop-plans-for-war-on-whitehall-red-tape/"><![CDATA[
-<p><strong><em>This article was written by Nick Gutteridge, POLITICAL CORRESPONDENT, and Christopher Hope, ASSOCIATE EDITOR, and originally published by The Telegraph.</em></strong></p>
-
-
-
-<p>Rishi Sunak has dropped plans to rein in Whitehall bureaucracy by setting Government departments “<a href="https://www.telegraph.co.uk/politics/2022/09/24/planning-red-tape-cut-effort-turbocharge-home-building/" target="_blank" rel="noreferrer noopener">red tape budgets</a>’’.</p>
-
-
-
-<p>Ministers would have been handed binding annual targets limiting the total regulatory cost they could impose on businesses.</p>
-
-
-
-<p>The proposals were part of efforts under Liz Truss to&nbsp;<a href="https://www.telegraph.co.uk/news/2022/08/08/seize-brexit-opportunity-revamp-red-tape/" target="_blank" rel="noreferrer noopener">ease the burden on the economy</a>&nbsp;from civil servants’ excessive lawmaking.</p>
-
-
-
-<p>But they will not be taken forward by Mr Sunak, The Telegraph has been told.</p>
-
-
-
-<p>Jacob Rees-Mogg, the former business secretary,&nbsp;<a href="https://www.telegraph.co.uk/business/2022/11/13/bank-england-dragging-feet-cutting-eu-red-tape/" target="_blank" rel="noreferrer noopener">drew up detailed plans</a>&nbsp;for putting the new system into action.</p>
-
-
-
-<p>An annual review would have set each department a ceiling for the overall cost of regulation it could impose on firms.</p>
-
-
-
-<p>They could have chosen how to &#8220;spend&#8221; their red tape budget but would have faced sanctions for exceeding it.</p>
-
-
-
-<p>There would have been no exemptions, with the rules covering all public bodies that churn out red tape including quangos.</p>
-
-
-
-<h2>&#8216;Worst possible time&#8217;</h2>
-
-
-
-<p>Mr Rees-Mogg warned the decision to drop the plan was “bad for the British economy at the worst possible time”.</p>
-
-
-
-<p>“One of the most important jobs of any minister is to keep their department&#8217;s regulatory instincts at bay and cut the cost of government on businesses,” he said.</p>
-
-
-
-<p>“An overarching policy of regulatory budgets would force officials to prioritise and would revolutionise accountability.</p>
-
-
-
-<p>“Without them these burdens will only continue to grow, harming the country&#8217;s growth and competitiveness.”</p>
-
-
-
-<p>The introduction of red tape budgets was one of the key recommendations of a&nbsp;<a href="https://www.telegraph.co.uk/politics/2021/12/07/bureaucratic-britain-has-become-addicted-permanent-failure/" target="_blank" rel="noreferrer noopener">bureaucracy review</a>&nbsp;recently handed to No 10.</p>
-
-
-
-<p>John Penrose, a senior Tory MP, was commissioned by Mr Sunak when he was chancellor to produce a report on potential reforms.</p>
-
-
-
-<p>“The whole system in Westminster and in Whitehall is set up to create new rules,” he said.</p>
-
-
-
-<p>“It&#8217;s how politicians, civil servants and regulators make their names, so the political and cultural direction of travel is always pro-regulatory unless we stop it.”</p>
-
-
-
-<p>Mr Sunak has also ruled out bringing back the &#8220;one-in-two-out&#8221; rule for red tape.</p>
-
-
-
-<p>It states that for every pound of new regulatory burden departments create they must scrap two pounds worth.</p>
-
-
-
-<p>The rule was introduced by David Cameron but then quietly dropped by Theresa May.</p>
-
-
-
-<p>Sir Iain Duncan Smith, the former Conservative leader, said the Prime Minister should reinstate it to bring bureaucracy back under control.</p>
-
-
-
-<p>“Civil servants oppose it, but it&#8217;s the only way to change the culture of bad regulation. The Government should hold their nerve and do it,” he said.</p>
-
-
-
-<p>Boris Johnson considered reinstating the rule, but decided against doing so over fears it would hamper efforts to meet his Net Zero target.</p>
-
-
-
-<h4>MPs plan to fight against delay to scrap redundant EU regulations</h4>
-
-
-
-<p>Brexiteer Tory MPs are separately planning to fight any attempt by the Government to delay&nbsp;<a href="https://www.telegraph.co.uk/business/2022/09/23/remaining-eu-laws-scrapped-replaced-end-next-year/" target="_blank" rel="noreferrer noopener">scrapping redundant EU regulations</a>&nbsp;from the end of this year.</p>
-
-
-
-<p>A decision on each of the 4,000 pieces of legislation inherited from Brussels during the UK’s membership must be made this year under a planned law.</p>
-
-
-
-<p>However, officials have written into the Retained EU Law (Revocation and Reform) Bill an allowance for ministers to delay some of the sunsetting of regulations until June 2026.</p>
-
-
-
-<p>Mark Francois, the European Research Group chairman, said ministers should ink firm timelines on the face of the Bill to force them to stick to the end-2023 deadline, and have to have a vote in the Commons to sign off on any delay.</p>
-
-
-
-<p>He said: “Given the history of all the Parliamentary shenanigans surrounding Brexit, it would be far better to include firm timelines on the face of the REUL Bill, rather than leaving this vital issue to secondary legislation &#8211; and thus passing Ministerial whim.</p>
-
-
-
-<p>“This process needs to be seen through, which will require firm Government resolve, which I hope and believe will still be forthcoming.”</p>
-
-
-
-<p>Downing Street said “there are no plans to change” the deadline.</p>
-
-
-
-<p>A Government spokesman also insisted the Prime Minister “remains fully committed to reducing red tape”.</p>
-
-
-
-<p>“The Retained EU Law (Revocation and Reform) Bill will help meet our target to cut £1 billion of business costs from retained EU red tape,” he added.</p>
-]]></content>
-		
-			</entry>
   <entry xmlns:gd="http://schemas.google.com/g/2005">
     <id>tag:blogger.com,1999:blog-211678171554897823.post-5211053597166584393</id>
     <published>2023-01-09T09:09:00.001+00:00</published>
@@ -248,31 +144,6 @@ As listed on the </summary>
 		<category term="Local News"/>
 		<category term="Local News"/>
 	</entry>
-  <entry>
-    <title>Bus services are failing in Newcastle Central</title>
-    <link rel="alternate" href="https://chionwurahmp.com/2023/01/bus-services-are-failing-in-newcastle-central/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Bus passengers in </span><span class="r-18u37iz"><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://twitter.com/hashtag/NewcastleCentral?src=hashtag_click">#NewcastleCentral</a></span><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"> face daily disruption due to poor service, long delays &amp; late notice cancellations. The Government couldn’t tell me why bus passengers couldn’t receive fair compensation for failing </span><span class="r-18u37iz"><a class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1cvl2hr r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0" dir="ltr" role="link" href="https://twitter.com/hashtag/BusServices?src=hashtag_click">#BusServices</a></span><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">.</span></p>
-<p><img data-attachment-id="13109" data-permalink="https://chionwurahmp.com/2023/01/bus-services-are-failing-in-newcastle-central/bus-services-pq-jan-23/" data-orig-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Bus-services-PQ-Jan-23.jpg?fit=736%2C744&amp;ssl=1" data-orig-size="736,744" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Bus services PQ Jan 23" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Bus-services-PQ-Jan-23.jpg?fit=297%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Bus-services-PQ-Jan-23.jpg?fit=700%2C708&amp;ssl=1" decoding="async" loading="lazy" class="alignnone wp-image-13109 size-full" src="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Bus-services-PQ-Jan-23.jpg?resize=700%2C708&amp;ssl=1" alt="" width="700" height="708" srcset="https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Bus-services-PQ-Jan-23.jpg?w=736&amp;ssl=1 736w, https://i0.wp.com/chionwurahmp.com/wp-content/uploads/Bus-services-PQ-Jan-23.jpg?resize=297%2C300&amp;ssl=1 297w" sizes="(max-width: 700px) 100vw, 700px" data-recalc-dims="1"/></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Bus passengers in #NewcastleCentral face daily disruption due to poor service, long delays &amp; late notice cancellations. The Government couldn’t tell me why bus passengers couldn’t receive fair compensation for failing #BusServices.</div>
-    </summary>
-    <author>
-      <name>Chi Office</name>
-    </author>
-    <id>https://chionwurahmp.com/?p=13108</id>
-    <published>2023-01-06T15:58:27Z</published>
-    <updated>2023-01-06T15:58:27Z</updated>
-    <category term="Admin"/>
-    <category term="Constituency Corner"/>
-    <category term="Featured"/>
-    <category term="Front Page"/>
-    <category term="Keeping You Informed"/>
-    <category term="Other"/>
-    <category term="Your community"/>
-  </entry>
   <entry>
     <title>MP Hits out at Falling Wages in Dagenham and Rainham</title>
     <link rel="alternate" href="https://joncruddas.org.uk/mp-hits-out-falling-wages-dagenham-and-rainham" type="text/html"/>
@@ -650,29 +521,6 @@ Street on 01554 756374.&lt;/p&gt;
     <updated>2022-12-31T10:10:00Z</updated>
   </entry>
   <entry>
-    <title>Happy Christmas</title>
-    <link rel="alternate" href="http://wendymorton.co.uk/happy-christmas-2/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Christmas is of course a time to remember and celebrate the birth of Christ. It is also an opportunity to pause for a moment and reflect on the events of the last 12 months.</p>
-<p>We cannot look back on 2022 without remembering for the first time in more than 70 years that this will be our first Christmas without Her Majesty Queen Elizabeth II. No one will ever forget her steadfast resolve and sense of duty to serve our country and the wider Commonwealth.</p>
-<p>Christmas is also a time to remember those who are elderly, unwell or alone at Christmas, and those less fortunate than ourselves: to acknowledge the service and dedication of our Armed Forces and the brave work of the men and women who work tirelessly to keep us safe and secure: and to recognise those who work around the clock, to provide life-saving healthcare, policing, fire and rescue, and emergency services for us all.</p>
-<p>Thanks to the rollout of a world beating vaccination programme, this Christmas will be very different to the last two. Thankfully we are no longer living under Covid restrictions and families will be able to come together and celebrate freely for the first time since 2019.</p>
-<p>As your Member of Parliament, I remain extremely proud to serve the communities of Aldridge, Brownhills, High Heath, Pelsall, Rushall, Shelfield, Streetly and Walsall Wood. Every week I see how our community works together with a real sense of community spirit to improve the quality of life for all.</p>
-<p>I very much look forward to seeing you all in the New Year.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Christmas is of course a time to remember and celebrate the birth of Christ. It is also an opportunity to pause for a moment and reflect on the events of […]</div>
-    </summary>
-    <author>
-      <name>Wendy Morton MP</name>
-    </author>
-    <id>http://wendymorton.co.uk/?p=4466</id>
-    <published>2022-12-24T08:03:47Z</published>
-    <updated>2022-12-24T08:03:47Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>Homes for Ukraine Update</title>
     <link rel="alternate" href="https://www.victoriaprentis.com/news/homes-ukraine-update" type="text/html"/>
     <content type="xhtml">
@@ -761,7 +609,7 @@ Freezing weather, rising household costs and a war in Eastern Europe – this is
 The team will continue to monitor emails and voicemail remotely during this period.<br />
 If you are a constituent of Leicester West and require urgent assistance over the Christmas period, I’ve put together a list of emergency contacts which may be helpful: see the list here.<br />
 I hope everyone has a safe and restful Christmas, and a happy New Year!</p>
-<p>Related postsUK meals on wheels drops by 63%: Report (Press TV, 4 January)A Budget for growth, a Budget for the futureConcerned Leicester West ...</p>
+<p>Related postsFears over plans to cut pupil payment Leicester commemorates Holocaust Memorial Day 2022Liz on Any Questions?Tackling New Parks parking problemsLiz questions Prime ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/happy-christmas/">Happy Christmas!</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -770,7 +618,7 @@ I hope everyone has a safe and restful Christmas, and a happy New Year!</p>
 <p>If you are a constituent of Leicester West and require <strong>urgent assistance</strong> over the Christmas period, I’ve put together a list of emergency contacts which may be helpful: <a href="https://lizkendall.org/urgent-contacts-christmas/">see the list here.</a></p>
 <p>I hope everyone has a safe and restful Christmas, and a happy New Year!</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-6925" data-post-type="none" ><a href="https://lizkendall.org/uk-meals-on-wheels-drops-by-63-report-press-tv-4-january/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" alt="UK meals on wheels drops by 63%: Report (Press TV, 4 January)" width="150" height="150" /></a><a href="https://lizkendall.org/uk-meals-on-wheels-drops-by-63-report-press-tv-4-january/" class="wp_rp_title">UK meals on wheels drops by 63%: Report (Press TV, 4 January)</a></li><li data-position="1" data-poid="in-1403" data-post-type="none" ><a href="https://lizkendall.org/a-budget-for-growth-a-budget-for-the-future/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/1.jpg" alt="A Budget for growth, a Budget for the future" width="150" height="150" /></a><a href="https://lizkendall.org/a-budget-for-growth-a-budget-for-the-future/" class="wp_rp_title">A Budget for growth, a Budget for the future</a></li><li data-position="2" data-poid="in-7524" data-post-type="none" ><a href="https://lizkendall.org/concerned-leicester-west-mp-liz-kendall-calls-public-meeting-over-proposed-fire-service-cuts-leicester-mercury-3rd-nov/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/6.jpg" alt="Concerned Leicester West MP Liz Kendall calls public meeting over proposed fire service cuts (Leicester Mercury, 3rd Nov)" width="150" height="150" /></a><a href="https://lizkendall.org/concerned-leicester-west-mp-liz-kendall-calls-public-meeting-over-proposed-fire-service-cuts-leicester-mercury-3rd-nov/" class="wp_rp_title">Concerned Leicester West MP Liz Kendall calls public meeting over proposed fire service cuts (Leicester Mercury, 3rd Nov)</a></li><li data-position="3" data-poid="in-8146" data-post-type="none" ><a href="https://lizkendall.org/supporting-the-right-to-patient-choice-for-mental-health-care/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/28.jpg" alt="Supporting the right to patient choice for mental health care" width="150" height="150" /></a><a href="https://lizkendall.org/supporting-the-right-to-patient-choice-for-mental-health-care/" class="wp_rp_title">Supporting the right to patient choice for mental health care</a></li><li data-position="4" data-poid="in-6504" data-post-type="none" ><a href="https://lizkendall.org/respect-our-elderly-help-the-thousands-living-in-constant-fear-of-abuse-in-care-homes-daily-mirror-25-june/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="Respect our elderly &#8211; help the thousands living in constant fear of abuse in care homes  (Daily Mirror, 25 June)" width="150" height="150" /></a><a href="https://lizkendall.org/respect-our-elderly-help-the-thousands-living-in-constant-fear-of-abuse-in-care-homes-daily-mirror-25-june/" class="wp_rp_title">Respect our elderly &#8211; help the thousands living in constant fear of abuse in care homes  (Daily Mirror, 25 June)</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-2450" data-post-type="none" ><a href="https://lizkendall.org/fears-over-plans-to-cut-pupil-payment/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" alt="Fears over plans to cut pupil payment " width="150" height="150" /></a><a href="https://lizkendall.org/fears-over-plans-to-cut-pupil-payment/" class="wp_rp_title">Fears over plans to cut pupil payment </a></li><li data-position="1" data-poid="in-11617" data-post-type="none" ><a href="https://lizkendall.org/leicester-commemorates-holocaust-memorial-day-2022/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/01/Liz-Kendall-scaled-150x150.jpg" alt="Leicester commemorates Holocaust Memorial Day 2022" width="150" height="150" /></a><a href="https://lizkendall.org/leicester-commemorates-holocaust-memorial-day-2022/" class="wp_rp_title">Leicester commemorates Holocaust Memorial Day 2022</a></li><li data-position="2" data-poid="in-8470" data-post-type="none" ><a href="https://lizkendall.org/liz-on-any-questions/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/30.jpg" alt="Liz on Any Questions?" width="150" height="150" /></a><a href="https://lizkendall.org/liz-on-any-questions/" class="wp_rp_title">Liz on Any Questions?</a></li><li data-position="3" data-poid="in-6583" data-post-type="none" ><a href="https://lizkendall.org/tackling-new-parks-parking-problems/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/07/DSCF56501-150x150.jpg" alt="Tackling New Parks parking problems" width="150" height="150" /></a><a href="https://lizkendall.org/tackling-new-parks-parking-problems/" class="wp_rp_title">Tackling New Parks parking problems</a></li><li data-position="4" data-poid="in-9430" data-post-type="none" ><a href="https://lizkendall.org/liz-questions-prime-minister-on-brexit/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/27.jpg" alt="Liz questions Prime Minister on Brexit" width="150" height="150" /></a><a href="https://lizkendall.org/liz-questions-prime-minister-on-brexit/" class="wp_rp_title">Liz questions Prime Minister on Brexit</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/happy-christmas/">Happy Christmas!</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -2346,10 +2194,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-63bc092ab8aa6" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63bc32f5467d8" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-63bc092ab8aa6').iPhorm({"id":5,"uniqueId":"63bc092ab8aa6","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63bc32f5467d8').iPhorm({"id":5,"uniqueId":"63bc32f5467d8","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2424,10 +2272,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-63bc092ab8aa6" class="iphorm iphorm-form-5" action="/feed/#iphorm-63bc092ab8aa6" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63bc32f5467d8" class="iphorm iphorm-form-5" action="/feed/#iphorm-63bc32f5467d8" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="63bc092ab8aa6" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63bc32f5467d8" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2436,22 +2284,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_63bc092ab8aa6" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63bc092ab8aa6" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63bc32f5467d8" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63bc32f5467d8" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_63bc092ab8aa6" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63bc092ab8aa6" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63bc32f5467d8" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63bc32f5467d8" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_63bc092ab8aa6" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63bc092ab8aa6" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63bc32f5467d8" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63bc32f5467d8" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2461,7 +2309,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63bc092ab8aa6_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63bc32f5467d8_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2480,7 +2328,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-63bc092ab8aa6 script').remove();
+    jQuery('#iphorm-outer-63bc32f5467d8 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
