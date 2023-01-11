@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-11T18:33:19Z</updated>
+  <updated>2023-01-11T21:28:51Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -85,64 +85,6 @@ Tim was joined by the Chair of Cumbria Tourism Dan Visser, the Managing Director
     <category term="Wokingham and West Berkshire Issues"/>
   </entry>
   <entry>
-    <title>Llanelli Star Column – NHS Pressures</title>
-    <link rel="alternate" href="https://niagriffith.org.uk/2023/01/llanelli-star-column-nhs-pressures/" type="text/html"/>
-    <content type="html">
-&lt;p&gt;Uppermost in many people’s minds at the moment will be
-concerns about the pressures on our NHS, and a recognition that this is not
-just a winter emergency. It is almost three years now since the beginning of
-the Covid Pandemic, and the pressure has been relentless, both on our hospitals
-and GPs, with chronic staff shortages. &lt;/p&gt;
-
-
-
-&lt;p&gt;I meet regularly with the Hywel Dda Health Board to discuss what
-they are doing to tackle the problems, and at our meeting before Christmas,
-they told me they are currently advertising some 460 vacancies, which gives you
-an idea of the scale of the problem. &lt;/p&gt;
-
-
-
-&lt;p&gt;They also told me some 140 patients across the four main
-hospitals (Llanelli, Carmarthen, Haverfordwest and Aberystwyth) in the Hywel
-Dda Health Board area, were medically ready to be discharged but waiting for
-suitable care packages. More care staff are being recruited, and hopefully the
-Welsh Labour Government insistence that all care staff are paid at least the
-Real Living Wage will help.&lt;/p&gt;
-
-
-
-&lt;p&gt;Although Welsh Labour Government has tried to maximize
-resources available to the NHS, we have to face the fact that the scale of
-resources needed calls for more UK Government funding, with a proportionate
-share for Wales. &amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;That’s why Labour has pledged that a UK Labour Government
-would put the 45p tax rate back up to 50p and use the money to resource
-the NHS better and fund one of the biggest NHS workforce expansions in history,
-doubling the number of medical school places, doubling the number of district
-nurses qualifying every year, training more than 5,000 new health visitors and
-creating an additional 10,000 nursing and midwife placements every year.&lt;/p&gt;
-
-
-
-&lt;p&gt;And that’s why in Parliament, we will keep
-urging the current Tory Government to resource our NHS better.&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Uppermost in many people’s minds at the moment will be concerns about the pressures on our NHS, and a recognition that this is not just a winter emergency. It is almost three years now since the beginning of the Covid Pandemic, and the pressure has been relentless, both on our hospitals and GPs, with chronic […]</div>
-    </summary>
-    <author>
-      <name>Nia Griffith</name>
-    </author>
-    <id>http://niagriffith.org.uk/?p=8699</id>
-    <published>2023-01-11T14:25:11Z</published>
-    <updated>2023-01-11T14:25:11Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>Banbury Sewage Treatment Works</title>
     <link rel="alternate" href="https://www.victoriaprentis.com/news/banbury-sewage-treatment-works" type="text/html"/>
     <content type="xhtml">
@@ -170,6 +112,34 @@ urging the current Tory Government to resource our NHS better.&amp;nbsp; &amp;nb
 This grant is part of a £654 million funding package from the…</div>
     </content>
     <id>https://www.grahamstuart.com/news/graham-stuart-mp-welcomes-news-east-riding-yorkshire-receiving-over-ps500000-prevent</id>
+    <published>2023-01-11T12:00:00Z</published>
+    <updated>2023-01-11T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Scott Benton adds voice to campaign to close deadly cancer gap</title>
+    <link rel="alternate" href="https://www.scottbenton.org.uk/news/scott-benton-adds-voice-campaign-close-deadly-cancer-gap" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+A quarter of cancers in the UK have an average five-year survival rate of just 16%. They are known as the less survivable cancers. 
+
+
+New data released on Less Survivable Cancers Awareness Day shows that symptom awareness is as low as 1% in the UK. 
+
+
+Less Survivable Cancers Taskforce urges people…</div>
+    </content>
+    <id>https://www.scottbenton.org.uk/news/scott-benton-adds-voice-campaign-close-deadly-cancer-gap</id>
+    <published>2023-01-11T12:00:00Z</published>
+    <updated>2023-01-11T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Greg Smith adds voice to campaign to close deadly cancer gap</title>
+    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-smith-adds-voice-campaign-close-deadly-cancer-gap" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Buckingham MP Greg Smith is backing the Less Survivable Cancers Taskforce’s (LSCT) Less Survivable Cancers Awareness Day 2023 to highlight the critical importance of symptom awareness in improving survival and quality of life for people diagnosed with these cancers.
+The LSCT represents six less…</div>
+    </content>
+    <id>https://www.gregsmith.co.uk/news/greg-smith-adds-voice-campaign-close-deadly-cancer-gap</id>
     <published>2023-01-11T12:00:00Z</published>
     <updated>2023-01-11T12:00:00Z</updated>
   </entry>
@@ -509,16 +479,6 @@ This grant is part of a £654 million funding package from the…</div>
     <category term="libraries"/>
     <category term="nottingham"/>
   </entry>
-  <entry>
-    <title>Channel 4's liberal metropolitan bias almost makes the BBC look impartial</title>
-    <link rel="alternate" href="https://www.scottbenton.org.uk/news/channel-4s-liberal-metropolitan-bias-almost-makes-bbc-look-impartial" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I raised my concerns about the way the state owned channel is operated and the concerns I hear from many of my constituents over its direction.</div>
-    </content>
-    <id>https://www.scottbenton.org.uk/news/channel-4s-liberal-metropolitan-bias-almost-makes-bbc-look-impartial</id>
-    <published>2023-01-09T12:00:00Z</published>
-    <updated>2023-01-09T12:00:00Z</updated>
-  </entry>
   <entry xmlns:gd="http://schemas.google.com/g/2005">
     <id>tag:blogger.com,1999:blog-211678171554897823.post-5211053597166584393</id>
     <published>2023-01-09T09:09:00.001+00:00</published>
@@ -813,7 +773,7 @@ Maria commented, “Noisy car meets, and urban racing have caused a huge amount 
 The team will continue to monitor emails and voicemail remotely during this period.<br />
 If you are a constituent of Leicester West and require urgent assistance over the Christmas period, I’ve put together a list of emergency contacts which may be helpful: see the list here.<br />
 I hope everyone has a safe and restful Christmas, and a happy New Year!</p>
-<p>Related postsLiz visits New College LeicesterTalkTalk Digital Hero Award for local community activistLiz and other MPs attack planned cuts to legal aid systemA ...</p>
+<p>Related postsLiz reflects on a year of the pandemicLiz Kendall MP: Give young people a say in who runs the country &#8211; Liz’s ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/happy-christmas/">Happy Christmas!</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -822,7 +782,7 @@ I hope everyone has a safe and restful Christmas, and a happy New Year!</p>
 <p>If you are a constituent of Leicester West and require <strong>urgent assistance</strong> over the Christmas period, I’ve put together a list of emergency contacts which may be helpful: <a href="https://lizkendall.org/urgent-contacts-christmas/">see the list here.</a></p>
 <p>I hope everyone has a safe and restful Christmas, and a happy New Year!</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10532" data-post-type="none" ><a href="https://lizkendall.org/liz-visits-new-college-leicester/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" alt="Liz visits New College Leicester" width="150" height="150" /></a><a href="https://lizkendall.org/liz-visits-new-college-leicester/" class="wp_rp_title">Liz visits New College Leicester</a></li><li data-position="1" data-poid="in-2302" data-post-type="none" ><a href="https://lizkendall.org/talktalk-digital-hero-award-for-local-community-activist/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2010/12/Liz-Kendall-MP-and-Serina-Leeanne-DH-East-Midlands-2-150x150.jpg" alt="TalkTalk Digital Hero Award for local community activist" width="150" height="150" /></a><a href="https://lizkendall.org/talktalk-digital-hero-award-for-local-community-activist/" class="wp_rp_title">TalkTalk Digital Hero Award for local community activist</a></li><li data-position="2" data-poid="in-2655" data-post-type="none" ><a href="https://lizkendall.org/liz-and-other-mps-attack-planned-cuts-to-legal-aid-system/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" alt="Liz and other MPs attack planned cuts to legal aid system" width="150" height="150" /></a><a href="https://lizkendall.org/liz-and-other-mps-attack-planned-cuts-to-legal-aid-system/" class="wp_rp_title">Liz and other MPs attack planned cuts to legal aid system</a></li><li data-position="3" data-poid="in-5121" data-post-type="none" ><a href="https://lizkendall.org/a-milestone-for-womens-refuge/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/2.jpg" alt="A milestone for women&#8217;s refuge" width="150" height="150" /></a><a href="https://lizkendall.org/a-milestone-for-womens-refuge/" class="wp_rp_title">A milestone for women&#8217;s refuge</a></li><li data-position="4" data-poid="in-11785" data-post-type="none" ><a href="https://lizkendall.org/tory-economic-crisis/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2022/10/Blog-post-Chancellor-statement-150x150.jpg" alt="Tory economic crisis" width="150" height="150" /></a><a href="https://lizkendall.org/tory-economic-crisis/" class="wp_rp_title">Tory economic crisis</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-10990" data-post-type="none" ><a href="https://lizkendall.org/liz-reflects-on-a-year-of-the-pandemic/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" alt="Liz reflects on a year of the pandemic" width="150" height="150" /></a><a href="https://lizkendall.org/liz-reflects-on-a-year-of-the-pandemic/" class="wp_rp_title">Liz reflects on a year of the pandemic</a></li><li data-position="1" data-poid="in-6514" data-post-type="none" ><a href="https://lizkendall.org/liz-kendall-mp-give-young-people-a-say-in-who-runs-the-country-lizs-latest-leicester-mercury-column/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="Liz Kendall MP: Give young people a say in who runs the country &#8211; Liz’s latest Leicester Mercury column" width="150" height="150" /></a><a href="https://lizkendall.org/liz-kendall-mp-give-young-people-a-say-in-who-runs-the-country-lizs-latest-leicester-mercury-column/" class="wp_rp_title">Liz Kendall MP: Give young people a say in who runs the country &#8211; Liz’s latest Leicester Mercury column</a></li><li data-position="2" data-poid="in-6901" data-post-type="none" ><a href="https://lizkendall.org/fighting-to-save-the-john-o-gaunt-pub/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2014/12/John-O-Gaunt-150x150.png" alt="Fighting to save the John O Gaunt Pub" width="150" height="150" /></a><a href="https://lizkendall.org/fighting-to-save-the-john-o-gaunt-pub/" class="wp_rp_title">Fighting to save the John O Gaunt Pub</a></li><li data-position="3" data-poid="in-11989" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-for-more-funding-to-help-schools/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/19.jpg" alt="Liz calls for more funding to help schools" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-for-more-funding-to-help-schools/" class="wp_rp_title">Liz calls for more funding to help schools</a></li><li data-position="4" data-poid="in-8804" data-post-type="none" ><a href="https://lizkendall.org/last-column-leicester-mercury-2017/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/01/MSP_MERC_30NOV17_7836JPG-150x150.jpg" alt="My last Leicester Mercury Column of 2017" width="150" height="150" /></a><a href="https://lizkendall.org/last-column-leicester-mercury-2017/" class="wp_rp_title">My last Leicester Mercury Column of 2017</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/happy-christmas/">Happy Christmas!</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -2175,10 +2135,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-63bf00440ec12" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63bf296b91d01" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-63bf00440ec12').iPhorm({"id":5,"uniqueId":"63bf00440ec12","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63bf296b91d01').iPhorm({"id":5,"uniqueId":"63bf296b91d01","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2253,10 +2213,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-63bf00440ec12" class="iphorm iphorm-form-5" action="/feed/#iphorm-63bf00440ec12" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63bf296b91d01" class="iphorm iphorm-form-5" action="/feed/#iphorm-63bf296b91d01" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="63bf00440ec12" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63bf296b91d01" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2265,22 +2225,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_63bf00440ec12" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63bf00440ec12" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63bf296b91d01" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63bf296b91d01" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_63bf00440ec12" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63bf00440ec12" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63bf296b91d01" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63bf296b91d01" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_63bf00440ec12" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63bf00440ec12" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63bf296b91d01" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63bf296b91d01" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2290,7 +2250,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63bf00440ec12_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63bf296b91d01_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2309,7 +2269,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-63bf00440ec12 script').remove();
+    jQuery('#iphorm-outer-63bf296b91d01 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
