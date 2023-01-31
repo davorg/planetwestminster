@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-31T12:34:20Z</updated>
+  <updated>2023-01-31T15:34:01Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -15,36 +15,52 @@
 			<name>Team JP</name>
 					</author>
 
-		<title type="html"><![CDATA[Independent: John demands new checks on Treasury Ministers]]></title>
-		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2023/01/31/independent-john-demands-new-checks-on-treasury-ministers/"/>
+		<title type="html"><![CDATA[John Penrose MP Interviewed by BBC Radio about the Ministerial Code &#038; Principles of Public Life]]></title>
+		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2023/01/31/john-penrose-mp-interviews-on-bbc-radio-about-the-ministerial-code-principles-of-public-life/"/>
 
-		<id>http://johnpenrose.org/wp/?p=5649</id>
-		<updated>2023-01-31T12:10:17Z</updated>
-		<published>2023-01-31T12:10:16Z</published>
-		<category scheme="http://johnpenrose.org/wp" term="Anti-Corruption"/><category scheme="http://johnpenrose.org/wp" term="National Campaigns"/><category scheme="http://johnpenrose.org/wp" term="Press Cuttings"/>
-		<summary type="html"><![CDATA[Senior Tory MP John Penrose, the government’s former anti-corruption tsar, has demanded new checks on Treasury minsters’ tax returns in the wake of the Zahawi affair. Mr Penrose – who resigned last year over the “Partygate” saga – said HMRC should have special permission to expose Treasury ministers whom they suspect are dodging tax. The [&#8230;]]]></summary>
+		<id>http://johnpenrose.org/wp/?p=5647</id>
+		<updated>2023-01-31T14:36:51Z</updated>
+		<published>2023-01-31T06:39:41Z</published>
+		<category scheme="http://johnpenrose.org/wp" term="Anti-Corruption"/><category scheme="http://johnpenrose.org/wp" term="National Campaigns"/>
+		<summary type="html"><![CDATA[]]></summary>
 
-					<content type="html" xml:base="http://johnpenrose.org/wp/2023/01/31/independent-john-demands-new-checks-on-treasury-ministers/"><![CDATA[
-<p>Senior Tory MP John Penrose, the government’s former anti-corruption tsar, has demanded new checks on Treasury minsters’ tax returns in the wake of the Zahawi affair.</p>
-
-
-
-<p>Mr Penrose – who resigned last year over the “Partygate” saga – said HMRC should have special permission to expose Treasury ministers whom they suspect are dodging tax.</p>
-
-
-
-<p>The former minister told BBC 5 Live that HMRC should be able to break the customary confidentiality of individuals’ tax returns in the case of Treasury ministers. “We need to upgrade our system so we can prevent more of this happening in the future &#8211; we have got to have a system that works better,” he said.</p>
-
-
-
-<p>Mr Penrose added: “There might be a case for revisiting the question for Treasury ministers, because HMRC cannot say, ‘Hang on a second we think there’s an issue’ because they are bound by confidentiality. Maybe there should be a slightly tougher regime for Treasury ministers in particular.”</p>
-
-
-
-<p>But Mr Penrose dismissed the idea of suspension for Mr Zahawi. “I don’t think having just paid an enormous fine and being sacked from the cabinet, we should find other things to heap on him at the moment. Those are two pretty huge penalties he has just been handed,” he told BBC Radio 4.</p>
-]]></content>
+					<content type="html" xml:base="http://johnpenrose.org/wp/2023/01/31/john-penrose-mp-interviews-on-bbc-radio-about-the-ministerial-code-principles-of-public-life/"><![CDATA[]]></content>
 		
 			</entry>
+  <entry>
+    <title>Great Catch Up with WHG</title>
+    <link rel="alternate" href="http://wendymorton.co.uk/great-catch-up-with-whg/" type="text/html"/>
+    <content type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;It was good to catch up with Gary Fulford from Walsall Housing Group last week to hear about the latest activities of the Housing Group and the work they continue to do as the largest social housing provider across our area.&lt;/p&gt;
+&lt;p&gt;It was also good to hear about their plans for further regeneration across our communities. We are also looking forward to completion of the new development at the former Warreners Arms site in Brownhills later this year. Thank you to Gary and the team.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It was good to catch up with Gary Fulford from Walsall Housing Group last week to hear about the latest activities of the Housing Group and the work they continue […]</div>
+    </summary>
+    <author>
+      <name>Wendy Morton MP</name>
+    </author>
+    <id>http://wendymorton.co.uk/?p=4515</id>
+    <published>2023-01-31T13:07:50Z</published>
+    <updated>2023-01-31T13:07:50Z</updated>
+    <category term="News"/>
+  </entry>
+  <entry>
+    <title>Voter ID</title>
+    <link rel="alternate" href="https://www.victoriaprentis.com/news/voter-id" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From May, you will need to show photo ID to vote.
+You can find out more about accepted forms of photo ID, how to apply for a free Voter Authority Certificate and what to expect on polling day on the Electoral Commission’s website here.</div>
+    </content>
+    <id>https://www.victoriaprentis.com/news/voter-id</id>
+    <published>2023-01-31T12:00:00Z</published>
+    <updated>2023-01-31T12:00:00Z</updated>
+  </entry>
   <entry>
     <title>Scottish Borders MP welcomes Selkirk pupils to House of Commons</title>
     <link rel="alternate" href="https://www.johnlamont.org/news/scottish-borders-mp-welcomes-selkirk-pupils-house-commons" type="text/html"/>
@@ -58,14 +74,23 @@ The 4th, 5th and 6th year students were accompanied by Miss Swan, the …</div>
     <updated>2023-01-31T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>Graham Stuart MP to hold public meeting at recently closed crossing</title>
-    <link rel="alternate" href="https://www.grahamstuart.com/news/graham-stuart-mp-hold-public-meeting-recently-closed-crossing" type="text/html"/>
+    <title>Graham Stuart MP Explores Forest Schools At Paull Primary School</title>
+    <link rel="alternate" href="https://www.grahamstuart.com/news/graham-stuart-mp-explores-forest-schools-paull-primary-school" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Following the closure of the popular England Springs pedestrian railway crossing between Beverley and Woodmansey, Graham Stuart is hosting a public meeting on Saturday 4th February at 9.30am for residents to have their say about Network Rail’s closure of the England Springs crossing.
- 
-Almost 200…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Graham Stuart, Member of Parliament for Beverley and Holderness, visited Paull Primary School where he met the students and saw first-hand the special outdoor clothing South West Holderness Ward Councillors secured funding for.
+Praised by OFSTED for their “high quality care for pupils” during their…</div>
     </content>
-    <id>https://www.grahamstuart.com/news/graham-stuart-mp-hold-public-meeting-recently-closed-crossing</id>
+    <id>https://www.grahamstuart.com/news/graham-stuart-mp-explores-forest-schools-paull-primary-school</id>
+    <published>2023-01-31T12:00:00Z</published>
+    <updated>2023-01-31T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Greg renews call for IRGC to be proscribed</title>
+    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-renews-call-irgc-be-proscribed" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">For some time Greg Smith MP has been pressing the Government to proscribe the Islamic Revolutionary Guard Corps for their campaign of terror both abroad and its draconian repression against political opposition and women in Iran. At Foreign Office Questions this morning, Greg once again called on…</div>
+    </content>
+    <id>https://www.gregsmith.co.uk/news/greg-renews-call-irgc-be-proscribed</id>
     <published>2023-01-31T12:00:00Z</published>
     <updated>2023-01-31T12:00:00Z</updated>
   </entry>
@@ -395,29 +420,6 @@ Tim's comments come after another NHS dentist within Cumbria has had to shut its
     <updated>2023-01-30T15:33:00Z</updated>
   </entry>
   <entry>
-    <title>Pelsall Litter Pick</title>
-    <link rel="alternate" href="http://wendymorton.co.uk/pelsall-litter-pick/" type="text/html"/>
-    <content type="html">&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;It was great to join Councillors Ed Lee, Rose Martin and Garry Perry along with volunteers from the Walsall Litter Picking Volunteers, Friends of Pelsall Common and the Bloxwich East First Councillor Team at their litter pick this weekend.&lt;/p&gt;
-&lt;p&gt;We are fortunate to have so many committed volunteers across my Aldridge-Brownhills constituency. Thank you to everyone who helped on Saturday it was a fantastic team effort.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It was great to join Councillors Ed Lee, Rose Martin and Garry Perry along with volunteers from the Walsall Litter Picking Volunteers, Friends of Pelsall Common and the Bloxwich East […]</div>
-    </summary>
-    <author>
-      <name>Wendy Morton MP</name>
-    </author>
-    <id>http://wendymorton.co.uk/?p=4512</id>
-    <published>2023-01-30T13:07:45Z</published>
-    <updated>2023-01-30T13:07:45Z</updated>
-    <category term="News"/>
-  </entry>
-  <entry>
     <title>CLYDEBANK ‘LEVELLING UP’ SNUB SHOWS TORY DISREGARD FOR SCOTLAND’S DEPRIVED COMMUNITIES</title>
     <link rel="alternate" href="https://martindocherty.scot/2023/01/30/clydebank-levelling-up-snub-shows-tory-disregard-for-scotlands-deprived-communities/" type="text/html"/>
     <content type="xhtml">
@@ -475,17 +477,6 @@ Tim's comments come after another NHS dentist within Cumbria has had to shut its
     <category term="West Dunbartonshire"/>
   </entry>
   <entry>
-    <title>£2 Bus Cap</title>
-    <link rel="alternate" href="https://www.victoriaprentis.com/news/ps2-bus-cap" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I'm pleased that constituents are benefitting from a £2 bus cap on several bus services that serve Oxfordshire. With the rising cost of living, the Government recognises more than ever the importance of ensuring access to affordable public transport. 
-You can find a list of bus companies and bus…</div>
-    </content>
-    <id>https://www.victoriaprentis.com/news/ps2-bus-cap</id>
-    <published>2023-01-30T12:00:00Z</published>
-    <updated>2023-01-30T12:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Maria Miller MP welcomes better protections for rape victims during investigations</title>
     <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/maria-miller-mp-welcomes-better-protections-rape-victims-during-investigations" type="text/html"/>
     <content type="xhtml">
@@ -514,16 +505,6 @@ Maria said, ‘it is already horrendous enough to become a victim of rape, but t
 I was elected in 2019 on a promise to the British people to recruit 20,000 extra police…</div>
     </content>
     <id>https://www.teamtrevelyan.co.uk/news/more-16700-new-police-officers-hired-across-england-and-wales</id>
-    <published>2023-01-30T12:00:00Z</published>
-    <updated>2023-01-30T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Greg champions SME defence innovators</title>
-    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-champions-sme-defence-innovators" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">At Defence Questions in the House of Commons earlier, Greg called on Ministers to ensure small and medium sized companies are as valued to the Ministry of Defence as the traditional "bigger beasts" in the sector. We are lucky to have a number of dynamic and agile small companies in Buckinghamshire…</div>
-    </content>
-    <id>https://www.gregsmith.co.uk/news/greg-champions-sme-defence-innovators</id>
     <published>2023-01-30T12:00:00Z</published>
     <updated>2023-01-30T12:00:00Z</updated>
   </entry>
@@ -635,7 +616,7 @@ I was elected in 2019 on a promise to the British people to recruit 20,000 extra
 Following the discussion, I was delighted to be able to join the students themselves in their dance class! Thank you to all for their warm welcome!<br />
 &#160;<br />
 &#160;</p>
-<p>Related postsPublic disorder in LeicesterHear my VoiceLiz visits Beaumont Leys Children’s Centre&#8216;Our ...</p>
+<p>Related postsWhy staying in the EU will benefit Leicester, by MP Liz ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-visits-new-college-in-leicester/">Liz visits New College in Leicester</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -645,7 +626,7 @@ Following the discussion, I was delighted to be able to join the students themse
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" ><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-2748" data-post-type="none" ><a href="https://lizkendall.org/public-disorder-in-leicester/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/6.jpg" alt="Public disorder in Leicester" width="150" height="150" /></a><a href="https://lizkendall.org/public-disorder-in-leicester/" class="wp_rp_title">Public disorder in Leicester</a></li><li data-position="1" data-poid="in-7186" data-post-type="none" ><a href="https://lizkendall.org/hear-my-voice/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2015/02/DSCF6582-150x150.jpg" alt="Hear my Voice" width="150" height="150" /></a><a href="https://lizkendall.org/hear-my-voice/" class="wp_rp_title">Hear my Voice</a></li><li data-position="2" data-poid="in-9170" data-post-type="none" ><a href="https://lizkendall.org/liz-visits-beaumont-leys-childrens-centre/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/09/IMG_1888-150x150.jpg" alt="Liz visits Beaumont Leys Children’s Centre" width="150" height="150" /></a><a href="https://lizkendall.org/liz-visits-beaumont-leys-childrens-centre/" class="wp_rp_title">Liz visits Beaumont Leys Children’s Centre</a></li><li data-position="3" data-poid="in-7369" data-post-type="none" ><a href="https://lizkendall.org/our-needs-have-been-forgotten-take-a-break-9th-april/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2015/04/2015-04-09-15.30.35-150x150.jpg" alt="&#8216;Our needs have been forgotten&#8217; (Take a Break, 9th April)" width="150" height="150" /></a><a href="https://lizkendall.org/our-needs-have-been-forgotten-take-a-break-9th-april/" class="wp_rp_title">&#8216;Our needs have been forgotten&#8217; (Take a Break, 9th April)</a></li><li data-position="4" data-poid="in-2673" data-post-type="none" ><a href="https://lizkendall.org/speaking-up-for-legal-aid/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/17.jpg" alt="Speaking Up for Legal Aid" width="150" height="150" /></a><a href="https://lizkendall.org/speaking-up-for-legal-aid/" class="wp_rp_title">Speaking Up for Legal Aid</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" ><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-7954" data-post-type="none" ><a href="https://lizkendall.org/why-staying-in-the-eu-will-benefit-leicester-by-mp-liz-kendall/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/8.jpg" alt="Why staying in the EU will benefit Leicester, by MP Liz Kendall" width="150" height="150" /></a><a href="https://lizkendall.org/why-staying-in-the-eu-will-benefit-leicester-by-mp-liz-kendall/" class="wp_rp_title">Why staying in the EU will benefit Leicester, by MP Liz Kendall</a></li><li data-position="1" data-poid="in-9108" data-post-type="none" ><a href="https://lizkendall.org/meeting-graffwerk/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/06/Liz-meets-Graffwerk-150x150.jpg" alt="Meeting Graffwerk" width="150" height="150" /></a><a href="https://lizkendall.org/meeting-graffwerk/" class="wp_rp_title">Meeting Graffwerk</a></li><li data-position="2" data-poid="in-4041" data-post-type="none" ><a href="https://lizkendall.org/elderly-care-reforms-will-have-to-wait-warns-chancellor/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" alt="Elderly care reforms will have to wait, warns Chancellor" width="150" height="150" /></a><a href="https://lizkendall.org/elderly-care-reforms-will-have-to-wait-warns-chancellor/" class="wp_rp_title">Elderly care reforms will have to wait, warns Chancellor</a></li><li data-position="3" data-poid="in-8660" data-post-type="none" ><a href="https://lizkendall.org/liz-opens-new-hybrid-theatre-leicester-vascular-institute-at-glenfield/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2017/09/DJR_GH0XkAE0ZEk-150x150.jpg" alt="Liz opens new Hybrid Theatre &#038; Leicester Vascular Institute at Glenfield" width="150" height="150" /></a><a href="https://lizkendall.org/liz-opens-new-hybrid-theatre-leicester-vascular-institute-at-glenfield/" class="wp_rp_title">Liz opens new Hybrid Theatre &#038; Leicester Vascular Institute at Glenfield</a></li><li data-position="4" data-poid="in-9240" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-on-chancellor-to-give-more-funding-to-councils/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/11/Unison-letter-budget-150x150.jpg" alt="Liz calls on Chancellor to give more funding to councils" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-on-chancellor-to-give-more-funding-to-councils/" class="wp_rp_title">Liz calls on Chancellor to give more funding to councils</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-visits-new-college-in-leicester/">Liz visits New College in Leicester</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -994,50 +975,6 @@ The post <a href="http://karinsmyth.com/2023/01/27/weekly-round-up-27-january-20
     <id>1179 at https://joncruddas.org.uk</id>
     <published>2023-01-23T10:16:00Z</published>
     <updated>2023-01-23T10:16:00Z</updated>
-  </entry>
-  <entry>
-    <title>Local Update</title>
-    <link rel="alternate" href="https://www.chrisgrayling.net/local-update-9/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Dear constituent</p>
-<p>I am writing to you concerning a couple of local issues.</p>
-<h2>ULEZ</h2>
-<p>Firstly many of you will be aware that the Mayor of London has decided to widen London’s ultra low emission zone from later this year. This has significant implications for our area.</p>
-<p>I won’t get into the politics of this now, except to say that I am strongly opposed to the change at this time because of its impact on our area, on pensioners and people on low incomes with older cars and most significantly those seeking treatment at St Helier or the Marsden. I have asked him to reconsider this aspect of the scheme in particular.</p>
-<p>But I thought that I should give you a picture of what the change means for us locally.</p>
-<p>The first thing to say is that the plan does not include extending the zone right to the London boundary everywhere. For us the outline ULEZ map says it will not cover the route from Epsom to the M25 via Malden Rushett or from Ewell to Tolworth and the A3 going southwards. There has been some confusion over the status of Rushett Lane and I am checking that with TfL.</p>
-<p>It will also not include the north end of Stoneleigh and parts of Worcester Park.</p>
-<p>Full details of the plan and what cars are included are here, together with Transport for London’s map of the new extension.</p>
-<p><a href="https://tfl.gov.uk/modes/driving/ultra-low-emission-zone/ulez-expansion-2023"><strong>https://tfl.gov.uk/modes/driving/ultra-low-emission-zone/ulez-expansion-2023</strong></a></p>
-<p>The target date for the launch is August 29th, though that may slip as some councils are refusing to work with the Mayor to install the cameras that will be needed to make it operational.</p>
-<h2>Epsom &amp; Mole Valley Local Plans</h2>
-<p>There have been two new developments on the Local Plans which shape the future of housing development in our area – in Epsom and Ewell and Mole Valley.</p>
-<p>Epsom and Ewell Borough Council is due to publish its draft plan in the next few days, and this will show the degree to which it has decided to push for development on local green belt land. I very much hope they have chosen to focus on brown field sites and particularly on the potential for the Kiln Lane and Longmead areas.</p>
-<p>If you have not previously seen my proposal for the area, you can find it on my website page <strong><a href="https://www.chrisgrayling.net/shaping-the-right-plan-for-epsom-and-ewell-a-proposal-from-chris-grayling/">here</a></strong>.</p>
-<p>I will include links on my site to the Council’s local plan documents when they are published. Please do take part in the public consultation. This will affect us all.</p>
-<p>Meanwhile in Mole Valley, the Council has asked the Planning Inspector to delay consideration of their plans, following the Government’s revision of its national planning policies. It is too early to know if this may affect the plans for Ashtead, but I will keep you posted.</p>
-<h2>Energy Support Scheme</h2>
-<p>Many thanks to everyone who donated to the Energy Support Scheme. In total we have raised about £45,000 and this is being used by the Good Company, which runs the food bank, and Citizens Advice, to help people struggling with high bills this winter to deal with short term problems with their bills and to buy low energy appliances. I am really grateful to all who have contributed.</p>
-<p>If you would still like to help, details are at <a href="http://www.justgiving.com/campaign/epsom-ewell-energy-support-scheme"><strong>www.justgiving.com/campaign/epsom-ewell-energy-support-scheme</strong></a></p>
-<h2>Epsom Citizens Advice</h2>
-<p>Finally a word of congratulation to Epsom and Ewell’s Citizens Advice team for putting together a very good financial awareness training programme for local sixth formers, which has been trialled initially at Epsom and Ewell High School. This is a really important area, and hopefully other schools locally will be able to benefit soon as well. Details can be viewed <strong><a href="https://www.chrisgrayling.net/work/citizens-advice-delivers-new-financial-literacy-project-to-epsom-ewell-high-school-students/">here</a></strong>.</p>
-<p>Best wishes</p>
-<p>Chris</p>
-<p>The post <a rel="nofollow" href="https://www.chrisgrayling.net/local-update-9/">Local Update</a> appeared first on <a rel="nofollow" href="https://www.chrisgrayling.net">Chris Grayling</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Dear constituent I am writing to you concerning a couple of local issues. ULEZ Firstly many of you will be aware that the Mayor of London has decided to widen London’s ultra low emission zone from later this year. This has significant implications for our area. I won’t get into the politics of this now, [...]</p>
-<p>The post <a rel="nofollow" href="https://www.chrisgrayling.net/local-update-9/">Local Update</a> appeared first on <a rel="nofollow" href="https://www.chrisgrayling.net">Chris Grayling</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Sara Olsen</name>
-    </author>
-    <id>https://www.chrisgrayling.net/?p=6376</id>
-    <published>2023-01-20T13:12:04Z</published>
-    <updated>2023-01-20T13:12:04Z</updated>
-    <category term="Local Update"/>
   </entry>
   <entry>
     <title>Disappointment for Na h-Eileanan an Iar as the UK Government Levelling Up Fund proves to be a hollow promise</title>
@@ -2120,10 +2057,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-63d90a13cdb8f" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63d93435e56b2" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-63d90a13cdb8f').iPhorm({"id":5,"uniqueId":"63d90a13cdb8f","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63d93435e56b2').iPhorm({"id":5,"uniqueId":"63d93435e56b2","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2198,10 +2135,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-63d90a13cdb8f" class="iphorm iphorm-form-5" action="/feed/#iphorm-63d90a13cdb8f" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63d93435e56b2" class="iphorm iphorm-form-5" action="/feed/#iphorm-63d93435e56b2" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="63d90a13cdb8f" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63d93435e56b2" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2210,22 +2147,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_63d90a13cdb8f" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63d90a13cdb8f" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63d93435e56b2" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63d93435e56b2" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_63d90a13cdb8f" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63d90a13cdb8f" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63d93435e56b2" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63d93435e56b2" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_63d90a13cdb8f" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63d90a13cdb8f" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63d93435e56b2" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63d93435e56b2" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2235,7 +2172,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63d90a13cdb8f_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63d93435e56b2_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2254,7 +2191,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-63d90a13cdb8f script').remove();
+    jQuery('#iphorm-outer-63d93435e56b2 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2291,7 +2228,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwV3RyXmEoVvoGP2CWasmB_h_zzEEMylEnSanJF0OExHb-VQjX3LO6tRphCOhpVzlOVGF42Wh_ZH5Ei6nFiUQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz7FaeAoZP32ioKzcr8sl2fb-hC5fWTqyqvEfghvcBd-pWkRdJBZEq0IR6BY08CSvb9i7zJKvCkGe3fj82M2w' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
