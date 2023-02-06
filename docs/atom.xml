@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-06T12:34:00Z</updated>
+  <updated>2023-02-06T15:27:56Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Investing in Spaces and Places</title>
+    <link rel="alternate" href="https://www.robin-millar.org.uk/news/investing-spaces-and-places" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Asda’s Charity, the Asda Foundation has opened the application window for a new ‘Investing in Spaces and Places’ grant.
+Due to the success of the ‘Investing in Spaces and Places’ grant last year, the Foundation is opening another round of applications for a higher value grant for 2023. This funding…</div>
+    </content>
+    <id>https://www.robin-millar.org.uk/news/investing-spaces-and-places</id>
+    <published>2023-02-06T12:00:00Z</published>
+    <updated>2023-02-06T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>why are these changes needed???</title>
+    <link rel="alternate" href="https://www.damiangreen.co.uk/news/why-are-these-changes-needed" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">BRIEF</div>
+    </content>
+    <id>https://www.damiangreen.co.uk/news/why-are-these-changes-needed</id>
+    <published>2023-02-06T12:00:00Z</published>
+    <updated>2023-02-06T12:00:00Z</updated>
+  </entry>
   <entry>
     <title>National Apprenticeship Week 2023</title>
     <link rel="alternate" href="https://www.victoriaprentis.com/news/national-apprenticeship-week-2023" type="text/html"/>
@@ -18,6 +39,17 @@
 To mark National Apprenticeship Week this year, I was pleased to join a roundtable hosted by Jacob Douwe Egberts and OxLEP in Banbury. It…</div>
     </content>
     <id>https://www.victoriaprentis.com/news/national-apprenticeship-week-2023</id>
+    <published>2023-02-06T12:00:00Z</published>
+    <updated>2023-02-06T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>£1.8 million in Housing Support for Nottinghamshire</title>
+    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/ps18-million-housing-support-nottinghamshire" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">People in alcohol and drug recovery will benefit from access to housing support, helping to break the cycle of addiction and improve health outcomes.
+£1.8 million will be made available for housing support for people in drug and alcohol treatment in Nottinghamshire through a range of programmes,…</div>
+    </content>
+    <id>https://www.brendanclarkesmith.com/news/ps18-million-housing-support-nottinghamshire</id>
     <published>2023-02-06T12:00:00Z</published>
     <updated>2023-02-06T12:00:00Z</updated>
   </entry>
@@ -31,6 +63,16 @@ The Scottish Borders MP joined the team from the Rail Action Group East of Scotl
     <id>https://www.johnlamont.org/news/passengers-deserve-more-reliable-reston-railway-service</id>
     <published>2023-02-06T12:00:00Z</published>
     <updated>2023-02-06T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Granton Gasholder moves forward to next phase of development</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13641/granton-gasholder-moves-forward-to-next-phase-of-development" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Councillors at the Development Management Sub-Committee on 25 January approved planning permission for the next stage of redevelopment of the iconic Granton Gasholder.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13641/granton-gasholder-moves-forward-to-next-phase-of-development</id>
+    <published>2023-02-06T11:09:00Z</published>
+    <updated>2023-02-06T11:09:00Z</updated>
   </entry>
   <entry>
 		<author>
@@ -154,16 +196,6 @@ The Scottish Borders MP joined the team from the Rail Action Group East of Scotl
     <category term="Wycombe"/>
   </entry>
   <entry>
-    <title>Two-way traffic and trams set for Leith Walk</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13640/two-way-traffic-and-trams-set-for-leith-walk" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Two-way traffic will return to Leith Walk this month, as preparations for tram testing begin.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13640/two-way-traffic-and-trams-set-for-leith-walk</id>
-    <published>2023-02-03T15:24:00Z</published>
-    <updated>2023-02-03T15:24:00Z</updated>
-  </entry>
-  <entry>
     <title>Defibrillator Grants available for local communities</title>
     <link rel="alternate" href="http://wendymorton.co.uk/defibrillator-grants-available-for-local-communities/" type="text/html"/>
     <content type="xhtml">
@@ -198,7 +230,7 @@ The Scottish Borders MP joined the team from the Rail Action Group East of Scotl
 		<summary type="html"><![CDATA[<p>Here is my joint statement with Jonathan Ashworth MP following the resignation of Mike Veale as interim Chief Executive at the Office of the Police and Crime Commissioner for Leicester, Leicestershire and Rutland.<br />
 Whilst we welcome Mr Veale’s resignation, serious questions remain as to why he was ever appointed in the first place. Read our statement in full below:</p>
 <p>&#160;</p>
-<p>Related postsCommunity Funday in Beaumont LeysLiz joins event to mark new beginnings for community organisationCare funding needs financial advice (Money Marketing, 20 Feb)So we&#8217;re all in this together? Are we really, Mr Osborne?Liz ...</p>
+<p>Related postsLiz demands NHS quango is stripped of role after series of care failuresAge UK sounds alarm over cuts to care for older people (The Guardian, 6 March)Liz joins Cancer Research UK on ...</p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/statement-from-liz-following-latest-resignation-in-the-office-of-the-police-and-crime-commissioner/">Statement from Liz following latest resignation in the Office of the Police and Crime Commissioner</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></summary>
 
@@ -211,7 +243,7 @@ Whilst we welcome Mr Veale’s resignation, serious questions remain as to why h
 <p><a href="https://lizkendall.org/wp-content/uploads/2023/02/Mike-Veale-statement.png"><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-12092" src="https://lizkendall.org/wp-content/uploads/2023/02/Mike-Veale-statement-434x540.png" alt="" width="434" height="540" srcset="https://lizkendall.org/wp-content/uploads/2023/02/Mike-Veale-statement-434x540.png 434w, https://lizkendall.org/wp-content/uploads/2023/02/Mike-Veale-statement-209x260.png 209w, https://lizkendall.org/wp-content/uploads/2023/02/Mike-Veale-statement-148x184.png 148w, https://lizkendall.org/wp-content/uploads/2023/02/Mike-Veale-statement.png 678w" sizes="(max-width: 434px) 100vw, 434px" /></a></p>
 <p>&nbsp;</p>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-2680" data-post-type="none" ><a href="https://lizkendall.org/community-funday-in-beaumont-leys/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/26.jpg" alt="Community Funday in Beaumont Leys" width="150" height="150" /></a><a href="https://lizkendall.org/community-funday-in-beaumont-leys/" class="wp_rp_title">Community Funday in Beaumont Leys</a></li><li data-position="1" data-poid="in-9198" data-post-type="none" ><a href="https://lizkendall.org/liz-joins-event-to-mark-new-beginnings-for-community-organisation/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2018/10/Visit-to-B-inspired-October-2018-150x150.jpg" alt="Liz joins event to mark new beginnings for community organisation" width="150" height="150" /></a><a href="https://lizkendall.org/liz-joins-event-to-mark-new-beginnings-for-community-organisation/" class="wp_rp_title">Liz joins event to mark new beginnings for community organisation</a></li><li data-position="2" data-poid="in-6057" data-post-type="none" ><a href="https://lizkendall.org/care-funding-needs-financial-advice-money-marketing-20-feb/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="Care funding needs financial advice (Money Marketing, 20 Feb)" width="150" height="150" /></a><a href="https://lizkendall.org/care-funding-needs-financial-advice-money-marketing-20-feb/" class="wp_rp_title">Care funding needs financial advice (Money Marketing, 20 Feb)</a></li><li data-position="3" data-poid="in-3301" data-post-type="none" ><a href="https://lizkendall.org/3301/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/16.jpg" alt="So we&#8217;re all in this together? Are we really, Mr Osborne?" width="150" height="150" /></a><a href="https://lizkendall.org/3301/" class="wp_rp_title">So we&#8217;re all in this together? Are we really, Mr Osborne?</a></li><li data-position="4" data-poid="in-9092" data-post-type="none" ><a href="https://lizkendall.org/liz-calls-for-social-care-to-be-properly-funded-in-nhs-plans/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" alt="Liz calls for social care to be properly funded in NHS plans" width="150" height="150" /></a><a href="https://lizkendall.org/liz-calls-for-social-care-to-be-properly-funded-in-nhs-plans/" class="wp_rp_title">Liz calls for social care to be properly funded in NHS plans</a></li></ul></div></div>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Related posts</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-6356" data-post-type="none" ><a href="https://lizkendall.org/liz-demands-nhs-quango-is-stripped-of-role-after-series-of-care-failures/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/17.jpg" alt="Liz demands NHS quango is stripped of role after series of care failures" width="150" height="150" /></a><a href="https://lizkendall.org/liz-demands-nhs-quango-is-stripped-of-role-after-series-of-care-failures/" class="wp_rp_title">Liz demands NHS quango is stripped of role after series of care failures</a></li><li data-position="1" data-poid="in-6139" data-post-type="none" ><a href="https://lizkendall.org/age-uk-sounds-alarm-over-cuts-to-care-for-older-people-the-guardian-6-march/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/23.jpg" alt="Age UK sounds alarm over cuts to care for older people (The Guardian, 6 March)" width="150" height="150" /></a><a href="https://lizkendall.org/age-uk-sounds-alarm-over-cuts-to-care-for-older-people-the-guardian-6-march/" class="wp_rp_title">Age UK sounds alarm over cuts to care for older people (The Guardian, 6 March)</a></li><li data-position="2" data-poid="in-9877" data-post-type="none" ><a href="https://lizkendall.org/liz-on-world-cancer-day/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/uploads/2020/02/Liz-Kendall-MP-Cancer-Research-UK-001-150x150.jpg" alt="Liz joins Cancer Research UK on World Cancer Day" width="150" height="150" /></a><a href="https://lizkendall.org/liz-on-world-cancer-day/" class="wp_rp_title">Liz joins Cancer Research UK on World Cancer Day</a></li><li data-position="3" data-poid="in-11845" data-post-type="none" ><a href="https://lizkendall.org/liz-votes-to-protect-pensioners-incomes/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/13.jpg" alt="Liz votes to protect pensioner&#8217;s incomes" width="150" height="150" /></a><a href="https://lizkendall.org/liz-votes-to-protect-pensioners-incomes/" class="wp_rp_title">Liz votes to protect pensioner&#8217;s incomes</a></li><li data-position="4" data-poid="in-2364" data-post-type="none" ><a href="https://lizkendall.org/lizs-speech-on-a-duty-of-candour-in-the-nhs/" class="wp_rp_thumbnail"><img src="https://lizkendall.org/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/8.jpg" alt="Liz&#8217;s speech on &#8216;a duty of candour&#8217; in the NHS" width="150" height="150" /></a><a href="https://lizkendall.org/lizs-speech-on-a-duty-of-candour-in-the-nhs/" class="wp_rp_title">Liz&#8217;s speech on &#8216;a duty of candour&#8217; in the NHS</a></li></ul></div></div>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/statement-from-liz-following-latest-resignation-in-the-office-of-the-police-and-crime-commissioner/">Statement from Liz following latest resignation in the Office of the Police and Crime Commissioner</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
 ]]></content>
 		
@@ -236,16 +268,6 @@ Whilst we welcome Mr Veale’s resignation, serious questions remain as to why h
 		<category term="Local News"/>
 		<category term="Local News"/>
 	</entry>
-  <entry>
-    <title>Update on UK Government financial support with Energy Bills</title>
-    <link rel="alternate" href="https://www.robin-millar.org.uk/news/update-uk-government-financial-support-energy-bills" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I know how concerned so many of you throughout Aberconwy have been about the rising cost of living and, in particular, about surging energy bills. I have taken the concerns of residents and businesses here in Aberconwy directly to the Government and I would like to update you about the range of UK…</div>
-    </content>
-    <id>https://www.robin-millar.org.uk/news/update-uk-government-financial-support-energy-bills</id>
-    <published>2023-02-03T12:00:00Z</published>
-    <updated>2023-02-03T12:00:00Z</updated>
-  </entry>
   <entry>
     <title>Local MP’s statement on recent events in Tewksbury Close and Lychpit</title>
     <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mps-statement-recent-events-tewksbury-close-and-lychpit" type="text/html"/>
@@ -688,16 +710,42 @@ Tim's running totalled over 197 miles - averaging more than 10km every day - and
     <category term="nottingham"/>
   </entry>
   <entry>
-    <title>Important information about Rhodesia Post Office</title>
-    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/important-information-about-rhodesia-post-office" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"> 
-Important information about Rhodesia Post Office, Go Local Community Convenience Store, 11 Tylden Road, Rhodesia, Worksop, S80 3HL.
-Please note the adjacent dates relate solely to the notification period for this communication. The information letter in the link below provides further details…</div>
-    </content>
-    <id>https://www.brendanclarkesmith.com/news/important-information-about-rhodesia-post-office</id>
-    <published>2023-02-02T12:00:00Z</published>
-    <updated>2023-02-02T12:00:00Z</updated>
+    <title>RELEASE: NEARLY TWO-THIRDS OF PEOPLE IN INVERNESS, NAIRN, BADENOCH AND STRATHSPEY AGREE BREXIT WAS A MISTAKE</title>
+    <link rel="alternate" href="https://www.drewhendrymp.scot/release-nearly-two-thirds-of-people-in-inverness-nairn-badenoch-and-strathspey-agree-brexit-was-a-mistake/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=release-nearly-two-thirds-of-people-in-inverness-nairn-badenoch-and-strathspey-agree-brexit-was-a-mistake" type="text/html"/>
+    <content type="html">&lt;div id="dslc-theme-content"&gt;&lt;div id="dslc-theme-content-inner"&gt;&lt;p style="font-weight: 400;"&gt;Local MP,&amp;nbsp;Drew Hendry,&amp;nbsp;has agreed with constituents in&amp;nbsp;Inverness, Nairn, Badenoch and Strathspey on their scathing assessment of the damage of Brexit and said that independence is the quickest way to rejoin the EU.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;&lt;a href="https://britain.unherd.com/"&gt;A poll carried out by Focaldata on behalf of UnHerdBritain&lt;/a&gt; found&amp;nbsp;60%&amp;nbsp;of people in&amp;nbsp;the constituency agreed that the UK was wrong to leave the EU, alongside every other Scottish constituency.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;It follows the result in 2016, where every local authority in Scotland voted to remain, with 62% of Scots backing continued membership of the EU. Recent polls have suggested the figure is now as high as 72% as the damage of Brexit hits Scotland hard.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;Commenting,&amp;nbsp;Drew Hendry MP said:&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;“People in&amp;nbsp;the Highlands,&amp;nbsp;and indeed in Scotland as a whole, voted overwhelmingly to remain in 2016. That result should’ve been respected.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;“Instead, we’ve been dragged out against our will and forced to endure the economic hardship that’s come with it.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;“The Highlands alone has lost £96.5 million in export value since leaving the single market.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;“Brexit has been a total disaster for&amp;nbsp;our communities, decimating industries, exacerbating the Tory-made cost of living crisis and allowing Westminster to ride roughshod over Holyrood with blatant power grabs.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;“Three years in, and the UK has nothing to show for it but a declining economy and falling reputation abroad.&amp;nbsp;The consequences of this are very real, I see them every time I’m out and about speaking with business owners in the area.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;“People in&amp;nbsp;the Highlands&amp;nbsp;deserve better with a return to the EU that only the full powers of independence can deliver.”&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.drewhendrymp.scot/release-nearly-two-thirds-of-people-in-inverness-nairn-badenoch-and-strathspey-agree-brexit-was-a-mistake/"&gt;RELEASE: NEARLY TWO-THIRDS OF PEOPLE IN INVERNESS, NAIRN, BADENOCH AND STRATHSPEY AGREE BREXIT WAS A MISTAKE&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.drewhendrymp.scot"&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Local MP, Drew Hendry, has agreed with constituents in Inverness, Nairn, Badenoch and Strathspey on their scathing assessment of the damage of Brexit and said that independence is the quickest way to rejoin the EU. A poll carried out by Focaldata on behalf of UnHerdBritain found 60% of people in the constituency agreed that the UK was wrong to leave the …</p>
+<p class="read-more"> <a class="" href="https://www.drewhendrymp.scot/release-nearly-two-thirds-of-people-in-inverness-nairn-badenoch-and-strathspey-agree-brexit-was-a-mistake/"> <span class="screen-reader-text">RELEASE: NEARLY TWO-THIRDS OF PEOPLE IN INVERNESS, NAIRN, BADENOCH AND STRATHSPEY AGREE BREXIT WAS A MISTAKE</span> Read More »</a></p>
+<p>The post <a rel="nofollow" href="https://www.drewhendrymp.scot/release-nearly-two-thirds-of-people-in-inverness-nairn-badenoch-and-strathspey-agree-brexit-was-a-mistake/">RELEASE: NEARLY TWO-THIRDS OF PEOPLE IN INVERNESS, NAIRN, BADENOCH AND STRATHSPEY AGREE BREXIT WAS A MISTAKE</a> appeared first on <a rel="nofollow" href="https://www.drewhendrymp.scot"/>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Drew Hendry MP</name>
+    </author>
+    <id>https://www.drewhendrymp.scot/?p=7392</id>
+    <published>2023-02-02T14:30:31Z</published>
+    <updated>2023-02-02T14:30:31Z</updated>
+    <category term="Release"/>
   </entry>
   <entry>
     <title>Education Secretary visits Bexleyheath </title>
@@ -854,6 +902,16 @@ certainly no exception.&lt;/p&gt;
     <published>2023-02-01T09:45:08Z</published>
     <updated>2023-02-01T09:45:08Z</updated>
     <category term="News"/>
+  </entry>
+  <entry>
+    <title>Bob Stewart Calls for Immediate Reinstatement of Cannon Street services to prevent future London Bridge Chaos</title>
+    <link rel="alternate" href="https://www.bobstewart.org.uk/news/bob-stewart-calls-immediate-reinstatement-cannon-street-services-prevent-future-london-bridge" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Member of Parliament for the Beckenham constituency, Bob Stewart, has written to both the Managing Director of Southeastern Railways and the Secretary of State for Transport to call for the immediate reinstatement of the Cannon Street services from Hayes, West Wickham, Eden Park, Elmers End, Clock…</div>
+    </content>
+    <id>https://www.bobstewart.org.uk/news/bob-stewart-calls-immediate-reinstatement-cannon-street-services-prevent-future-london-bridge</id>
+    <published>2023-01-31T12:00:00Z</published>
+    <updated>2023-01-31T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Graham Stuart MP Explores Forest Schools At Paull Primary School</title>
@@ -1092,16 +1150,6 @@ The sticking…</div>
     <category term="Press Releases"/>
   </entry>
   <entry>
-    <title>Our Man in Westminster - Celebrating 150 years of Charing School</title>
-    <link rel="alternate" href="https://www.damiangreen.co.uk/news/our-man-westminster-celebrating-150-years-charing-school" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">In times of stress, one of the joys of being an MP is to take part in very specific local celebrations. For me these are enhanced if what we are celebrating is an institution which has served an area for a long period of time, where generations of the same family have benefitted from its services.…</div>
-    </content>
-    <id>https://www.damiangreen.co.uk/news/our-man-westminster-celebrating-150-years-charing-school</id>
-    <published>2023-01-26T12:00:00Z</published>
-    <updated>2023-01-26T12:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Surgeries February 2023</title>
     <link rel="alternate" href="https://whitford.scot/2023/01/26/surgeries-may-2022-3-2-2-2/" type="text/html"/>
     <content type="xhtml">
@@ -1147,35 +1195,6 @@ The sticking…</div>
     <updated>2023-01-26T10:56:43Z</updated>
     <category term="Constituency"/>
     <category term="Surgeries"/>
-  </entry>
-  <entry>
-    <title>ARTICLE: The Worst is Yet to Come</title>
-    <link rel="alternate" href="https://www.drewhendrymp.scot/article-the-worst-is-yet-to-come/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=article-the-worst-is-yet-to-come" type="text/html"/>
-    <content type="html">&lt;div id="dslc-theme-content"&gt;&lt;div id="dslc-theme-content-inner"&gt;&lt;p style="font-weight: 400;"&gt;Sometimes a week in Westminster can be momentous, some days even infamous &amp;#8211; last week was something else!&lt;/p&gt;
-&lt;p style="font-weight: 400;"&gt;On Monday, the Tories passed a bill that was nothing short of an attack on workers&amp;#8217; rights, specifically the basic right to withdraw labour in disputes. They were happy to clap nurses, but now they want to make it easier to sack them. Families in every community are struggling to put food on the table or heat their home because of the direct actions of this UK Government&amp;#8217;s handling of the economy but instead of apology and support, they are looking for scapegoats.&lt;/p&gt;
-&lt;p style="font-weight: 400;"&gt;Tuesday came, and with it, an attack on democracy and devolution. The UK Government chose to weaponise legislation passed by two-thirds of MSPs to flex its muscles over Scotland&amp;#8217;s Parliament and seek to create a diversionary culture war.&lt;/p&gt;
-&lt;p style="font-weight: 400;"&gt;It seemed things couldn&amp;#8217;t get much worse by Wednesday, but we still had the Retained EU Law bill to debate. Hundreds of you wrote to me to share your dismay at the contents of the bill, and these are concerns I very much share.&lt;/p&gt;
-&lt;p style="font-weight: 400;"&gt;The sunset clause in this bill means that fundamental rights will be scrapped automatically if not first identified and replaced by the end of the year. Do you trust this Government firstly to have the competence to review thousands of pieces of legislation by the deadline and secondly to make decisions in the interest of the public rather than their donors, cronies and chums.&lt;/p&gt;
-&lt;p style="font-weight: 400;"&gt;This UK Government seems intent on destroying hard-fought rights and legislation that protects those who need it most. They also seem determined to undermine devolution at every turn as they attempt to impose more and more direct rule.&lt;/p&gt;
-&lt;p style="font-weight: 400;"&gt;It&amp;#8217;s easy to forget how different decisions taken by the Scottish Parliament impact us every day. Just imagine if Westminster made all the choices?&lt;/p&gt;
-&lt;p style="font-weight: 400;"&gt;We&amp;#8217;d be paying for every prescription, you&amp;#8217;d be paying bedroom tax, we&amp;#8217;d have fewer doctors, nurses, and police officers. Untreated sewage would be allowed to run into our rivers and coastline, just for a start. The list goes on, and it is long.&lt;/p&gt;
-&lt;p style="font-weight: 400;"&gt;Make to mistake, this UK government is only getting started – they know they&amp;#8217;ve lost voters because of the mess they have made and so are doubling down on their right-wing credentials to stoke division, and it is the most vulnerable who are left paying the highest price.&lt;/p&gt;
-&lt;p style="font-weight: 400;"&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.drewhendrymp.scot/article-the-worst-is-yet-to-come/"&gt;ARTICLE: The Worst is Yet to Come&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.drewhendrymp.scot"&gt;&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Sometimes a week in Westminster can be momentous, some days even infamous – last week was something else! On Monday, the Tories passed a bill that was nothing short of an attack on workers’ rights, specifically the basic right to withdraw labour in disputes. They were happy to clap nurses, but now they want to …</p>
-<p class="read-more"> <a class="" href="https://www.drewhendrymp.scot/article-the-worst-is-yet-to-come/"> <span class="screen-reader-text">ARTICLE: The Worst is Yet to Come</span> Read More »</a></p>
-<p>The post <a rel="nofollow" href="https://www.drewhendrymp.scot/article-the-worst-is-yet-to-come/">ARTICLE: The Worst is Yet to Come</a> appeared first on <a rel="nofollow" href="https://www.drewhendrymp.scot"/>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Drew Hendry MP</name>
-    </author>
-    <id>https://www.drewhendrymp.scot/?p=7378</id>
-    <published>2023-01-25T12:00:13Z</published>
-    <updated>2023-01-25T12:00:13Z</updated>
-    <category term="Article"/>
   </entry>
   <entry>
     <title>Herefordshire and Worcestershire to receive £1,509,000 for mental health services</title>
@@ -1311,18 +1330,6 @@ The sticking…</div>
       <div xmlns="http://www.w3.org/1999/xhtml">I started this week with a visit to the Taste sandwich shop in Kirkby. Meeting hardworking businessowners like Fiona is exactly what makes me proud to be the MP for this great area. 15 years ago, Fiona was a single parent to twins and was struggling to make ends meet. Rather than feeling sorry for…</div>
     </content>
     <id>https://www.leeanderson.org.uk/news/lee-anderson-mps-weekly-column-43</id>
-    <published>2023-01-16T12:00:00Z</published>
-    <updated>2023-01-16T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>New Endoscopy Unit for PRU Granted Planning Permission</title>
-    <link rel="alternate" href="https://www.bobstewart.org.uk/news/new-endoscopy-unit-pru-granted-planning-permission" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">At a meeting of Bromley Council’s Development Control Committee in January, Councillors voted to allow planning permission for a new Endoscopy Unit at the Princess Royal University (PRU) hospital.
- 
-The new unit will help to reduce wait times for local cancer patients, speed up diagnostic time and…</div>
-    </content>
-    <id>https://www.bobstewart.org.uk/news/new-endoscopy-unit-pru-granted-planning-permission</id>
     <published>2023-01-16T12:00:00Z</published>
     <updated>2023-01-16T12:00:00Z</updated>
   </entry>
@@ -1777,6 +1784,37 @@ The new unit will help to reduce wait times for local cancer patients, speed up 
 		
 			</entry>
   <entry>
+    <title>Berry Bros &amp; Rudd New Warehouse in Andover</title>
+    <link rel="alternate" href="https://kitmalthouse.com/2022/berry-bros-rudd-new-warehouse-in-andover/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=berry-bros-rudd-new-warehouse-in-andover" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. </p>
+
+
+
+<p>While much of their business is selling wine, most of it is helping wine buyers and collectors look after their stock, and the warehouse is where it is all stored. As I was shown round, I marvelled at the famous names on the shelves: Lafitte, Latour, Petrus etc. </p>
+
+
+
+<p>The Warehouse is chilled to 12 degrees throughout, but happily due to solar panels on the roof, will be carbon neutral. </p>
+
+
+
+<p>It’s a great vote of confidence in Andover and in the UK wine industry which I hope will continue to lead the world, with possibly the biggest collection of fine wines on the planet, here in North West Hampshire. </p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. While much of their business is selling wine, most of […]</div>
+    </summary>
+    <author>
+      <name>Kit Malthouse</name>
+    </author>
+    <id>https://kitmalthouse.com/?p=2968</id>
+    <published>2022-11-05T08:26:32Z</published>
+    <updated>2022-11-05T08:26:32Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
+  <entry>
     <title>Dan Jarvis MP: Statement Regarding Sentencing</title>
     <link rel="alternate" href="http://www.danjarvis.org/statement_regarding_sentencing" type="text/html"/>
     <content type="xhtml">
@@ -2174,10 +2212,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-63e0f3883d443" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63e11c5812f48" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-63e0f3883d443').iPhorm({"id":5,"uniqueId":"63e0f3883d443","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63e11c5812f48').iPhorm({"id":5,"uniqueId":"63e11c5812f48","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2252,10 +2290,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-63e0f3883d443" class="iphorm iphorm-form-5" action="/feed/#iphorm-63e0f3883d443" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63e11c5812f48" class="iphorm iphorm-form-5" action="/feed/#iphorm-63e11c5812f48" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="63e0f3883d443" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63e11c5812f48" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2264,22 +2302,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_63e0f3883d443" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63e0f3883d443" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63e11c5812f48" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63e11c5812f48" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_63e0f3883d443" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63e0f3883d443" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63e11c5812f48" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63e11c5812f48" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_63e0f3883d443" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63e0f3883d443" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63e11c5812f48" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63e11c5812f48" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2289,7 +2327,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63e0f3883d443_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63e11c5812f48_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2308,7 +2346,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-63e0f3883d443 script').remove();
+    jQuery('#iphorm-outer-63e11c5812f48 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2345,7 +2383,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwPPWyz2I5Nnyq_heJQ73Kb_Z67-QhNfMbvIp1jh4qiJSK4Dw4iD-zI4BrawxvdfyV3Y7h3fDzZSY4OyXbicg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxzuTKskkdZ37SLr1c2LMTxqXYph3Hnkoq75ysKv5ssqgj_eP8CeTFtcwfUWNgqzA_PMblwUtIK8jA6J0sMXg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
