@@ -7,28 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-19T09:27:42Z</updated>
+  <updated>2023-02-19T12:31:27Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
-    <title>Deal or no deal on the Protocol</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/02/19/deal-or-no-deal-on-the-protocol/" type="text/html"/>
+    <title>Article on NI protocol on facts4eu</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/02/19/article-on-ni-protocol-on-facts4eu/" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>It is difficult to write about a deal where there is  no text, and where the UK government assures us there is currently no deal over the Northern Ireland Protocol. Many of us would be delighted if there is  an agreement to free the flow of goods within the UK to and from NI to GB, and even happier if there is an agreement to lift the way the EU wishes to impose its laws on NI that do not apply in the rest of the UK. So what are we to make of the fevered speculation that there is a deal in the offing?</p>
-<p>The first scenario is I am afraid the least likely. In this the EU has at last realised its demands to have a border between GB and NI, and to require NI obeys all new EU laws does violate the first 3 Articles of the Protocol itself and prevents Unionists from returning to Stormont. They have kept their decision to make  a revision to their demands secret whilst they get buy in, but we will be pleasantly surprised and will be able to welcome the  new deal when announced. It will remove the democratic deficit , uphold the UK internal market and will look to the Uk to ensure compliant goods only flow to the EU across the invisible  Irish land border.  Mutual enforcement where the UK enforces EU standards on all exports to the EU and vice versa has always been the sensible outcome. There is then no need for a physical border into NI  nor into the EU. The UK has never proposed a  new physical border into the UK from the Republic.</p>
-<p>The second scenario is  the EU and UK are close to having agreement on how the UK should manage an internal border, with relaxations for the bulk of goods which are internal trade within the UK. Without any agreement on EU laws and  their enforcement by the EU’s own court it is difficult to see how this could persuade the Unionists back into power sharing. Were the UK government to press ahead with this it could get it through Parliament because Labour has said it will support more or less any Agreement, but it will not resolve the larger Good Friday Agreement issues with the Unionists. It also leaves open how much electronic paperwork companies would need to produce to satisfy EU demands for data on internal UK trade and whether this will still impede our internal market.</p>
-<p>The third scenario is there are still genuine talks underway concerning the democratic deficit issues but the EU is reluctant to move. All the time the EU insists on imposing its laws and ECJ judgements on NI the UK government should decline to settle, knowing it will not sort out the Good Friday matters.</p>
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Facts4eu have published an updated version of my analysis of the Protocol issues on www.facts4eu.org/news/2023 feb redwood on independence.</p>
 </div>
     </content>
     <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It is difficult to write about a deal where there is  no text, and where the UK government assures us there is currently no deal over the Northern Ireland Protocol. Many of us would be delighted if there is  an agreement to free the flow of goods within the UK to and from NI to…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Facts4eu have published an updated version of my analysis of the Protocol issues on www.facts4eu.org/news/2023 feb redwood on independence.</div>
     </summary>
     <author>
       <name>johnredwood</name>
     </author>
-    <id>https://johnredwoodsdiary.com/?p=34472</id>
-    <published>2023-02-19T05:08:03Z</published>
-    <updated>2023-02-19T05:08:03Z</updated>
+    <id>http://johnredwoodsdiary.com/?p=34481</id>
+    <published>2023-02-19T10:33:19Z</published>
+    <updated>2023-02-19T10:33:19Z</updated>
     <category term="Uncategorized"/>
   </entry>
   <entry>
@@ -2260,10 +2257,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-63f1eb648d7a5" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63f2167a0883a" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-63f1eb648d7a5').iPhorm({"id":5,"uniqueId":"63f1eb648d7a5","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63f2167a0883a').iPhorm({"id":5,"uniqueId":"63f2167a0883a","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2338,10 +2335,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-63f1eb648d7a5" class="iphorm iphorm-form-5" action="/feed/#iphorm-63f1eb648d7a5" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63f2167a0883a" class="iphorm iphorm-form-5" action="/feed/#iphorm-63f2167a0883a" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="63f1eb648d7a5" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63f2167a0883a" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2350,22 +2347,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_63f1eb648d7a5" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63f1eb648d7a5" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63f2167a0883a" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63f2167a0883a" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_63f1eb648d7a5" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63f1eb648d7a5" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63f2167a0883a" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63f2167a0883a" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_63f1eb648d7a5" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63f1eb648d7a5" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63f2167a0883a" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63f2167a0883a" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2375,7 +2372,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63f1eb648d7a5_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63f2167a0883a_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2394,7 +2391,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-63f1eb648d7a5 script').remove();
+    jQuery('#iphorm-outer-63f2167a0883a script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
