@@ -7,9 +7,41 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-27T06:30:48Z</updated>
+  <updated>2023-02-27T09:28:46Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Drug and Alcohol Treatment</title>
+    <link rel="alternate" href="https://www.victoriaprentis.com/news/drug-and-alcohol-treatment" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Oxfordshire will benefit from nearly £2 million worth of funding to improve drug and alcohol treatment over the next two years, as part of a nationwide effort to combat misuse and tackle crime.
+You can read more on this announcement here.</div>
+    </content>
+    <id>https://www.victoriaprentis.com/news/drug-and-alcohol-treatment</id>
+    <published>2023-02-27T12:00:00Z</published>
+    <updated>2023-02-27T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>DEEPLY CONCERNING NUMBER OF FAMILIES FACING BENEFIT DEDUCTIONS</title>
+    <link rel="alternate" href="https://www.catherinemckinnellmp.co.uk/deeply-concerning-number-of-families-facing-benefit-deductions/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">DEEPLY CONCERNING NUMBER OF FAMILIES FACING BENEFIT DEDUCTIONS WARNS NEWCASTLE NORTH MP Answers provided to Written Parliamentary Questions tabled by Catherine McKinnell MP from the Department for Work and Pensions have confirmed that nearly 4,000 children in Newcastle North are in households subject to benefit deductions, further exacerbating the cost of living crisis. Responding to … <a href="https://www.catherinemckinnellmp.co.uk/deeply-concerning-number-of-families-facing-benefit-deductions/" class="more-link">Continue reading <span class="screen-reader-text">DEEPLY CONCERNING NUMBER OF FAMILIES FACING BENEFIT DEDUCTIONS</span> <span class="meta-nav">→</span></a></div>
+    </content>
+    <author>
+      <name>Catherine McKinnell</name>
+    </author>
+    <id>https://www.catherinemckinnellmp.co.uk/?p=7851</id>
+    <published>2023-02-27T09:00:50Z</published>
+    <updated>2023-02-27T09:00:50Z</updated>
+    <category term="Economy"/>
+    <category term="Families"/>
+    <category term="Features"/>
+    <category term="Latest"/>
+    <category term="children"/>
+    <category term="featured"/>
+    <category term="latest"/>
+    <category term="Universal Credit"/>
+  </entry>
   <entry>
     <title>No deal is better than a bad deal</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2023/02/27/no-deal-is-better-than-a-bad-deal-7/" type="text/html"/>
@@ -1169,6 +1201,34 @@ in touch on 01554 756374 or email &lt;a href="mailto:nia.griffith.mp@parliament.
     <category term="Diary"/>
   </entry>
   <entry>
+    <title>Raising Aspirations Assembly at Rushall Primary School</title>
+    <link rel="alternate" href="http://wendymorton.co.uk/raising-aspirations-assembly-at-rushall-primary-school/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xdj266r x126k92a">
+<div dir="auto">It was lovely to be at Rushall Primary School assembly last week and speak about my role as the local Member of Parliament.</div>
+<div dir="auto"/>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">I was delighted to speak as part of the assembly series of ‘Raising Aspirations’. As ever there were some taxing questions and potentially some budding new members of the House of Commons.</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto"/>
+<div dir="auto">Thank you for a lovely visit!</div>
+</div>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It was lovely to be at Rushall Primary School assembly last week and speak about my role as the local Member of Parliament. I was delighted to speak as part […]</div>
+    </summary>
+    <author>
+      <name>Wendy Morton MP</name>
+    </author>
+    <id>http://wendymorton.co.uk/?p=4544</id>
+    <published>2023-02-16T09:21:39Z</published>
+    <updated>2023-02-16T09:21:39Z</updated>
+    <category term="News"/>
+  </entry>
+  <entry>
     <title>Funding Opportunities for Voluntary Organisations &amp; Charities</title>
     <link rel="alternate" href="https://whitford.scot/2023/02/15/funding-opportunities-2-2-2/" type="text/html"/>
     <content type="xhtml">
@@ -1287,17 +1347,6 @@ in touch on 01554 756374 or email &lt;a href="mailto:nia.griffith.mp@parliament.
 		<category term="Local News"/>
 	</entry>
   <entry>
-    <title>Cherwell Democracy Challenge Winners Welcomed to Parliament</title>
-    <link rel="alternate" href="https://www.victoriaprentis.com/news/cherwell-democracy-challenge-winners-welcomed-parliament" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I was pleased to welcome the winning team of my Cherwell Democracy Challenge to Parliament.
-The team from The Warriner School received a tour of the Palace before sitting down with me for a discussion. It was great to answer questions about my role as an MP as well as hearing their thoughts on how…</div>
-    </content>
-    <id>https://www.victoriaprentis.com/news/cherwell-democracy-challenge-winners-welcomed-parliament</id>
-    <published>2023-02-10T12:00:00Z</published>
-    <updated>2023-02-10T12:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Local Update</title>
     <link rel="alternate" href="https://www.chrisgrayling.net/local-update-10/" type="text/html"/>
     <content type="html">&lt;p&gt;Dear constituent&lt;/p&gt;
@@ -1393,45 +1442,6 @@ I refer to the Sevington…</div>
       <email>noreply@blogger.com</email>
       <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
     </author>
-  </entry>
-  <entry>
-    <title>£1,850 CONSERVATIVE PENALTY HITTING HOUSEHOLDS</title>
-    <link rel="alternate" href="https://www.catherinemckinnellmp.co.uk/1850-conservative-penalty-hitting-households/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Analysis from the Labour Party has shown that the average household in Newcastle North is set to be put under greater pressure during the cost of living crisis due to the Conservative mismanagement of the economy. The Bank of England warned in December that around 4 million households with a mortgage will be exposed to rate rises this … <a href="https://www.catherinemckinnellmp.co.uk/1850-conservative-penalty-hitting-households/" class="more-link">Continue reading <span class="screen-reader-text">£1,850 CONSERVATIVE PENALTY HITTING HOUSEHOLDS</span> <span class="meta-nav">→</span></a></div>
-    </content>
-    <author>
-      <name>Catherine McKinnell</name>
-    </author>
-    <id>https://www.catherinemckinnellmp.co.uk/?p=7844</id>
-    <published>2023-02-07T10:01:17Z</published>
-    <updated>2023-02-07T10:01:17Z</updated>
-    <category term="Economy"/>
-    <category term="Features"/>
-    <category term="Legal"/>
-    <category term="economy"/>
-    <category term="featured"/>
-    <category term="latest"/>
-  </entry>
-  <entry>
-    <title>Defibrillator Grants available for local communities</title>
-    <link rel="alternate" href="http://wendymorton.co.uk/defibrillator-grants-available-for-local-communities/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Defibrillators can provide vital life-saving treatment, with latest research showing that accessing these devices within 3-5 minutes of a cardiac arrest increases the chance of survival by over 40%.</p>
-<p>Care to ensure that defibrillators are available both at school and in the wider community is of paramount importance.</p>
-<p>That is why I’m delighted the Government has announced a new £1 million Community Automated External Defibrillators Fund to provide match-funding for new public access defibrillators. This will help to ensure that areas with the most need for defibrillators have them. I would encourage all local charitable and non-profit organisations to apply for the grant. To find registered defibrillators in your area, please visit <a href="https://www.defibfinder.uk/">https://www.defibfinder.uk/</a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Defibrillators can provide vital life-saving treatment, with latest research showing that accessing these devices within 3-5 minutes of a cardiac arrest increases the chance of survival by over 40%. Care […]</div>
-    </summary>
-    <author>
-      <name>Wendy Morton MP</name>
-    </author>
-    <id>http://wendymorton.co.uk/?p=4522</id>
-    <published>2023-02-03T13:14:27Z</published>
-    <updated>2023-02-03T13:14:27Z</updated>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Education Secretary visits Bexleyheath </title>
@@ -2195,10 +2205,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-63fc4df11e09f" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63fc779edf32d" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-63fc4df11e09f').iPhorm({"id":5,"uniqueId":"63fc4df11e09f","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63fc779edf32d').iPhorm({"id":5,"uniqueId":"63fc779edf32d","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2273,10 +2283,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-63fc4df11e09f" class="iphorm iphorm-form-5" action="/feed/#iphorm-63fc4df11e09f" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63fc779edf32d" class="iphorm iphorm-form-5" action="/feed/#iphorm-63fc779edf32d" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="63fc4df11e09f" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63fc779edf32d" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2285,22 +2295,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_63fc4df11e09f" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63fc4df11e09f" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63fc779edf32d" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63fc779edf32d" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_63fc4df11e09f" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63fc4df11e09f" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63fc779edf32d" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63fc779edf32d" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_63fc4df11e09f" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63fc4df11e09f" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63fc779edf32d" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63fc779edf32d" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2310,7 +2320,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63fc4df11e09f_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63fc779edf32d_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2329,7 +2339,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-63fc4df11e09f script').remove();
+    jQuery('#iphorm-outer-63fc779edf32d script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2366,7 +2376,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz3dJneomC1UGcZkyei6eJ-iyDjkFgRJfpptxDURF2pryMug7CMp95Z7SgmnCIE1yATPNZ0nfVkUj--CyZUTQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzikLb-2hBhqlJPCwiYYdD65PfbXoyRvSTt0H044mIK_vtlnlXf1xlE-O-teQd0TvFION9tIsmEu-6z68_xPg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
