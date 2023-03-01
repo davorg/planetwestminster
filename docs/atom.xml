@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-01T06:32:23Z</updated>
+  <updated>2023-03-01T09:28:42Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -305,6 +305,17 @@ Meanwhile, in South Cumbria and North Lancashire, over 25% of patients hadn't be
     <category term="Press &amp; Articles"/>
   </entry>
   <entry>
+    <title>Horton General Hospital Emergency Department</title>
+    <link rel="alternate" href="https://www.victoriaprentis.com/news/horton-general-hospital-emergency-department" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I have regular bi-monthly meetings with Oxford University Hospitals NHS Foundation Trust about the Horton General Hospital and health provision in Banbury, so it was really useful to do my latest in-person and have the chance to walk around the hospital.
+It was good to hear directly from one of the…</div>
+    </content>
+    <id>https://www.victoriaprentis.com/news/horton-general-hospital-emergency-department</id>
+    <published>2023-02-28T12:00:00Z</published>
+    <updated>2023-02-28T12:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Regular Video update of my work both in Basingstoke and Parliament</title>
     <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/regular-video-update-my-work-both-basingstoke-and-parliament-0" type="text/html"/>
     <id>https://www.maria4basingstoke.co.uk/news/regular-video-update-my-work-both-basingstoke-and-parliament-0</id>
@@ -320,17 +331,6 @@ These vital UK Government payments to tens of thousands of Borders households ar
 Rising energy bills, as a result of Russia’s war in Ukraine and the Covid…</div>
     </content>
     <id>https://www.johnlamont.org/news/uk-government-makes-168000-energy-bill-payments-borders-residents</id>
-    <published>2023-02-28T12:00:00Z</published>
-    <updated>2023-02-28T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Greg backs report to make brain tumour research a “critical priority”</title>
-    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-backs-report-make-brain-tumour-research-critical-priority" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This evening Greg Smith MP attended the launch of the All Party Parliamentary Group on Brain Tumours landmark inquiry report 'Pathway to a Cure – Breaking Down the Barriers' alongside his constituent and Chief Executive of Brain Tumour Research Sue Farrington Smith MBE.
-The report demands action to…</div>
-    </content>
-    <id>https://www.gregsmith.co.uk/news/greg-backs-report-make-brain-tumour-research-critical-priority</id>
     <published>2023-02-28T12:00:00Z</published>
     <updated>2023-02-28T12:00:00Z</updated>
   </entry>
@@ -408,17 +408,6 @@ The report demands action to…</div>
 The campaign was launched on Tuesday in Parliament by national learning disability charity Hft, where Robin…</div>
     </content>
     <id>https://www.robin-millar.org.uk/news/robin-supports-national-campaign-calling-change-people-learning-disability</id>
-    <published>2023-02-27T12:00:00Z</published>
-    <updated>2023-02-27T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Drug and Alcohol Treatment</title>
-    <link rel="alternate" href="https://www.victoriaprentis.com/news/drug-and-alcohol-treatment" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Oxfordshire will benefit from nearly £2 million worth of funding to improve drug and alcohol treatment over the next two years, as part of a nationwide effort to combat misuse and tackle crime.
-You can read more on this announcement here.</div>
-    </content>
-    <id>https://www.victoriaprentis.com/news/drug-and-alcohol-treatment</id>
     <published>2023-02-27T12:00:00Z</published>
     <updated>2023-02-27T12:00:00Z</updated>
   </entry>
@@ -1833,6 +1822,23 @@ Sir David first welcomed Gillian to the Civic Offices in Bexleyheath alongside L
     <updated>2022-10-20T17:01:54+01:00</updated>
   </entry>
   <entry>
+		<author>
+			<name>petermiddlehurst</name>
+					</author>
+
+		<title type="html"><![CDATA[Climate and Environment Emergency: WWF Earth Hour]]></title>
+		<link rel="alternate" type="text/html" href="http://www.nickbrownmp.com/2022/04/12/climate-and-environment-emergency-wwf-earth-hour/"/>
+
+		<id>https://www.nickbrownmp.com/?p=663</id>
+		<updated>2022-04-12T20:20:46Z</updated>
+		<published>2022-04-12T19:53:23Z</published>
+		<category scheme="http://www.nickbrownmp.com" term="News"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="http://www.nickbrownmp.com/2022/04/12/climate-and-environment-emergency-wwf-earth-hour/"><![CDATA[]]></content>
+		
+			</entry>
+  <entry>
     <title>Keuntungan Saat Memainkan Situs Judi Slot Online</title>
     <link rel="alternate" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/" type="text/html"/>
     <content type="html">&lt;div class="pbs-main-wrapper"&gt;&lt;p&gt;&lt;a href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/"&gt;Keuntungan Saat Memainkan Situs Judi Slot Online&lt;/a&gt; &amp;#8211; Internet memiliki dampak luar biasa pada berbagai industri meskipun mungkin industri perjudian yang paling banyak mengalami perubahan. Perjudian online yang sederhana, dengan cepat menjadi industri multi-miliar dolar.&lt;/p&gt;
@@ -2178,10 +2184,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-63fef14ea31f3" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-63ff1aa561162" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-63fef14ea31f3').iPhorm({"id":5,"uniqueId":"63fef14ea31f3","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-63ff1aa561162').iPhorm({"id":5,"uniqueId":"63ff1aa561162","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2256,10 +2262,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-63fef14ea31f3" class="iphorm iphorm-form-5" action="/feed/#iphorm-63fef14ea31f3" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-63ff1aa561162" class="iphorm iphorm-form-5" action="/feed/#iphorm-63ff1aa561162" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="63fef14ea31f3" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="63ff1aa561162" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2268,22 +2274,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_63fef14ea31f3" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63fef14ea31f3" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_63ff1aa561162" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_63ff1aa561162" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_63fef14ea31f3" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63fef14ea31f3" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_63ff1aa561162" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_63ff1aa561162" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_63fef14ea31f3" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63fef14ea31f3" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_63ff1aa561162" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_63ff1aa561162" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2293,7 +2299,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63fef14ea31f3_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_63ff1aa561162_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2312,7 +2318,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-63fef14ea31f3 script').remove();
+    jQuery('#iphorm-outer-63ff1aa561162 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2349,7 +2355,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzikLb-2hBhqlJPCwiYYdD65PfbXoyRvSTt0H044mIK_vtlnlXf1xlE-O-teQd0TvFION9tIsmEu-6z68_xPg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzhGw3eCYFtPEAPL5l3PlMXXIDC0sFSHyRKbBAZ1h2BrIDQWfkfIBwaiuVUr6P4rGPJ5BjwrsNELA-imxnEiQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
