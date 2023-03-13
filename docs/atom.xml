@@ -7,28 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-13T03:27:47Z</updated>
+  <updated>2023-03-13T06:30:34Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
-    <title>The balance between spending and taxing</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/03/12/the-balance-between-spending-and-taxing/" type="text/html"/>
-    <content type="html">&lt;p&gt;There are stories in the press suggesting the Chancellor will have some scope to boost spending or cut taxes in the budget. There are also suggestions that boosting spending will take priority.&lt;/p&gt;
-&lt;p&gt;It would be good first to create more room to make changes. We read work on getting more people into jobs is going well. If more people take up paid employment benefit and tax credit spending falls and tax revenues rise. The inflation rate is coming down, so  they need to put a large saving on debt interest into  the figures. Last year debt interest on their accounting basis soared thank to the large rise in inflation linked debt costs. There will be big savings on the energy package which should be allowed to run off this year.&lt;/p&gt;
-&lt;p&gt;There are comments that defence will get some more money. It needs to restock ammunition and weapons to replace that sent to Ukraine.It needs to get up to strength on personnel numbers.&lt;/p&gt;
-&lt;p&gt;The NHS will need help with meeting the  extra pay bills. It also needs to review it current spending priorities and see where the large  increases of the last three years have gone.Childcare may need expansion as part of the workforce package. There is talk of more energy subsidy than planned.&lt;/p&gt;
-&lt;p&gt;It is vital there is scope for tax cuts. Some of these will boost revenues though OBR forecasts will say otherwise. Without more growth we will struggle to afford good public services. High  tax rates can induce a cycle of decline by deterring enterprise and investment.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</content>
+    <title>The collapse of Silicon Valley Bank UK</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/03/13/the-collapse-of-silicon-valley-bank-uk/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Last week Bank account users at SVB UK could withdraw their money or make their payments from their bank accounts safe in the knowledge that the UK Regulators thought it solvent and well run. <span id="more-34623"/>It had its banking  licence. Any regulated bank should have access to Bank of England funds in the event  of a sudden increase in withdrawals straining the bank’s liquid reserves available to pay out.</p>
+<p>Last weekend the Bank of England announced its plan to put SVB into administration. This followed a similar move by the US authorities on the parent bank in the USA. It happened despite UK SVB telling people that it was ring fenced from the US operations. I thought it was meant to be independently regulated in the UK.</p>
+<p>All this leads me to ask why did the Regulators change their mind last weekend about its solvency? Was there some requirement from the US parent that did require money from the UK Bank? Or did the Regulators discover things had gone wrong in the UK Bank?</p>
+<p>If the UK Bank had invested in bonds which had then lost lots of money as some press comment suggests the U.S. bank had, the Bank of England would have known that in the autumn when they launched their Quantitative tightening programme on the eve of the Kwarteng budget. They had  the clear wish to drive bond prices down to get interest rates higher. When they saw their impact on LDI funds owning bonds they should also have seen the impact  on banks holding bonds direct  as investments.  If some venture capital loans had gone wrong for SVB again the Regulators should have known their exposures and asked about their bad debt position.</p>
+<p>Whatever the banking issues there needs to be a quick fix so companies with trading money on deposit with SVB can access it to carry on their businesses. We do not want taxpayers to have to bail them all out. We want good banking  regulation and an orderly wind down of SVB if there are good reasons to take it into administration. A takeover by another bank which protects the depositors would be a good idea in such circumstances.</p>
+</div>
+    </content>
     <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">There are stories in the press suggesting the Chancellor will have some scope to boost spending or cut taxes in the budget. There are also suggestions that boosting spending will take priority. It would be good first to create more room to make changes. We read work on getting more people into jobs is going…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Last week Bank account users at SVB UK could withdraw their money or make their payments from their bank accounts safe in the knowledge that the UK Regulators thought it solvent and well run. It had its banking  licence. Any regulated bank should have access to Bank of England funds in the event  of a…</div>
     </summary>
     <author>
       <name>johnredwood</name>
     </author>
-    <id>http://johnredwoodsdiary.com/?p=34621</id>
-    <published>2023-03-12T05:00:56Z</published>
-    <updated>2023-03-12T05:00:56Z</updated>
+    <id>http://johnredwoodsdiary.com/?p=34623</id>
+    <published>2023-03-13T05:03:35Z</published>
+    <updated>2023-03-13T05:03:35Z</updated>
     <category term="Uncategorized"/>
   </entry>
   <entry>
@@ -2360,10 +2361,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-640e980771589" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-640ec2d73c559" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-640e980771589').iPhorm({"id":5,"uniqueId":"640e980771589","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-640ec2d73c559').iPhorm({"id":5,"uniqueId":"640ec2d73c559","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2438,10 +2439,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-640e980771589" class="iphorm iphorm-form-5" action="/feed/#iphorm-640e980771589" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-640ec2d73c559" class="iphorm iphorm-form-5" action="/feed/#iphorm-640ec2d73c559" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="640e980771589" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="640ec2d73c559" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2450,22 +2451,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_640e980771589" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_640e980771589" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_640ec2d73c559" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_640ec2d73c559" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_640e980771589" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_640e980771589" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_640ec2d73c559" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_640ec2d73c559" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_640e980771589" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_640e980771589" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_640ec2d73c559" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_640ec2d73c559" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2475,7 +2476,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_640e980771589_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_640ec2d73c559_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2494,7 +2495,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-640e980771589 script').remove();
+    jQuery('#iphorm-outer-640ec2d73c559 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
