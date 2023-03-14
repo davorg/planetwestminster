@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-14T06:30:26Z</updated>
+  <updated>2023-03-14T09:29:04Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>oliverrosina@aol.com</name>
+					</author>
+
+		<title type="html"><![CDATA[WELCOME FUNDING BOOST]]></title>
+		<link rel="alternate" type="text/html" href="https://www.angelarayner.co.uk/2023/03/14/welcome-funding-boost/"/>
+
+		<id>https://www.angelarayner.co.uk/?p=478</id>
+		<updated>2023-03-14T09:14:00Z</updated>
+		<published>2023-03-14T09:14:00Z</published>
+		<category scheme="https://www.angelarayner.co.uk" term="NEWS"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="https://www.angelarayner.co.uk/2023/03/14/welcome-funding-boost/"><![CDATA[]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.angelarayner.co.uk/2023/03/14/welcome-funding-boost/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.angelarayner.co.uk/2023/03/14/welcome-funding-boost/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
+  <entry>
+    <title>Positive results for school leaver destinations</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13674/positive-results-for-school-leaver-destinations" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The number of school leavers in Scotland’s Capital going onto study, find a job or enter training has increased from last year and exceeded the national average according to new figures.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13674/positive-results-for-school-leaver-destinations</id>
+    <published>2023-03-14T09:08:00Z</published>
+    <updated>2023-03-14T09:08:00Z</updated>
+  </entry>
   <entry>
     <title>The Small boats Bill</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2023/03/14/the-small-boats-bill/" type="text/html"/>
@@ -32,8 +62,8 @@
     <category term="Uncategorized"/>
   </entry>
   <entry>
-    <title>Dunne asks Defence Secretary for Ajax programme update</title>
-    <link rel="alternate" href="https://www.philipdunne.com/parliament/dunne-asks-defence-secretary-ajax-programme-update" type="text/html"/>
+    <title>Dunne welcomes Ajax programme progress</title>
+    <link rel="alternate" href="https://www.philipdunne.com/parliament/dunne-welcomes-ajax-programme-progress" type="text/html"/>
     <content type="html">  &lt;div data-history-node-id="7370" class="layout layout--onecol"&gt;
     &lt;div class="layout__region layout__region--content"&gt;
       
@@ -42,7 +72,7 @@
       &lt;div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items"&gt;
               &lt;div class="field--item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
           
-            &lt;div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"&gt;&lt;span&gt;Dunne asks Defence Secretary for Ajax programme update&lt;/span&gt;&lt;/div&gt;
+            &lt;div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"&gt;&lt;span&gt;Dunne welcomes Ajax programme progress&lt;/span&gt;&lt;/div&gt;
       
             &lt;div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"&gt;&lt;p&gt;Philip Dunne asks Defence Secretary Ben Wallace for an update on Ajax procurement, where supply chain is being geared up to produce full vehicle set. The Ministry of Defence Secretary of State said the vehicle has passed its user validation trials, and is now on its basic field trials and doing well.&lt;/p&gt;&lt;/div&gt;
       
@@ -52,7 +82,7 @@
             
         &lt;div class="video-relative"&gt;
             
-            &lt;div class="field field--name-field-video field--type-video-embed-field field--label-hidden field--item"&gt;&lt;div class="video-embed-field-provider-youtube video-embed-field-responsive-video form-group"&gt;&lt;iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" class="embed-video" id="embed-video-260" allowscriptaccess="always" src="https://www.youtube-nocookie.com/embed/de0wkiX8F1c?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1"&gt;&lt;/iframe&gt;
+            &lt;div class="field field--name-field-video field--type-video-embed-field field--label-hidden field--item"&gt;&lt;div class="video-embed-field-provider-youtube video-embed-field-responsive-video form-group"&gt;&lt;iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" class="embed-video" id="embed-video-59851" allowscriptaccess="always" src="https://www.youtube-nocookie.com/embed/de0wkiX8F1c?autoplay=1&amp;start=0&amp;rel=0&amp;enablejsapi=1"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/div&gt;
       
@@ -513,16 +543,6 @@ On Wednesday 8th March the National Kidney Federation (NKF) was in Parliament to
     <category term="Wycombe"/>
   </entry>
   <entry>
-    <title>Celebration of work helping Ukrainians in Edinburgh receives Royal visit </title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13673/celebration-of-work-helping-ukrainians-in-edinburgh-receives-royal-visit" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Their Royal Highnesses, The Duke and Duchess of Edinburgh, today (March 10), attended a reception at the City Chambers to recognise and celebrate the city of Edinburgh’s work in supporting Ukrainians.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13673/celebration-of-work-helping-ukrainians-in-edinburgh-receives-royal-visit</id>
-    <published>2023-03-10T17:47:00Z</published>
-    <updated>2023-03-10T17:47:00Z</updated>
-  </entry>
-  <entry>
     <title>Heyford Park Pharmacy Opening Event</title>
     <link rel="alternate" href="https://www.victoriaprentis.com/news/heyford-park-pharmacy-opening-event" type="text/html"/>
     <content type="xhtml">
@@ -586,26 +606,6 @@ I was pleased to join Dr Toby Quartley and George Thomas, partners at the Alches
     <published>2023-03-10T11:56:15Z</published>
     <updated>2023-03-10T11:56:15Z</updated>
   </entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>oliverrosina@aol.com</name>
-					</author>
-
-		<title type="html"><![CDATA[LET GIRLS PLAY!]]></title>
-		<link rel="alternate" type="text/html" href="https://www.angelarayner.co.uk/2023/03/10/let-girls-play/"/>
-
-		<id>https://www.angelarayner.co.uk/?p=477</id>
-		<updated>2023-03-10T09:19:15Z</updated>
-		<published>2023-03-10T09:19:15Z</published>
-		<category scheme="https://www.angelarayner.co.uk" term="NEWS"/>
-		<summary type="html"><![CDATA[]]></summary>
-
-					<content type="html" xml:base="https://www.angelarayner.co.uk/2023/03/10/let-girls-play/"><![CDATA[]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.angelarayner.co.uk/2023/03/10/let-girls-play/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.angelarayner.co.uk/2023/03/10/let-girls-play/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
 			<name>JH</name>
@@ -2347,10 +2347,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64101455da63c" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64103e340c956" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64101455da63c').iPhorm({"id":5,"uniqueId":"64101455da63c","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64103e340c956').iPhorm({"id":5,"uniqueId":"64103e340c956","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2425,10 +2425,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64101455da63c" class="iphorm iphorm-form-5" action="/feed/#iphorm-64101455da63c" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64103e340c956" class="iphorm iphorm-form-5" action="/feed/#iphorm-64103e340c956" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64101455da63c" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64103e340c956" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2437,22 +2437,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64101455da63c" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64101455da63c" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64103e340c956" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64103e340c956" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64101455da63c" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64101455da63c" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64103e340c956" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64103e340c956" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64101455da63c" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64101455da63c" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64103e340c956" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64103e340c956" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2462,7 +2462,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64101455da63c_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64103e340c956_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2481,7 +2481,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64101455da63c script').remove();
+    jQuery('#iphorm-outer-64103e340c956 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
