@@ -7,9 +7,21 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-16T06:32:04Z</updated>
+  <updated>2023-03-16T09:27:49Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>UK Budget gives ‘welcome boost’ to Borders and Scottish economy</title>
+    <link rel="alternate" href="https://www.johnlamont.org/news/uk-budget-gives-welcome-boost-borders-and-scottish-economy" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The UK Government Budget has delivered a “welcome boost” to the economy.
+Approximately £320 million will be delivered to Scotland as a result of the UK Budget decisions from Chancellor Jeremy Hunt.
+On Wednesday, he announced the UK ‘Budget for Growth’ will remove obstacles that stop businesses…</div>
+    </content>
+    <id>https://www.johnlamont.org/news/uk-budget-gives-welcome-boost-borders-and-scottish-economy</id>
+    <published>2023-03-16T12:00:00Z</published>
+    <updated>2023-03-16T12:00:00Z</updated>
+  </entry>
   <entry>
     <title>Science, Innovation and Technology Questions</title>
     <link rel="alternate" href="https://www.georgefreeman.co.uk/parliament/science-innovation-and-technology-questions" type="text/html"/>
@@ -449,6 +461,21 @@
     <category term="Uncategorized"/>
   </entry>
   <entry>
+  <title>Conservative budget shamefully neglects Cumbria’s NHS crisis – MP</title>
+  <link rel="alternate" href="http://timfarron.co.uk/en/article/2023/1440909/conservative-budget-shamefully-neglects-cumbria-s-nhs-crisis-mp"/>
+  <updated>2023-03-15T14:33:00Z</updated>
+  <id>http://timfarron.co.uk/en/article/2023/1440909/conservative-budget-shamefully-neglects-cumbria-s-nhs-crisis-mp</id>
+  <summary type="text">Commenting on today's budget, Cumbrian MP Tim Farron said: "It absolutely beggars belief that the Conservatives' budget had next to nothing in it to address the NHS crisis in Cumbria.
+"Local people are waiting for hours in A&amp;amp;E, weeks to see a GP, months for cancer treatment, and an eternity for mental health care.</summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Commenting on today's budget, Cumbrian MP Tim Farron said: "<em>It absolutely beggars belief that the Conservatives' budget had next to nothing in it to address the NHS crisis in Cumbria.</em></p>
+<p><em>"Local people are waiting for hours in A&amp;E, weeks to see a GP, months for cancer treatment, and an eternity for mental health care.</em></p>
+<p><em>"And what did the Chancellor announce to tackle this disastrous situation? Barely a word, barely a penny.</em></p>
+<p><em>"Meanwhile the Conservatives have once again shown they don't care about our rural communities. There was nothing to support us on the big issues we face whether it's the crisis in farming or on the scandal of sewage being dumped in our lakes and rivers.</em></p>
+<p><em>"Cumbrians are being taken for granted by this Conservative Government."</em></p>
+<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
+  <category term="Article"/>
+</entry>
+  <entry>
     <title>MP Responds to Spring Budget</title>
     <link rel="alternate" href="https://joncruddas.org.uk/mp-responds-spring-budget" type="text/html"/>
     <content type="xhtml">
@@ -466,6 +493,17 @@
     <id>1189 at https://joncruddas.org.uk</id>
     <published>2023-03-15T13:36:00Z</published>
     <updated>2023-03-15T13:36:00Z</updated>
+  </entry>
+  <entry>
+    <title>Budget for Growth 2023</title>
+    <link rel="alternate" href="https://www.victoriaprentis.com/news/budget-growth-2023" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Despite our country facing enormous global challenges, the Chancellor delivered stability in November through his Autumn Statement. In January, the Prime Minister set out his plan to halve inflation, grow the economy and reduce debt.
+We know this plan is working. CPI inflation is now forecast to…</div>
+    </content>
+    <id>https://www.victoriaprentis.com/news/budget-growth-2023</id>
+    <published>2023-03-15T12:00:00Z</published>
+    <updated>2023-03-15T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Weekly Column</title>
@@ -960,17 +998,6 @@ The post <a href="http://karinsmyth.com/2023/03/13/weekly-round-up-10-march-2023
     <category term="Working4Wycombe"/>
     <category term="Wycombe"/>
   </entry>
-  <entry>
-    <title>Heyford Park Pharmacy Opening Event</title>
-    <link rel="alternate" href="https://www.victoriaprentis.com/news/heyford-park-pharmacy-opening-event" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I was delighted to attend the official opening of the new Heyford Park pharmacy yesterday evening.
-I was pleased to join Dr Toby Quartley and George Thomas, partners at the Alchester Medical Group, as well as meet staff working at the pharmacy including pharmacist Manni Chaggar. I also had the…</div>
-    </content>
-    <id>https://www.victoriaprentis.com/news/heyford-park-pharmacy-opening-event</id>
-    <published>2023-03-10T12:00:00Z</published>
-    <updated>2023-03-10T12:00:00Z</updated>
-  </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
 			<name>JH</name>
@@ -1063,18 +1090,6 @@ I was pleased to join Dr Toby Quartley and George Thomas, partners at the Alches
     <published>2023-03-09T16:39:40Z</published>
     <updated>2023-03-09T16:39:40Z</updated>
     <category term="Local Update"/>
-  </entry>
-  <entry>
-    <title>The next First Minister must invest in Borders roads</title>
-    <link rel="alternate" href="https://www.johnlamont.org/news/next-first-minister-must-invest-borders-roads" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Recently, there has been a great reluctance from the SNP Government to invest in improvements to local roads or fund councils properly to fix potholes.
-Good local roads are vital for people’s everyday lives, so they can visit family, get to work and run their businesses.
-That is why Rachael…</div>
-    </content>
-    <id>https://www.johnlamont.org/news/next-first-minister-must-invest-borders-roads</id>
-    <published>2023-03-09T12:00:00Z</published>
-    <updated>2023-03-09T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Graham Stuart MP launches search for Community Champions </title>
@@ -1989,6 +2004,37 @@ I refer to the Sevington…</div>
     <category term="newsletter"/>
   </entry>
   <entry>
+    <title>Berry Bros &amp; Rudd New Warehouse in Andover</title>
+    <link rel="alternate" href="https://kitmalthouse.com/2022/berry-bros-rudd-new-warehouse-in-andover/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=berry-bros-rudd-new-warehouse-in-andover" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. </p>
+
+
+
+<p>While much of their business is selling wine, most of it is helping wine buyers and collectors look after their stock, and the warehouse is where it is all stored. As I was shown round, I marvelled at the famous names on the shelves: Lafitte, Latour, Petrus etc. </p>
+
+
+
+<p>The Warehouse is chilled to 12 degrees throughout, but happily due to solar panels on the roof, will be carbon neutral. </p>
+
+
+
+<p>It’s a great vote of confidence in Andover and in the UK wine industry which I hope will continue to lead the world, with possibly the biggest collection of fine wines on the planet, here in North West Hampshire. </p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. While much of their business is selling wine, most of […]</div>
+    </summary>
+    <author>
+      <name>Kit Malthouse</name>
+    </author>
+    <id>https://kitmalthouse.com/?p=2968</id>
+    <published>2022-11-05T08:26:32Z</published>
+    <updated>2022-11-05T08:26:32Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
+  <entry>
     <title>Dan Jarvis MP: Statement Regarding Sentencing</title>
     <link rel="alternate" href="http://www.danjarvis.org/statement_regarding_sentencing" type="text/html"/>
     <content type="xhtml">
@@ -2366,10 +2412,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6412b7bad4041" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6412e0ee3d85c" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6412b7bad4041').iPhorm({"id":5,"uniqueId":"6412b7bad4041","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6412e0ee3d85c').iPhorm({"id":5,"uniqueId":"6412e0ee3d85c","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2444,10 +2490,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6412b7bad4041" class="iphorm iphorm-form-5" action="/feed/#iphorm-6412b7bad4041" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6412e0ee3d85c" class="iphorm iphorm-form-5" action="/feed/#iphorm-6412e0ee3d85c" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6412b7bad4041" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6412e0ee3d85c" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2456,22 +2502,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6412b7bad4041" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6412b7bad4041" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6412e0ee3d85c" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6412e0ee3d85c" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6412b7bad4041" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6412b7bad4041" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6412e0ee3d85c" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6412e0ee3d85c" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6412b7bad4041" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6412b7bad4041" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6412e0ee3d85c" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6412e0ee3d85c" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2481,7 +2527,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6412b7bad4041_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6412e0ee3d85c_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2500,7 +2546,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6412b7bad4041 script').remove();
+    jQuery('#iphorm-outer-6412e0ee3d85c script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
