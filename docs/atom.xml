@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-23T09:27:25Z</updated>
+  <updated>2023-03-23T12:32:46Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -22,12 +22,55 @@ Prime Minister Rishi Sunak is in North Wales today to announce the creation of t
     <updated>2023-03-23T12:00:00Z</updated>
   </entry>
   <entry>
+    <title>Our Man in Westminster - The Pilgrim’s Hospice </title>
+    <link rel="alternate" href="https://www.damiangreen.co.uk/news/our-man-westminster-pilgrims-hospice" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The Pilgrim’s Hospice in Ashford is one of those quietly important institutions that we are lucky to have in the town. I have been in touch with them recently to support them over the pressures they are facing because of energy costs, so it was timely to make a visit.
+As ever I came away hugely…</div>
+    </content>
+    <id>https://www.damiangreen.co.uk/news/our-man-westminster-pilgrims-hospice</id>
+    <published>2023-03-23T12:00:00Z</published>
+    <updated>2023-03-23T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Extra £1.4 billion for energy efficiency </title>
+    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/extra-ps14-billion-energy-efficiency" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">As of today a further £1.4 billion will be made available across England to make homes more energy efficient - saving as much as £400 on annual energy bills.</div>
+    </content>
+    <id>https://www.brendanclarkesmith.com/news/extra-ps14-billion-energy-efficiency</id>
+    <published>2023-03-23T12:00:00Z</published>
+    <updated>2023-03-23T12:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Tourism Week. Day 7: Wooler</title>
     <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/tourism-week-day-7-wooler" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Welcome to my final post for Tourism Week 2023! Today, I'm excited to tell you about Wooler, a charming market town that perfectly combines the tranquillity of the countryside with the vibrancy of city life. Located on the edge of Northumberland's National Park, Wooler is a paradise for hikers and…</div>
     </content>
     <id>https://www.teamtrevelyan.co.uk/news/tourism-week-day-7-wooler</id>
+    <published>2023-03-23T12:00:00Z</published>
+    <updated>2023-03-23T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Call to meet with Minister to discuss the impact of energy on the tourism industry</title>
+    <link rel="alternate" href="https://www.scottbenton.org.uk/news/call-meet-minister-discuss-impact-energy-tourism-industry" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I asked the Minister whether she'd meet with me to discuss the cost of energy on tourism related industries - particularly those that are energy intensive.
+Many of the major attractions in Blackpool, like the Pleasure Beach and the Illuminations are energy intensive and so are particularly…</div>
+    </content>
+    <id>https://www.scottbenton.org.uk/news/call-meet-minister-discuss-impact-energy-tourism-industry</id>
+    <published>2023-03-23T12:00:00Z</published>
+    <updated>2023-03-23T12:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Anne Marie's Weekly Column</title>
+    <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-194" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Last week was a big week on all fronts. A foreign policy review at the beginning of the week, new legislation to tackle the small boats issue, and of course the Spring Budget delivered by the Chancellor last Wednesday.
+The Integrated Review Refresh 2023, to give it its official name, looks at the…</div>
+    </content>
+    <id>https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-194</id>
     <published>2023-03-23T12:00:00Z</published>
     <updated>2023-03-23T12:00:00Z</updated>
   </entry>
@@ -192,19 +235,6 @@ Prime Minister Rishi Sunak is in North Wales today to announce the creation of t
     <category term="latest"/>
   </entry>
   <entry>
-    <title>Brendan Clarke-Smith MP welcomes £1.4 billion of Conservative Government funding to boost heating efficiency and cut bills by up to £400 in homes across Bassetlaw</title>
-    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-welcomes-ps14-billion-conservative-government-funding-boost-heating" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Brendan Clarke-Smith MP welcomes £1.4 billion of Conservative Government funding to boost heating efficiency and cut bills by up to £400 in homes across Bassetlaw
-Press Release 
-Date: 22/03/2022
-The Conservative Government have announced a £2.5 billion package to boost the efficiency of heating…</div>
-    </content>
-    <id>https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-welcomes-ps14-billion-conservative-government-funding-boost-heating</id>
-    <published>2023-03-22T12:00:00Z</published>
-    <updated>2023-03-22T12:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Green-fingered Graham Stuart Helps Out In Burton Pidsea </title>
     <link rel="alternate" href="https://www.grahamstuart.com/news/green-fingered-graham-stuart-helps-out-burton-pidsea" type="text/html"/>
     <content type="xhtml">
@@ -213,17 +243,6 @@ The Conservative Government have announced a £2.5 billion package to boost the 
 Burton Pidsea in Bloom is a community group created in 2019 to enable villagers to come together to help the environment,…</div>
     </content>
     <id>https://www.grahamstuart.com/news/green-fingered-graham-stuart-helps-out-burton-pidsea</id>
-    <published>2023-03-22T12:00:00Z</published>
-    <updated>2023-03-22T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Scott Benton MP welcomes £1.4 billion of Conservative Government funding to boost heating efficiency and cut bills by up to £400 in homes across Blackpool</title>
-    <link rel="alternate" href="https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-ps14-billion-conservative-government-funding-boost-heating-efficiency" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Conservative Government have announced a £2.5 billion package to boost the efficiency of heating systems across low-income households and cut bills by up to £400.
-The Government-backed Social Housing Decarbonisation Fund and Home Upgrade Grant commits £1.4 billion of funding, matched by an…</div>
-    </content>
-    <id>https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-ps14-billion-conservative-government-funding-boost-heating-efficiency</id>
     <published>2023-03-22T12:00:00Z</published>
     <updated>2023-03-22T12:00:00Z</updated>
   </entry>
@@ -517,6 +536,16 @@ Maria Miller MP…</div>
     <updated>2023-03-21T12:00:00Z</updated>
   </entry>
   <entry>
+    <title>Evennett holds Westminster Hall Debate on Social Mobility</title>
+    <link rel="alternate" href="https://www.bexleyheathandcrayford.com/news/evennett-holds-westminster-hall-debate-social-mobility" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">On March 21, Rt Hon Sir David Evennett, Member of Parliament for Bexleyheath and Crayford, secured a Westminster Hall debate on Social Mobility. During the debate, Sir David stressed that “every individual should have a fair chance of reaching their full potential, and we must therefore ensure that…</div>
+    </content>
+    <id>https://www.bexleyheathandcrayford.com/news/evennett-holds-westminster-hall-debate-social-mobility</id>
+    <published>2023-03-21T12:00:00Z</published>
+    <updated>2023-03-21T12:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Response to the Budget 2023</title>
     <link rel="alternate" href="https://www.jeromemayhew.org.uk/news/response-budget-2023" type="text/html"/>
     <content type="xhtml">
@@ -533,7 +562,7 @@ Maria Miller MP…</div>
       <div xmlns="http://www.w3.org/1999/xhtml"><p>The Coronation of His Majesty The King will take place on Saturday 6th May 2023 and the Ceremony will see His Majesty King Charles III crowned alongside The Queen Consort.</p>
 <p>The Coronation will reflect the monarch’s role today and look towards the future, while being rooted in longstanding traditions and pageantry.</p>
 <p>I am inviting people from across Aldridge-Brownhills to decorate a bunting flag to join a display in my office windows as we celebrate the Coronation and once again come together in national celebration.</p>
-<p>You can download the template <a href="http://wendymorton.co.uk/wp-content/uploads/2023/03/Coronation-Bunting-Worksheet.pdf">here</a> or collect one from the office at 82 Walsall Road, Aldridge, WS9 0JW. Decorated flags should be returned by 1st May 2023 in order to be added to the display ahead of a weekend of celebration taking place across Aldridge-Brownhills, the Country and the Commonwealth.</p>
+<p>You can download the template &lt;&lt;<a href="http://wendymorton.co.uk/wp-content/uploads/2023/03/Coronation-Bunting-Worksheet.pdf"><strong>here</strong></a>&gt;&gt; or collect one from the office at 82 Walsall Road, Aldridge, WS9 0JW. Decorated flags should be returned by 1st May 2023 in order to be added to the display ahead of a weekend of celebration taking place across Aldridge-Brownhills, the Country and the Commonwealth.</p>
 </div>
     </content>
     <summary type="xhtml">
@@ -1237,16 +1266,6 @@ On Wednesday, he announced the UK ‘Budget for Growth’ will remove obstacles 
     <category term="News"/>
   </entry>
   <entry>
-    <title>Anne Marie's Weekly Column</title>
-    <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-193" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The week in Westminster began with legislation that seeks to change the current tuition fees structure for higher education courses, by giving people a lifetime allowance to upskill and retrain. The Lifelong Learning (Higher Education Fee Limits) Bill will provide individuals with a loan…</div>
-    </content>
-    <id>https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-193</id>
-    <published>2023-03-07T12:00:00Z</published>
-    <updated>2023-03-07T12:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Rushanara Ali MP Statement on the 80th Anniversary of the Bethnal Green Tube Disaster</title>
     <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_mp_statement_on_the_80th_anniversary_of_the_bethnal_green_tube_disaster" type="text/html"/>
     <content type="xhtml">
@@ -1262,18 +1281,6 @@ On Wednesday, he announced the UK ‘Budget for Growth’ will remove obstacles 
     <id>http://www.rushanaraali.org/rushanara_ali_mp_statement_on_the_80th_anniversary_of_the_bethnal_green_tube_disaster</id>
     <published>2023-03-06T16:10:00Z</published>
     <updated>2023-03-06T16:10:00Z</updated>
-  </entry>
-  <entry>
-    <title>Association AGM </title>
-    <link rel="alternate" href="https://www.bexleyheathandcrayford.com/news/association-agm" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"> 
-The Association held an AGM on Friday 3 March 2023 at the Bexleyheath Conservative Club. In the Chair was President Mark Brooks and the meeting was well attended and upbeat.
-Chairman, Dave Jeffries gave his report on the past year, Treasurer Marian Pollard presented the accounts and elections…</div>
-    </content>
-    <id>https://www.bexleyheathandcrayford.com/news/association-agm</id>
-    <published>2023-03-03T12:00:00Z</published>
-    <updated>2023-03-03T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Sir Bill Wiggin Statement on Herefordshire Children’s Services Commissioner Report</title>
@@ -1441,17 +1448,6 @@ in touch on 01554 756374 or email &lt;a href="mailto:nia.griffith.mp@parliament.
     <updated>2023-02-09T14:55:55Z</updated>
     <category term="Conor in St Helens"/>
     <category term="News"/>
-  </entry>
-  <entry>
-    <title>Our Man in Westminster - The M20 &amp; Sevington Lorry Park</title>
-    <link rel="alternate" href="https://www.damiangreen.co.uk/news/our-man-westminster-m20-sevington-lorry-park" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I suspect I have written more columns in this space about the M20 and its problems than any other single issue over the years. This one is slightly different, in that it relates to an important area right next to the motorway, which could have a significant effect on it.
-I refer to the Sevington…</div>
-    </content>
-    <id>https://www.damiangreen.co.uk/news/our-man-westminster-m20-sevington-lorry-park</id>
-    <published>2023-02-09T12:00:00Z</published>
-    <updated>2023-02-09T12:00:00Z</updated>
   </entry>
   <entry xmlns:gd="http://schemas.google.com/g/2005">
     <id>tag:blogger.com,1999:blog-211678171554897823.post-7692446702589680409</id>
@@ -2089,10 +2085,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-641c1b53e8f9f" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-641c46be7e5ef" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-641c1b53e8f9f').iPhorm({"id":5,"uniqueId":"641c1b53e8f9f","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-641c46be7e5ef').iPhorm({"id":5,"uniqueId":"641c46be7e5ef","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2167,10 +2163,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-641c1b53e8f9f" class="iphorm iphorm-form-5" action="/feed/#iphorm-641c1b53e8f9f" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-641c46be7e5ef" class="iphorm iphorm-form-5" action="/feed/#iphorm-641c46be7e5ef" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="641c1b53e8f9f" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="641c46be7e5ef" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2179,22 +2175,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_641c1b53e8f9f" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_641c1b53e8f9f" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_641c46be7e5ef" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_641c46be7e5ef" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_641c1b53e8f9f" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_641c1b53e8f9f" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_641c46be7e5ef" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_641c46be7e5ef" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_641c1b53e8f9f" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_641c1b53e8f9f" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_641c46be7e5ef" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_641c46be7e5ef" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2204,7 +2200,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_641c1b53e8f9f_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_641c46be7e5ef_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2223,7 +2219,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-641c1b53e8f9f script').remove();
+    jQuery('#iphorm-outer-641c46be7e5ef script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2260,7 +2256,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
     <published>2019-11-26T11:08:00.000+00:00</published>
     <updated>2019-12-05T13:56:37.357+00:00</updated>
     <title type="text">Compensation package for Waspi women</title>
-    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwLFnJ99Y7UQvf-TMUIucr6jucvYRdBcI2sKVGjqR5dFEeuHnioZP6iIBsnI284WZG_MhXFz7xOGBAGYpxdGQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
+    <content type="html">&lt;a href="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s1600/LC%2BWaspi.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="683" data-original-width="1024" height="213" src="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s320/LC%2BWaspi.jpg" width="320" /&gt;&lt;/a&gt;Labour has pledged compensation packages for millions of women hit by state pension age rises imposed by the Tories.&lt;br /&gt;&lt;br /&gt;Pay-outs of up to £31,000 will be made, with an average payment of £15,000.&lt;br /&gt;&lt;br /&gt;The scheme will be delivered within Labour's first full five year term of government.&lt;br /&gt;&lt;br /&gt;Payments will go to women born in the 1950s who had their state pension age hiked.&lt;br /&gt;&lt;br /&gt;David Cameron's coalition government presided over a change in the law that increased the women's state pension age to 65 in November 2018 - followed by 66 in October 2020.&lt;br /&gt;&lt;br /&gt;Labour will introduce a compensation scheme as rapidly as possible for the 3.7million women hit by the changes, which Cameron's Tory-Lib Dem government imposed in 2011.&lt;br /&gt;&lt;br /&gt;It comes after Boris Johnson u-turned on his pledge to help those affected.&lt;br /&gt;&lt;br /&gt;He dismissed the concerns of a woman who has lost out on her pension, telling her it’s “not possible” to right the huge wrong she and so many others have suffered.&lt;br /&gt;&lt;br /&gt;The next Labour government will compensate women who were unfairly hit by the rise in the state pension age and give them the respect they deserve.&lt;br /&gt;&lt;br /&gt;They were not able to prepare and have had to suffer serious financial consequences as a result.&lt;br /&gt;&lt;br /&gt;We have a historic debt of honour to them.&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxb11BR5bY8iCZmy9VwmHRziku17n-YzwlKh3HKSybnNhxxcp52l7zkmWY9Q1x0n6lElRiQbXFitmRBbuFCfg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="alternate" type="text/html" href="http://www.johnhealey.net/2019/11/compensation-package-for-waspi-women.html" title="Compensation package for Waspi women"/>
