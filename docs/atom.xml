@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-24T00:36:49Z</updated>
+  <updated>2023-03-24T03:27:06Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -1660,6 +1660,37 @@ in touch on 01554 756374 or email &lt;a href="mailto:nia.griffith.mp@parliament.
     <category term="newsletter"/>
   </entry>
   <entry>
+    <title>Berry Bros &amp; Rudd New Warehouse in Andover</title>
+    <link rel="alternate" href="https://kitmalthouse.com/2022/berry-bros-rudd-new-warehouse-in-andover/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=berry-bros-rudd-new-warehouse-in-andover" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. </p>
+
+
+
+<p>While much of their business is selling wine, most of it is helping wine buyers and collectors look after their stock, and the warehouse is where it is all stored. As I was shown round, I marvelled at the famous names on the shelves: Lafitte, Latour, Petrus etc. </p>
+
+
+
+<p>The Warehouse is chilled to 12 degrees throughout, but happily due to solar panels on the roof, will be carbon neutral. </p>
+
+
+
+<p>It’s a great vote of confidence in Andover and in the UK wine industry which I hope will continue to lead the world, with possibly the biggest collection of fine wines on the planet, here in North West Hampshire. </p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. While much of their business is selling wine, most of […]</div>
+    </summary>
+    <author>
+      <name>Kit Malthouse</name>
+    </author>
+    <id>https://kitmalthouse.com/?p=2968</id>
+    <published>2022-11-05T08:26:32Z</published>
+    <updated>2022-11-05T08:26:32Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
+  <entry>
     <title>Dan Jarvis MP: Statement Regarding Sentencing</title>
     <link rel="alternate" href="http://www.danjarvis.org/statement_regarding_sentencing" type="text/html"/>
     <content type="xhtml">
@@ -2037,10 +2068,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-641cf0737683e" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-641d1861a96e9" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-641cf0737683e').iPhorm({"id":5,"uniqueId":"641cf0737683e","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-641d1861a96e9').iPhorm({"id":5,"uniqueId":"641d1861a96e9","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2115,10 +2146,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-641cf0737683e" class="iphorm iphorm-form-5" action="/feed/#iphorm-641cf0737683e" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-641d1861a96e9" class="iphorm iphorm-form-5" action="/feed/#iphorm-641d1861a96e9" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="641cf0737683e" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="641d1861a96e9" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2127,22 +2158,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_641cf0737683e" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_641cf0737683e" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_641d1861a96e9" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_641d1861a96e9" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_641cf0737683e" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_641cf0737683e" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_641d1861a96e9" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_641d1861a96e9" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_641cf0737683e" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_641cf0737683e" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_641d1861a96e9" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_641d1861a96e9" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2152,7 +2183,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_641cf0737683e_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_641d1861a96e9_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2171,7 +2202,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-641cf0737683e script').remove();
+    jQuery('#iphorm-outer-641d1861a96e9 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2219,6 +2250,48 @@ and non-emergency transport between hospitals.&lt;/p&gt;
       <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//3.bp.blogspot.com/-iAzFi22xBOs/XWAJQLrkqKI/AAAAAAAAAPQ/UbE6mNuxdqgcbSCzFyZ1UtoKJWNsRVfDACK4BGAYYCw/s220/healey_john-31.jpg"/>
     </author>
     <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://1.bp.blogspot.com/-9aU0xFXMCAI/Xd0FHDpOMAI/AAAAAAAAASc/Cyv2qZ_ta-MUdsiIaJMTYCk644nOT6-LgCLcBGAsYHQ/s72-c/LC%2BWaspi.jpg" height="72" width="72"/>
+  </entry>
+  <entry>
+    <title>Lisa reselected by Wigan Labour</title>
+    <link rel="alternate" href="http://www.lisanandy.co.uk/news/lisa-reselected-by-wigan-labour/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><figure class="wp-block-image is-resized"><img loading="lazy" src="http://www.lisanandy.co.uk/wp-content/uploads/2019/10/DIVdQViz-2-768x1024.jpg" alt="" class="wp-image-3453" width="388" height="517"/><figcaption>Lisa Nandy MP</figcaption></figure>
+
+
+
+<p>Wigan Constituency Labour Party have reselected Lisa Nandy MP as their candidate for the next General Election.</p>
+
+
+
+<p>At meetings held over the last fortnight, members in all of the branches that make up Wigan Labour Party voted overwhelmingly to reselect Lisa. All affiliated organisations, including Unite the Union, the Communication Workers’ Union, GMB, Unison and Usdaw, also voted to reselect.</p>
+
+
+
+<p>Lisa said:</p>
+
+
+
+<p><strong><em>“I’m grateful to Labour members in Wigan for choosing to reselect me so overwhelmingly. Being the Member of Parliament for Wigan is the privilege of my life, and I couldn’t do it without the members who turn up year in, year out and in all weathers to campaign for the Labour Party. With a General Election looking likely, we will be out once again fighting for every vote and to put an end to the damage inflicted on Wigan by this reckless Conservative government.”</em></strong></p>
+
+
+
+<p>Wigan Constituency Labour Party said:</p>
+
+
+
+<p><strong><em>“We’re delighted to have reselected Lisa Nandy as our candidate for the next General Election. For 10 years Lisa has worked tirelessly to represent Wigan in Parliament, fighting for constituents hit hardest by this Conservative government’s brutal cuts and ensuring that Wigan’s voice is heard on the national stage. The overwhelming level of support Lisa received from local party members is testament to that work. We’re proud to have Lisa as our MP and we’re ready to fight and win the next General Election together.”</em></strong></p><p>The post <a href="http://www.lisanandy.co.uk/news/lisa-reselected-by-wigan-labour/" target="_blank">Lisa reselected by Wigan Labour</a> first appeared on <a href="http://www.lisanandy.co.uk/" target="_blank">Lisa Nandy MP</a>.</p></div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Wigan Constituency Labour Party have reselected Lisa Nandy MP as their candidate for the next General Election. At meetings held over the last fortnight, members in all of the branches that make up Wigan...</p>
+<p>The post <a href="http://www.lisanandy.co.uk/news/lisa-reselected-by-wigan-labour/" target="_blank">Lisa reselected by Wigan Labour</a> first appeared on <a href="http://www.lisanandy.co.uk/" target="_blank">Lisa Nandy MP</a>.</p></div>
+    </summary>
+    <author>
+      <name>Lisa Nandy</name>
+    </author>
+    <id>http://www.lisanandy.co.uk/?p=3452</id>
+    <published>2019-10-18T23:39:35Z</published>
+    <updated>2019-10-18T23:39:35Z</updated>
+    <category term="News"/>
   </entry>
   <entry xmlns:gd="http://schemas.google.com/g/2005">
     <id>tag:blogger.com,1999:blog-198408226569937494.post-3728993723159506617</id>
