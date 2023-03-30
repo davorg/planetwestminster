@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-30T03:27:12Z</updated>
+  <updated>2023-03-30T06:29:54Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>The prime task of Central banks is to support commercial banks</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/03/30/the-prime-task-of-central-banks-is-to-support-commercial-banks/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Keeping inflation to 2% is a crucial role of the Bank of England, ECB and Fed. As events in the USA have just shown, it is however less important that avoiding banking collapse. Since Silicon Valley Bank got into trouble the Fed has made a huge change to its money policy, flipping from ultra tight with plenty of money withdrawal by selling bonds, to a large easing   with $300 bn of loans to commercial banks. It had to make the switch as it is the first duty of a Central Bank to provide cash to commercial banks so they can honour their deposits if a lot of people all want to withdraw at the same time.</p>
+<p>The decision to shift to a much easier money policy in the short term was screened by still continuing with a 25 bp or 0.25% interest rate hike. The Fed wished to reassure some that it is still battling inflation, whilst reassuring others that their deposits are safe. Silicon Valley Bank had got into trouble because the Fed has raised rates so much, losing SVB money on the bonds it held. It is a reminder that shifting money policy to too tough brings different kinds of problems.</p>
+<p>All the Central banks need to review where they are in money tightening and in bringing down inflation. There are always lags – it takes time to get inflation down by raising rates and throttling credit. It is important not to overdo the tightening as that can undermine banks as it  hits the affordability of credit and the value of bank investment holdings in bonds. They will all need to make sure plenty of cash is available to any bank that comes under unwelcome pressure to repay deposits, as that is the way to make sure there is no such run.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Keeping inflation to 2% is a crucial role of the Bank of England, ECB and Fed. As events in the USA have just shown, it is however less important that avoiding banking collapse. Since Silicon Valley Bank got into trouble the Fed has made a huge change to its money policy, flipping from ultra tight…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>https://johnredwoodsdiary.com/?p=34772</id>
+    <published>2023-03-30T04:03:25Z</published>
+    <updated>2023-03-30T04:03:25Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Afghan refugees – who supported our Forces – may be made homeless</title>
     <link rel="alternate" href="https://chionwurahmp.com/2023/03/13406/" type="text/html"/>
@@ -321,26 +341,6 @@ I'm pushing to secure £30m in regeneration funding for Bond Street/Waterloo Rd 
     <category term="featured"/>
     <category term="latest"/>
     <category term="Liaison Committee"/>
-  </entry>
-  <entry>
-    <title>Illegal and legal migration</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/03/29/illegal-and-legal-migration/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The government is currently concentrating on illegal migration with its eye catching and contentious promise by the Prime Minister to stop the boats that bring many of the illegal entrants to the UK. The Opposition parties oppose him strongly, demanding more safe routes for migrants and asylum seekers to come, and easier processes to allow people to enter more rapidly.</p>
-<p>Most Conservatives believe the UK should provide refuge for some people fleeing violence or oppression elsewhere. This should be an offer as part of a wider offer by many richer countries to spread the  responsibility and to provide geographical choice to those seeking a new home. Many of us also believe the UK has been offering too many economic migrants a home and a job here, seeking to perpetuate a model of growing the economy by recruiting plenty of lower paid labour from abroad. Instead we would prefer to see investment in machines, computing, training and higher standards to get more of the work done with fewer better paid people. We want more better paid and high quality jobs for people already living here, backed  by the investment it takes to raise productivity and therefore wages.</p>
-<p>The low pay model is not a great one for the people coming nor for the taxpayers who need to foot much of the bill for so called cheap labour. Paying people too little means state subsidy to provide them with housing, income top ups, health and education provision and a range of infrastructure and other public service provision. Last year we added 500,000 more people to our totals. To ensure they have a decent life that will take a lot of new housing, public sector facilities, roadspace, electricity and water capacity and a range of other capital intensive service provision. The EU some years ago suggested it took Euro 250,000 to provide for a migrant family or individual coming to the EU to provide all the facilities needed.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The government is currently concentrating on illegal migration with its eye catching and contentious promise by the Prime Minister to stop the boats that bring many of the illegal entrants to the UK. The Opposition parties oppose him strongly, demanding more safe routes for migrants and asylum seekers to come, and easier processes to allow…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>https://johnredwoodsdiary.com/?p=34793</id>
-    <published>2023-03-29T04:03:29Z</published>
-    <updated>2023-03-29T04:03:29Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Isles MP calls on new First Minister of Scotland to drop plans for HPMAs</title>
@@ -2105,10 +2105,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64250169092a7" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64252c31a3b44" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64250169092a7').iPhorm({"id":5,"uniqueId":"64250169092a7","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64252c31a3b44').iPhorm({"id":5,"uniqueId":"64252c31a3b44","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2183,10 +2183,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64250169092a7" class="iphorm iphorm-form-5" action="/feed/#iphorm-64250169092a7" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64252c31a3b44" class="iphorm iphorm-form-5" action="/feed/#iphorm-64252c31a3b44" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64250169092a7" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64252c31a3b44" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2195,22 +2195,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64250169092a7" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64250169092a7" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64252c31a3b44" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64252c31a3b44" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64250169092a7" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64250169092a7" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64252c31a3b44" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64252c31a3b44" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64250169092a7" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64250169092a7" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64252c31a3b44" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64252c31a3b44" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2220,7 +2220,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64250169092a7_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64252c31a3b44_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2239,7 +2239,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64250169092a7 script').remove();
+    jQuery('#iphorm-outer-64252c31a3b44 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
