@@ -7,9 +7,19 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-04T12:33:29Z</updated>
+  <updated>2023-04-04T15:27:59Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>New trial Council service is here to listen to you</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13694/new-trial-council-service-is-here-to-listen-to-you" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">A trial community contact project is running in Gorgie Dalry to make it easier for local people to reach the services and support that the Council offers.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13694/new-trial-council-service-is-here-to-listen-to-you</id>
+    <published>2023-04-04T15:37:00+01:00</published>
+    <updated>2023-04-04T15:37:00+01:00</updated>
+  </entry>
   <entry>
     <title>Local MP visits school during their Parliament Week Project</title>
     <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-visits-school-during-their-parliament-week-project" type="text/html"/>
@@ -334,12 +344,14 @@ Our water resources are a vital part of our…</div>
     <category term="Uncategorized"/>
   </entry>
   <entry>
-    <title>Robin hosts funding workshop with the National Lottery Community Fund </title>
-    <link rel="alternate" href="https://www.robin-millar.org.uk/news/robin-hosts-funding-workshop-national-lottery-community-fund" type="text/html"/>
+    <title>Robin launches competition to find Aberconwy’s favourite pubs</title>
+    <link rel="alternate" href="https://www.robin-millar.org.uk/news/robin-launches-competition-find-aberconwys-favourite-pubs" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">On Friday Robin Millar MP welcomed over 30 community groups and volunteers to a funding workshop that he hosted in Conwy with the National Lottery Community Fund. This was an opportunity for community groups from throughout Aberconwy to learn more about what grants the Fund has that could help to…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Picture: Robin with Andrew of Llandudno's Links Hotel
+Aberconwy MP Robin Millar has launched a competition to find Aberconwy’s favourite pubs.
+The competition is open until June 10th and pub goers can vote for their favourite pubs in several categories including ‘Best community supporting pub’ and…</div>
     </content>
-    <id>https://www.robin-millar.org.uk/news/robin-hosts-funding-workshop-national-lottery-community-fund</id>
+    <id>https://www.robin-millar.org.uk/news/robin-launches-competition-find-aberconwys-favourite-pubs</id>
     <published>2023-04-03T13:00:00+01:00</published>
     <updated>2023-04-03T13:00:00+01:00</updated>
   </entry>
@@ -534,16 +546,6 @@ Achieving hyper fast broadband within rural communities in Cumbria has been some
     <category term="Keeping You Informed"/>
     <category term="Other"/>
     <category term="Your community"/>
-  </entry>
-  <entry>
-    <title>Lord Provost pays tribute to Ken Buchanan</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13693/lord-provost-pays-tribute-to-ken-buchanan" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Edinburgh's Lord Provost Robert Aldridge has paid tribute to Ken Buchanan MBE as it is announced today (Saturday 1 April) that he has died aged 77.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13693/lord-provost-pays-tribute-to-ken-buchanan</id>
-    <published>2023-04-01T19:00:00+01:00</published>
-    <updated>2023-04-01T19:00:00+01:00</updated>
   </entry>
   <entry>
 		<author>
@@ -1629,32 +1631,6 @@ As ever I came away hugely…</div>
     <category term="Education"/>
   </entry>
   <entry>
-    <title>December 2022 Newsletter</title>
-    <link rel="alternate" href="http://www.tulipsiddiq.com/december-2022-newsletter/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://mailchi.mp/fe0ab0e4662f/tulip-siddiq-mp-december-2022-enewsletter-5372294"><img loading="lazy" src="http://www.tulipsiddiq.com/wp-content/uploads/2023/01/decnews.png" alt="" class="wp-image-5607" width="291" height="152" srcset="http://www.tulipsiddiq.com/wp-content/uploads/2023/01/decnews.png 1024w, http://www.tulipsiddiq.com/wp-content/uploads/2023/01/decnews-300x157.png 300w, http://www.tulipsiddiq.com/wp-content/uploads/2023/01/decnews-768x402.png 768w, http://www.tulipsiddiq.com/wp-content/uploads/2023/01/decnews-105x55.png 105w, http://www.tulipsiddiq.com/wp-content/uploads/2023/01/decnews-669x350.png 669w, http://www.tulipsiddiq.com/wp-content/uploads/2023/01/decnews-630x330.png 630w" sizes="(max-width: 291px) 100vw, 291px"/></a></figure></div>
-
-
-
-<p class="has-text-align-center"><a href="https://mailchi.mp/fe0ab0e4662f/tulip-siddiq-mp-december-2022-enewsletter-5372294">Click here</a> to view my newsletter for December 2022</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Click here to view my newsletter for December 2022</div>
-    </summary>
-    <author>
-      <name>Tulip Siddiq</name>
-    </author>
-    <id>http://www.tulipsiddiq.com/?p=5605</id>
-    <published>2022-12-31T16:01:04Z</published>
-    <updated>2022-12-31T16:01:04Z</updated>
-    <category term="Causes"/>
-    <category term="2022"/>
-    <category term="December"/>
-    <category term="newsletter"/>
-  </entry>
-  <entry>
     <title>Berry Bros &amp; Rudd New Warehouse in Andover</title>
     <link rel="alternate" href="https://kitmalthouse.com/2022/berry-bros-rudd-new-warehouse-in-andover/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=berry-bros-rudd-new-warehouse-in-andover" type="text/html"/>
     <content type="xhtml">
@@ -2063,10 +2039,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-642c18eba79a2" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-642c41d739931" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-642c18eba79a2').iPhorm({"id":5,"uniqueId":"642c18eba79a2","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-642c41d739931').iPhorm({"id":5,"uniqueId":"642c41d739931","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2141,10 +2117,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-642c18eba79a2" class="iphorm iphorm-form-5" action="/feed/#iphorm-642c18eba79a2" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-642c41d739931" class="iphorm iphorm-form-5" action="/feed/#iphorm-642c41d739931" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="642c18eba79a2" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="642c41d739931" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2153,22 +2129,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_642c18eba79a2" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_642c18eba79a2" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_642c41d739931" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_642c41d739931" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_642c18eba79a2" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_642c18eba79a2" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_642c41d739931" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_642c41d739931" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_642c18eba79a2" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_642c18eba79a2" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_642c41d739931" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_642c41d739931" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2178,7 +2154,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_642c18eba79a2_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_642c41d739931_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2197,7 +2173,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-642c18eba79a2 script').remove();
+    jQuery('#iphorm-outer-642c41d739931 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2257,7 +2233,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw2IZGZToQJW1VvfWmofTmq4tp5YgpAtwGVrKfXwfJUjTuRJIfXz3J297572zmg-0az_MjZugUM1lZULaW_oA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy6VrZKKjpPQOAbeFvMEZtnrRk7dLfwhXBX5J335W-EZP_C729RCPgzbOtxXUiYMfAsYH-NyXSqYKVVDWwmzw' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
