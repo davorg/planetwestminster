@@ -7,9 +7,20 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-05T06:30:24Z</updated>
+  <updated>2023-04-05T09:30:07Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Maria Miller MP backs a cleaner, safer Basingstoke</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/maria-miller-mp-backs-cleaner-safer-basingstoke" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maria Miller welcomes the Prime Minister’s new Anti-Social Behaviour Action Plan for a cleaner, safer Basingstoke – giving the Council and police better ability to crack down on intimidating and unpleasant behaviour in our community.
+Maria said, "anti-social behaviour is unacceptable in our…</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/maria-miller-mp-backs-cleaner-safer-basingstoke</id>
+    <published>2023-04-05T13:00:00+01:00</published>
+    <updated>2023-04-05T13:00:00+01:00</updated>
+  </entry>
   <entry>
     <title>We mourn the loss of a great man, Nigel Lawson</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2023/04/05/we-mourn-the-loss-of-a-great-man-nigel-lawson/" type="text/html"/>
@@ -34,25 +45,14 @@
     <category term="Uncategorized"/>
   </entry>
   <entry>
-    <title>New trial Council service is here to listen to you</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13694/new-trial-council-service-is-here-to-listen-to-you" type="text/html"/>
+    <title>North Bridge reopening to two-way traffic</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13695/north-bridge-reopening-to-two-way-traffic" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A trial community contact project is running in Gorgie Dalry to make it easier for local people to reach the services and support that the Council offers.</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Edinburgh’s North Bridge will soon reopen to two-way traffic after the completion of essential work on its concrete deck, last replaced in the 1930s.</div>
     </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13694/new-trial-council-service-is-here-to-listen-to-you</id>
-    <published>2023-04-04T15:37:00+01:00</published>
-    <updated>2023-04-04T15:37:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Council makes Arts in Basingstoke a priority with multi-million-pound grant </title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/council-makes-arts-basingstoke-priority-multi-million-pound-grant" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Basingstoke and Deane Borough Council have awarded a £2.9m grant to The Anvil and Haymarket, managed by The Anvil Arts charitable trust.
-Maria Miller MP said, “Basingstoke and Deane Council has consistently supported the arts in our community for many years. This new grant will allow upgrades at…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/council-makes-arts-basingstoke-priority-multi-million-pound-grant</id>
-    <published>2023-04-04T13:00:00+01:00</published>
-    <updated>2023-04-04T13:00:00+01:00</updated>
+    <id>https://www.edinburgh.gov.uk/news/article/13695/north-bridge-reopening-to-two-way-traffic</id>
+    <published>2023-04-04T16:41:00+01:00</published>
+    <updated>2023-04-04T16:41:00+01:00</updated>
   </entry>
   <entry>
     <title>Government's New Plan for Water</title>
@@ -63,6 +63,17 @@ As someone who cares deeply about the health and resilience of our precious wate
 Our water resources are a vital part of our…</div>
     </content>
     <id>https://www.teamtrevelyan.co.uk/news/governments-new-plan-water</id>
+    <published>2023-04-04T13:00:00+01:00</published>
+    <updated>2023-04-04T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Greg visits Hartridge Ltd</title>
+    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-visits-hartridge-ltd" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This morning Greg Smith MP visited Hartridge Ltd on Radclive Road - another innovative, manufacturing company in Bucks, with big plans for decarbonisation options, including hydrogen and synthetic fuels.
+Commenting, Greg said, "It was good to discuss the consultation on the zero emission vehicle…</div>
+    </content>
+    <id>https://www.gregsmith.co.uk/news/greg-visits-hartridge-ltd</id>
     <published>2023-04-04T13:00:00+01:00</published>
     <updated>2023-04-04T13:00:00+01:00</updated>
   </entry>
@@ -401,17 +412,6 @@ That is why the Conservative Government has extended their support targeted at t
     <published>2023-04-03T13:00:00+01:00</published>
     <updated>2023-04-03T13:00:00+01:00</updated>
   </entry>
-  <entry>
-    <title>Greg visits Silverstone Technology Cluster businesses</title>
-    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-visits-silverstone-technology-cluster-businesses" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Greg Smith MP has spent the afternoon visiting businesses at MEPC Silverstone Park who are members of Silverstone Technology Cluster, including the Digital Manufacturing Centre, EDM Precision Technologies, Lunaz, Hexagon AB, KWSP, Saietta Electric Drive and Punch Flybrid.
-Commenting, Greg said, "…</div>
-    </content>
-    <id>https://www.gregsmith.co.uk/news/greg-visits-silverstone-technology-cluster-businesses</id>
-    <published>2023-04-03T13:00:00+01:00</published>
-    <updated>2023-04-03T13:00:00+01:00</updated>
-  </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
 			<name>oliverrosina@aol.com</name>
@@ -432,6 +432,26 @@ Commenting, Greg said, "…</div>
 			<link rel="replies" type="application/atom+xml" href="https://www.angelarayner.co.uk/2023/04/03/fresh-start-for-failsworth-foodbank/feed/atom/" thr:count="0"/>
 			<thr:total>0</thr:total>
 			</entry>
+  <entry>
+		<title>Brilliant local employer making a real difference to rail passengers</title>
+		<link rel="alternate" type="text/html" href="https://www.stephen-mcpartland.com/news/2176-brilliant-local-employer-making-a-real-difference-to-rail-passengers"/>
+		<published>2023-04-03T10:20:01+01:00</published>
+		<updated>2023-04-03T10:20:01+01:00</updated>
+		<id>https://www.stephen-mcpartland.com/news/2176-brilliant-local-employer-making-a-real-difference-to-rail-passengers</id>
+		<author>
+			<name>Webmaster</name>
+			<email>kathie@stephen-mcpartland.com</email>
+		</author>
+		<summary type="html">&lt;div class="feed-description"&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Brilliant local employer with a great group of people making a real difference to passengers across the country &lt;a href="https://t.co/FT2t0PSnQW"&gt;https://t.co/FT2t0PSnQW&lt;/a&gt;&lt;/p&gt;&amp;mdash; Rt Hon Stephen McPartland (@SMcPartland) &lt;a href="https://twitter.com/SMcPartland/status/1642850193224740864?ref_src=twsrc%5Etfw"&gt;April 3, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt; 
+&lt;a class="twitter-follow-button" href="https://twitter.com/SMcPartland" data-size="large" data-dnt="true" data-show-count="false"&gt;Follow @SMcPartland&lt;/a&gt;&lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/center&gt;
+&lt;p&gt;Please take a moment to let me know what you think &lt;a href="https://www.stephen-mcpartland.com/90-second-survey" target="_blank" rel="noopener noreferrer" title="90 Second Survey"&gt;here&lt;/a&gt;&lt;br /&gt;Sign up to my &lt;a href="https://www.stephen-mcpartland.com/newsletter" target="_blank" rel="noopener noreferrer" title="Newsletter"&gt;newsletter&lt;/a&gt; and click &lt;a href="https://www.stephen-mcpartland.com/help-stephen" target="_blank" rel="noopener noreferrer" title="Help Stephen"&gt;here&lt;/a&gt; if you would like to help me make a difference&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class="feed-description"&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Brilliant local employer with a great group of people making a real difference to passengers across the country &lt;a href="https://t.co/FT2t0PSnQW"&gt;https://t.co/FT2t0PSnQW&lt;/a&gt;&lt;/p&gt;&amp;mdash; Rt Hon Stephen McPartland (@SMcPartland) &lt;a href="https://twitter.com/SMcPartland/status/1642850193224740864?ref_src=twsrc%5Etfw"&gt;April 3, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt; 
+&lt;a class="twitter-follow-button" href="https://twitter.com/SMcPartland" data-size="large" data-dnt="true" data-show-count="false"&gt;Follow @SMcPartland&lt;/a&gt;&lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/center&gt;
+&lt;p&gt;Please take a moment to let me know what you think &lt;a href="https://www.stephen-mcpartland.com/90-second-survey" target="_blank" rel="noopener noreferrer" title="90 Second Survey"&gt;here&lt;/a&gt;&lt;br /&gt;Sign up to my &lt;a href="https://www.stephen-mcpartland.com/newsletter" target="_blank" rel="noopener noreferrer" title="Newsletter"&gt;newsletter&lt;/a&gt; and click &lt;a href="https://www.stephen-mcpartland.com/help-stephen" target="_blank" rel="noopener noreferrer" title="Help Stephen"&gt;here&lt;/a&gt; if you would like to help me make a difference&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured"/>
+		<category term="Local News"/>
+		<category term="Local News"/>
+	</entry>
   <entry>
   <title>WESTMORLAND MP BACKS B4RN BID TO CONNECT EDEN COMMUNITIES</title>
   <link rel="alternate" href="http://timfarron.co.uk/en/article/2023/1441324/westmorland-mp-backs-b4rn-bid-to-connect-eden-communities"/>
@@ -955,26 +975,6 @@ The Minister reassured us that the Department for Education (DfE)…</div>
     <published>2023-03-28T13:00:00+01:00</published>
     <updated>2023-03-28T13:00:00+01:00</updated>
   </entry>
-  <entry>
-		<title>Fascinating evidence session on UK Resilience</title>
-		<link rel="alternate" type="text/html" href="https://www.stephen-mcpartland.com/news/2175-fascinating-evidence-session-on-uk-resilience"/>
-		<published>2023-03-27T22:13:41+01:00</published>
-		<updated>2023-03-27T22:13:41+01:00</updated>
-		<id>https://www.stephen-mcpartland.com/news/2175-fascinating-evidence-session-on-uk-resilience</id>
-		<author>
-			<name>Webmaster</name>
-			<email>kathie@stephen-mcpartland.com</email>
-		</author>
-		<summary type="html">&lt;div class="feed-description"&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Fascinating evidence session on UK Resilience as part of our inquiry in &lt;a href="https://twitter.com/JointCtteNSS?ref_src=twsrc%5Etfw"&gt;@JointCtteNSS&lt;/a&gt; on the resilience committee within the Integrated Review Refresh. Hugely important we have an approach that protects people, public services, businesses, property &amp;amp; academia.&lt;/p&gt;&amp;mdash; Rt Hon Stephen McPartland (@SMcPartland) &lt;a href="https://twitter.com/SMcPartland/status/1640420628032307204?ref_src=twsrc%5Etfw"&gt;March 27, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt; 
-&lt;a class="twitter-follow-button" href="https://twitter.com/SMcPartland" data-size="large" data-dnt="true" data-show-count="false"&gt;Follow @SMcPartland&lt;/a&gt;&lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/center&gt;
-&lt;p&gt;Please take a moment to let me know what you think &lt;a href="https://www.stephen-mcpartland.com/90-second-survey" target="_blank" rel="noopener noreferrer" title="90 Second Survey"&gt;here&lt;/a&gt;&lt;br /&gt;Sign up to my &lt;a href="https://www.stephen-mcpartland.com/newsletter" target="_blank" rel="noopener noreferrer" title="Newsletter"&gt;newsletter&lt;/a&gt; and click &lt;a href="https://www.stephen-mcpartland.com/help-stephen" target="_blank" rel="noopener noreferrer" title="Help Stephen"&gt;here&lt;/a&gt; if you would like to help me make a difference&lt;/p&gt;&lt;/div&gt;</summary>
-		<content type="html">&lt;div class="feed-description"&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Fascinating evidence session on UK Resilience as part of our inquiry in &lt;a href="https://twitter.com/JointCtteNSS?ref_src=twsrc%5Etfw"&gt;@JointCtteNSS&lt;/a&gt; on the resilience committee within the Integrated Review Refresh. Hugely important we have an approach that protects people, public services, businesses, property &amp;amp; academia.&lt;/p&gt;&amp;mdash; Rt Hon Stephen McPartland (@SMcPartland) &lt;a href="https://twitter.com/SMcPartland/status/1640420628032307204?ref_src=twsrc%5Etfw"&gt;March 27, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt; 
-&lt;a class="twitter-follow-button" href="https://twitter.com/SMcPartland" data-size="large" data-dnt="true" data-show-count="false"&gt;Follow @SMcPartland&lt;/a&gt;&lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/center&gt;
-&lt;p&gt;Please take a moment to let me know what you think &lt;a href="https://www.stephen-mcpartland.com/90-second-survey" target="_blank" rel="noopener noreferrer" title="90 Second Survey"&gt;here&lt;/a&gt;&lt;br /&gt;Sign up to my &lt;a href="https://www.stephen-mcpartland.com/newsletter" target="_blank" rel="noopener noreferrer" title="Newsletter"&gt;newsletter&lt;/a&gt; and click &lt;a href="https://www.stephen-mcpartland.com/help-stephen" target="_blank" rel="noopener noreferrer" title="Help Stephen"&gt;here&lt;/a&gt; if you would like to help me make a difference&lt;/p&gt;&lt;/div&gt;</content>
-		<category term="Featured"/>
-		<category term="Local News"/>
-		<category term="Local News"/>
-	</entry>
   <entry>
     <title>Inverness BID Secures Local Business Support for Another 5 Years, Promoting City Growth and Prosperity</title>
     <link rel="alternate" href="https://www.drewhendrymp.scot/inverness-bid-secures-support/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inverness-bid-secures-support" type="text/html"/>
@@ -1709,58 +1709,6 @@ As ever I came away hugely…</div>
 		
 			</entry>
   <entry>
-    <title>Keuntungan Saat Memainkan Situs Judi Slot Online</title>
-    <link rel="alternate" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/" type="text/html"/>
-    <content type="html">&lt;div class="pbs-main-wrapper"&gt;&lt;p&gt;&lt;a href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/"&gt;Keuntungan Saat Memainkan Situs Judi Slot Online&lt;/a&gt; &amp;#8211; Internet memiliki dampak luar biasa pada berbagai industri meskipun mungkin industri perjudian yang paling banyak mengalami perubahan. Perjudian online yang sederhana, dengan cepat menjadi industri multi-miliar dolar.&lt;/p&gt;
-&lt;p&gt;Ada sejumlah situs judi online yang menyediakan layanan hiburan dan perjudian kepada pengguna dari setiap bagian dunia. Di sini kita melihat manfaat utama yang bisa Anda dapatkan dari perjudian online.&lt;/p&gt;
-&lt;p&gt;Mari kita ulas bersama tentang keuntungan yang akan di dapatkan saat memainkan situs judi slot online ini yaitu;&lt;/p&gt;
-&lt;h2&gt;Apa Saja Keuntungan Saat Memainkan Situs Judi Slot Online?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Kenyamanan&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Faktor utama dalam pertumbuhan industri perjudian online adalah kenyamanan. Anda dapat memainkan game favorit anda kapan saja dan dari mana saja. akan tetapi masih banyak orang lebih suka bermain dari kenyamanan rumah mereka di mana mereka merasa paling santai.&lt;/p&gt;
-&lt;p&gt;Smartphone dan laptop memiliki dampak yang signifikan juga. Bahkan ada penelitian yang dilakukan tentang kapan pengguna paling suka berjudi online. Hasilnya tampaknya mengarah ke waktu sela seperti saat bepergian, menunggu teman, atau membuat janji.  dan juga meningkatkan popularitas karena banyak penjudi yang rajin bermain game saat istirahat di kantor.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Semua game di bawah satu atap&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Meskipun kasino darat memiliki katalog permainan yang cukup luas, tidak ada yang mengalahkan variasi dan jumlah pilihan yang tersedia di kasino online. Pengguna bahkan dapat memanfaatkan tren teknologi terbaru dan berjudi di permainan dealer langsung.&lt;/p&gt;
-&lt;p&gt;Slot Online khas Inggris akan menawarkan hal itu dan jika Anda ingin pengalaman yang sepenuhnya mendalam, kami pasti akan merekomendasikan Anda untuk memeriksanya.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Pengguna dengan temperamen dan preferensi yang berbeda dapat berharap untuk menemukan sesuatu atau yang lain yang sesuai dengan gaya mereka. Sebagian katalog terdiri dari judul slot termasuk slot 3-gulungan dan 5-gulungan, dan pengguna tidak perlu khawatir kehabisan permainan untuk dicoba.&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Tawaran Promosi&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Saat Anda mengisi ulang, Anda pasti akan mendapatkan hadiah dan uang ekstra untuk dimainkan dalam hal bonus. Semakin banyak judul game yang Anda ingin mainkan, semakin banyak poin yang terakumulasi yang pada akhirnya mengarah pada lebih banyak hadiah dan peningkatan dalam uang mereka.&lt;/p&gt;
-&lt;p&gt;Penawaran lain juga tersedia di mana para pemain dapat mulai bermain tanpa harus menyetor satu sen pun.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Opsi Perbankan&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Opsi perbankan yang digunakan platform kasino online semuanya benar-benar aman dan memungkinkan seseorang untuk mendanai akunnya dengan mudah. Ada berbagai metode yang dapat dilakukan dan pengguna dapat memilih metode yang paling cocok untuk mereka. Bahkan banyak yang memberikan penawaran tambahan saat menggunakan layanan ini.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Dapatkan Poin Hadiah&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Pada setiap taruhan permainan meja atau mesin slot memungkinkan pengguna untuk mengumpulkan poin hadiah. Ini tercantum dalam akun pemain dan dapat tertukar dengan permainan, hadiah, atau manfaat lainnya.&lt;/p&gt;
-&lt;p&gt;Meskipun kasino tradisional juga memberikan poin hadiah, mereka biasanya membutuhkan waktu lebih lama untuk bertambah dengan platform online.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Pilih taruhan yang Anda inginkan&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Platform kasino online memberi Anda kebebasan untuk bermain di level mana pun yang Anda inginkan. Di sisi lain, rumah kasino tradisional memiliki batasan ketat pada tingkat di mana pengguna dapat bermain terutama karena mereka harus mempertahankan pendirian mereka.&lt;/p&gt;
-&lt;p&gt;Di situs kasino online, seseorang dapat memulai dengan bermain secara gratis atau dengan taruhan minimum. Ini memungkinkan seseorang kesempatan untuk mengambilnya selangkah demi selangkah dan meningkatkannya secara progresif saat seseorang menjadi lebih nyaman, atau mendapatkan kemenangan beruntun.&lt;/p&gt;
-&lt;p&gt;Baca artikel lainnya di: &lt;a href="http://www.chrisleslie.org/link-situs-judi-bola-terpercaya-alternatif-solusi-paling-tepat-bermain/"&gt;Link Situs Judi Bola Terpercaya Alternatif, Solusi Paling Tepat Bermain&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/"&gt;Keuntungan Saat Memainkan Situs Judi Slot Online&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://www.chrisleslie.org"&gt;Chrisleslie&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Keuntungan Saat Memainkan Situs Judi Slot Online – Internet memiliki dampak luar biasa pada berbagai industri meskipun mungkin industri perjudian yang paling banyak mengalami perubahan. Perjudian online yang sederhana, dengan cepat menjadi industri multi-miliar dolar. Ada sejumlah situs judi online yang menyediakan layanan hiburan dan perjudian kepada pengguna dari setiap bagian dunia. Di sini kita […]</p>
-<p>The post <a rel="nofollow" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/">Keuntungan Saat Memainkan Situs Judi Slot Online</a> appeared first on <a rel="nofollow" href="http://www.chrisleslie.org">Chrisleslie</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Daniel Bennett</name>
-    </author>
-    <id>http://www.chrisleslie.org/?p=36</id>
-    <published>2022-03-07T09:19:25Z</published>
-    <updated>2022-03-07T09:19:25Z</updated>
-    <category term="Slot Online"/>
-  </entry>
-  <entry>
     <title>Backbench Business Committee</title>
     <link rel="alternate" href="https://www.ianmearns.org.uk/2022/01/28/backbench-business-committee/" type="text/html"/>
     <content type="xhtml">
@@ -2054,10 +2002,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-642d154c2784a" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-642d3f7804aca" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-642d154c2784a').iPhorm({"id":5,"uniqueId":"642d154c2784a","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-642d3f7804aca').iPhorm({"id":5,"uniqueId":"642d3f7804aca","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2132,10 +2080,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-642d154c2784a" class="iphorm iphorm-form-5" action="/feed/#iphorm-642d154c2784a" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-642d3f7804aca" class="iphorm iphorm-form-5" action="/feed/#iphorm-642d3f7804aca" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="642d154c2784a" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="642d3f7804aca" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2144,22 +2092,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_642d154c2784a" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_642d154c2784a" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_642d3f7804aca" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_642d3f7804aca" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_642d154c2784a" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_642d154c2784a" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_642d3f7804aca" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_642d3f7804aca" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_642d154c2784a" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_642d154c2784a" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_642d3f7804aca" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_642d3f7804aca" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2169,7 +2117,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_642d154c2784a_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_642d3f7804aca_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2188,7 +2136,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-642d154c2784a script').remove();
+    jQuery('#iphorm-outer-642d3f7804aca script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2248,7 +2196,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy6VrZKKjpPQOAbeFvMEZtnrRk7dLfwhXBX5J335W-EZP_C729RCPgzbOtxXUiYMfAsYH-NyXSqYKVVDWwmzw' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw2IZGZToQJW1VvfWmofTmq4tp5YgpAtwGVrKfXwfJUjTuRJIfXz3J297572zmg-0az_MjZugUM1lZULaW_oA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
@@ -2308,9 +2256,7 @@ We have a historic debt of honour to them.&lt;br /&gt;
     <published>2018-12-03T11:02:00.004+00:00</published>
     <updated>2018-12-03T11:02:53.843+00:00</updated>
     <title type="text"/>
-    <content type="html">&lt;h2&gt;
-&lt;b&gt;This website is discontinued. Please visit my new website: &lt;a href="http://stephenmetcalfe.org.uk/"&gt;StephenMetcalfe.org.uk&lt;/a&gt;&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
-</content>
+    <content type="html">&lt;h2&gt;&lt;b&gt;This website is discontinued. Please visit my new website: &lt;a href="http://stephenmetcalfe.org.uk/"&gt;StephenMetcalfe.org.uk&lt;/a&gt;&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/198408226569937494/posts/default/3728993723159506617"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/198408226569937494/posts/default/3728993723159506617"/>
     <link rel="alternate" type="text/html" href="http://stephenmetcalfe.blogspot.com/2018/12/this-website-is-discontinued.html" title=""/>
