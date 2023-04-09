@@ -7,29 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-09T03:25:45Z</updated>
+  <updated>2023-04-09T06:28:46Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
-    <title>Wokingham surveys</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/04/08/wokingham-surveys/" type="text/html"/>
-    <content type="html">&lt;p&gt;I have been reading through the survey returns we have been getting from local residents. I have been particularly interested in the question about what change people would most like to see to improve our area.&lt;/p&gt;
-&lt;p&gt;The winner was to build fewer new homes. I agree and have been pressing the Council to produce a new local plan with lower development rates, and have worked with other MPs to persuade the government to allow greater local determination of building rates going forward if there is a  new local plan in place.&lt;/p&gt;
-&lt;p&gt;In second place was the wish to see more police on the streets. This was coupled with some who wanted a police station in central Wokingham again. The government has supported Thames Valley Police in recruiting and training more officers, which we want to see reflected in Wokingham patrols.&lt;/p&gt;
-&lt;p&gt;In third place was unhappiness about what were seen as dangerous electric scooters and bicycles. There was considerable opposition to cycle lanes and some wish to see electric scooters banned altogether. If you added the comments on cycles and bikes to the comments on the wish to see better roads and fewer potholes that became a most important issue.&lt;/p&gt;
-&lt;p&gt;Several opposed the ending of weekly waste collection, wanted more surgery capacity to cope with more homes and people, and some wanted free parking for shoppers. No-one wrote in for higher parking charges, a worse refuse service or restrictions on  getting to the town centre and parking. The Council should take note of these views.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</content>
+    <title>Blocking the roads</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/04/09/blocking-the-roads/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Each time I use my car to get to work or to visit places in my constituency to keep in touch I encounter some new obstacle to getting around. Each journey poses its own mixture of traffic jams, temporary lights, closed roads, restricted carriageways, narrowed lanes, reduced lanes and new speed restrictions.</p>
+<p>Some of the disruption is the result of the Uk madness of putting most cables, pipes and wires under tarmac roads then digging them up every time you need access for repair and improvement. The utilities and Ministers I have talked to over the years about why not place new or replacement cables and pipes in accessible conduits, preferably under pavements to avoid digging up main roads have always agreed but failed to implement. Management of road closures to allow access to existing pipes and cables is often poor with much wasted time with the road closed but  no work underway.</p>
+<p>Some of it is Councils wanting to force people out of their cars and vans. Councils who claim to have  no cash to pay for decent social services or to maintain a good refuse service have bundles of banknotes to change kerbs, pavements, install more traffic lights, paint roads and festoon them with new signs and surveillance cameras. Many Councils take a sadistic delight in making the lives of the motorist, the van driver and goods delivery driver almost impossible.</p>
+<p>Some of it is pressure of traffic on the diminishing number of roads that survive. We invite in hundreds of thousands additional people each year but fail to put in extra roadspace for theirs cars. In fast growing areas like Wokingham the Conservative Council did put in some important new roads and by passes, but the Lib Dem led Council is now busy narrowing or closing roads to make life difficult.</p>
+<p>This is a major impediment to productivity and business success. Those running businesses to help us at home book fewer appointments to allow for the delays on the roads. They need to add to the charges the costs of Congestion and low emissions zones, car parking charges and the extra fuel used in traffic jams. The London Mayor’s widened ULEZ zone is very unpopular, seeking to stop people with older vehicles and lower incomes from using their cars.</p>
+</div>
+    </content>
     <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I have been reading through the survey returns we have been getting from local residents. I have been particularly interested in the question about what change people would most like to see to improve our area. The winner was to build fewer new homes. I agree and have been pressing the Council to produce a…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Each time I use my car to get to work or to visit places in my constituency to keep in touch I encounter some new obstacle to getting around. Each journey poses its own mixture of traffic jams, temporary lights, closed roads, restricted carriageways, narrowed lanes, reduced lanes and new speed restrictions. Some of the…</div>
     </summary>
     <author>
       <name>johnredwood</name>
     </author>
-    <id>https://johnredwoodsdiary.com/?p=34867</id>
-    <published>2023-04-08T13:42:11Z</published>
-    <updated>2023-04-08T13:42:11Z</updated>
-    <category term="Wokingham and West Berkshire Issues"/>
+    <id>http://johnredwoodsdiary.com/?p=34843</id>
+    <published>2023-04-09T04:03:57Z</published>
+    <updated>2023-04-09T04:03:57Z</updated>
+    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>New Hike and Bike Hub is a great addition to the community</title>
@@ -2386,10 +2387,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-643230127929b" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64325ae3864c6" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-643230127929b').iPhorm({"id":5,"uniqueId":"643230127929b","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64325ae3864c6').iPhorm({"id":5,"uniqueId":"64325ae3864c6","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2464,10 +2465,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-643230127929b" class="iphorm iphorm-form-5" action="/feed/#iphorm-643230127929b" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64325ae3864c6" class="iphorm iphorm-form-5" action="/feed/#iphorm-64325ae3864c6" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="643230127929b" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64325ae3864c6" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2476,22 +2477,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_643230127929b" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_643230127929b" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64325ae3864c6" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64325ae3864c6" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_643230127929b" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_643230127929b" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64325ae3864c6" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64325ae3864c6" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_643230127929b" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_643230127929b" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64325ae3864c6" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64325ae3864c6" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2501,7 +2502,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_643230127929b_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64325ae3864c6_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2520,7 +2521,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-643230127929b script').remove();
+    jQuery('#iphorm-outer-64325ae3864c6 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2580,7 +2581,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxOuwlKkjdVL1x2Qjm1wX200liqSIiAa2HoF9doa3xCW0NFEWqJKMkqdo1_tfEVDY7WVOCzv2iWEHF3TN9Seg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxRuCqToPiE9i8qp7zDtDm5fCUkjKWYP4g7toVi0kVZqBFCDQlouk9i_2-iCJcO1sTMw0TJaVtPdEtefaOjbg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
