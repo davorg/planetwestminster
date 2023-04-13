@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-13T06:29:03Z</updated>
+  <updated>2023-04-13T09:29:10Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -20,6 +20,35 @@ This increase is a the biggest ever cash increase in the state pension and will�
     <id>https://www.robin-millar.org.uk/news/robin-welcomes-news-14525-pensioners-aberconwy-will-benefit-biggest-ever-increase-basic-state</id>
     <published>2023-04-13T13:00:00+01:00</published>
     <updated>2023-04-13T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Bob Stewart Joins Councillors In Call for New Police Vehicle for Hayes, Keston and West Wickham</title>
+    <link rel="alternate" href="https://www.bobstewart.org.uk/news/bob-stewart-joins-councillors-call-new-police-vehicle-hayes-keston-and-west-wickham" type="text/html"/>
+    <content type="text">Member of Parliament for Beckenham &amp; West Wickham, Bob Stewart, has joined local Councillors in petitioning the Deputy Mayor of London (Police &amp; Crime) to fund a new Police vehicle for the Safer Neighbourhood Teams (SNTs) in the Wards of Hayes &amp; Coney and West Wickham Wards to use…</content>
+    <id>https://www.bobstewart.org.uk/news/bob-stewart-joins-councillors-call-new-police-vehicle-hayes-keston-and-west-wickham</id>
+    <published>2023-04-13T13:00:00+01:00</published>
+    <updated>2023-04-13T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Wetherspoons Visit to Meet the local Team – Avion, Aldridge</title>
+    <link rel="alternate" href="http://wendymorton.co.uk/wetherspoons-visit-to-meet-the-local-team-avion-aldridge/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Pubs are a vital part of our local Village Centres and High Streets. I am well aware that our pubs shouldered a huge burden throughout the Covid-19 pandemic and measures through the grant programme and the furlough scheme were designed to help these businesses.</p>
+<p>On a recent visit to the Avion in the centre of Aldridge Village I was able to hear first-hand the new pressures facing the licensing sector.</p>
+<p>It was good to meet the Duty Manager Adam Foxall and representatives from Wetherspoons and hear about how the business is continuing to operate and the wider outreach work which they are doing in the Aldridge community.</p>
+<p>Many Thanks to Adam and the team for hosting this visit.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Pubs are a vital part of our local Village Centres and High Streets. I am well aware that our pubs shouldered a huge burden throughout the Covid-19 pandemic and measures […]</div>
+    </summary>
+    <author>
+      <name>Wendy Morton MP</name>
+    </author>
+    <id>http://wendymorton.co.uk/?p=4626</id>
+    <published>2023-04-13T08:05:19Z</published>
+    <updated>2023-04-13T08:05:19Z</updated>
+    <category term="News"/>
   </entry>
   <entry>
     <title>What the PM and President should have said in Ulster</title>
@@ -205,27 +234,6 @@ Young people matter and I was very pleased therefore to meet the Teignbridge You
     <published>2023-04-12T10:17:28Z</published>
     <updated>2023-04-12T10:17:28Z</updated>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>Shelfield &amp; High Heath Spring Clean</title>
-    <link rel="alternate" href="http://wendymorton.co.uk/shelfield-high-heath-spring-clean/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>With Parliament in recess, it was a good opportunity to join Councillor Lorna Rattigan and dedicated volunteers at their litter pick this week across Shelfield and High Heath.<br/>
-The Community Hub at High Heath and local residents do a great job of helping the local community on a number of fronts and I was also pleased to hear that plans are in the pipeline for the forthcoming Coronation celebrations.<br/>
-I look forward to seeing ‘H’ and Jodie everyone again very soon.<br/>
-Lorna and I then continued our spring clean in Shelfield.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">With Parliament in recess, it was a good opportunity to join Councillor Lorna Rattigan and dedicated volunteers at their litter pick this week across Shelfield and High Heath. The Community […]</div>
-    </summary>
-    <author>
-      <name>Wendy Morton MP</name>
-    </author>
-    <id>http://wendymorton.co.uk/?p=4623</id>
-    <published>2023-04-12T09:02:47Z</published>
-    <updated>2023-04-12T09:02:47Z</updated>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Community groups making a difference – my weekly article for the Tameside Reporter</title>
@@ -1680,16 +1688,6 @@ Northern Powergrid have informed Graham that, on 21st March, there was a permane
     </author>
   </entry>
   <entry>
-    <title>Bob Stewart Calls for Immediate Reinstatement of Cannon Street services to prevent future London Bridge Chaos</title>
-    <link rel="alternate" href="https://www.bobstewart.org.uk/news/bob-stewart-calls-immediate-reinstatement-cannon-street-services-prevent-future-london-bridge" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Member of Parliament for the Beckenham constituency, Bob Stewart, has written to both the Managing Director of Southeastern Railways and the Secretary of State for Transport to call for the immediate reinstatement of the Cannon Street services from Hayes, West Wickham, Eden Park, Elmers End, Clock…</div>
-    </content>
-    <id>https://www.bobstewart.org.uk/news/bob-stewart-calls-immediate-reinstatement-cannon-street-services-prevent-future-london-bridge</id>
-    <published>2023-01-31T12:00:00Z</published>
-    <updated>2023-01-31T12:00:00Z</updated>
-  </entry>
-  <entry>
 		<author>
 			<name>Stockton North Labour Team</name>
 					</author>
@@ -2234,10 +2232,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6437a10584b40" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6437cb336895c" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6437a10584b40').iPhorm({"id":5,"uniqueId":"6437a10584b40","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6437cb336895c').iPhorm({"id":5,"uniqueId":"6437cb336895c","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2312,10 +2310,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6437a10584b40" class="iphorm iphorm-form-5" action="/feed/#iphorm-6437a10584b40" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6437cb336895c" class="iphorm iphorm-form-5" action="/feed/#iphorm-6437cb336895c" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6437a10584b40" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6437cb336895c" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2324,22 +2322,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6437a10584b40" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6437a10584b40" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6437cb336895c" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6437cb336895c" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6437a10584b40" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6437a10584b40" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6437cb336895c" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6437cb336895c" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6437a10584b40" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6437a10584b40" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6437cb336895c" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6437cb336895c" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2349,7 +2347,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6437a10584b40_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6437cb336895c_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2368,7 +2366,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6437a10584b40 script').remove();
+    jQuery('#iphorm-outer-6437cb336895c script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2428,7 +2426,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyB8N8YyEU45yrlm3Sh4p0FFM_7SWSqY-aH28y83i3ko03c8gNFaSy_Zcq9q-lNaOnmhgWNo9tNsy4UDsYqZA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzlWy886jDiuABb6_LfghWfuDeBsBYqQscVwqkwSuTknHdAzu1TSoltbbByM8UREY5Eov0lsOKWpgBpQD-V7A' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
