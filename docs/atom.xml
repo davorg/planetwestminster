@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-14T03:28:08Z</updated>
+  <updated>2023-04-14T06:30:54Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>The BBC is highly selective with figures</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/04/14/the-bbc-is-highly-selective-with-figures/" type="text/html"/>
+    <content type="html">&lt;p&gt;The IMF this week released a table of growth rates in GDP for the main economies of the world. It contained three years. The actual figures for 2022 and two forecast years, 2023 and 2024. The forecasts were changed from the previous forecasts for the same years, as they regularly do.&lt;/p&gt;
+&lt;p&gt;The BBC spent the day following the release running with the story that the UK is the poorest performing major economy according to the IMF. This was based on the IMF GDP forecasts for just 2023. It was usually presented as fact or news, rather than as one of many forecasts for the upcoming year which might or might not be right. So called experts were asked to comment on why we are the worst performing economy, not on the quality of the forecasts or why the forecasters thought that could happen. They were sometimes expressly asked if that was the result of Brexit.&lt;/p&gt;
+&lt;p&gt;The BBC could have led with the story that the IMF confirmed that the UK was the fastest growing economy in 2022 on the official figures, the only fact in the release. The UK&amp;#8217;s growth rate of 4% compared with China 3%, USA 2.1%, Germany 1.8%, France 2.6% and Japan 1.1%. No expert was dragged on to be asked if that outperformance  &amp;#8220;was due to Brexit&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;They could have provided a more balanced account by saying the IMF&amp;#8217;s 3 year figures combining actuals and estimates show the UK ahead of France, Germany and Japan but behind the USA and Italy. They could have asked experts to comment on how we could could be even closer to  the US rate of growth and less like the German one.&lt;/p&gt;
+&lt;p&gt;The fact they did not choose to tells us the state of BBC economic commentary remains poor.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The IMF this week released a table of growth rates in GDP for the main economies of the world. It contained three years. The actual figures for 2022 and two forecast years, 2023 and 2024. The forecasts were changed from the previous forecasts for the same years, as they regularly do. The BBC spent the…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>https://johnredwoodsdiary.com/?p=34893</id>
+    <published>2023-04-14T04:06:09Z</published>
+    <updated>2023-04-14T04:06:09Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
 			<name>JH</name>
@@ -207,27 +228,6 @@ This increase is the biggest…</div>
     <published>2023-04-13T08:05:19Z</published>
     <updated>2023-04-13T08:05:19Z</updated>
     <category term="News"/>
-  </entry>
-  <entry>
-    <title>What the PM and President should have said in Ulster</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/04/13/what-the-pm-and-president-should-have-said-in-ulster/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>During his brief  morning stop in Northern Ireland on the way to his three day stay in the Republic of Ireland the President could have held out a hand of friendship to the Unionist community. He could have  said on reflection he had been hasty to encourage an EU/UK deal, as he now saw that one on the wrong terms alienated the Unionist community and undermined  the Good  Friday Agreement. He could have pledged to ask the EU to change their stance to reduce the risk of damaging NI’s place in the UK as well as burdening UK trade between GB and NI with too many  barriers. The deal done has not resolved the problems. it has destabilised NI by re opening constitutional issues that the GFA had put to rest.</p>
-<p>Instead he pretended there was no real issue, just unreasonable Unionists. He was not able to have a celebratory banquet for 25 years of the GFA. He could not make a speech to Stormont as it cannot sit. The original ideas behind the visit were cancelled so the NI visit was shortened.</p>
-<p>The Prime Minister should  have used the brief encounter to start work on restoring Stormont by engaging the President in the  need to get the EU to change its stubborn and unhelpful stance. He could have made the Unionist case to balance the Republican case implicit in the President’s words and deeds.</p>
-<p>He did not do so. He seemed to go along with the idea that the Unionists should accept the EU/Republic of Ireland settlement and live with EU law making in their part of the UK. It was a bad missed opportunity, a tragedy for our country.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">During his brief  morning stop in Northern Ireland on the way to his three day stay in the Republic of Ireland the President could have held out a hand of friendship to the Unionist community. He could have  said on reflection he had been hasty to encourage an EU/UK deal, as he now saw that…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=34886</id>
-    <published>2023-04-13T04:05:07Z</published>
-    <updated>2023-04-13T04:05:07Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Early Years Job Fair</title>
@@ -2251,10 +2251,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6438c825b1b3b" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6438f2fa613bf" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6438c825b1b3b').iPhorm({"id":5,"uniqueId":"6438c825b1b3b","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6438f2fa613bf').iPhorm({"id":5,"uniqueId":"6438f2fa613bf","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2329,10 +2329,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6438c825b1b3b" class="iphorm iphorm-form-5" action="/feed/#iphorm-6438c825b1b3b" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6438f2fa613bf" class="iphorm iphorm-form-5" action="/feed/#iphorm-6438f2fa613bf" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6438c825b1b3b" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6438f2fa613bf" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2341,22 +2341,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6438c825b1b3b" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6438c825b1b3b" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6438f2fa613bf" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6438f2fa613bf" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6438c825b1b3b" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6438c825b1b3b" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6438f2fa613bf" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6438f2fa613bf" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6438c825b1b3b" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6438c825b1b3b" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6438f2fa613bf" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6438f2fa613bf" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2366,7 +2366,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6438c825b1b3b_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6438f2fa613bf_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2385,7 +2385,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6438c825b1b3b script').remove();
+    jQuery('#iphorm-outer-6438f2fa613bf script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
