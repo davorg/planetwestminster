@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-19T18:31:13Z</updated>
+  <updated>2023-04-19T21:29:44Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -126,18 +126,6 @@
 ]]></content>
 		
 			</entry>
-  <entry>
-    <title>Weekly Column</title>
-    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/weekly-column-15" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Worksop Guardian 19.04.2023
-Bassetlaw will benefit from £714,251 in new funding from the Conservative Government to support local businesses and create jobs to grow the rural economy.
-The Conservative Government is investing £110 million into local areas through the Rural England Prosperity Fund, a…</div>
-    </content>
-    <id>https://www.brendanclarkesmith.com/news/weekly-column-15</id>
-    <published>2023-04-19T13:00:00+01:00</published>
-    <updated>2023-04-19T13:00:00+01:00</updated>
-  </entry>
   <entry>
     <title>Question to the Parliamentary Under Secretary of State for Wales on NHS Funding</title>
     <link rel="alternate" href="https://www.jeromemayhew.org.uk/news/question-parliamentary-under-secretary-state-wales-nhs-funding" type="text/html"/>
@@ -360,55 +348,12 @@ It comes as Eden Valley Hospice and Jigsaw Cumbria's Children's Hospice said the
     <category term="News"/>
   </entry>
   <entry>
-    <title>Select Committee Update – NFTs and the Blockchain</title>
-    <link rel="alternate" href="https://www.damiangreen.co.uk/news/select-committee-update-nfts-and-blockchain" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Today the DCMS Committee held its first evidence session in our NFTs and the Blockchain inquiry. The session was split into two panels. In the first panel we heard from Emily Gould (Assistant Director, Institute of Art and Law), Angus Scott (Chief Executive, Artclear Ltd), and Reema Selhi (Head of…</div>
-    </content>
-    <id>https://www.damiangreen.co.uk/news/select-committee-update-nfts-and-blockchain</id>
-    <published>2023-04-18T13:00:00+01:00</published>
-    <updated>2023-04-18T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Maria Miller MP joined residents on a Wellbeing Walk organised by the Basingstoke Voluntary Action Group</title>
     <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/maria-miller-mp-joined-residents-wellbeing-walk-organised-basingstoke-voluntary-action-group" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maria said, ‘’One of Basingstoke’s greatest strengths is our green space. Just 50 miles from London, yet, no matter where you are in our town, you are only a short walk away from green open space. The importance of being outdoors and amongst trees, wildlife and nature should never be underestimated…</div>
     </content>
     <id>https://www.maria4basingstoke.co.uk/news/maria-miller-mp-joined-residents-wellbeing-walk-organised-basingstoke-voluntary-action-group</id>
-    <published>2023-04-18T13:00:00+01:00</published>
-    <updated>2023-04-18T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>New Plan to Crackdown on Knives</title>
-    <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/new-plan-crackdown-knives" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I am pleased to announce the Government's new crackdown on zombie knives and machetes. These deadly weapons have been increasingly used in horrific attacks and to terrorise innocent people on our streets. Their ready availability online means that they are becoming more and more common in our…</div>
-    </content>
-    <id>https://www.teamtrevelyan.co.uk/news/new-plan-crackdown-knives</id>
-    <published>2023-04-18T13:00:00+01:00</published>
-    <updated>2023-04-18T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Graham Stuart MP Welcomes £1.6 billion of Investment As Part of Government’s Plan for Water </title>
-    <link rel="alternate" href="https://www.grahamstuart.com/news/graham-stuart-mp-welcomes-ps16-billion-investment-part-governments-plan-water" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Graham Stuart, Member of Parliament for Beverley and Holderness, has welcomed the Government’s Plan for Water which includes £1.6 billion of investment into vital infrastructure to improve the quality of our rivers and lakes.  
- 
-The Government has announced its Plan for Water to achieve cleaner,…</div>
-    </content>
-    <id>https://www.grahamstuart.com/news/graham-stuart-mp-welcomes-ps16-billion-investment-part-governments-plan-water</id>
-    <published>2023-04-18T13:00:00+01:00</published>
-    <updated>2023-04-18T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Scott Benton MP welcomes £266,800 to fix 5,336 potholes, improving day to day journeys and growing the economy in Blackpool South</title>
-    <link rel="alternate" href="https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-ps266800-fix-5336-potholes-improving-day-day-journeys-and-growing" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Government is investing a further £200 million to fix four million potholes across the country, improving road standards for drivers in Blackpool South.
-This funding builds on new figures that show Conservative-run councils repaired three times as many potholes on average as Labour councils did…</div>
-    </content>
-    <id>https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-ps266800-fix-5336-potholes-improving-day-day-journeys-and-growing</id>
     <published>2023-04-18T13:00:00+01:00</published>
     <updated>2023-04-18T13:00:00+01:00</updated>
   </entry>
@@ -523,26 +468,6 @@ This funding builds on new figures that show Conservative-run councils repaired 
     <id>2675 at https://www.georgefreeman.co.uk</id>
     <published>2023-04-17T17:58:29Z</published>
     <updated>2023-04-17T17:58:29Z</updated>
-  </entry>
-  <entry>
-    <title>Data Protection and Digital Information</title>
-    <link rel="alternate" href="https://www.robin-millar.org.uk/news/data-protection-and-digital-information" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Data Protection and Digital Information</div>
-    </content>
-    <id>https://www.robin-millar.org.uk/news/data-protection-and-digital-information</id>
-    <published>2023-04-17T13:00:00+01:00</published>
-    <updated>2023-04-17T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Lee Anderson MP's Weekly Column</title>
-    <link rel="alternate" href="https://www.leeanderson.org.uk/news/lee-anderson-mps-weekly-column-47" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">After a very enjoyable weekend away in Wales with my sons, I was back out visiting constituents and local businesses, talking to them about their concerns and providing support where I can. I popped in to see Sam at the Pamper Parlour on Victoria Street in Stanton Hill, a fantastic business that…</div>
-    </content>
-    <id>https://www.leeanderson.org.uk/news/lee-anderson-mps-weekly-column-47</id>
-    <published>2023-04-17T13:00:00+01:00</published>
-    <updated>2023-04-17T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>Greg takes CHUF search for a new Haddenham site to Education Questions</title>
@@ -907,14 +832,6 @@ Over the past four-year term we are proud of the achievements we have made despi
 			<thr:total>0</thr:total>
 			</entry>
   <entry>
-    <title>Bob Stewart Joins Councillors In Call for New Police Vehicle for Hayes, Keston and West Wickham</title>
-    <link rel="alternate" href="https://www.bobstewart.org.uk/news/bob-stewart-joins-councillors-call-new-police-vehicle-hayes-keston-and-west-wickham" type="text/html"/>
-    <content type="text">Member of Parliament for Beckenham &amp; West Wickham, Bob Stewart, has joined local Councillors in petitioning the Deputy Mayor of London (Police &amp; Crime) to fund a new Police vehicle for the Safer Neighbourhood Teams (SNTs) in the Wards of Hayes &amp; Coney and West Wickham Wards to use…</content>
-    <id>https://www.bobstewart.org.uk/news/bob-stewart-joins-councillors-call-new-police-vehicle-hayes-keston-and-west-wickham</id>
-    <published>2023-04-13T13:00:00+01:00</published>
-    <updated>2023-04-13T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Toby backs Ashgate Hospice with Charity Bet on the Grand National</title>
     <link rel="alternate" href="https://www.tobyperkins.org.uk/2023/04/12/toby-backs-ashgate-hospice-with-charity-bet-on-the-grand-national/" type="text/html"/>
     <content type="xhtml">
@@ -1017,17 +934,6 @@ The hub on Channel Street in Galashiels is a great addition to the local communi
 ]]></content>
 		
 			</entry>
-  <entry>
-    <title>Plan for Anti-Social Behaviour</title>
-    <link rel="alternate" href="https://www.victoriaprentis.com/news/plan-anti-social-behaviour" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We know the serious impact that persistent anti-social behaviour can have on both individuals and the wider community. That is why the Prime Minister is taking robust action to make sure this issue is treated with the urgency it deserves.
-Those who engage in anti-social behaviour will face swift…</div>
-    </content>
-    <id>https://www.victoriaprentis.com/news/plan-anti-social-behaviour</id>
-    <published>2023-04-06T13:00:00+01:00</published>
-    <updated>2023-04-06T13:00:00+01:00</updated>
-  </entry>
   <entry>
     <title>Tory Ministers Paying Consultants to do their Jobs</title>
     <link rel="alternate" href="https://www.stephenkinnock.co.uk/tory-ministers-paying-consultants-to-do-their-jobs/" type="text/html"/>
@@ -1252,16 +1158,6 @@ The post <a href="http://karinsmyth.com/2023/03/31/weekly-round-up-31-march-2023
     <id>http://www.rushanaraali.org/rushanara_ali_mp_statement_on_new_sanctions_on_burmese_military</id>
     <published>2023-03-29T09:44:00+01:00</published>
     <updated>2023-03-29T09:44:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Evennett holds Westminster Hall Debate on Social Mobility</title>
-    <link rel="alternate" href="https://www.bexleyheathandcrayford.com/news/evennett-holds-westminster-hall-debate-social-mobility" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">On March 21, Rt Hon Sir David Evennett, Member of Parliament for Bexleyheath and Crayford, secured a Westminster Hall debate on Social Mobility. During the debate, Sir David stressed that “every individual should have a fair chance of reaching their full potential, and we must therefore ensure that…</div>
-    </content>
-    <id>https://www.bexleyheathandcrayford.com/news/evennett-holds-westminster-hall-debate-social-mobility</id>
-    <published>2023-03-21T12:00:00Z</published>
-    <updated>2023-03-21T12:00:00Z</updated>
   </entry>
   <entry>
     <title>Weekly round-up #Working4Wycombe</title>
@@ -1640,16 +1536,6 @@ The post <a href="http://karinsmyth.com/2023/03/31/weekly-round-up-31-march-2023
 		
 			</entry>
   <entry>
-    <title>The truth about protecting our waterways</title>
-    <link rel="alternate" href="https://www.joymorrissey.uk/news/truth-about-protecting-our-waterways" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">In contrast to misleading and false assertions made recently, the simple truth is that this Conservative Government is the first to set out our expectation that water companies must take steps to significantly reduce storm overflows. We are now delivering the largest programme to tackle storm…</div>
-    </content>
-    <id>https://www.joymorrissey.uk/news/truth-about-protecting-our-waterways</id>
-    <published>2023-01-27T12:00:00Z</published>
-    <updated>2023-01-27T12:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Our Letter to the Prime Minister on Fulfilling Dementia Commitments</title>
     <link rel="alternate" href="https://debbieabrahams.org.uk/our-letter-to-the-prime-minister-on-dementia/" type="text/html"/>
     <content type="xhtml">
@@ -1926,33 +1812,6 @@ The post <a href="http://karinsmyth.com/2023/03/31/weekly-round-up-31-march-2023
     <thr:total>0</thr:total>
   </entry>
   <entry>
-    <title>New GP Surgery Back on Track for Shifnal</title>
-    <link rel="alternate" href="https://www.markpritchard.com/news/new-gp-surgery-back-track-shifnal" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><span>New GP Surgery Back on Track for Shifnal</span>
-            <div class="field-news-date"><time datetime="2021-02-16T12:00:00Z">Tuesday, 16 February, 2021</time></div>
-      
-<span>Tue, 16/02/2021 - 13:45</span>
-
-  <div class="field-news-image-gallery">
-
-
-
-  <div>
-      <img loading="lazy" src="https://www.markpritchard.com/sites/www.markpritchard.com/files/styles/gallery_large/public/2021-02/Shifnal%20GP%20Surgery.png?itok=ISHnYLg3" width="830" height="540" alt="Shifnal GP Surgery Plans" typeof="foaf:Image"/></div>
-</div>
-
-            <div class="body"><p>The local Clinical Commissioning Group has confirmed that the funding is in place to build a new GP surgery for Shifnal.</p>
-<p>Commenting, Mark Pritchard MP said:</p>
-<p>"I'm delighted that, in the last 24 hours, the Shropshire NHS Clinical Commissioning Group has confirmed to me that the new GP surgery in Shifnal will go ahead this year.  The building plans are well advanced and NHS England has provided the extra funding needed.  Local councillors and Shifnal Matters 2021 have supported me in pushing for this new surgery, and I'm glad that the NHS has listened to local needs."</p>
-</div>
-      </div>
-    </content>
-    <id>425 at https://www.markpritchard.com</id>
-    <published>2021-02-16T13:45:06Z</published>
-    <updated>2021-02-16T13:45:06Z</updated>
-  </entry>
-  <entry>
     <title>Very proud day today – the law change I fought for to protect pensioners comes into force</title>
     <link rel="alternate" href="https://www.marktami.co.uk/2020/11/25/very-proud-day-today-the-law-change-i-fought-for-to-protect-pensioners-comes-into-force/" type="text/html"/>
     <content type="xhtml">
@@ -2166,10 +2025,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64403349d0aed" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64405d154677b" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64403349d0aed').iPhorm({"id":5,"uniqueId":"64403349d0aed","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64405d154677b').iPhorm({"id":5,"uniqueId":"64405d154677b","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2244,10 +2103,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64403349d0aed" class="iphorm iphorm-form-5" action="/feed/#iphorm-64403349d0aed" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64405d154677b" class="iphorm iphorm-form-5" action="/feed/#iphorm-64405d154677b" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64403349d0aed" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64405d154677b" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2256,22 +2115,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64403349d0aed" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64403349d0aed" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64405d154677b" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64405d154677b" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64403349d0aed" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64403349d0aed" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64405d154677b" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64405d154677b" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64403349d0aed" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64403349d0aed" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64405d154677b" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64405d154677b" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2281,7 +2140,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64403349d0aed_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64405d154677b_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2300,7 +2159,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64403349d0aed script').remove();
+    jQuery('#iphorm-outer-64405d154677b script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2360,7 +2219,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwbwd5geNo-YZmjHQEelz0oDWuFdHlqmk9JRTzVjk8CAWWY7e7oWYPOQWj636qIoWzYy_7VCFpH0wdLSt0Vkw' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxcPHPTIsI-_GhGnSgIKh-DO4vKhWj1d12aeoIdIVd2cKeUA06MFmm0LLMYZCU4m1xoQtRIjorI3YYMuUUoJA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
