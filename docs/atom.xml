@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-30T03:27:09Z</updated>
+  <updated>2023-04-30T06:30:00Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>The idea of independence</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/04/30/the-idea-of-independence/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>There is much humbug about independence and diversity. The Bank of England we are told has to be independent. As a result it fails to see an obvious big inflation. Its hopeless groupthink follows the Fed and ECB to inflationary  disaster whilst Asian Central Banks keep inflation  down. It rejects all diversity of view or changes to its models.</p>
+<p style="text-align: left;">There is then the famously independent BBC ,advocates of giving into the  EU and adopting international consensus thinking especially when it is wrong. No airtime to put the case against Quantitative easing or ultra low rates in 2021 or to put the case against excessive QT now as it delivered trouble for the pension funds last autumn. No wish to hear from Brexiteers about how  we could use our Brexit freedoms.</p>
+<p>Key posts like Bank Governor and BBC chairman have always been made by the government of the day. Party political bias is not a problem with the BBC, and government telling the Bank what interest rate to set is not a problem. The fixed, limited, narrow and often wrong ways of thinking and forecasts of these bodies is a problem. They need more diversity of thought, and need to consider more independent challenges to their connsensual idiocies.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">There is much humbug about independence and diversity. The Bank of England we are told has to be independent. As a result it fails to see an obvious big inflation. Its hopeless groupthink follows the Fed and ECB to inflationary  disaster whilst Asian Central Banks keep inflation  down. It rejects all diversity of view or…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>http://johnredwoodsdiary.com/?p=35006</id>
+    <published>2023-04-30T04:05:42Z</published>
+    <updated>2023-04-30T04:05:42Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Late April e-newsletter</title>
     <link rel="alternate" href="https://www.robin-millar.org.uk/news/late-april-e-newsletter-0" type="text/html"/>
@@ -65,28 +85,6 @@
     <category term="Keeping You Informed"/>
     <category term="Other"/>
     <category term="Your community"/>
-  </entry>
-  <entry>
-    <title>Which inherited EU laws should be improved or removed?</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/04/29/which-inherited-eu-laws-should-be-improved-or-removed/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>This is a live topic again in Whitehall as many departments make heavy weather of sorting out the huge mass of EU laws.</p>
-<p>I would start with the complex Emissions Trading scheme. Let’s suspend it as energy prices are so high. The UK version produces the highest carbon taxes making UK industry less competitive. Far from cutting CO 2 the scheme drives the closure of UK business and makes us dependent on more imports. That adds transport CO 2 to fossil fuel intensive  output from the exporting country.</p>
-<p>Move on to taking VAT off domestic energy and make its removal from green products permanent. Put up the VAT threshold to £250,000 from the  EU £85,000 ceiling to allow more small businesses to expand .Amend the fishing regulations to boost the domestic industry and expand the home fleet.</p>
-<p>Change the myriad product specification rules. Keep a strong safety requirement but remove the detail about how you can and cannot make individual items. The ban on various hoovers showed this regulation up as unhelpful to UK business.</p>
-<p>I have many more proposals but would be interested to hear yours.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This is a live topic again in Whitehall as many departments make heavy weather of sorting out the huge mass of EU laws. I would start with the complex Emissions Trading scheme. Let’s suspend it as energy prices are so high. The UK version produces the highest carbon taxes making UK industry less competitive. Far…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=35003</id>
-    <published>2023-04-29T04:13:21Z</published>
-    <updated>2023-04-29T04:13:21Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
   <title>MP secures Parliamentary debate on funding for Cumbrian farmers</title>
@@ -2199,10 +2197,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-644ddfebd5368" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-644e0ac204412" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-644ddfebd5368').iPhorm({"id":5,"uniqueId":"644ddfebd5368","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-644e0ac204412').iPhorm({"id":5,"uniqueId":"644e0ac204412","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2277,10 +2275,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-644ddfebd5368" class="iphorm iphorm-form-5" action="/feed/#iphorm-644ddfebd5368" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-644e0ac204412" class="iphorm iphorm-form-5" action="/feed/#iphorm-644e0ac204412" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="644ddfebd5368" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="644e0ac204412" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2289,22 +2287,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_644ddfebd5368" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_644ddfebd5368" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_644e0ac204412" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_644e0ac204412" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_644ddfebd5368" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_644ddfebd5368" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_644e0ac204412" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_644e0ac204412" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_644ddfebd5368" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_644ddfebd5368" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_644e0ac204412" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_644e0ac204412" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2314,7 +2312,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_644ddfebd5368_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_644e0ac204412_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2333,7 +2331,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-644ddfebd5368 script').remove();
+    jQuery('#iphorm-outer-644e0ac204412 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2393,7 +2391,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwRN8s_JVpkQ8gMSMok0UFrtVz1QUgqGx_C7bEAPpSmoHatzHq7UfPBaMKeYib_cmKM212ltIDQ76rrYm4GWA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxVasE77sSkSk4e8NAICj0cSnUBUshoAzwUA9nHaKVDg9lngaTAr_mtTjb3qH1_FYkqbc-7KyAJOvXWdTdR3Q' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
