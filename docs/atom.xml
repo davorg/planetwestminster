@@ -7,9 +7,33 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-02T15:28:53Z</updated>
+  <updated>2023-05-02T18:29:47Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>George Freeman MP visits White’s Training in Watton</title>
+    <link rel="alternate" href="https://www.georgefreeman.co.uk/gallery/george-freeman-mp-visits-whites-training-watton-0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<span>George Freeman MP visits White’s Training in Watton</span>
+
+<span><span lang="" about="https://www.georgefreeman.co.uk/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">jon</span></span>
+
+<span>Tue, 05/02/2023 - 17:54</span>
+
+  <div class="field field--name-field-gallery-image field--type-entity-reference field--label-above">
+    <div class="field--label">field_gallery_image</div>
+              <div class="field--item"><a href="https://www.georgefreeman.co.uk/media/2791/edit" hreflang="en">george_freeman_jack_white1.jpg</a></div>
+          </div>
+</div>
+    </content>
+    <author>
+      <name>jon</name>
+    </author>
+    <id>2685 at https://www.georgefreeman.co.uk</id>
+    <published>2023-05-02T16:54:17Z</published>
+    <updated>2023-05-02T16:54:17Z</updated>
+  </entry>
   <entry>
     <title>The London Borough of Havering Road Closures for Kings Coronation </title>
     <link rel="alternate" href="https://joncruddas.org.uk/london-borough-havering-road-closures-kings-coronation" type="text/html"/>
@@ -28,6 +52,16 @@
     <id>1199 at https://joncruddas.org.uk</id>
     <published>2023-05-02T15:03:00Z</published>
     <updated>2023-05-02T15:03:00Z</updated>
+  </entry>
+  <entry>
+    <title>Council Leader reinforces partnership between the city of Edinburgh and Taiwan</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13713/council-leader-reinforces-partnership-between-the-city-of-edinburgh-and-taiwan" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">At the Central Library today (May 2), Council Leader Cammy Day formally accepted a set of books to signify and strengthen the cultural, economic, and historic links between Edinburgh and Taiwan. </div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13713/council-leader-reinforces-partnership-between-the-city-of-edinburgh-and-taiwan</id>
+    <published>2023-05-02T15:51:00+01:00</published>
+    <updated>2023-05-02T15:51:00+01:00</updated>
   </entry>
   <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
 		<author>
@@ -400,16 +434,6 @@ Commenting Greg said, "There were some fantastic questions from Year 6 pupils at
     <updated>2023-04-28T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Coronation of His Majesty The King to be screened live in Princes Street Gardens</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13712/coronation-of-his-majesty-the-king-to-be-screened-live-in-princes-street-gardens" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">West Princes Street Gardens will host a special free screening in the Capital to mark the Coronation of HM The King.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13712/coronation-of-his-majesty-the-king-to-be-screened-live-in-princes-street-gardens</id>
-    <published>2023-04-28T10:11:00+01:00</published>
-    <updated>2023-04-28T10:11:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Visit to Glide and Slide</title>
     <link rel="alternate" href="http://wendymorton.co.uk/visit-to-glide-and-slide/" type="text/html"/>
     <content type="xhtml">
@@ -470,52 +494,6 @@ Commenting Greg said, "There were some fantastic questions from Year 6 pupils at
     <updated>2023-04-27T17:10:12Z</updated>
     <category term="Local"/>
     <category term="Media"/>
-  </entry>
-  <entry>
-    <title>Wymondham Station Access – Update</title>
-    <link rel="alternate" href="https://www.georgefreeman.co.uk/news/wymondham-station-access-update-5" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="2682" class="layout layout--onecol">
-    <div class="layout__region layout__region--content">
-      
-            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">27 April 2023</div>
-      
-      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
-          
-            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Wymondham Station Access – Update</span></div>
-      
-            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span><span><span><span>I was very concerned to hear reports yesterday of an FOI request made to Network Rail which suggested that the sidings beside Platform 2 of Wymondham Station had been signed out of use back in 2020 due to them requiring “a large amount of work (beyond maintenance) to get [them] back in order.”</span></span></span></span></span></p>
-
-<p><span><span><span><span><span>For those of us who have been working on and following the Wymondham Station Access issue closely, these reports came as a considerable shock – raising some very serious questions.</span></span></span></span></span></p>
-
-<p><span><span><span><span><span>Previously, Network Rail agreed to shorten the length of their sidings beside Platform 2 in order to make the necessary room for a step-free access solution. Together with Greater Anglia, they developed initial plans and drawings for delivering a step-free access solution ‘preferred option’ – with South Norfolk Council, vocally supported by myself and many others, successfully securing £600,000 to go towards the works as part of the Greater Norwich Transforming Cities Fund bid.</span></span></span></span></span></p>
-
-<p><span><span><span><span><span>Unfortunately however, Network Rail subsequently had to reject that ‘preferred option’ – informing the Taskforce that they now needed to retain slightly more of the sidings than had originally been thought. This change made the ‘preferred option’ untenable and therefore alternative options are having to be explored.</span></span></span></span></span></p>
-
-<p><span><span><span><span><span>Concerned by the reports that the sidings may have in fact been signed out of use (contrary to the information Network Rail had previously provided), I directly contacted the Senior Public Affairs Manager for the Anglia Route at Network Rail who has today <strong>reassured me that this is not the case.</strong></span></span></span></span></span></p>
-
-<p><span><span><span><span><span>Network Rail have <strong>confirmed</strong> that there were sidings beside Platform 1 which have been signed out of use, but that <strong>the sidings beside Platform 2 remain in use</strong>. They have reiterated that they remain committed to working with local stakeholders on the campaign working to deliver step-free access to Platform 2, recognising the importance of the campaign to so many in the local community. </span></span></span></span></span></p>
-
-<p><span><span><span><span><span>While still happy to shorten their sidings beside Platform 2, Network Rail must retain enough of the sidings so that they can be used by their engineering trains. Unfortunately, this means that the previously agreed ‘preferred option’ remains unfeasible – but I continue to work closely with key stakeholders to explore alternative options and remain committed to doing all I can to help get this campaign over the line.</span></span></span></span></span></p>
-
-<p><span><span><span><span><span>Full details of the campaign, including the progress made in recent months, can be found on my campaign page </span></span><a href="https://www.georgefreeman.co.uk/wymondham-station-access-campaign"><span>here</span></a>.</span></span></span></p></div>
-      
-      </div>
-</div>
-          </div>
-  
-    </div>
-  </div>
-
-</div>
-    </content>
-    <author>
-      <name>jon</name>
-    </author>
-    <id>2682 at https://www.georgefreeman.co.uk</id>
-    <published>2023-04-27T16:55:04Z</published>
-    <updated>2023-04-27T16:55:04Z</updated>
   </entry>
   <entry>
     <title>Rest in Peace Joyce Donn</title>
@@ -2185,10 +2163,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64512c117a530" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6451567d8b30f" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64512c117a530').iPhorm({"id":5,"uniqueId":"64512c117a530","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6451567d8b30f').iPhorm({"id":5,"uniqueId":"6451567d8b30f","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2263,10 +2241,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64512c117a530" class="iphorm iphorm-form-5" action="/feed/#iphorm-64512c117a530" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6451567d8b30f" class="iphorm iphorm-form-5" action="/feed/#iphorm-6451567d8b30f" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64512c117a530" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6451567d8b30f" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2275,22 +2253,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64512c117a530" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64512c117a530" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6451567d8b30f" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6451567d8b30f" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64512c117a530" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64512c117a530" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6451567d8b30f" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6451567d8b30f" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64512c117a530" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64512c117a530" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6451567d8b30f" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6451567d8b30f" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2300,7 +2278,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64512c117a530_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6451567d8b30f_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2319,7 +2297,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64512c117a530 script').remove();
+    jQuery('#iphorm-outer-6451567d8b30f script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
