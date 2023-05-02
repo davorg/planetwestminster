@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-02T09:29:55Z</updated>
+  <updated>2023-05-02T12:33:22Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -98,6 +98,17 @@ This will improve road standards for drivers, saving them money on repairs and�
     <id>7389 at https://www.philipdunne.com</id>
     <published>2023-05-01T07:00:00Z</published>
     <updated>2023-05-01T07:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday Supplement Wales</title>
+    <link rel="alternate" href="https://www.stephenkinnock.co.uk/sunday-supplement-wales/" type="text/html"/>
+    <author>
+      <name>joshuatuck</name>
+    </author>
+    <id>https://www.stephenkinnock.co.uk/?p=3414</id>
+    <published>2023-04-30T11:00:25Z</published>
+    <updated>2023-04-30T11:00:25Z</updated>
+    <category term="Press &amp; Articles"/>
   </entry>
   <entry>
     <title>NHS dentistry access has become almost impossible for so many</title>
@@ -348,6 +359,27 @@ It comes as the Department for the Environment, Food and Rural Affairs revealed 
       <div xmlns="http://www.w3.org/1999/xhtml">🚗 Illegal Car meets 🚗 #SaferStreetsSaferCommunities</div>
     </content>
     <id>https://www.maria4basingstoke.co.uk/news/video-update-illegal-car-meets-saferstreetssafercommunities</id>
+    <published>2023-04-28T13:00:00+01:00</published>
+    <updated>2023-04-28T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Contribution to the Debate on Reforms to NHS Dentistry</title>
+    <link rel="alternate" href="https://www.jeromemayhew.org.uk/news/contribution-debate-reforms-nhs-dentistry" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">We have had a full debate today. This is the third Backbench Business debate on the subject, but not the third debate on dentistry; I have had an Adjournment debate on dentistry, for example. The subject is well rehearsed. The reason why so many people are keen to speak today is that the issue…</div>
+    </content>
+    <id>https://www.jeromemayhew.org.uk/news/contribution-debate-reforms-nhs-dentistry</id>
+    <published>2023-04-28T13:00:00+01:00</published>
+    <updated>2023-04-28T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Greg visits Year 6 pupils at Stone C of E Combined School</title>
+    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-visits-year-6-pupils-stone-c-e-combined-school" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Greg Smith MP was delighted to visit Stone Church of England Combined School this morning to meet with Year 6 pupils.  Greg spoke to them about his role as a Member of Parliament and then answered their questions.
+Commenting Greg said, "There were some fantastic questions from Year 6 pupils at…</div>
+    </content>
+    <id>https://www.gregsmith.co.uk/news/greg-visits-year-6-pupils-stone-c-e-combined-school</id>
     <published>2023-04-28T13:00:00+01:00</published>
     <updated>2023-04-28T13:00:00+01:00</updated>
   </entry>
@@ -631,17 +663,6 @@ The recruitment drive is part of the Government’s Beating Crime…</div>
 The extra funding will deliver the highest real terms spending per pupil in history by…</div>
     </content>
     <id>https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-ps1950016-extra-funding-schools-blackpool-south-thanks-conservative</id>
-    <published>2023-04-27T13:00:00+01:00</published>
-    <updated>2023-04-27T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Greg Smith MP welcomes £2,610,699 in extra funding for schools in Buckingham Constituency thanks to the Conservative Government</title>
-    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-smith-mp-welcomes-ps2610699-extra-funding-schools-buckingham-constituency-thanks" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Greg Smith MP has welcomed extra funding from the Conservative Government, providing schools in Buckingham constituency with £2,610,699 in extra funding, as part of £2 billion this year and next for primary schools and secondary schools in England.
-Every state school in England will receive extra…</div>
-    </content>
-    <id>https://www.gregsmith.co.uk/news/greg-smith-mp-welcomes-ps2610699-extra-funding-schools-buckingham-constituency-thanks</id>
     <published>2023-04-27T13:00:00+01:00</published>
     <updated>2023-04-27T13:00:00+01:00</updated>
   </entry>
@@ -1154,16 +1175,6 @@ The post <a href="http://karinsmyth.com/2023/04/21/weekly-round-up-21-april-2023
     <category term="Uncategorized"/>
   </entry>
   <entry>
-    <title>Question to the Parliamentary Under Secretary of State for Wales on NHS Funding</title>
-    <link rel="alternate" href="https://www.jeromemayhew.org.uk/news/question-parliamentary-under-secretary-state-wales-nhs-funding" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Welsh Government received £1.20 of health funding for every £1.00 spent in England.  Despite this, they are the only government in the United Kingdom that are cutting funding for the NHS.  Despite the rhetoric, Labour has proved that they are incapable of running our health service.</div>
-    </content>
-    <id>https://www.jeromemayhew.org.uk/news/question-parliamentary-under-secretary-state-wales-nhs-funding</id>
-    <published>2023-04-19T13:00:00+01:00</published>
-    <updated>2023-04-19T13:00:00+01:00</updated>
-  </entry>
-  <entry>
 		<author>
 			<name>Kirsty Watson</name>
 					</author>
@@ -1313,17 +1324,6 @@ The post <a href="http://karinsmyth.com/2023/04/21/weekly-round-up-21-april-2023
     <published>2023-04-14T12:04:19Z</published>
     <updated>2023-04-14T12:04:19Z</updated>
     <category term="News"/>
-  </entry>
-  <entry>
-    <title>Tory Ministers Paying Consultants to do their Jobs</title>
-    <link rel="alternate" href="https://www.stephenkinnock.co.uk/tory-ministers-paying-consultants-to-do-their-jobs/" type="text/html"/>
-    <author>
-      <name>joshuatuck</name>
-    </author>
-    <id>https://www.stephenkinnock.co.uk/?p=3370</id>
-    <published>2023-04-06T10:59:23Z</published>
-    <updated>2023-04-06T10:59:23Z</updated>
-    <category term="Press &amp; Articles"/>
   </entry>
   <entry>
     <title>March newsletter</title>
@@ -2188,10 +2188,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6450d7f0beb81" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-645102f4b02ae" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6450d7f0beb81').iPhorm({"id":5,"uniqueId":"6450d7f0beb81","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-645102f4b02ae').iPhorm({"id":5,"uniqueId":"645102f4b02ae","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2266,10 +2266,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6450d7f0beb81" class="iphorm iphorm-form-5" action="/feed/#iphorm-6450d7f0beb81" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-645102f4b02ae" class="iphorm iphorm-form-5" action="/feed/#iphorm-645102f4b02ae" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6450d7f0beb81" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="645102f4b02ae" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2278,22 +2278,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6450d7f0beb81" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6450d7f0beb81" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_645102f4b02ae" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_645102f4b02ae" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6450d7f0beb81" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6450d7f0beb81" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_645102f4b02ae" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_645102f4b02ae" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6450d7f0beb81" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6450d7f0beb81" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_645102f4b02ae" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_645102f4b02ae" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2303,7 +2303,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6450d7f0beb81_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_645102f4b02ae_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2322,7 +2322,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6450d7f0beb81 script').remove();
+    jQuery('#iphorm-outer-645102f4b02ae script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2382,7 +2382,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxVasE77sSkSk4e8NAICj0cSnUBUshoAzwUA9nHaKVDg9lngaTAr_mtTjb3qH1_FYkqbc-7KyAJOvXWdTdR3Q' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwHZqrqTfk7mdZW7r0oxT_nyaimnPXol5FvZQTorH390fJaeTkRnu18BXT1DBt9iDM0HfJfhBEGWam5PVCQfA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
