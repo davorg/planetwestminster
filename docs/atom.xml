@@ -7,9 +7,50 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-15T06:35:29Z</updated>
+  <updated>2023-05-15T09:27:53Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Mid May e-newsletter</title>
+    <link rel="alternate" href="https://www.robin-millar.org.uk/news/mid-may-e-newsletter-0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Click here to read my newsletter in Welsh or English</div>
+    </content>
+    <id>https://www.robin-millar.org.uk/news/mid-may-e-newsletter-0</id>
+    <published>2023-05-15T13:00:00+01:00</published>
+    <updated>2023-05-15T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>A new York to Hull Rail Link would boost connectivity, opportunities and the environment, say people of the East Riding</title>
+    <link rel="alternate" href="https://www.grahamstuart.com/news/new-york-hull-rail-link-would-boost-connectivity-opportunities-and-environment-say-people-east" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Graham Stuart, Member of Parliament for Beverley and Holderness, today announces the results of his survey about the proposed new York to Hull Rail Link, which he has long advocated.
+In his survey of 196 residents of the East Riding of Yorkshire, 98% of respondents expressed support for the scheme…</div>
+    </content>
+    <id>https://www.grahamstuart.com/news/new-york-hull-rail-link-would-boost-connectivity-opportunities-and-environment-say-people-east</id>
+    <published>2023-05-15T13:00:00+01:00</published>
+    <updated>2023-05-15T13:00:00+01:00</updated>
+  </entry>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>oliverrosina@aol.com</name>
+					</author>
+
+		<title type="html"><![CDATA[UP FOR THE CHALLENGE]]></title>
+		<link rel="alternate" type="text/html" href="https://www.angelarayner.co.uk/2023/05/15/up-for-the-challenge/"/>
+
+		<id>https://www.angelarayner.co.uk/?p=494</id>
+		<updated>2023-05-15T08:45:13Z</updated>
+		<published>2023-05-15T08:45:13Z</published>
+		<category scheme="https://www.angelarayner.co.uk" term="NEWS"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="https://www.angelarayner.co.uk/2023/05/15/up-for-the-challenge/"><![CDATA[]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.angelarayner.co.uk/2023/05/15/up-for-the-challenge/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.angelarayner.co.uk/2023/05/15/up-for-the-challenge/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
   <entry>
     <title>Which EU laws to repeal?</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2023/05/15/which-eu-laws-to-repeal/" type="text/html"/>
@@ -249,17 +290,6 @@ The post <a href="http://karinsmyth.com/2023/05/12/weekly-round-up-12-may-2023/"
     <id>https://www.edinburgh.gov.uk/news/article/13721/busy-times-will-lead-to-better-homes</id>
     <published>2023-05-12T14:34:00+01:00</published>
     <updated>2023-05-12T14:34:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Robin joins Dogs Trust to urge the Government to bring back the Kept Animals Bill </title>
-    <link rel="alternate" href="https://www.robin-millar.org.uk/news/robin-joins-dogs-trust-urge-government-bring-back-kept-animals-bill" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Dogs Trust this week welcomed Aberconwy MP Robin Millar to an event at the House of Commons to raise awareness of the urgency to progress the sidelined Kept Animals Bill. The Bill would tackle the illegal trade of puppy smuggling – a manifesto promise from the current Government.
-More than 50 MPs…</div>
-    </content>
-    <id>https://www.robin-millar.org.uk/news/robin-joins-dogs-trust-urge-government-bring-back-kept-animals-bill</id>
-    <published>2023-05-12T13:00:00+01:00</published>
-    <updated>2023-05-12T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>Meeting with Chiltern Railways Managing Director</title>
@@ -529,18 +559,6 @@ TransPennine Express will be nationalised and the UK Government will now run the
     <updated>2023-05-11T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Graham Stuart MP to host Swinemoor Anti-Social Behaviour Meeting on 19th May</title>
-    <link rel="alternate" href="https://www.grahamstuart.com/news/graham-stuart-mp-host-swinemoor-anti-social-behaviour-meeting-19th-may" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Graham Stuart, Member of Parliament for Beverley and Holderness, is hosting a community meeting on St Nicholas Green in Beverley to discuss rising incidents of anti-social behaviour on Swinemoor. 
- 
-The meeting will take place at St Nicholas Green at noon on 19th May, and residents can confirm…</div>
-    </content>
-    <id>https://www.grahamstuart.com/news/graham-stuart-mp-host-swinemoor-anti-social-behaviour-meeting-19th-may</id>
-    <published>2023-05-11T13:00:00+01:00</published>
-    <updated>2023-05-11T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Scott Benton MP welcomes £1,950,016 in extra funding for schools in Blackpool South thanks to the Conservative Government</title>
     <link rel="alternate" href="https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-ps1950016-extra-funding-schools-blackpool-south-thanks-conservative-0" type="text/html"/>
     <content type="xhtml">
@@ -798,27 +816,27 @@ Commenting afterwards, Greg said, "As a Member of the House of Commons European 
 <p><span style="font-family: Verdana, sans-serif; color: #000000;">Many of us have never seen a Coronation before. This weekend was truly historic and memorable. Each of us will have our own memories and reflections. We have truly lived a moment in history, and we owe a huge debt of gratitude and thanks to all those involved.</span></p>
 <p><span style="font-family: Verdana, sans-serif; color: #000000;">God Save the King!</span></p>
 
-<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0015.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0015.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0015-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0015-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
-<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
-<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
-<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0020.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0020.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0020-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0020-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
-<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
-<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0012.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0012.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0012-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0012-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
-<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0033.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0033.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0033-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0033-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
-<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0028.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0028.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0028-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0028-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
-<img width="720" height="540" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/FB_IMG_1683555518523.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/FB_IMG_1683555518523.jpg 720w, http://wendymorton.co.uk/wp-content/uploads/2023/05/FB_IMG_1683555518523-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw"/>
-<img width="2560" height="1708" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-scaled.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-scaled.jpg 2560w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-1280x854.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-980x654.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2560px, 100vw"/>
-<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
-<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
-<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
-<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0034.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0034.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0034-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0034-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
-<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
-<img width="2560" height="1708" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-scaled.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-scaled.jpg 2560w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-1280x854.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-980x654.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2560px, 100vw"/>
-<img width="1024" height="881" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0019.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0019.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0019-980x843.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0019-480x413.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
-<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0030.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0030.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0030-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0030-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
-<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
 <img width="1080" height="1620" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0080-rotated.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0080-rotated.jpg 1080w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0080-980x1470.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0080-480x720.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw"/>
+<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0012.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0012.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0012-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0012-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
+<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0146-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
+<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0028.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0028.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0028-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0028-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
+<img width="2560" height="1708" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-scaled.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-scaled.jpg 2560w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-1280x854.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-980x654.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0014_1-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2560px, 100vw"/>
+<img width="2560" height="1708" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-scaled.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-scaled.jpg 2560w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-1280x854.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-980x654.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0999-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2560px, 100vw"/>
+<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0074-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
+<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0198-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
+<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0025-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
+<img width="1024" height="881" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0019.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0019.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0019-980x843.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0019-480x413.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
+<img width="720" height="540" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/FB_IMG_1683555518523.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/FB_IMG_1683555518523.jpg 720w, http://wendymorton.co.uk/wp-content/uploads/2023/05/FB_IMG_1683555518523-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw"/>
+<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0030.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0030.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0030-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0030-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
+<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0118-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
+<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0169_1-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
+<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0126-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
+<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0015.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0015.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0015-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0015-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
 <img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0014.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0014.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0014-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230508-WA0014-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
+<img width="1620" height="1080" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1.jpg 1620w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1-1280x853.jpg 1280w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1-980x653.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/DSC_0131_1-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1620px, 100vw"/>
+<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0033.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0033.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0033-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0033-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
+<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0020.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0020.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0020-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230505-WA0020-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
+<img width="1024" height="768" src="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0034.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" link="none" size="full" columns="4" type="divi" ids="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" orderby="rand" include="4668,4669,4670,4671,4672,4673,4674,4675,4676,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689" srcset="http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0034.jpg 1024w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0034-980x735.jpg 980w, http://wendymorton.co.uk/wp-content/uploads/2023/05/IMG-20230507-WA0034-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw"/>
 
 </div>
     </content>
@@ -909,6 +927,70 @@ Commenting afterwards, Greg said, "As a Member of the House of Commons European 
     <category term="Aspley"/>
     <category term="Basford"/>
     <category term="election"/>
+  </entry>
+  <entry>
+    <title>Cross Hands Care Home expansion opened by local MP</title>
+    <link rel="alternate" href="https://niagriffith.org.uk/2023/05/cross-hands-care-home-expansion-opened-by-local-mp/" type="text/html"/>
+    <content type="html">&lt;img width="500" height="277" src="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?resize=500%2C277&amp;amp;ssl=1" class="attachment-charitas-lite-medium-thumb size-charitas-lite-medium-thumb wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" srcset="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?resize=272%2C150&amp;amp;ssl=1 272w, https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?resize=500%2C277&amp;amp;ssl=1 500w, https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?zoom=2&amp;amp;resize=500%2C277 1000w, https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?zoom=3&amp;amp;resize=500%2C277 1500w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="8831" data-permalink="https://niagriffith.org.uk/2023/05/cross-hands-care-home-expansion-opened-by-local-mp/230505-gwernllwyn-4/" data-orig-file="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?fit=4032%2C3024&amp;amp;ssl=1" data-orig-size="4032,3024" data-comments-opened="0" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;1.8&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;iPhone SE (3rd generation)&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1683284683&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;3.99&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;50&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.01&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;}" data-image-title="230505 Gwernllwyn 4" data-image-description="" data-medium-file="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?fit=300%2C225&amp;amp;ssl=1" data-large-file="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?fit=790%2C593&amp;amp;ssl=1" /&gt;
+&lt;p&gt;New facilities to boost the quality of life for residents
+of a Cross Hands Care Home, including a bowling alley, coffee shop / bar and 26
+more bedrooms were officially opened earlier today by Dame Nia Griffith, the
+area’s local Member of Parliament.&lt;/p&gt;
+
+
+
+&lt;p&gt;The ambitious and innovative expansion of the Gwernllwyn
+Care Home at its complex on Llandeilo Road will not only increase its capacity
+to play host to more people in need of respite and residential care but, just
+as importantly, provide more things to keep its existing residents and their
+families occupied and supported.&lt;/p&gt;
+
+
+
+&lt;p&gt;The bowling alley and the coffee shop / bar area will
+also be accessible to the general public and will allow the local community to
+interact with those living in the care home in a comfortable and safe
+environment.&amp;nbsp; Additional parking has also been provided on site for
+visitors.&lt;/p&gt;
+
+
+
+&lt;p&gt;Welcoming the new investment into the Care Home, Dame Nia
+Griffith MP, said:&lt;/p&gt;
+
+
+
+&lt;p&gt;“It was a real pleasure to open this new state-of-the-art
+extension, bar and bowling alley, as it is great that residents here in the
+Gwernllwyn and their friends and family will be able to relax and enjoy a drink
+and a game, without having to leave the comfort of the complex. &lt;/p&gt;
+
+
+
+&lt;p&gt;I can imagine it will also make visiting Mamgu or Dadgu all the more fun for younger members of the family, and I congratulate Will James and his team on planning and developing this facility.“&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image"&gt;&lt;img data-attachment-id="8832" data-permalink="https://niagriffith.org.uk/2023/05/cross-hands-care-home-expansion-opened-by-local-mp/230505-gwernllwyn-3-1/" data-orig-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-3-1.jpg?fit=3061%2C2388&amp;amp;ssl=1" data-orig-size="3061,2388" data-comments-opened="0" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;1.8&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;iPhone SE (3rd generation)&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1683284298&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;3.99&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;32&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.00080321285140562&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;}" data-image-title="230505-Gwernllwyn-3-1" data-image-description="" data-medium-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-3-1.jpg?fit=300%2C234&amp;amp;ssl=1" data-large-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-3-1.jpg?fit=790%2C616&amp;amp;ssl=1" src="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-3-1.jpg?w=790&amp;#038;ssl=1" alt="" class="wp-image-8832" srcset="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-3-1.jpg?w=3061&amp;amp;ssl=1 3061w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-3-1.jpg?resize=300%2C234&amp;amp;ssl=1 300w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-3-1.jpg?resize=768%2C599&amp;amp;ssl=1 768w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-3-1.jpg?w=1580 1580w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-3-1.jpg?w=2370 2370w" sizes="(max-width: 790px) 100vw, 790px" data-recalc-dims="1" /&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image"&gt;&lt;img data-attachment-id="8833" data-permalink="https://niagriffith.org.uk/2023/05/cross-hands-care-home-expansion-opened-by-local-mp/230505-gwernllwyn-7/" data-orig-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-7.jpg?fit=4032%2C3024&amp;amp;ssl=1" data-orig-size="4032,3024" data-comments-opened="0" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;1.8&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;iPhone SE (3rd generation)&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1683284973&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;3.99&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;64&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.02&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;6&amp;quot;}" data-image-title="230505-Gwernllwyn-7" data-image-description="" data-medium-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-7.jpg?fit=300%2C225&amp;amp;ssl=1" data-large-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-7.jpg?fit=790%2C593&amp;amp;ssl=1" src="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-7.jpg?w=790&amp;#038;ssl=1" alt="" class="wp-image-8833" srcset="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-7.jpg?w=4032&amp;amp;ssl=1 4032w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-7.jpg?resize=300%2C225&amp;amp;ssl=1 300w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-7.jpg?resize=768%2C576&amp;amp;ssl=1 768w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-7.jpg?w=1580 1580w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-7.jpg?w=2370 2370w" sizes="(max-width: 790px) 100vw, 790px" data-recalc-dims="1" /&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image"&gt;&lt;img data-attachment-id="8834" data-permalink="https://niagriffith.org.uk/2023/05/cross-hands-care-home-expansion-opened-by-local-mp/230505-gwernllwyn-9/" data-orig-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-9.jpg?fit=4032%2C3024&amp;amp;ssl=1" data-orig-size="4032,3024" data-comments-opened="0" data-image-meta="{&amp;quot;aperture&amp;quot;:&amp;quot;1.8&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;iPhone SE (3rd generation)&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1683285298&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;3.99&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;125&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.02&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;}" data-image-title="230505-Gwernllwyn-9" data-image-description="" data-medium-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-9.jpg?fit=300%2C225&amp;amp;ssl=1" data-large-file="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-9.jpg?fit=790%2C593&amp;amp;ssl=1" src="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-9.jpg?w=790&amp;#038;ssl=1" alt="" class="wp-image-8834" srcset="https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-9.jpg?w=4032&amp;amp;ssl=1 4032w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-9.jpg?resize=300%2C225&amp;amp;ssl=1 300w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-9.jpg?resize=768%2C576&amp;amp;ssl=1 768w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-9.jpg?w=1580 1580w, https://i0.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-9.jpg?w=2370 2370w" sizes="(max-width: 790px) 100vw, 790px" data-recalc-dims="1" /&gt;&lt;/figure&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><img width="500" height="277" src="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?resize=500%2C277&amp;ssl=1" class="attachment-charitas-lite-medium-thumb size-charitas-lite-medium-thumb wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" srcset="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?resize=272%2C150&amp;ssl=1 272w, https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?resize=500%2C277&amp;ssl=1 500w, https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?zoom=2&amp;resize=500%2C277 1000w, https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?zoom=3&amp;resize=500%2C277 1500w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="8831" data-permalink="https://niagriffith.org.uk/2023/05/cross-hands-care-home-expansion-opened-by-local-mp/230505-gwernllwyn-4/" data-orig-file="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?fit=4032%2C3024&amp;ssl=1" data-orig-size="4032,3024" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone SE (3rd generation)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1683284683&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="230505 Gwernllwyn 4" data-image-description="" data-medium-file="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i2.wp.com/niagriffith.org.uk/wp-content/uploads/2023/05/230505-Gwernllwyn-4.jpg?fit=790%2C593&amp;ssl=1"/>New facilities to boost the quality of life for residents of a Cross Hands Care Home, including a bowling alley, coffee shop / bar and 26 more bedrooms were officially opened earlier today by Dame Nia Griffith, the area’s local Member of Parliament. The ambitious and innovative expansion of the Gwernllwyn Care Home at its […]</div>
+    </summary>
+    <author>
+      <name>Nia Griffith</name>
+    </author>
+    <id>http://niagriffith.org.uk/?p=8828</id>
+    <published>2023-05-05T14:35:51Z</published>
+    <updated>2023-05-05T14:35:51Z</updated>
+    <category term="News"/>
   </entry>
   <entry>
     <title>Our Man in Westminster - Ashford Sees Lower Crime Rates</title>
@@ -1403,26 +1485,6 @@ The…</content>
     <category term="Newsletters"/>
     <category term="Newsletter"/>
   </entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>oliverrosina@aol.com</name>
-					</author>
-
-		<title type="html"><![CDATA[FRESH START FOR FAILSWORTH FOODBANK]]></title>
-		<link rel="alternate" type="text/html" href="https://www.angelarayner.co.uk/2023/04/03/fresh-start-for-failsworth-foodbank/"/>
-
-		<id>https://www.angelarayner.co.uk/?p=486</id>
-		<updated>2023-04-03T10:23:39Z</updated>
-		<published>2023-04-03T10:23:39Z</published>
-		<category scheme="https://www.angelarayner.co.uk" term="NEWS"/>
-		<summary type="html"><![CDATA[]]></summary>
-
-					<content type="html" xml:base="https://www.angelarayner.co.uk/2023/04/03/fresh-start-for-failsworth-foodbank/"><![CDATA[]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.angelarayner.co.uk/2023/04/03/fresh-start-for-failsworth-foodbank/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.angelarayner.co.uk/2023/04/03/fresh-start-for-failsworth-foodbank/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry>
     <title>Matt Warman MP welcomes school debaters to Downing Street</title>
     <link rel="alternate" href="https://mattwarman.co.uk/2023/03/29/matt-warman-mp-welcomes-school-debaters-to-downing-street/" type="text/html"/>
@@ -1829,6 +1891,37 @@ The…</content>
     <category term="Education"/>
   </entry>
   <entry>
+    <title>Berry Bros &amp; Rudd New Warehouse in Andover</title>
+    <link rel="alternate" href="https://kitmalthouse.com/2022/berry-bros-rudd-new-warehouse-in-andover/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=berry-bros-rudd-new-warehouse-in-andover" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. </p>
+
+
+
+<p>While much of their business is selling wine, most of it is helping wine buyers and collectors look after their stock, and the warehouse is where it is all stored. As I was shown round, I marvelled at the famous names on the shelves: Lafitte, Latour, Petrus etc. </p>
+
+
+
+<p>The Warehouse is chilled to 12 degrees throughout, but happily due to solar panels on the roof, will be carbon neutral. </p>
+
+
+
+<p>It’s a great vote of confidence in Andover and in the UK wine industry which I hope will continue to lead the world, with possibly the biggest collection of fine wines on the planet, here in North West Hampshire. </p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. While much of their business is selling wine, most of […]</div>
+    </summary>
+    <author>
+      <name>Kit Malthouse</name>
+    </author>
+    <id>https://kitmalthouse.com/?p=2968</id>
+    <published>2022-11-05T08:26:32Z</published>
+    <updated>2022-11-05T08:26:32Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
+  <entry>
     <title>Dan Jarvis MP: Statement Regarding Sentencing</title>
     <link rel="alternate" href="http://www.danjarvis.org/statement_regarding_sentencing" type="text/html"/>
     <content type="xhtml">
@@ -2206,10 +2299,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6461d28bcecd1" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6461fafae1a17" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6461d28bcecd1').iPhorm({"id":5,"uniqueId":"6461d28bcecd1","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6461fafae1a17').iPhorm({"id":5,"uniqueId":"6461fafae1a17","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2284,10 +2377,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6461d28bcecd1" class="iphorm iphorm-form-5" action="/feed/#iphorm-6461d28bcecd1" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6461fafae1a17" class="iphorm iphorm-form-5" action="/feed/#iphorm-6461fafae1a17" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6461d28bcecd1" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6461fafae1a17" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2296,22 +2389,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6461d28bcecd1" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6461d28bcecd1" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6461fafae1a17" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6461fafae1a17" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6461d28bcecd1" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6461d28bcecd1" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6461fafae1a17" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6461fafae1a17" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6461d28bcecd1" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6461d28bcecd1" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6461fafae1a17" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6461fafae1a17" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2321,7 +2414,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6461d28bcecd1_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6461fafae1a17_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2340,7 +2433,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6461d28bcecd1 script').remove();
+    jQuery('#iphorm-outer-6461fafae1a17 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2400,7 +2493,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy4x27fU8xbAWTD8Fp6rdT3mlDwn2QAXlqH8vSDyv1lZO8uDuFN1pmB-wI6QdPzULz1rtukgHajcVtjnZRc2Q' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwQlvR9vZpxe_jBR2bL1xEheJIwpRq5zeEWsl6kSkFZyiNU93zIuJIc_idNbPm1pvnOQdaSgHJvIS5-pflM9A' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
