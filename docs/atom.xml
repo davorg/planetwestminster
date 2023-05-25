@@ -7,9 +7,21 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-25T15:27:50Z</updated>
+  <updated>2023-05-25T18:30:02Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Immigration Figures on Sky News</title>
+    <link rel="alternate" href="https://www.stephenkinnock.co.uk/immigration-figures-on-sky-news/" type="text/html"/>
+    <author>
+      <name>joshuatuck</name>
+    </author>
+    <id>https://www.stephenkinnock.co.uk/?p=3451</id>
+    <published>2023-05-25T16:08:20Z</published>
+    <updated>2023-05-25T16:08:20Z</updated>
+    <category term="Press &amp; Articles"/>
+    <category term="Shadow Minister for Immigration"/>
+  </entry>
   <entry>
     <title>Tory Immigration Minister quizzed on Stradey Park Hotel proposal</title>
     <link rel="alternate" href="https://niagriffith.org.uk/2023/05/tory-immigration-minister-quizzed-on-stradey-park-hotel-proposal/" type="text/html"/>
@@ -97,6 +109,16 @@
     <updated>2023-05-25T12:08:17Z</updated>
   </entry>
   <entry>
+    <title>🏥Video Update: Local MP welcomes £800million Government commitment to new Basingstoke Hospital</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/video-update-local-mp-welcomes-ps800million-government-commitment-new-basingstoke-hospital" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Today the Government has confirmed Hampshire Hospitals Trust can move forward to the next stage of their work to build a new Hospital to serve the people of Basingstoke. The Hospital Trust’s detailed business plan has been developed over the past 3 years, with widespread support including through ‘…</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/video-update-local-mp-welcomes-ps800million-government-commitment-new-basingstoke-hospital</id>
+    <published>2023-05-25T13:00:00+01:00</published>
+    <updated>2023-05-25T13:00:00+01:00</updated>
+  </entry>
+  <entry>
     <title>Brendan Clarke-Smith MP welcomes new measures to improve patient choice</title>
     <link rel="alternate" href="https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-welcomes-new-measures-improve-patient-choice" type="text/html"/>
     <content type="xhtml">
@@ -127,6 +149,15 @@ The proposed new rail line, which…</div>
  The Health Secretary has announced the full rebuild of Queen Elizabeth Hospital in Kings Lynn by 2030. This will hugely improve patient care, quality and outcomes as well as support the wider healthcare sector in Norfolk and is additional to the total rebuild of…</div>
     </content>
     <id>https://www.jeromemayhew.org.uk/news/queen-elizabeth-hospital-be-rebuilt</id>
+    <published>2023-05-25T13:00:00+01:00</published>
+    <updated>2023-05-25T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Greg welcomes new hospital for MK but challenges Health Secretary to ensure Wycombe Hospital gets the money it needs</title>
+    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-welcomes-new-hospital-mk-challenges-health-secretary-ensure-wycombe-hospital-gets-money" type="text/html"/>
+    <content type="text">With no major hospital in the Buckingham constituency, Buckingham constituents depend on hospital services at Stoke Mandeville, Wycombe, Milton Keynes, the JR, Watford and others.
+Recently Stoke Mandeville has received funding for a new children's A&amp;E and as part of a major announcement on new…</content>
+    <id>https://www.gregsmith.co.uk/news/greg-welcomes-new-hospital-mk-challenges-health-secretary-ensure-wycombe-hospital-gets-money</id>
     <published>2023-05-25T13:00:00+01:00</published>
     <updated>2023-05-25T13:00:00+01:00</updated>
   </entry>
@@ -185,17 +216,6 @@ The proposed new rail line, which…</div>
     <updated>2023-05-25T11:31:55Z</updated>
     <category term="Local News"/>
     <category term="News"/>
-  </entry>
-  <entry>
-    <title>Labour’s Immigration Policy on LBC Radio</title>
-    <link rel="alternate" href="https://www.stephenkinnock.co.uk/labours-immigration-policy-on-lbc-radio/" type="text/html"/>
-    <author>
-      <name>joshuatuck</name>
-    </author>
-    <id>https://www.stephenkinnock.co.uk/?p=3432</id>
-    <published>2023-05-25T10:34:22Z</published>
-    <updated>2023-05-25T10:34:22Z</updated>
-    <category term="Press &amp; Articles"/>
   </entry>
   <entry>
     <title>Long-awaited legislation for a visitor levy</title>
@@ -349,16 +369,6 @@ Jo Grady, the general secretary of the University and College Union, said the pr
 ]]></content>
 		
 			</entry>
-  <entry>
-    <title>Video Update:  #NHSAtItsBest </title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/video-update-nhsatitsbest" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">To support our local surgeries the Government is planning to invest over £600million so that pharmacists can provide treatments for common conditions...</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/video-update-nhsatitsbest</id>
-    <published>2023-05-24T13:00:00+01:00</published>
-    <updated>2023-05-24T13:00:00+01:00</updated>
-  </entry>
   <entry>
     <title>Commonwealth War Graves Week 2023</title>
     <link rel="alternate" href="http://wendymorton.co.uk/commonwealth-war-graves-week-2023/" type="text/html"/>
@@ -657,16 +667,6 @@ The dedication, hard work and commitment from volunteers is incredible. Their ef
 859 academies, sixth form colleges and…</div>
     </content>
     <id>https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-share-over-ps450-million-conservative-government-improve-school</id>
-    <published>2023-05-22T13:00:00+01:00</published>
-    <updated>2023-05-22T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Greg leads delegation to see Rail Minister over state of Bucks roads damaged by HS2 and East West Rail</title>
-    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-leads-delegation-see-rail-minister-over-state-bucks-roads-damaged-hs2-and-east-west-rail" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This afternoon Greg Smith MP led a high-level meeting at the Department for Transport with Rail Minister Huw Merriman MP and Cllr Martin Tett, Cllr Steve Broadbent, Cllr Peter Martin and officers from Buckinghamshire Council to demand more funding and cooperation from both HS2 and EWR to repair…</div>
-    </content>
-    <id>https://www.gregsmith.co.uk/news/greg-leads-delegation-see-rail-minister-over-state-bucks-roads-damaged-hs2-and-east-west-rail</id>
     <published>2023-05-22T13:00:00+01:00</published>
     <updated>2023-05-22T13:00:00+01:00</updated>
   </entry>
@@ -2137,10 +2137,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-646f7e582cc7e" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-646fa9102427d" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-646f7e582cc7e').iPhorm({"id":5,"uniqueId":"646f7e582cc7e","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-646fa9102427d').iPhorm({"id":5,"uniqueId":"646fa9102427d","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2215,10 +2215,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-646f7e582cc7e" class="iphorm iphorm-form-5" action="/feed/#iphorm-646f7e582cc7e" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-646fa9102427d" class="iphorm iphorm-form-5" action="/feed/#iphorm-646fa9102427d" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="646f7e582cc7e" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="646fa9102427d" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2227,22 +2227,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_646f7e582cc7e" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_646f7e582cc7e" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_646fa9102427d" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_646fa9102427d" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_646f7e582cc7e" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_646f7e582cc7e" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_646fa9102427d" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_646fa9102427d" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_646f7e582cc7e" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_646f7e582cc7e" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_646fa9102427d" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_646fa9102427d" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2252,7 +2252,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_646f7e582cc7e_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_646fa9102427d_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2271,7 +2271,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-646f7e582cc7e script').remove();
+    jQuery('#iphorm-outer-646fa9102427d script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
