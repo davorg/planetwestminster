@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-31T12:34:19Z</updated>
+  <updated>2023-05-31T15:28:35Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Universal Credit and Single Parent Families</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/universal-credit-and-single-parent-families" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<span property="schema:name">Universal Credit and Single Parent Families</span>
+
+<span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/user/12" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Andrew</span></span>
+
+<span property="schema:dateCreated" content="2023-05-31T14:00:00+00:00">Wed, 05/31/2023 - 15:00</span>
+</div>
+    </content>
+    <author>
+      <name>Andrew</name>
+    </author>
+    <id>1206 at https://joncruddas.org.uk</id>
+    <published>2023-05-31T14:00:00Z</published>
+    <updated>2023-05-31T14:00:00Z</updated>
+  </entry>
   <entry>
     <title>The George Pub in Bethersden Reopens its Doors</title>
     <link rel="alternate" href="https://www.damiangreen.co.uk/news/george-pub-bethersden-reopens-its-doors" type="text/html"/>
@@ -73,14 +92,14 @@ He was joined by the Chairman Paul Coe and five volunteers who spent some time t
 		
 			</entry>
   <entry>
-    <title>Transport Convener: "Landmark event" for Trams to Newhaven</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13738/transport-convener-landmark-event-for-trams-to-newhaven" type="text/html"/>
+    <title>Gilmerton residents young and old get stuck in to new garden</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13739/gilmerton-residents-young-and-old-get-stuck-in-to-new-garden" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Councillor Scott Arthur, Transport and Environment Convener, writes in today's Edinburgh Evening News about the launch of tram passenger services to Newhaven - and wider transport plans for the city.</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">A garden bursting with fresh veg, fruit and flowers has opened in South East Edinburgh thanks to thousands of pounds in funding.</div>
     </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13738/transport-convener-landmark-event-for-trams-to-newhaven</id>
-    <published>2023-05-31T10:52:00+01:00</published>
-    <updated>2023-05-31T10:52:00+01:00</updated>
+    <id>https://www.edinburgh.gov.uk/news/article/13739/gilmerton-residents-young-and-old-get-stuck-in-to-new-garden</id>
+    <published>2023-05-31T11:14:00+01:00</published>
+    <updated>2023-05-31T11:14:00+01:00</updated>
   </entry>
   <entry>
     <title>A guide to what has gone wrong in the bond market.</title>
@@ -530,25 +549,6 @@ The post <a href="http://karinsmyth.com/2023/05/26/weekly-round-up-26-may-2023/"
     <published>2023-05-26T15:05:33Z</published>
     <updated>2023-05-26T15:05:33Z</updated>
     <category term="Bristol South"/>
-  </entry>
-  <entry>
-    <title>Rainham Foodbank: More Than Food</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/rainham-foodbank-more-food" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<span property="schema:name">Rainham Foodbank: More Than Food</span>
-
-<span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/user/14" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Ione</span></span>
-
-<span property="schema:dateCreated" content="2023-05-26T14:33:00+00:00">Fri, 05/26/2023 - 15:33</span>
-</div>
-    </content>
-    <author>
-      <name>Ione</name>
-    </author>
-    <id>1205 at https://joncruddas.org.uk</id>
-    <published>2023-05-26T14:33:00Z</published>
-    <updated>2023-05-26T14:33:00Z</updated>
   </entry>
   <entry>
 		<author>
@@ -2262,10 +2262,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64773eae15cbe" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64776775a5617" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64773eae15cbe').iPhorm({"id":5,"uniqueId":"64773eae15cbe","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64776775a5617').iPhorm({"id":5,"uniqueId":"64776775a5617","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2340,10 +2340,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64773eae15cbe" class="iphorm iphorm-form-5" action="/feed/#iphorm-64773eae15cbe" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64776775a5617" class="iphorm iphorm-form-5" action="/feed/#iphorm-64776775a5617" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64773eae15cbe" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64776775a5617" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2352,22 +2352,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64773eae15cbe" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64773eae15cbe" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64776775a5617" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64776775a5617" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64773eae15cbe" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64773eae15cbe" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64776775a5617" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64776775a5617" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64773eae15cbe" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64773eae15cbe" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64776775a5617" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64776775a5617" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2377,7 +2377,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64773eae15cbe_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64776775a5617_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2396,7 +2396,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64773eae15cbe script').remove();
+    jQuery('#iphorm-outer-64776775a5617 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2456,7 +2456,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwwJFymaYcJbfswHPimluOpmuu_4nrpN8OMm1Ag8O5ouVBFpQsNjedOeXY6Ke2li0oOUY4PX4yt5NiP3QpKQQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxPTMKVbQ4dPynVakHBZyjzGtzOwEgAQvCfzbckLKrPxoI9LzXy1qNk9H39vAefTyjbPa4NWBGpKSojyFNrLw' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
