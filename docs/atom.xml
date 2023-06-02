@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-02T09:27:46Z</updated>
+  <updated>2023-06-02T12:35:29Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>My statement on the continued closure of the High Wycombe driving test centre</title>
+    <link rel="alternate" href="https://www.stevebaker.info/2023/06/my-statement-on-the-continued-closure-of-the-high-wycombe-driving-test-centre/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I understand the frustration the continued closure of the driving test centre is causing. I share that frustration. Constituents are routinely writing to me requesting an update on its planned reopening, illustrating the reasons I believe it is essential we have a functional driving test centre in High Wycombe. As many of my constituents know, we have, of course, been here before. Twice now, I have worked with key stakeholders in our area to save the driving test centre in […]</div>
+    </content>
+    <author>
+      <name>Liam Shearer</name>
+    </author>
+    <id>https://www.stevebaker.info/?p=18663</id>
+    <published>2023-06-02T11:30:18Z</published>
+    <updated>2023-06-02T11:30:18Z</updated>
+    <category term="Politics"/>
+    <category term="#DrivingTestCentre"/>
+    <category term="#Working4Wycombe"/>
+    <category term="Driving Test Centre"/>
+    <category term="High Wycombe"/>
+    <category term="Working4Wycombe"/>
+  </entry>
   <entry>
     <title>Rushanara Ali MPs statement on Asylum seekers left to ‘sleep on street’ in Whitechapel. </title>
     <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_mps_statement_on_asylum_seekers_left_to_sleep_on_street_in_whitechapel" type="text/html"/>
@@ -916,24 +935,6 @@ The newspaper report reveals that senior executives of the Board apparently cons
     <id>https://www.scottbenton.org.uk/news/scott-benton-mp-welcomes-share-over-ps450-million-conservative-government-improve-school</id>
     <published>2023-05-22T13:00:00+01:00</published>
     <updated>2023-05-22T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Weekly round-up #Working4Wycombe</title>
-    <link rel="alternate" href="https://www.stevebaker.info/2023/05/weekly-round-up-working4wycombe-39/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">What I have been up to this week #Working4Wycombe: Met with the Parliamentary Under Secretary of State for Social Mobility, Youth and Progression on behalf of Wycombe Homeless Connection. Attended the Penn and Tylers Green Residents’ Society AGM. Visited the Christian Aid Week Reception in Parliament to discuss their work with women in Malawi and business as development. Supported Pine Trees residents to help get their community centre opened, including visiting Wrights Meadow Centre to see how a good community building […]</div>
-    </content>
-    <author>
-      <name>Liam Shearer</name>
-    </author>
-    <id>https://www.stevebaker.info/?p=18659</id>
-    <published>2023-05-19T17:04:37Z</published>
-    <updated>2023-05-19T17:04:37Z</updated>
-    <category term="Politics"/>
-    <category term="#Working4Wycombe"/>
-    <category term="#Wycombe"/>
-    <category term="Working4Wycombe"/>
-    <category term="Wycombe"/>
   </entry>
   <entry>
     <title>Anne Marie's Weekly Column</title>
@@ -1848,7 +1849,7 @@ The…</content>
 
 
   <div>
-      <img loading="lazy" src="https://www.markpritchard.com/sites/www.markpritchard.com/files/styles/gallery_large/public/2021-02/Shifnal%20GP%20Surgery.png?itok=igy63gKE" width="830" height="540" alt="Shifnal GP Surgery Plans" typeof="foaf:Image"/></div>
+      <img loading="lazy" src="https://www.markpritchard.com/sites/www.markpritchard.com/files/styles/gallery_large/public/2021-02/Shifnal%20GP%20Surgery.png?itok=ROJpTLyg" width="830" height="540" alt="Shifnal GP Surgery Plans" typeof="foaf:Image"/></div>
 </div>
 
             <div class="body"><p>The local Clinical Commissioning Group has confirmed that the funding is in place to build a new GP surgery for Shifnal.</p>
@@ -2075,10 +2076,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6479b5f436132" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6479e1eb62fcd" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6479b5f436132').iPhorm({"id":5,"uniqueId":"6479b5f436132","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6479e1eb62fcd').iPhorm({"id":5,"uniqueId":"6479e1eb62fcd","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2153,10 +2154,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6479b5f436132" class="iphorm iphorm-form-5" action="/feed/#iphorm-6479b5f436132" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6479e1eb62fcd" class="iphorm iphorm-form-5" action="/feed/#iphorm-6479e1eb62fcd" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6479b5f436132" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6479e1eb62fcd" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2165,22 +2166,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6479b5f436132" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6479b5f436132" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6479e1eb62fcd" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6479e1eb62fcd" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6479b5f436132" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6479b5f436132" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6479e1eb62fcd" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6479e1eb62fcd" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6479b5f436132" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6479b5f436132" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6479e1eb62fcd" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6479e1eb62fcd" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2190,7 +2191,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6479b5f436132_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6479e1eb62fcd_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2209,7 +2210,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6479b5f436132 script').remove();
+    jQuery('#iphorm-outer-6479e1eb62fcd script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
