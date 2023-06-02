@@ -7,9 +7,40 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-02T12:35:29Z</updated>
+  <updated>2023-06-02T15:27:41Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Statement on confirmation that the Home Office will use Stradey Park Hotel for asylum seeker accommodation</title>
+    <link rel="alternate" href="https://niagriffith.org.uk/2023/06/statement-on-confirmation-that-the-home-office-will-use-stradey-park-hotel-for-asylum-seeker-accommodation/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>The complete and utter disregard from Tory UK Government Ministers in deciding to go ahead with this proposal despite strong opposition locally and a lack of any proper consultation with the surrounding communities is, even for them, truly shocking.</p>
+
+
+
+<p>Using the Stradey Park Hotel as emergency accommodation
+for around two hundred asylum seekers caught up in the processing backlog
+created by this current Government, is likely to put extra pressure on local
+public services and has already been met with stiff opposition from
+councillors, health providers, the police and others.</p>
+
+
+
+<p>I join with them, and with so many concerned local residents here in Llanelli, in continuing to vigorously oppose this ill thought out and unworkable decision.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The complete and utter disregard from Tory UK Government Ministers in deciding to go ahead with this proposal despite strong opposition locally and a lack of any proper consultation with the surrounding communities is, even for them, truly shocking. Using the Stradey Park Hotel as emergency accommodation for around two hundred asylum seekers caught up […]</div>
+    </summary>
+    <author>
+      <name>Nia Griffith</name>
+    </author>
+    <id>http://niagriffith.org.uk/?p=8855</id>
+    <published>2023-06-02T15:24:15Z</published>
+    <updated>2023-06-02T15:24:15Z</updated>
+    <category term="News"/>
+  </entry>
   <entry>
     <title>My statement on the continued closure of the High Wycombe driving test centre</title>
     <link rel="alternate" href="https://www.stevebaker.info/2023/06/my-statement-on-the-continued-closure-of-the-high-wycombe-driving-test-centre/" type="text/html"/>
@@ -634,35 +665,6 @@ Their voices must be heard, which is why, following the comprehensive review of 
     <category term="Keeping You Informed"/>
     <category term="Other"/>
     <category term="Your community"/>
-  </entry>
-  <entry>
-    <title>Tory Immigration Minister quizzed on Stradey Park Hotel proposal</title>
-    <link rel="alternate" href="https://niagriffith.org.uk/2023/05/tory-immigration-minister-quizzed-on-stradey-park-hotel-proposal/" type="text/html"/>
-    <content type="html">
-&lt;figure class="wp-block-video"&gt;&lt;video controls src="https://niagriffith.org.uk/wp-content/uploads/2023/05/230525NiaStradeyPark.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-
-
-&lt;p&gt;Today in Parliament I told the Tory immigration minister, Robert Jenrick MP, how shocked and concerned we are to hear that he is planning to house 300 Asylum seekers in the Stradey Park Hotel. &lt;/p&gt;
-
-
-
-&lt;p&gt;I asked him to meet me to hear our concerns and asked him what he is doing to prevent the need to commandeer the Stradey Park Hotel, and to sort out the Home Office backlog of 160,000 claims so those from safe countries can be returned and those who are genuine refugees can move out of hotels and be integrated in small numbers into suitable communities.&lt;/p&gt;
-
-
-
-&lt;p&gt;He refused to answer and failed to agree to even meet with me to listen to the views of local people on the subject. &lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Today in Parliament I told the Tory immigration minister, Robert Jenrick MP, how shocked and concerned we are to hear that he is planning to house 300 Asylum seekers in the Stradey Park Hotel. I asked him to meet me to hear our concerns and asked him what he is doing to prevent the need […]</div>
-    </summary>
-    <author>
-      <name>Nia Griffith</name>
-    </author>
-    <id>http://niagriffith.org.uk/?p=8848</id>
-    <published>2023-05-25T14:33:51Z</published>
-    <updated>2023-05-25T14:33:51Z</updated>
-    <category term="News"/>
   </entry>
   <entry>
     <title>Brendan Clarke-Smith MP welcomes new measures to improve patient choice</title>
@@ -2076,10 +2078,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6479e1eb62fcd" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-647a0a51c0577" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6479e1eb62fcd').iPhorm({"id":5,"uniqueId":"6479e1eb62fcd","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-647a0a51c0577').iPhorm({"id":5,"uniqueId":"647a0a51c0577","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2154,10 +2156,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6479e1eb62fcd" class="iphorm iphorm-form-5" action="/feed/#iphorm-6479e1eb62fcd" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-647a0a51c0577" class="iphorm iphorm-form-5" action="/feed/#iphorm-647a0a51c0577" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6479e1eb62fcd" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="647a0a51c0577" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2166,22 +2168,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6479e1eb62fcd" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6479e1eb62fcd" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_647a0a51c0577" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_647a0a51c0577" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6479e1eb62fcd" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6479e1eb62fcd" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_647a0a51c0577" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_647a0a51c0577" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6479e1eb62fcd" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6479e1eb62fcd" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_647a0a51c0577" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_647a0a51c0577" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2191,7 +2193,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6479e1eb62fcd_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_647a0a51c0577_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2210,7 +2212,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6479e1eb62fcd script').remove();
+    jQuery('#iphorm-outer-647a0a51c0577 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
