@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-03T09:27:51Z</updated>
+  <updated>2023-06-03T12:34:16Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Hello world!</title>
+    <link rel="alternate" href="http://www.shapps.com/uncategorized/hello-world/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</div>
+    </summary>
+    <author>
+      <name>admin</name>
+    </author>
+    <id>http://www.shapps.com/?p=1</id>
+    <published>2023-06-03T10:55:40Z</published>
+    <updated>2023-06-03T10:55:40Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Stop the  net zero policies that will add to CO2 and damage the UK economy</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2023/06/03/stop-the-net-zero-policies-that-will-add-to-co2-and-damage-the-uk-economy/" type="text/html"/>
@@ -967,29 +986,6 @@ The newspaper report reveals that senior executives of the Board apparently cons
     <published>2023-05-17T14:27:19Z</published>
     <updated>2023-05-17T14:27:19Z</updated>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>Peartree Primary School Student Council Members Meet with Local MP</title>
-    <link rel="alternate" href="https://www.shapps.com/peartree-primary-school-student-council-members-meet-with-local-mp/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=peartree-primary-school-student-council-members-meet-with-local-mp" type="text/html"/>
-    <content type="html">
-&lt;p&gt;&lt;strong&gt;Grant Shapps, the local MP for Welwyn Hatfield, visited Peartree Primary School in his constituency and met with staff and students.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;During his visit, Mr Shapps caught up with the staff of Peartree and learnt all about their plans for transformation over the next few years. Thanks to the Conservative Government’s School Rebuilding programme, Peartree was a beneficiary of the programme which is backed by £1.8 billion of government funding over this financial year.&lt;br&gt;&lt;br&gt;Mr Shapps was thrilled to see that Peartree had benefited from this funding and looks forward to seeing their transformation. In the past, Mr Shapps helped free up playground space at Peartree by getting a disused Victorian loo block removed which has helped generations of pupils enjoy a little more&amp;nbsp;open&amp;nbsp;space.&lt;br&gt;&lt;br&gt;Mr Shapps also met with student members of the school council who asked him an array of questions about his career, local issues and his life as the constituency&amp;#8217;s parliament member. The members of the school council are aged between five and eleven and are elected by their classmates to give them a voice in Peartree School’s vision, projects and events.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;Mr Shapps commented on his visit and on his time with members of the school council:&lt;br&gt;&lt;br&gt;“It was a pleasure to catch up with staff and visit pupils at Peartree School last week. The children are clearly enjoying their time there very much, and it was really helpful to get an insight from Miss Hardy and her team as to how everyone’s getting on. Plus, I enjoyed a brilliant sit-down with the School Council &amp;#8211; they really put me through my paces with their questions.”&lt;br&gt;&lt;br&gt;Megan Hardy, the Head of School at Peartree, thanked Mr Shapps for visiting and meeting with the staff and students:&lt;br&gt;&lt;br&gt;“It was a pleasure to show Mr Shapps around Peartree and to talk to him about our plans for the school’s transformation over the coming years.”&lt;br&gt;&lt;br&gt;She continued:&lt;br&gt;&lt;br&gt;“The children were really excited to meet their MP and they came up with plenty of interesting questions to ask him. They were very inspired by his visit, so we may even have a future prime minister among us!”&amp;nbsp;&lt;br&gt;&lt;br&gt;Mr Shapps thanks Peartree for having him visit and wishes the staff and students all the best for the future.&lt;/p&gt;
-&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.shapps.com/peartree-primary-school-student-council-members-meet-with-local-mp/"&gt;Peartree Primary School Student Council Members Meet with Local MP&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.shapps.com"&gt;The Rt Hon Grant Shapps MP&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Grant Shapps, the local MP for Welwyn Hatfield, visited Peartree Primary School in his constituency and met with staff and students. During his visit, Mr Shapps caught up with the staff of Peartree and learnt all about their plans for transformation over the next few years. Thanks to the Conservative Government’s School Rebuilding programme, Peartree […]</p>
-<p>The post <a rel="nofollow" href="https://www.shapps.com/peartree-primary-school-student-council-members-meet-with-local-mp/">Peartree Primary School Student Council Members Meet with Local MP</a> appeared first on <a rel="nofollow" href="https://www.shapps.com">The Rt Hon Grant Shapps MP</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>William Yarwood</name>
-    </author>
-    <id>https://www.shapps.com/?p=48284</id>
-    <published>2023-05-17T14:05:47Z</published>
-    <updated>2023-05-17T14:05:47Z</updated>
-    <category term="Uncategorized"/>
-    <category term="Grant Shapps"/>
-    <category term="News"/>
-    <category term="Welwyn Hatfield"/>
   </entry>
   <entry>
     <title>CATHERINE BACKS CALLS FOR IMPROVED DIABETES CARE</title>
@@ -2068,10 +2064,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-647b076cef5c7" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-647b332dc2747" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-647b076cef5c7').iPhorm({"id":5,"uniqueId":"647b076cef5c7","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-647b332dc2747').iPhorm({"id":5,"uniqueId":"647b332dc2747","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2146,10 +2142,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-647b076cef5c7" class="iphorm iphorm-form-5" action="/feed/#iphorm-647b076cef5c7" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-647b332dc2747" class="iphorm iphorm-form-5" action="/feed/#iphorm-647b332dc2747" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="647b076cef5c7" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="647b332dc2747" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2158,22 +2154,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_647b076cef5c7" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_647b076cef5c7" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_647b332dc2747" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_647b332dc2747" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_647b076cef5c7" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_647b076cef5c7" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_647b332dc2747" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_647b332dc2747" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_647b076cef5c7" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_647b076cef5c7" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_647b332dc2747" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_647b332dc2747" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2183,7 +2179,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_647b076cef5c7_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_647b332dc2747_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2202,7 +2198,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-647b076cef5c7 script').remove();
+    jQuery('#iphorm-outer-647b332dc2747 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2262,7 +2258,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyjoG731SwIaCvocUBI2XNyv2HVvYOWiIJMm6C8TlUfJgCZLMmXkPvFiFFQ2Nhhf7wOPOmyZ4u_v09tsi4AFA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw_YrF2l6t3ESOn7Ns4CmzmsSWGKuLsVkmo9lw_F3ipBmmlJqnYYvBItbEKVJsM98iRPUE_wWWFd0jXWEmB5A' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
