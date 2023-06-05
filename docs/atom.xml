@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-05T15:28:49Z</updated>
+  <updated>2023-06-05T18:30:21Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -22,6 +22,55 @@ The funding is being awarded to further education colleges across the country, b
     <id>https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-urges-colleges-across-bassetlaw-bid-new-funding-conservative</id>
     <published>2023-06-30T13:00:00+01:00</published>
     <updated>2023-06-30T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Rushanara Ali on the Covid Inquiry</title>
+    <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_on_the_covid_inquiry" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Rushanara Ali on the Covid Inquiry</p>
+      </div>
+    </content>
+    <author>
+      <name>Rushanara Ali</name>
+    </author>
+    <id>http://www.rushanaraali.org/rushanara_ali_on_the_covid_inquiry</id>
+    <published>2023-06-05T18:07:00+01:00</published>
+    <updated>2023-06-05T18:07:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Watton and Wayland Jobs Fair</title>
+    <link rel="alternate" href="https://www.georgefreeman.co.uk/gallery/watton-and-wayland-jobs-fair" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<span>Watton and Wayland Jobs Fair</span>
+
+<span><span lang="" about="https://www.georgefreeman.co.uk/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">jon</span></span>
+
+<span>Mon, 06/05/2023 - 17:48</span>
+
+  <div class="field field--name-field-gallery-image field--type-entity-reference field--label-above">
+    <div class="field--label">field_gallery_image</div>
+              <div class="field--item"><a href="https://www.georgefreeman.co.uk/media/2812/edit" hreflang="en">george_freeman_watton_jobs_fair_feature.jpg</a></div>
+          </div>
+</div>
+    </content>
+    <author>
+      <name>jon</name>
+    </author>
+    <id>2707 at https://www.georgefreeman.co.uk</id>
+    <published>2023-06-05T16:48:18Z</published>
+    <updated>2023-06-05T16:48:18Z</updated>
+  </entry>
+  <entry>
+    <title>Travelling Gallery announces second season of 2023 programme</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13742/travelling-gallery-announces-second-season-of-2023-programme" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Launching Thursday 8 June at Calton Hill from 12noon – 6pm</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13742/travelling-gallery-announces-second-season-of-2023-programme</id>
+    <published>2023-06-05T17:19:00+01:00</published>
+    <updated>2023-06-05T17:19:00+01:00</updated>
   </entry>
   <entry>
     <title>My Weekly Round-up</title>
@@ -133,6 +182,19 @@ Maria said, ‘’Basingstoke…</div>
     <category term="Other"/>
   </entry>
   <entry>
+    <title>Buckingham Country Show 2023</title>
+    <link rel="alternate" href="https://www.gregsmith.co.uk/news/buckingham-country-show-2023" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Greg Smith MP was delighted to attend the Buckingham Country Show 2023 in Foscote.
+Greg said,"Wonderful fun for the whole family at the Buckingham Country Show 2023 today.
+"Brilliant work by Buckingham Young Farmers Club to put it on and thank you to all the volunteers involved.
+"A pleasure to…</div>
+    </content>
+    <id>https://www.gregsmith.co.uk/news/buckingham-country-show-2023</id>
+    <published>2023-06-03T13:00:00+01:00</published>
+    <updated>2023-06-03T13:00:00+01:00</updated>
+  </entry>
+  <entry>
     <title>Philip Dunne MP with local campaigner Rebecca Hall and Cllr Dan Morris</title>
     <link rel="alternate" href="https://www.philipdunne.com/gallery/philip-dunne-mp-local-campaigner-rebecca-hall-and-cllr-dan-morris" type="text/html"/>
     <content type="xhtml">
@@ -207,21 +269,6 @@ councillors, health providers, the police and others.</p>
     <category term="Driving Test Centre"/>
     <category term="High Wycombe"/>
     <category term="Working4Wycombe"/>
-  </entry>
-  <entry>
-    <title>Rushanara Ali MPs statement on Asylum seekers left to ‘sleep on street’ in Whitechapel. </title>
-    <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_mps_statement_on_asylum_seekers_left_to_sleep_on_street_in_whitechapel" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <p>"These scenes of asylum seekers being dumped by the Home Secretary and her department in unsuitable accommodation with some reportedly having to sleep outside, are inhumane and unacceptable..."</p>
-      </div>
-    </content>
-    <author>
-      <name>Rushanara Ali</name>
-    </author>
-    <id>http://www.rushanaraali.org/rushanara_ali_mps_statement_on_asylum_seekers_left_to_sleep_on_street_in_whitechapel</id>
-    <published>2023-06-02T09:42:00+01:00</published>
-    <updated>2023-06-02T09:42:00+01:00</updated>
   </entry>
   <entry>
     <title>MacNeil calls for immediate Lochboisdale ferry solution</title>
@@ -306,17 +353,6 @@ Chapter House Care Home opened in Keldgate, Beverley in November 2022 to provide
     <updated>2023-06-01T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Thank you Donald!</title>
-    <link rel="alternate" href="https://www.gregsmith.co.uk/news/thank-you-donald" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Greg Smith MP was delighted to join Donald Rintoul today to thank him for many years of service to the local community in Princes Risborough. 
-Greg said, "It was an absolute pleasure to join Donald Rintoul at Dukes Wine Bar in Princes Risborough this lunchtime to celebrate his 13+ years involvement…</div>
-    </content>
-    <id>https://www.gregsmith.co.uk/news/thank-you-donald</id>
-    <published>2023-06-01T13:00:00+01:00</published>
-    <updated>2023-06-01T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Karin Smyth MP demands an end to the Tory Sewage Scandal</title>
     <link rel="alternate" href="http://karinsmyth.com/2023/06/01/karin-smyth-mp-demands-an-end-to-the-tory-sewage-scandal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=karin-smyth-mp-demands-an-end-to-the-tory-sewage-scandal" type="text/html"/>
     <content type="xhtml">
@@ -344,59 +380,6 @@ The post <a href="http://karinsmyth.com/2023/06/01/karin-smyth-mp-demands-an-end
     <published>2023-06-01T11:22:23Z</published>
     <updated>2023-06-01T11:22:23Z</updated>
     <category term="Bristol South"/>
-  </entry>
-  <entry>
-    <title>Watton Jobs Fair – Tomorrow!</title>
-    <link rel="alternate" href="https://www.georgefreeman.co.uk/news/watton-jobs-fair-tomorrow" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">  <div data-history-node-id="2705" class="layout layout--onecol">
-    <div class="layout__region layout__region--content">
-      
-            <div class="field field--name-field-date field--type-datetime field--label-hidden field--item">1 June 2023</div>
-      
-      <div class="field field--name-field-page-builder field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="field--item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
-          
-            <div class="field field--name-field-paragraph-title field--type-string field--label-hidden field--item"><span>Watton Jobs Fair – Tomorrow!</span></div>
-      
-            <div class="field field--name-field-paragraph-text field--type-text-long field--label-hidden field--item"><p><span><span><span><span><span><span>Are you an upcoming school leaver, someone in search of a job, or even someone just looking for a new exciting career or opportunity?</span></span></span></span></span></span></p>
-
-<p><span><span><span><span><span><span>Are you a local business interested in speaking to LOCAL people about opportunities in their area.</span></span></span></span></span></span></p>
-
-<p><span><span><span><span><span><span>Then Wayland Chamber of Commerce want to hear from YOU!</span></span></span></span></span></span></p>
-
-<p><span><span><span><span><span><span>Following the success of last year’s brilliant Jobs Fair in Watton (at which over 300 jobseekers met with almost forty employers from the Dereham-Watton/Wayland-Attleborough-Wymondham area), the Wayland Chamber of Commerce are once again arranging this wonderful event – supported by the local Department for Work and Pensions team, local councillors and myself.</span></span></span></span></span></span></p>
-
-<p><span><span><span><span><span><span>If you are interested in attending, please do get in touch via </span></span></span><span><a href="mailto:george.freeman.mp@parliament.uk"><span><span><span>george.freeman.mp@parliament.uk</span></span></span></a></span><span><span><span> I would be delighted to put you in touch with the Wayland Chamber and DWP teams.</span></span></span></span></span></span></p></div>
-      
-      </div>
-</div>
-              <div class="field--item">  <div class="paragraph paragraph--type--image paragraph--view-mode--default">
-              
-      <div class="image-container">
-        
-            <div class="field field--name-field-paragraph-image field--type-entity-reference field--label-hidden field--item">  <img src="https://www.georgefreeman.co.uk/sites/georgefreeman.co.uk/files/2023-05/wayland_chamber_jobs_fair_2023.05_poster_1.jpg" width="2480" height="3508" loading="lazy" typeof="foaf:Image" class="img-responsive"/></div>
-      
-        <div class="caption">
-          <div class="svg">
-          </div>
-        </div>
-      </div>
-          </div>
-</div>
-          </div>
-  
-    </div>
-  </div>
-
-</div>
-    </content>
-    <author>
-      <name>jon</name>
-    </author>
-    <id>2705 at https://www.georgefreeman.co.uk</id>
-    <published>2023-06-01T11:20:13Z</published>
-    <updated>2023-06-01T11:20:13Z</updated>
   </entry>
   <entry>
     <title>Gwynne demands answers over school building safety</title>
@@ -428,16 +411,6 @@ The post <a href="http://karinsmyth.com/2023/06/01/karin-smyth-mp-demands-an-end
     <updated>2023-06-01T11:08:23Z</updated>
     <category term="Local"/>
     <category term="Media"/>
-  </entry>
-  <entry>
-    <title>Council driving forward plans to tackle the impact of poverty on women and girls</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13741/council-driving-forward-plans-to-tackle-the-impact-of-poverty-on-women-and-girls" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A key factor in the bid to end poverty in the Capital by 2030 is the steps being taken by the Council and partners to prevent and mitigate the impacts on women.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13741/council-driving-forward-plans-to-tackle-the-impact-of-poverty-on-women-and-girls</id>
-    <published>2023-06-01T11:51:00+01:00</published>
-    <updated>2023-06-01T11:51:00+01:00</updated>
   </entry>
   <entry>
     <title>Universal Credit and Single Parent Families</title>
@@ -2066,10 +2039,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-647dff0415760" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-647e299d68043" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-647dff0415760').iPhorm({"id":5,"uniqueId":"647dff0415760","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-647e299d68043').iPhorm({"id":5,"uniqueId":"647e299d68043","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2144,10 +2117,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-647dff0415760" class="iphorm iphorm-form-5" action="/feed/#iphorm-647dff0415760" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-647e299d68043" class="iphorm iphorm-form-5" action="/feed/#iphorm-647e299d68043" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="647dff0415760" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="647e299d68043" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2156,22 +2129,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_647dff0415760" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_647dff0415760" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_647e299d68043" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_647e299d68043" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_647dff0415760" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_647dff0415760" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_647e299d68043" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_647e299d68043" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_647dff0415760" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_647dff0415760" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_647e299d68043" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_647e299d68043" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2181,7 +2154,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_647dff0415760_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_647e299d68043_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2200,7 +2173,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-647dff0415760 script').remove();
+    jQuery('#iphorm-outer-647e299d68043 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
