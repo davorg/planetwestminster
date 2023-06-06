@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-06T09:27:38Z</updated>
+  <updated>2023-06-06T10:16:54Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -22,6 +22,17 @@ The funding is being awarded to further education colleges across the country, b
     <id>https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-urges-colleges-across-bassetlaw-bid-new-funding-conservative</id>
     <published>2023-06-30T13:00:00+01:00</published>
     <updated>2023-06-30T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Local MP, Maria Miller receives an update on the rebrokering process of Catch-22 schools</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-maria-miller-receives-update-rebrokering-process-catch-22-schools" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maria Miller recently met with officials from the Department of Education to discuss the rebrokering of the Austen Academy, the Ashwood Academy and Coppice Springs. In the meeting, Maria reiterated her calls for increased capital investment in Ashwood and Coppice Springs.
+Maria said, ‘’I was…</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/local-mp-maria-miller-receives-update-rebrokering-process-catch-22-schools</id>
+    <published>2023-06-06T13:00:00+01:00</published>
+    <updated>2023-06-06T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>Anne-Marie visits Merit factory to see Berwick hospital's offsite construction</title>
@@ -93,7 +104,7 @@ the Tory UK Government as emergency accommodation for asylum seekers.</p>
     <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_on_the_covid_inquiry" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
-        <p>Rushanara Ali on the Covid Inquiry</p>
+        <p>Rushanara Ali on the tactical delaying of the Covid Inquiry</p>
       </div>
     </content>
     <author>
@@ -179,17 +190,6 @@ the Tory UK Government as emergency accommodation for asylum seekers.</p>
       <div xmlns="http://www.w3.org/1999/xhtml">Knowing your child must go into hospital for a complicated and life changing operation is a very worrying time indeed for parents. This is a situation an Ashfield family finds themselves in. They are off to London this month where their son will have such an operation, this has meant there will be…</div>
     </content>
     <id>https://www.leeanderson.org.uk/news/lee-anderson-mps-weekly-column-51</id>
-    <published>2023-06-05T13:00:00+01:00</published>
-    <updated>2023-06-05T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Basingstoke Hospital continues Pandemic bounce back </title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/basingstoke-hospital-continues-pandemic-bounce-back" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Local MP Maria Miller has spoke in support of the work being done at Hampshire Hospitals Trust to get the acute care part of our local NHS back on track following the immense challenges of the Covid Pandemic and the consequential backlog of patients awaiting treatment. 
-Maria said, ‘’Basingstoke…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/basingstoke-hospital-continues-pandemic-bounce-back</id>
     <published>2023-06-05T13:00:00+01:00</published>
     <updated>2023-06-05T13:00:00+01:00</updated>
   </entry>
@@ -2038,10 +2038,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-647efbe459326" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-647f077e14f9f" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-647efbe459326').iPhorm({"id":5,"uniqueId":"647efbe459326","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-647f077e14f9f').iPhorm({"id":5,"uniqueId":"647f077e14f9f","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2116,10 +2116,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-647efbe459326" class="iphorm iphorm-form-5" action="/feed/#iphorm-647efbe459326" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-647f077e14f9f" class="iphorm iphorm-form-5" action="/feed/#iphorm-647f077e14f9f" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="647efbe459326" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="647f077e14f9f" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2128,22 +2128,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_647efbe459326" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_647efbe459326" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_647f077e14f9f" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_647f077e14f9f" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_647efbe459326" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_647efbe459326" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_647f077e14f9f" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_647f077e14f9f" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_647efbe459326" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_647efbe459326" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_647f077e14f9f" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_647f077e14f9f" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2153,7 +2153,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_647efbe459326_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_647f077e14f9f_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2172,7 +2172,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-647efbe459326 script').remove();
+    jQuery('#iphorm-outer-647f077e14f9f script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2232,7 +2232,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzq67FiVcsTUy9kE7ygQAp2-UAvbhCBFJjS11KVlhzfx34_HhzlG69ohZiz6IDuRRVBx_DxU2Vxjh1dGss9DQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzkB6rRzrOhQx5zlbpcftXEroqUZB1th1EFlKx1dzU0OzzA2jnGVi5TMz9mLWHbuqAnTZEvNcNCahTcke8wVQ' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
