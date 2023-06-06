@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-06T06:30:42Z</updated>
+  <updated>2023-06-06T09:27:38Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -24,22 +24,35 @@ The funding is being awarded to further education colleges across the country, b
     <updated>2023-06-30T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>My Interview with Talk TV</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/06/06/my-interview-with-talk-tv-4/" type="text/html"/>
-    <content type="html">&lt;p&gt;Please see my interview with Talk TV where we discussed the need for tax cuts, scrapping IR35 and inheritance tax&lt;/p&gt;
-&lt;p&gt;You can find it between 2:09:01 and 2:19:00&lt;/p&gt;
-&lt;p&gt;&lt;iframe loading="lazy" title="Trisha Goddard | 04-Jun-23" width="1140" height="641" src="https://www.youtube.com/embed/9jkKKsr3M6g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</content>
+    <title>Anne-Marie visits Merit factory to see Berwick hospital's offsite construction</title>
+    <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/anne-marie-visits-merit-factory-see-berwick-hospitals-offsite-construction" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Today I wanted to provide an update on the new £35m Berwick hospital, on schedule to open towards the end of 2024.
+800+ modules are being pre-assembled offsite – and I recently visited the Merit factory to see for myself this exciting modern solution to healthcare that North Northumberland will…</div>
+    </content>
+    <id>https://www.teamtrevelyan.co.uk/news/anne-marie-visits-merit-factory-see-berwick-hospitals-offsite-construction</id>
+    <published>2023-06-06T13:00:00+01:00</published>
+    <updated>2023-06-06T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>My Intervention in the Illegal Migration Statement</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/06/06/my-intervention-in-the-illegal-migration-statement/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>John Redwood (Wokingham, Conservative):<br/>
+If we reduced the waiting time from, say, a year to three months when making a decision on an illegal migrant, would that not cut the accommodation and other public service costs by three quarters and relieve a lot of the pressure? What is a reasonable time to come to a conclusion on whether someone is illegal and should not stay, or is welcome here and can get a job?</p>
+<p>Suella Braverman, Secretary of State for the Home Office:<br/>
+That is why I am encouraged by the progress we are making on our initial decision backlog, cases preceding last summer where people have been waiting for many months and in some cases years for a decision on their asylum application. It is essential that we bear down on that backlog, shorten the time that people are waiting for a decision and fundamentally reduce the cost to the taxpayer.</p>
+</div>
+    </content>
     <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Please see my interview with Talk TV where we discussed the need for tax cuts, scrapping IR35 and inheritance tax You can find it between 2:09:01 and 2:19:00  </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">John Redwood (Wokingham, Conservative): If we reduced the waiting time from, say, a year to three months when making a decision on an illegal migrant, would that not cut the accommodation and other public service costs by three quarters and relieve a lot of the pressure? What is a reasonable time to come to a…</div>
     </summary>
     <author>
       <name>johnredwood</name>
     </author>
-    <id>http://johnredwoodsdiary.com/?p=35270</id>
-    <published>2023-06-06T04:00:47Z</published>
-    <updated>2023-06-06T04:00:47Z</updated>
+    <id>http://johnredwoodsdiary.com/?p=35275</id>
+    <published>2023-06-06T09:00:24Z</published>
+    <updated>2023-06-06T09:00:24Z</updated>
     <category term="Uncategorized"/>
   </entry>
   <entry>
@@ -570,17 +583,6 @@ Tim said: "I have recently lost a surgery in my community [in Grange-over-Sands]
 		
 		<link href="https://brendanoharamp.scot/wp-content/uploads/2023/05/Westminster_Hall_25_05_23_14_41_07-1-1.mp4" rel="enclosure" length="43959823" type="video/mp4"/>
 	</entry>
-  <entry>
-    <title>Anne-Marie's Tenant Farming Update</title>
-    <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/tenantfarmingupdate" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Farmers here in North Northumberland are at the heart of our rural economy, including tenant farmers, which this Government fully supports, not least given the essential role they play as a route into farming.
-Their voices must be heard, which is why, following the comprehensive review of tenanted…</div>
-    </content>
-    <id>https://www.teamtrevelyan.co.uk/news/tenantfarmingupdate</id>
-    <published>2023-05-26T13:00:00+01:00</published>
-    <updated>2023-05-26T13:00:00+01:00</updated>
-  </entry>
   <entry>
     <title>MARTIN PRAISES DEDICATION OF WEST DUNBARTONSHIRE’S VOLUNTEERS</title>
     <link rel="alternate" href="https://martindocherty.scot/2023/05/26/martin-praises-dedication-of-west-dunbartonshires-volunteers/" type="text/html"/>
@@ -2036,10 +2038,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-647ed26ace350" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-647efbe459326" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-647ed26ace350').iPhorm({"id":5,"uniqueId":"647ed26ace350","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-647efbe459326').iPhorm({"id":5,"uniqueId":"647efbe459326","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2114,10 +2116,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-647ed26ace350" class="iphorm iphorm-form-5" action="/feed/#iphorm-647ed26ace350" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-647efbe459326" class="iphorm iphorm-form-5" action="/feed/#iphorm-647efbe459326" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="647ed26ace350" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="647efbe459326" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2126,22 +2128,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_647ed26ace350" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_647ed26ace350" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_647efbe459326" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_647efbe459326" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_647ed26ace350" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_647ed26ace350" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_647efbe459326" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_647efbe459326" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_647ed26ace350" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_647ed26ace350" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_647efbe459326" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_647efbe459326" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2151,7 +2153,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_647ed26ace350_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_647efbe459326_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2170,7 +2172,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-647ed26ace350 script').remove();
+    jQuery('#iphorm-outer-647efbe459326 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
