@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-10T03:28:44Z</updated>
+  <updated>2023-06-10T06:30:43Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Atlantic Charter and Atlantic Agreement</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/06/10/atlantic-charter-and-atlantic-agreement/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>In 1941 Churchill and Roosevelt met on a U.S. warship to draw up the Atlantic Charter. It was before the Japanese attack on Pearl Harbour and slanted heavily in favour of the USA reflecting the weak position of a near isolated UK fighting the Germans. It contained some important binding truths that have united  the two countries ever since. Its terms became more important once the USA was in the war. It set out a future peace based on the self determination of peoples, the reversal of occupations imposed by force, free trade and the pursuit of peaceful resolution of conflicts.</p>
+<p>In 2023 President Biden signed an update, a revised Atlantic Agreement, with the UK. Reflecting the modern U.S. preoccupations of the Democrats, it set out a course of future economic development with more state involvement, more subsidies and more protection. It is a partial prospectus for a divided world, where the US will lead one alliance against a China leading the main contestant grouping.  The document wants onshoring, friendshoring and western technical superiority It wishes to impose a green revolution, seeking to remove fossil fuels from the western side by 2050. It identifies quantum computing, semiconductors, smart biology, artificial intelligence and advanced communications as crucial areas to develop.</p>
+<p>The UK will hold a conference in the autumn on regulating AI and will push for a world regulator. It is difficult seeing the Chinese bloc wanting to submit their IP and plans to such scrutiny. It is difficult to know how to regulate before you know what you are regulating. My best advice to the UK is understand there is going to be a race to expand and adopt these ideas.The UK should concentrate on creating better conditions on tax and talent to help the UK stay ahead.The USA will naturally put America first and will expect her large subsidies to buy advantage.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">In 1941 Churchill and Roosevelt met on a U.S. warship to draw up the Atlantic Charter. It was before the Japanese attack on Pearl Harbour and slanted heavily in favour of the USA reflecting the weak position of a near isolated UK fighting the Germans. It contained some important binding truths that have united  the…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>http://johnredwoodsdiary.com/?p=35301</id>
+    <published>2023-06-10T04:00:56Z</published>
+    <updated>2023-06-10T04:00:56Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Royston Smith announces his intention to stand down at the next Election</title>
     <link rel="alternate" href="https://www.roystonsmith.co.uk/2023/06/09/royston-smith-announces-his-intention-to-stand-down-at-the-next-election/" type="text/html"/>
@@ -234,24 +254,6 @@ Greg said, "Lovely evening at St James Church in Boarstall meeting constituents 
     <id>7424 at https://www.philipdunne.com</id>
     <published>2023-06-09T05:45:42Z</published>
     <updated>2023-06-09T05:45:42Z</updated>
-  </entry>
-  <entry>
-    <title>My Interview with Times Radio</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/06/09/my-interview-with-times-radio-2/" type="text/html"/>
-    <content type="html">&lt;p&gt;Please find below my Interview with Times Radio, you can find it between 1:12:28-2:12:00&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thetimes.co.uk/radio/show/20230604-21435/2023-06-04"&gt;https://www.thetimes.co.uk/radio/show/20230604-21435/2023-06-04&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Please find below my Interview with Times Radio, you can find it between 1:12:28-2:12:00 https://www.thetimes.co.uk/radio/show/20230604-21435/2023-06-04  </div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=35277</id>
-    <published>2023-06-09T04:00:42Z</published>
-    <updated>2023-06-09T04:00:42Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
 		<author>
@@ -2078,10 +2080,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6483edc6ca8e2" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-6484187079ee6" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6483edc6ca8e2').iPhorm({"id":5,"uniqueId":"6483edc6ca8e2","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-6484187079ee6').iPhorm({"id":5,"uniqueId":"6484187079ee6","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2156,10 +2158,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6483edc6ca8e2" class="iphorm iphorm-form-5" action="/feed/#iphorm-6483edc6ca8e2" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-6484187079ee6" class="iphorm iphorm-form-5" action="/feed/#iphorm-6484187079ee6" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6483edc6ca8e2" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="6484187079ee6" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2168,22 +2170,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6483edc6ca8e2" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6483edc6ca8e2" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_6484187079ee6" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6484187079ee6" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6483edc6ca8e2" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6483edc6ca8e2" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_6484187079ee6" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6484187079ee6" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6483edc6ca8e2" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6483edc6ca8e2" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_6484187079ee6" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6484187079ee6" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2193,7 +2195,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6483edc6ca8e2_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6484187079ee6_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2212,7 +2214,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6483edc6ca8e2 script').remove();
+    jQuery('#iphorm-outer-6484187079ee6 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2272,7 +2274,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyE-4ceSECudJdUm4T9TY-9ds5c5QknyGSddVXke3waP88I82nIa2MB_FPmXzLy5ADhfniE15AX182MiajBbg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dx-QGH0-scMW4WaPwLIB7UMKErgbSzYGpeSkioU81wCvuvxodiBVTHyPUgNb69MLkPTy1lZI1wqSL5EZkv6WA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
