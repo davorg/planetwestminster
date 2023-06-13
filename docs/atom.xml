@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-13T03:29:19Z</updated>
+  <updated>2023-06-13T06:30:50Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>My Interview with BBC Radio 4</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/06/13/my-interview-with-bbc-radio-4/" type="text/html"/>
+    <content type="html">&lt;p&gt;Please find below my Interview with BBC Radio 4 where we discussed Boris Johnson&lt;/p&gt;
+&lt;p&gt;My interview begins at 19:37&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bbc.co.uk/sounds/play/m001mm1s"&gt;The World Tonight &amp;#8211; Boris Johnson quits Parliament &amp;#8211; BBC Sounds&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Please find below my Interview with BBC Radio 4 where we discussed Boris Johnson My interview begins at 19:37 The World Tonight – Boris Johnson quits Parliament – BBC Sounds    </div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>http://johnredwoodsdiary.com/?p=35315</id>
+    <published>2023-06-13T04:00:54Z</published>
+    <updated>2023-06-13T04:00:54Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Rushanara Ali meeting the Housing Campaign Collective to discuss concerns from the Somali community</title>
     <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_housing_campaign_collective_somali_community" type="text/html"/>
@@ -260,180 +280,6 @@ On Friday, Tim was presented with a 1,500-signature strong at South Windermere S
 		
 		<link href="https://lizkendall.org/wp-content/uploads/2023/06/Compressed-Latest-Carers-Week-debate-1.mp4" rel="enclosure" length="9668224" type="video/mp4"/>
 	</entry>
-  <entry>
-    <title>All Souls lecture slides</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/06/12/all-souls-lecture-slides/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>John Redwood’s Lecture, All Souls College, Oxford (Slide 1)<br/>
-‘The great western inflation should lead to changes at the Central Banks’<br/>
-26 May 2023<br/>
-11:00 – 12:30<br/>
-All Soul College, Old Library, Oxford</p>
-<p>Inflation, Consumer Price Index 2020-2023 (Slide 2)<br/>
-The inflation rates demonstrate that whilst all countries faced dearer energy from the war in Ukraine, the 3 western countries faced inflation peaking at five times target whilst the two Asian majors kept inflation near the 2% target</p>
-<table width="1027">
-<tbody>
-<tr>
-<td width="171"><b>Year</b></td>
-<td width="171"><b>UK</b></td>
-<td width="171"><b>Euro area</b></td>
-<td width="171"><b>US</b></td>
-<td width="171"><b>China</b></td>
-<td width="171"><b>Japan</b></td>
-</tr>
-<tr>
-<td width="171"><b>2020</b></td>
-<td width="171">1.79%</td>
-<td width="171">0.29%</td>
-<td width="171">1.7%</td>
-<td width="171">2.39%</td>
-<td width="171">(0.03%)</td>
-</tr>
-<tr>
-<td width="171"><b>2021</b></td>
-<td width="171">0.85%</td>
-<td width="171">2.45%</td>
-<td width="171">1.4%</td>
-<td width="171">0.85%</td>
-<td width="171">(0.2%)</td>
-</tr>
-<tr>
-<td width="171"><b>2022</b></td>
-<td width="171">7.8%</td>
-<td width="171">8.31%</td>
-<td width="171">6.5%</td>
-<td width="171">2%</td>
-<td width="171">2.5%</td>
-</tr>
-<tr>
-<td width="171"><b>2023</b></td>
-<td width="171">10.1%</td>
-<td width="171">6.9%</td>
-<td width="171">6%</td>
-<td width="171">2.9%</td>
-<td width="171">2.9%</td>
-</tr>
-</tbody>
-</table>
-<p>Central Bank interest rates 2020-23 (Slide 3)</p>
-<p>The Bank of Japan kept interest rates very low throughout, enforced by their policy of Yield Curve control</p>
-<p>The Peoples Bank of China kept rates around 4% throughout, with some small cuts as the economy slowed<br/>
-The other 3 took rates down to around zero, held them there, and then pushed them up sharply after inflation had risen to several times target</p>
-<table width="966">
-<tbody>
-<tr>
-<td width="155"><b>Year</b></td>
-<td width="167"><b>UK</b></td>
-<td width="161"><b>Euro area</b></td>
-<td width="161"><b>US</b></td>
-<td width="161"><b>China</b></td>
-<td width="161"><b>Japan</b></td>
-</tr>
-<tr>
-<td width="155"><b>2020</b></td>
-<td width="167">0.1%</td>
-<td width="161">0.01%</td>
-<td width="161">0.36%</td>
-<td width="161">3.65%</td>
-<td width="161">(0.1%)</td>
-</tr>
-<tr>
-<td width="155"><b>2021</b></td>
-<td width="167">0.25%</td>
-<td width="161">0.01%</td>
-<td width="161">0.08%</td>
-<td width="161">3.85%</td>
-<td width="161">(0.1%)</td>
-</tr>
-<tr>
-<td width="155"><b>2022</b></td>
-<td width="167">3.5%</td>
-<td width="161">0.5%</td>
-<td width="161">1.68%</td>
-<td width="161">4.3%</td>
-<td width="161">(0.1%)</td>
-</tr>
-<tr>
-<td width="155"><b>2023</b></td>
-<td width="167">4.25%</td>
-<td width="161">3.25%</td>
-<td width="161">4.59%</td>
-<td width="161">3.65%</td>
-<td width="161">(0.1%)</td>
-</tr>
-</tbody>
-</table>
-<p>Slide 5</p>
-<p>Japan and China kept money growth to similar levels that applied before covid lockdowns.<br/>
-The 3 western Banks stimulated rapid growth in money and credit over the covid period</p>
-<p>Quantitative easing and tightening (Slide 6)<br/>
-The US, UK and Euro area undertook substantial QE 2020 to 2022. All three started Quantitative tightening 2022-23.<br/>
-China undertook neither Japan continued with Quantitative easing throughout</p>
-<p>The Chinese critique of the Fed and ECB (Slide 7)</p>
-<p>It opposes “launching a deluge of strong stimulus policies “ that bring about asset bubbles, excessive investment or debt escalation<br/>
-Aims to keep the size of its balance sheet stable to avoid inflation and to keep financial strength to be able to act as lender of last resort.<br/>
-“held meetings to analyse the money and credit situation”<br/>
-Has a target to grow money and credit in line with nominal GDP growth, and to keep inflation around 2%.<br/>
-Shows a graph comparing the growth of the Fed and ECB balance sheets with the stability of its own</p>
-<p>The defence of the leading western central banks (Slide 8)<br/>
-– They claim they are independent of government<br/>
-– They forecast inflation and target it directly based on their forecasts<br/>
-– Their forecast of inflation is based on assessments of capacity utilisation, with special emphasis on levels of unemployment<br/>
-– They claimed they needed to undertake QE when they hit zero on rates</p>
-<p>Are these banks independent? (Slide 9)<br/>
-– Changes at Federal reserve Board on change of President<br/>
-– US twin mandate of employment and inflation<br/>
-– UK Bank of England requires Chancellor to approve all bond changes, and to underwrite all QE/QT transactions<br/>
--ECB “will do whatever it takes” to ensure the survival of the Euro and the union scheme</p>
-<p>Why did these western banks get their inflation forecasts so wrong? (Slide 10)<br/>
-– They take a national rather than an international view of pressures, yet capacity includes imports<br/>
-– Unemployment is not necessarily a proxy for capacity utilisation<br/>
-– Judging capacity utilisation is very difficult – the shortage of one small part for a car can prevent production of many vehicles</p>
-<p>Is Quantitative easing inflationary? (Slide 11)<br/>
-– Is designed to inflate the prices of assets<br/>
-– It created an asset bubble, with dearer bonds spilling over into dearer shares and property<br/>
-– In due course the extra cash and higher asset values led to more spending and credit</p>
-<p>Are there dangers in Quantitative tightening? (Slide 12)<br/>
-– Silicon Valley Bank brought down by weakness in the bond market<br/>
-– UK LDI funds became distressed shortly after the announcement of QT and falls in gilt market<br/>
-– QT is deflationary, just as QE is inflationary</p>
-<p>Why did 3 central banks want to lose so much money in bonds? (Slide 13)<br/>
-– The central banks bought up more and more bonds at excessively high prices. They then increased interest rates, signalled the wish to see bonds lower and then started selling bonds at a loss.<br/>
-– The Fed says it will just put the losses on its balance sheet. They do not matter. It can always create money for its needs, however much it has lost<br/>
-– The Bank of England says the Treasury/taxpayers have to reimburse it for all losses to avoid weakness on its balance sheet          -The ECB says 80% of the losses will be owned by the member states Central Banks, subordinate institutions under the ECB in the system of Euro area CBs.</p>
-<p>Quantitative tightening (Slide 14)</p>
-<p>Federal Reserve Board<br/>
--Took its balance sheet from $3.759 tn in August 2019 to a peak of $8.965 tn in April 2011. ( plus 138%)<br/>
--Now at $8.593 tn, up from $8.339 tn in March 2023.</p>
-<p>European Central Bank<br/>
-– Has an accumulated bond holding of Euro 3.23 tn under its Asset Purchase Programme, and Euro 1.71 tn under its Pandemic Purchase Programme.<br/>
-– Balance sheet Euro 7.7 tn</p>
-<p>Bank of England<br/>
-– Reached a peak holding of £895bn. Added £450 bn over covid period.<br/>
-– Ran down holdings by £38bn Feb to September 2022 from repayments. Now undertaking an £80 bn a year QT programme.<br/>
-– Bank balance sheet current £1.05 tn</p>
-<p>Bank of England inflation (Slide 15)<br/>
-– May 2021 forecast 2% inflation in two years time if kept rates at 0.1% with Quantitative easing – outturn 10%<br/>
-– May 2022 forecast 2% inflation in two years time with rates at 1% rising to 2.5%<br/>
-– May 2023 forecast 2% inflation in two years time with rates at 4.5% and a major Quantitative tightening programme</p>
-<p>Bank of England economic forecasts and models (Slide 16)<br/>
-– The Bank sets out to predict inflation by forming a view of capacity in the economy and using a concept of capacity utilisation to assess whether the economy is running hot or cold. – – Unemployment is a crucial proxy for the judgement of capacity utilisation.<br/>
-– The concept is based around the UK national economy. It finds it difficult to handle the international dimension in a very open economy which allows the UK to access global capacity for many items.<br/>
-– It dos not take into account the impact on demand and prices of credit growth supplementing incomes.<br/>
-– It fails to report or comment on money and credit growth</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">John Redwood’s Lecture, All Souls College, Oxford (Slide 1) ‘The great western inflation should lead to changes at the Central Banks’ 26 May 2023 11:00 – 12:30 All Soul College, Old Library, Oxford Inflation, Consumer Price Index 2020-2023 (Slide 2) The inflation rates demonstrate that whilst all countries faced dearer energy from the war in…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>https://johnredwoodsdiary.com/?p=35234</id>
-    <published>2023-06-12T10:47:56Z</published>
-    <updated>2023-06-12T10:47:56Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
   <entry>
     <title>South Bristol Voice Column :: April 2023</title>
     <link rel="alternate" href="http://karinsmyth.com/2023/06/12/south-bristol-voice-column-april-2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=south-bristol-voice-column-april-2023" type="text/html"/>
@@ -2254,10 +2100,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-6487e268e031b" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64880cf645dcd" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-6487e268e031b').iPhorm({"id":5,"uniqueId":"6487e268e031b","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64880cf645dcd').iPhorm({"id":5,"uniqueId":"64880cf645dcd","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2332,10 +2178,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-6487e268e031b" class="iphorm iphorm-form-5" action="/feed/#iphorm-6487e268e031b" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64880cf645dcd" class="iphorm iphorm-form-5" action="/feed/#iphorm-64880cf645dcd" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="6487e268e031b" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64880cf645dcd" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2344,22 +2190,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_6487e268e031b" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_6487e268e031b" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64880cf645dcd" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64880cf645dcd" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_6487e268e031b" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_6487e268e031b" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64880cf645dcd" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64880cf645dcd" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_6487e268e031b" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_6487e268e031b" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64880cf645dcd" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64880cf645dcd" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2369,7 +2215,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_6487e268e031b_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64880cf645dcd_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2388,7 +2234,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-6487e268e031b script').remove();
+    jQuery('#iphorm-outer-64880cf645dcd script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2448,7 +2294,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dx-QGH0-scMW4WaPwLIB7UMKErgbSzYGpeSkioU81wCvuvxodiBVTHyPUgNb69MLkPTy1lZI1wqSL5EZkv6WA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxG1vTGHjzTLqwYprU5P7YZBz5UFGxmlpQ2Nn0u6odfnFczeuUrwthKQ4iTQhiGsE9QmGi0zxj7Fs0mWnxDpg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
