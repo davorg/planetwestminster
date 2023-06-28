@@ -7,9 +7,41 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-28T06:31:38Z</updated>
+  <updated>2023-06-28T09:29:28Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Video Update: Green Week #CleanerGreenerBasingstoke #GreatPlaceToLive </title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/video-update-green-week-cleanergreenerbasingstoke-greatplacetolive" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Basingstoke has been celebrating all things green with Green Week addressing climate change and protecting nature.
+#CleanerGreenerBasingstoke #GreatPlaceToLive</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/video-update-green-week-cleanergreenerbasingstoke-greatplacetolive</id>
+    <published>2023-06-28T13:00:00+01:00</published>
+    <updated>2023-06-28T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>REPURPOSE RUSSIAN ASSETS TO REBUILD A SAFE AND SECURE UKRAINE</title>
+    <link rel="alternate" href="https://www.catherinemckinnellmp.co.uk/repurpose-russian-assets/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Catherine has supported calls from the Labour Party for the Government to repurpose frozen Russian state assets to pay for the recovery of Ukraine, with international estimates placing the cost of the physical damage to Ukraine’s infrastructure at up to $1 trillion. Catherine told Parliament “Russia’s illegal invasion has not been able to break the … <a href="https://www.catherinemckinnellmp.co.uk/repurpose-russian-assets/" class="more-link">Continue reading <span class="screen-reader-text">REPURPOSE RUSSIAN ASSETS TO REBUILD A SAFE AND SECURE UKRAINE</span> <span class="meta-nav">→</span></a></div>
+    </content>
+    <author>
+      <name>Catherine McKinnell</name>
+    </author>
+    <id>https://www.catherinemckinnellmp.co.uk/?p=7971</id>
+    <published>2023-06-28T07:16:33Z</published>
+    <updated>2023-06-28T07:16:33Z</updated>
+    <category term="Economy"/>
+    <category term="Features"/>
+    <category term="Foreign Affairs &amp; Defence"/>
+    <category term="Latest"/>
+    <category term="defence"/>
+    <category term="featured"/>
+    <category term="latest"/>
+    <category term="UKRAINE"/>
+  </entry>
   <entry>
     <title>Brexit is good news — Conservative Home article</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2023/06/28/brexit-is-good-news-conservative-home-article/" type="text/html"/>
@@ -158,27 +190,6 @@ willing to assist too.”&lt;/p&gt;
     <published>2023-06-27T13:07:20Z</published>
     <updated>2023-06-27T13:07:20Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>CONSERVATIVE MORTGAGE PENALTY TO HIT OVER 10,000 FAMILIES IN NEWCASTLE NORTH</title>
-    <link rel="alternate" href="https://www.catherinemckinnellmp.co.uk/conservative-mortgage-penalty/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Conservative Mortgage Penalty to hit over 10,000 families in Newcastle North warns Catherine McKinnell Ahead of a debate in Westminster today on the Conservative Mortgage Penalty (27th June), Newcastle North MP Catherine McKinnell has warned that over 10,000 families face rising mortgage costs of £166 per month on average. Analysis from the Labour Party has … <a href="https://www.catherinemckinnellmp.co.uk/conservative-mortgage-penalty/" class="more-link">Continue reading <span class="screen-reader-text">CONSERVATIVE MORTGAGE PENALTY TO HIT OVER 10,000 FAMILIES IN NEWCASTLE NORTH</span> <span class="meta-nav">→</span></a></div>
-    </content>
-    <author>
-      <name>Catherine McKinnell</name>
-    </author>
-    <id>https://www.catherinemckinnellmp.co.uk/?p=7969</id>
-    <published>2023-06-27T12:54:29Z</published>
-    <updated>2023-06-27T12:54:29Z</updated>
-    <category term="Economy"/>
-    <category term="Families"/>
-    <category term="Features"/>
-    <category term="Latest"/>
-    <category term="cost of living"/>
-    <category term="economy"/>
-    <category term="featured"/>
-    <category term="latest"/>
   </entry>
   <entry>
     <title>North Elmham New Town Update</title>
@@ -497,17 +508,6 @@ I have not seen any evidence to suggest that a garden town or village would be a
     <updated>2023-06-27T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Maria Miller addresses AI threats to women and girls in Government consultation</title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/maria-miller-addresses-ai-threats-women-and-girls-government-consultation" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maria Miller MP has responded to the Department for Science, Innovation and Technology’s consultation on AI, focusing on how we can make sure rapidly changing technologies are safe for all women and girls.
-Maria said, ‘as has been the case since the early days of the internet and even long before,…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/maria-miller-addresses-ai-threats-women-and-girls-government-consultation</id>
-    <published>2023-06-27T13:00:00+01:00</published>
-    <updated>2023-06-27T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Brendan Clarke-Smith MP welcomes new facilities to cut A&amp;E waiting times in hospitals across the Midlands</title>
     <link rel="alternate" href="https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-welcomes-new-facilities-cut-ae-waiting-times-hospitals-across-midlands" type="text/html"/>
     <content type="text">Brendan Clarke-Smith MP welcomes the news that patients across the Midlands are set to benefit from three new ambulance hubs and 11 new and upgraded discharge lounges, which will free up A&amp;E beds and help cut urgent and emergency care waiting times.
@@ -755,6 +755,16 @@ We have announced a new general admission price of £12 per adult, allowing peop
     <category term="celebration"/>
     <category term="nottingham"/>
     <category term="windrush"/>
+  </entry>
+  <entry>
+    <title>June e-newsletter</title>
+    <link rel="alternate" href="https://www.robin-millar.org.uk/news/june-e-newsletter" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Click here to read my newsletter in Welsh or English</div>
+    </content>
+    <id>https://www.robin-millar.org.uk/news/june-e-newsletter</id>
+    <published>2023-06-26T13:00:00+01:00</published>
+    <updated>2023-06-26T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>Lee Anderson MP's Weekly Column</title>
@@ -1160,18 +1170,6 @@ For 25 years, Dr Reid has been chair of the Trimontium Trust, which runs the Tri
     <id>https://www.johnlamont.org/news/borders-resident-receives-mbe-kings-first-honours-list</id>
     <published>2023-06-21T13:00:00+01:00</published>
     <updated>2023-06-21T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Robin pays tribute to local hospices and calls for greater financial support</title>
-    <link rel="alternate" href="https://www.robin-millar.org.uk/news/robin-pays-tribute-local-hospices-and-calls-greater-financial-support" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">During a debate on support for hospices last week in Parliament, Aberconwy MP Robin Millar paid tribute to the clinical staff and volunteers of Tŷ Gobaith Children's Hospice and St David’s Hospice.
-Robin opened his speech by saying:
-“I would like to pay tribute briefly to two hospices in my…</div>
-    </content>
-    <id>https://www.robin-millar.org.uk/news/robin-pays-tribute-local-hospices-and-calls-greater-financial-support</id>
-    <published>2023-06-20T13:00:00+01:00</published>
-    <updated>2023-06-20T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>The Privileges Committee report into Boris Johnson</title>
@@ -2390,10 +2388,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-649bd3a3a5d93" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-649bfd503fd68" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-649bd3a3a5d93').iPhorm({"id":5,"uniqueId":"649bd3a3a5d93","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-649bfd503fd68').iPhorm({"id":5,"uniqueId":"649bfd503fd68","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2468,10 +2466,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-649bd3a3a5d93" class="iphorm iphorm-form-5" action="/feed/#iphorm-649bd3a3a5d93" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-649bfd503fd68" class="iphorm iphorm-form-5" action="/feed/#iphorm-649bfd503fd68" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="649bd3a3a5d93" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="649bfd503fd68" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2480,22 +2478,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_649bd3a3a5d93" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_649bd3a3a5d93" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_649bfd503fd68" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_649bfd503fd68" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_649bd3a3a5d93" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_649bd3a3a5d93" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_649bfd503fd68" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_649bfd503fd68" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_649bd3a3a5d93" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_649bd3a3a5d93" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_649bfd503fd68" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_649bfd503fd68" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2505,7 +2503,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_649bd3a3a5d93_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_649bfd503fd68_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2524,7 +2522,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-649bd3a3a5d93 script').remove();
+    jQuery('#iphorm-outer-649bfd503fd68 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2584,7 +2582,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzvqSGnpQjeA0fyjSB1eL4kP5TSTJCT1V3H1tWE0DyrF1_l6GCPi4ODDqN4Yns5u1RJx_cIB5bFOujw9FHJsA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz0jyDVT2OoU7BC6omyF4M0vNe39-v2wty90lFeQS0FamfLTU4e_YP0oap1l8BBR0M9E7iKL7W7XNzXRriToA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
