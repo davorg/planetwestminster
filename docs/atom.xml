@@ -7,9 +7,32 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-01T03:33:30Z</updated>
+  <updated>2023-07-01T06:29:37Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Improving economic policy</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/07/01/improving-economic-policy/" type="text/html"/>
+    <content type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;There are three main changes I am pressing for a better outcome on inflation and growth.&lt;/p&gt;
+&lt;p&gt;The first is change from the Bank of England, who have now accepted their models and forecasts have been wrong and are reviewing the way they should change.&lt;/p&gt;
+&lt;p&gt;The second is to tackle the productivity collapse in parts of the public sector, and to gain greater control over levels of spending.&lt;/p&gt;
+&lt;p&gt;The third is to get across that the UK has a supply problem. We make and grow too little, relying on imports too much. Lower tax rates and better regulation are central to rebuilding capacities in everything from water and electricity to food and industrial products.&lt;/p&gt;
+&lt;p&gt;One of the problems is in every area where taxes are too high, spending is unwise and regulation unhelpful the main Opposition parties usually support the current stance and or wish to intensify it, making things considerably worse.&lt;/p&gt;
+&lt;p&gt;In a series of blogs I will look again at how we could tackle the problems of too few producers, of wild swings in money and credit, and the collapse of public sector productivity.&lt;/p&gt;
+&lt;p&gt;Economies do not flourish if they suffer unduly from price controls, windfall taxes and subsidies. Governments are not good at backing winners and can deter investment and supply if they interfere too much.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">  There are three main changes I am pressing for a better outcome on inflation and growth. The first is change from the Bank of England, who have now accepted their models and forecasts have been wrong and are reviewing the way they should change. The second is to tackle the productivity collapse in parts…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>https://johnredwoodsdiary.com/?p=35461</id>
+    <published>2023-07-01T04:05:37Z</published>
+    <updated>2023-07-01T04:05:37Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>South Bristol Voice :: June 2023</title>
     <link rel="alternate" href="http://karinsmyth.com/2023/07/01/south-bristol-voice-june-2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=south-bristol-voice-june-2023" type="text/html"/>
@@ -246,25 +269,6 @@ If you want to apply please register here:<br/>
     <category term="News"/>
     <category term="Press Release"/>
     <category term="Uncategorised"/>
-    <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Illegal migrants</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/06/30/illegal-migrants/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>So we now know the High Court and Lord Chief Justice support the  Rwanda  policy but two Appeal Court judges do not. Meanwhile the legal bills mount up, the government is unable to stop the boats as promised and more delays loom ahead.</p>
-<p>The government should make what changes they need to the Rwanda scheme and introduce a short one clause bill next week and take it through all Commons stages making it the  law in line with the original High Court judgement and ending further legal policy debates between judges .The Lords would be ill advised to stop the Prime Minister’s clear intentions in this matter.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">So we now know the High Court and Lord Chief Justice support the  Rwanda  policy but two Appeal Court judges do not. Meanwhile the legal bills mount up, the government is unable to stop the boats as promised and more delays loom ahead. The government should make what changes they need to the Rwanda scheme…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=35456</id>
-    <published>2023-06-30T04:27:59Z</published>
-    <updated>2023-06-30T04:27:59Z</updated>
     <category term="Uncategorized"/>
   </entry>
   <entry>
@@ -2150,10 +2154,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-649f9e65d85a6" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-649fc7b6b72ab" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-649f9e65d85a6').iPhorm({"id":5,"uniqueId":"649f9e65d85a6","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-649fc7b6b72ab').iPhorm({"id":5,"uniqueId":"649fc7b6b72ab","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2228,10 +2232,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-649f9e65d85a6" class="iphorm iphorm-form-5" action="/feed/#iphorm-649f9e65d85a6" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-649fc7b6b72ab" class="iphorm iphorm-form-5" action="/feed/#iphorm-649fc7b6b72ab" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="649f9e65d85a6" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="649fc7b6b72ab" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2240,22 +2244,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_649f9e65d85a6" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_649f9e65d85a6" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_649fc7b6b72ab" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_649fc7b6b72ab" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_649f9e65d85a6" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_649f9e65d85a6" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_649fc7b6b72ab" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_649fc7b6b72ab" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_649f9e65d85a6" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_649f9e65d85a6" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_649fc7b6b72ab" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_649fc7b6b72ab" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2265,7 +2269,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_649f9e65d85a6_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_649fc7b6b72ab_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2284,7 +2288,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-649f9e65d85a6 script').remove();
+    jQuery('#iphorm-outer-649fc7b6b72ab script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2344,7 +2348,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz0jyDVT2OoU7BC6omyF4M0vNe39-v2wty90lFeQS0FamfLTU4e_YP0oap1l8BBR0M9E7iKL7W7XNzXRriToA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzv_m44OahF1PRW7dk7gjtKY30uwPI-fRT_H2wAeax9-KUd4PC0DMBGC2mG0rlpKwZo9sA1neOSyO-zatQNkA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
