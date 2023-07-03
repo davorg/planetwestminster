@@ -7,9 +7,36 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-03T12:32:33Z</updated>
+  <updated>2023-07-03T15:28:11Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Friendship celebrated in Contalmaison</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13769/friendship-celebrated-in-contalmaison" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The capital has reaffirmed its Friendship Agreement with the northern French village of Contalmaison – the final resting place of many soldiers who fought in McCrae’s Battalion.</div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13769/friendship-celebrated-in-contalmaison</id>
+    <published>2023-07-03T15:23:00+01:00</published>
+    <updated>2023-07-03T15:23:00+01:00</updated>
+  </entry>
+  <entry>
+  <title>MP secures Urgent Question in Parliament on fuel price rises</title>
+  <link rel="alternate" href="http://timfarron.co.uk/en/article/2023/1442548/mp-secures-urgent-question-in-parliament-on-fuel-price-rises"/>
+  <updated>2023-07-03T12:40:00Z</updated>
+  <id>http://timfarron.co.uk/en/article/2023/1442548/mp-secures-urgent-question-in-parliament-on-fuel-price-rises</id>
+  <summary type="text">Cumbrian MP Tim Farron has secured an Urgent Question in the House of Commons today on soaring fuel price rises.
+It comes as the Competition and Market Authority (CMA) have published a report this morning that found that drivers paid nearly £1 billion more for fuel at supermarkets last year.
+The CMA said that drivers buying fuel at supermarkets in 2022 have paid around 6 pence per litre more than they would have done otherwise, due to the four major supermarkets increasing their margins.</summary>
+  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Cumbrian MP Tim Farron has secured an Urgent Question in the House of Commons today on soaring fuel price rises.</p>
+<p>It comes as the Competition and Market Authority (CMA) have published a report this morning that found that drivers paid nearly £1 billion more for fuel at supermarkets last year.</p>
+<p>The CMA said that drivers buying fuel at supermarkets in 2022 have paid around 6 pence per litre more than they would have done otherwise, due to the four major supermarkets increasing their margins.</p>
+<p>Tim said: <em>"It's absolutely appalling that drivers have been fleeced by profiteering supermarkets - especially at a time when people are already struggling with rising prices in the shops.</em></p>
+<p><em>"The government has failed to properly police the road fuel market leaving families to fork out higher prices at the pump.</em></p>
+<p><em>"Ministers need to crack down on this urgently, by hauling the bosses responsible into Downing Street and holding them to account."</em></p>
+<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
+  <category term="Article"/>
+</entry>
   <entry>
     <title>MARTIN BACKS INJURY AWARENESS WEEK</title>
     <link rel="alternate" href="https://martindocherty.scot/2023/07/03/martin-backs-injury-awareness-week/" type="text/html"/>
@@ -90,12 +117,26 @@
     <updated>2023-07-03T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>MP calls for Basingstoke Council to back CSPOs</title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/mp-calls-basingstoke-council-back-cspos" type="text/html"/>
+    <title>Video Update: Thames Water. Provision of local services in Basingstoke</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/video-update-thames-water-provision-local-services-basingstoke" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Basingstoke Council has long made it a priority to have additional community patrols through its Community Safety Patrol Officers (CSPO’s) which are in addition to Hampshire Police, and focus on reducing antisocial behaviour. Maria Miller local MP is asking for assurances that this important work…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Video Update: Thames Water. Provision of local services in Basingstoke.</div>
     </content>
-    <id>https://www.maria4basingstoke.co.uk/news/mp-calls-basingstoke-council-back-cspos</id>
+    <id>https://www.maria4basingstoke.co.uk/news/video-update-thames-water-provision-local-services-basingstoke</id>
+    <published>2023-07-03T13:00:00+01:00</published>
+    <updated>2023-07-03T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>June Highlights </title>
+    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/june-highlights" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">In June;
+ 
+Funding/Investments:
+£650 million investment in Life Sciences to help cut NHS waiting times, improve commercial clinical trials and boost innovation with  £121 million to enhance commercial clinical trials to bring new medicines to patients faster
+£50 million investment as part of plans…</div>
+    </content>
+    <id>https://www.brendanclarkesmith.com/news/june-highlights</id>
     <published>2023-07-03T13:00:00+01:00</published>
     <updated>2023-07-03T13:00:00+01:00</updated>
   </entry>
@@ -144,6 +185,17 @@ The post <a href="http://karinsmyth.com/2023/07/03/weekly-round-up-30-june-2023/
     <published>2023-07-03T04:03:48Z</published>
     <updated>2023-07-03T04:03:48Z</updated>
     <category term="Uncategorized"/>
+  </entry>
+  <entry>
+    <title>Robin Millar MP hosts launch of Aberconwy’s £18.6 million Môr i'r Mynydd Coast to Valley Active Travel scheme </title>
+    <link rel="alternate" href="https://www.robin-millar.org.uk/news/robin-millar-mp-hosts-launch-aberconwys-ps186-million-mor-ir-mynydd-coast-valley-active-travel" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Residents, businesses and communities throughout Aberconwy are to benefit from £18.6 million towards the development of an Active Travel route through Dyffryn Conwy from Llandudno Junction to Betws-y-Coed. 
+The investment for key projects in the scheme has been secured from the UK Government’s…</div>
+    </content>
+    <id>https://www.robin-millar.org.uk/news/robin-millar-mp-hosts-launch-aberconwys-ps186-million-mor-ir-mynydd-coast-valley-active-travel</id>
+    <published>2023-07-02T13:00:00+01:00</published>
+    <updated>2023-07-02T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>Borders MP raises alarm about forced evictions in Westruther</title>
@@ -322,16 +374,6 @@ If you want to apply please register here:<br/>
     <category term="Local Update"/>
   </entry>
   <entry>
-    <title>Transformed Granton walking and cycling path named after British explorer William Speirs Bruce</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13768/transformed-granton-walking-and-cycling-path-named-after-british-explorer-william-speirs-bruce" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A newly upgraded walking, wheeling and cycling path, which provides a vital link in the north of Edinburgh, has been officially named after a famous explorer who once studied in the area.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13768/transformed-granton-walking-and-cycling-path-named-after-british-explorer-william-speirs-bruce</id>
-    <published>2023-06-30T15:22:00+01:00</published>
-    <updated>2023-06-30T15:22:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Bill Wiggin MP asks for clarity regarding road closures in Leominster</title>
     <link rel="alternate" href="https://billwiggin.wordpress.com/2023/06/30/bill-wiggin-mp-asks-for-clarity-regarding-road-closures-in-leominster/" type="text/html"/>
     <content type="xhtml">
@@ -436,25 +478,6 @@ If you want to apply please register here:<br/>
     <category term="Uncategorized"/>
   </entry>
   <entry>
-  <title>Don’t sell out Cumbrian farmers in trade deals – MP warns minister</title>
-  <link rel="alternate" href="http://timfarron.co.uk/en/article/2023/1442530/don-t-sell-out-cumbrian-farmers-in-trade-deals-mp-warns-minister"/>
-  <updated>2023-06-29T17:49:00Z</updated>
-  <id>http://timfarron.co.uk/en/article/2023/1442530/don-t-sell-out-cumbrian-farmers-in-trade-deals-mp-warns-minister</id>
-  <summary type="text">On the floor of the House of Commons this morning, local MP Tim Farron urged Government ministers to protect Cumbrian farmers in future trade international trade deals.
-Speaking during a question in Parliament on increasing trade with African countries, Tim said: "As the Government rightly consider new trade deals with other countries, what lessons will they learn from the hideous mistakes made in the New Zealand and Australia trade deals?</summary>
-  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>On the floor of the House of Commons this morning, local MP Tim Farron urged Government ministers to protect Cumbrian farmers in future trade international trade deals.</p>
-<p>Speaking during a question in Parliament on increasing trade with African countries, Tim said: <em>"As the Government rightly consider new trade deals with other countries, what lessons will they learn from the hideous mistakes made in the New Zealand and Australia trade deals?</em></p>
-<p><em>"The right honourable member for Camborne and Redruth (George Eustice), a former Secretary of State for Environment, Food and Rural Affairs, rightly said that they are bad deals for Britain.</em></p>
-<p><em>"Given that British farmers are so angry with this Government, having been thrown under the bus on animal welfare and on environmental and cost issues, will he learn lessons from those mistakes and make sure British farmers are protected, and that environmental and animal welfare standards are protected, too?"</em></p>
-<p>In response, the Minister for International Trade Nigel Huddleston said: <em>"I am, quite frankly, astounded by the honourable gentleman's comments.</em></p>
-<p><em>"He is well aware, as I have said repeatedly and is widely acknowledged, that the trade deals we have developed, including with Australia and New Zealand, are economically beneficial right across the UK, including in his constituency.</em></p>
-<p><em>"If he does not wish to support policies that are in the best economic interests of his constituency, that is something his constituents probably need to recognise come the next election."</em></p>
-<p>Speaking afterwards, Tim said: <em>"The minister is clearly not living in the real world.</em></p>
-<p><em>"If he seriously thinks the trade deals with Australia and New Zealand are good for our area, I would invite him to come up to Westmorland and listen to the many farmers who are apoplectic that they have been sold down the river by his Government."</em></p>
-<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
-  <category term="Article"/>
-</entry>
-  <entry>
     <title>MacNeil hails victory for island communities with scrapping of HPMA plans</title>
     <link rel="alternate" href="https://angusmacneilsnp.com/2023/06/29/macneil-hails-victory-for-island-communities-with-scrapping-of-hpma-plans/" type="text/html"/>
     <content type="html">
@@ -511,17 +534,6 @@ I have been speaking to the…</div>
     <updated>2023-06-29T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Brendan Clarke-Smith MP welcomes announcement of £1 million fund for community defibrillators</title>
-    <link rel="alternate" href="https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-welcomes-announcement-ps1-million-fund-community-defibrillators" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Brendan Clarke-Smith MP has welcomed the announcement that the government is inviting community organisations to bid for funding for a defibrillator for their area.
-The Department of Health and Social Care is inviting interested organisations to register expressions of interest for its £1 million…</div>
-    </content>
-    <id>https://www.brendanclarkesmith.com/news/brendan-clarke-smith-mp-welcomes-announcement-ps1-million-fund-community-defibrillators</id>
-    <published>2023-06-29T13:00:00+01:00</published>
-    <updated>2023-06-29T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>DEEPENING CRISIS OF FOOD INSECURITY IN THE NORTH EAST IS NOTHING SHORT OF A SCANDAL</title>
     <link rel="alternate" href="https://www.catherinemckinnellmp.co.uk/deepening-crisis-of-food-insecurity-in-the-north-east-is-nothing-short-of-a-scandal/" type="text/html"/>
     <content type="xhtml">
@@ -540,16 +552,6 @@ The Department of Health and Social Care is inviting interested organisations to
     <category term="economy"/>
     <category term="featured"/>
     <category term="latest"/>
-  </entry>
-  <entry>
-    <title>Robin pays tribute in Parliament to the North Wales Wildlife Trust</title>
-    <link rel="alternate" href="https://www.robin-millar.org.uk/news/robin-pays-tribute-parliament-north-wales-wildlife-trust" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">During a debate in Parliament about the protection of seals in British coastal waters Robin paid tribute to the work of the staff and volunteers of the North Wales Wildlife Trust for the work that they do in monitoring and protecting the seal colony at Angel Bay.</div>
-    </content>
-    <id>https://www.robin-millar.org.uk/news/robin-pays-tribute-parliament-north-wales-wildlife-trust</id>
-    <published>2023-06-28T13:00:00+01:00</published>
-    <updated>2023-06-28T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>Alnmouth baby loss awareness &amp; reflection event</title>
@@ -2180,10 +2182,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64a2bfc577c77" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64a2e8e4e2f57" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64a2bfc577c77').iPhorm({"id":5,"uniqueId":"64a2bfc577c77","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64a2e8e4e2f57').iPhorm({"id":5,"uniqueId":"64a2e8e4e2f57","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2258,10 +2260,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64a2bfc577c77" class="iphorm iphorm-form-5" action="/feed/#iphorm-64a2bfc577c77" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64a2e8e4e2f57" class="iphorm iphorm-form-5" action="/feed/#iphorm-64a2e8e4e2f57" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64a2bfc577c77" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64a2e8e4e2f57" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2270,22 +2272,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64a2bfc577c77" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64a2bfc577c77" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64a2e8e4e2f57" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64a2e8e4e2f57" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64a2bfc577c77" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64a2bfc577c77" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64a2e8e4e2f57" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64a2e8e4e2f57" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64a2bfc577c77" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64a2bfc577c77" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64a2e8e4e2f57" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64a2e8e4e2f57" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2295,7 +2297,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64a2bfc577c77_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64a2e8e4e2f57_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2314,7 +2316,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64a2bfc577c77 script').remove();
+    jQuery('#iphorm-outer-64a2e8e4e2f57 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2374,7 +2376,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzoh6Gpa2g5dty6o7yD2aB0xRyzNWrrzQX3uYCINsG-zcazCodD4uR2FlHsew9DYQQmGZ3Lt9y49XVDoRnFQw' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz0jyDVT2OoU7BC6omyF4M0vNe39-v2wty90lFeQS0FamfLTU4e_YP0oap1l8BBR0M9E7iKL7W7XNzXRriToA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
