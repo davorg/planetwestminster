@@ -7,9 +7,62 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-06T12:33:39Z</updated>
+  <updated>2023-07-06T15:30:17Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>oliverrosina@aol.com</name>
+					</author>
+
+		<title type="html"><![CDATA[ALL ABOARD!]]></title>
+		<link rel="alternate" type="text/html" href="https://www.angelarayner.co.uk/2023/07/06/all-aboard/"/>
+
+		<id>https://www.angelarayner.co.uk/?p=500</id>
+		<updated>2023-07-06T12:57:54Z</updated>
+		<published>2023-07-06T12:57:54Z</published>
+		<category scheme="https://www.angelarayner.co.uk" term="NEWS"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="https://www.angelarayner.co.uk/2023/07/06/all-aboard/"><![CDATA[]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.angelarayner.co.uk/2023/07/06/all-aboard/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.angelarayner.co.uk/2023/07/06/all-aboard/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
+  <entry>
+    <title>The Summer Reading Challenge Begins This Weekend!</title>
+    <link rel="alternate" href="https://www.damiangreen.co.uk/news/summer-reading-challenge-begins-weekend" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This weekend, the Summer Reading Challenge begins. It takes place throughout the summer holidays, starting Saturday 8th July. The Challenge encourages children aged 4-11 to keep reading during the school summer holidays. They set a reading goal and can read anything they enjoy.
+ 
+This year’s…</div>
+    </content>
+    <id>https://www.damiangreen.co.uk/news/summer-reading-challenge-begins-weekend</id>
+    <published>2023-07-06T13:00:00+01:00</published>
+    <updated>2023-07-06T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Finmere Landfill: July 2023 Update</title>
+    <link rel="alternate" href="https://www.victoriaprentis.com/news/finmere-landfill-july-2023-update" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I understand that in recent weeks the odour from the Finmere landfill has become particularly strong again. This is extremely disappointing given efforts by the Environment Agency and the operator to cap cells and manage the landfill more responsibly. 
+Having sought an update from the Environment…</div>
+    </content>
+    <id>https://www.victoriaprentis.com/news/finmere-landfill-july-2023-update</id>
+    <published>2023-07-06T13:00:00+01:00</published>
+    <updated>2023-07-06T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Basingstoke MP joins residents to mark Windrush 75th anniversary</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/basingstoke-mp-joins-residents-mark-windrush-75th-anniversary" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maria joined members of the Basingstoke Caribbean Society and Friends, and the Cultural Diversity Consortium (CDC), who have partnered with the Hampshire Cultural Trust, to commemorate the 75thanniversary of the Empire Windrush arriving at Tilbury docks in 1948, bringing 802 passengers from the…</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/basingstoke-mp-joins-residents-mark-windrush-75th-anniversary</id>
+    <published>2023-07-06T13:00:00+01:00</published>
+    <updated>2023-07-06T13:00:00+01:00</updated>
+  </entry>
   <entry>
     <title>Anne-Marie welcomes construction beginning on new full fibre broadband network</title>
     <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/anne-marie-welcomes-construction-beginning-new-full-fibre-broadband-network" type="text/html"/>
@@ -40,12 +93,12 @@ Write to Scott Surgery Details 
     <updated>2023-07-06T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Urgent Question on Rail Ticket Office consultation </title>
-    <link rel="alternate" href="https://www.gregsmith.co.uk/news/urgent-question-rail-ticket-office-consultation" type="text/html"/>
+    <title>Greg questions Foreign Secretary following Statement on Iran</title>
+    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-questions-foreign-secretary-following-statement-iran" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A consultation has been launched about the future of ticket offices at railway stations. The basis of the plan does make sense in that it will redeploy ticket office staff from behind counters and give them a roving role around stations, to help passengers with ticket machines, advise on routes and…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Earlier Greg Smith MP questioned the Foreign Secretary, James Cleverly, following a Statement on Iran. The new package of measures and sanctions he announced that can be used against the brutal Iranian regime are very welcome, but the Buckingham MP used the example of Iranian supply of weapons to…</div>
     </content>
-    <id>https://www.gregsmith.co.uk/news/urgent-question-rail-ticket-office-consultation</id>
+    <id>https://www.gregsmith.co.uk/news/greg-questions-foreign-secretary-following-statement-iran</id>
     <published>2023-07-06T13:00:00+01:00</published>
     <updated>2023-07-06T13:00:00+01:00</updated>
   </entry>
@@ -336,28 +389,6 @@ The move, pushed by the Government to save costs, was confirmed by the industry 
     <category term="Release"/>
   </entry>
   <entry>
-    <title>NHS 75</title>
-    <link rel="alternate" href="https://www.victoriaprentis.com/news/nhs-75" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Today we mark 75 years of our NHS.
-Ahead of today’s milestone, I visited the Horton General Hospital last Friday and had a chance to look around the maternity unit. I was born at the Horton and four generations of my family have been treated there. I am proud of our local hospital and have always…</div>
-    </content>
-    <id>https://www.victoriaprentis.com/news/nhs-75</id>
-    <published>2023-07-05T13:00:00+01:00</published>
-    <updated>2023-07-05T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Local MP marks NHS’s 75th anniversary</title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/local-mp-marks-nhss-75th-anniversary" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">On the 75th anniversary of the NHS’s founding, I would like to pay tribute to everyone who worked in our National Health Service. At its founding in 1948, it was the world’s first universal free health system; and is now part of our national DNA. 
-I would like to pay particular thanks to all our…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/local-mp-marks-nhss-75th-anniversary</id>
-    <published>2023-07-05T13:00:00+01:00</published>
-    <updated>2023-07-05T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Nottingham and Nottinghamshire ICB Open Nominations for the first-ever Health and Care Awards</title>
     <link rel="alternate" href="https://www.brendanclarkesmith.com/news/nottingham-and-nottinghamshire-icb-open-nominations-first-ever-health-and-care-awards" type="text/html"/>
     <content type="xhtml">
@@ -479,16 +510,6 @@ During his speech, Sir David reflected on his own experience working at Bexley C
 Thanks to funding provided by National…</div>
     </content>
     <id>https://www.robin-millar.org.uk/news/robin-welcomes-lottery-funding-community-projects-throughout-aberconwy</id>
-    <published>2023-07-04T13:00:00+01:00</published>
-    <updated>2023-07-04T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Select Committee Update – The Draft Media Bill</title>
-    <link rel="alternate" href="https://www.damiangreen.co.uk/news/select-committee-update-draft-media-bill-1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Today the CMS Committee held its fourth and final session on scrutinising the Draft Media Bill. We heard from two panels today. In the first panel we heard from Kate Biggs (Director of Content Policy, Ofcom), Kate Davies (Public Policy Director, Ofcom), and Colin Browne (Chair, Voice and Listener…</div>
-    </content>
-    <id>https://www.damiangreen.co.uk/news/select-committee-update-draft-media-bill-1</id>
     <published>2023-07-04T13:00:00+01:00</published>
     <updated>2023-07-04T13:00:00+01:00</updated>
   </entry>
@@ -1325,26 +1346,6 @@ Have a look, and see some of the things that I’ve been helping local residents
     <published>2023-06-15T13:00:00+01:00</published>
     <updated>2023-06-15T13:00:00+01:00</updated>
   </entry>
-  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
-		<author>
-			<name>oliverrosina@aol.com</name>
-					</author>
-
-		<title type="html"><![CDATA[WHIT FRIDAY FUN]]></title>
-		<link rel="alternate" type="text/html" href="https://www.angelarayner.co.uk/2023/06/14/whit-friday-fun/"/>
-
-		<id>https://www.angelarayner.co.uk/?p=498</id>
-		<updated>2023-06-14T09:11:06Z</updated>
-		<published>2023-06-14T09:10:39Z</published>
-		<category scheme="https://www.angelarayner.co.uk" term="NEWS"/>
-		<summary type="html"><![CDATA[]]></summary>
-
-					<content type="html" xml:base="https://www.angelarayner.co.uk/2023/06/14/whit-friday-fun/"><![CDATA[]]></content>
-		
-					<link rel="replies" type="text/html" href="https://www.angelarayner.co.uk/2023/06/14/whit-friday-fun/#comments" thr:count="0"/>
-			<link rel="replies" type="application/atom+xml" href="https://www.angelarayner.co.uk/2023/06/14/whit-friday-fun/feed/atom/" thr:count="0"/>
-			<thr:total>0</thr:total>
-			</entry>
   <entry>
     <title>Royston Smith announces his intention to stand down at the next Election</title>
     <link rel="alternate" href="https://www.roystonsmith.co.uk/2023/06/09/royston-smith-announces-his-intention-to-stand-down-at-the-next-election/" type="text/html"/>
@@ -1799,37 +1800,6 @@ Have a look, and see some of the things that I’ve been helping local residents
     <category term="Education"/>
   </entry>
   <entry>
-    <title>Berry Bros &amp; Rudd New Warehouse in Andover</title>
-    <link rel="alternate" href="https://kitmalthouse.com/2022/berry-bros-rudd-new-warehouse-in-andover/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=berry-bros-rudd-new-warehouse-in-andover" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. </p>
-
-
-
-<p>While much of their business is selling wine, most of it is helping wine buyers and collectors look after their stock, and the warehouse is where it is all stored. As I was shown round, I marvelled at the famous names on the shelves: Lafitte, Latour, Petrus etc. </p>
-
-
-
-<p>The Warehouse is chilled to 12 degrees throughout, but happily due to solar panels on the roof, will be carbon neutral. </p>
-
-
-
-<p>It’s a great vote of confidence in Andover and in the UK wine industry which I hope will continue to lead the world, with possibly the biggest collection of fine wines on the planet, here in North West Hampshire. </p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. While much of their business is selling wine, most of […]</div>
-    </summary>
-    <author>
-      <name>Kit Malthouse</name>
-    </author>
-    <id>https://kitmalthouse.com/?p=2968</id>
-    <published>2022-11-05T08:26:32Z</published>
-    <updated>2022-11-05T08:26:32Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
-  <entry>
     <title>Dan Jarvis MP: Statement Regarding Sentencing</title>
     <link rel="alternate" href="http://www.danjarvis.org/statement_regarding_sentencing" type="text/html"/>
     <content type="xhtml">
@@ -2207,10 +2177,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64a6b47d13030" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64a6dde98844d" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64a6b47d13030').iPhorm({"id":5,"uniqueId":"64a6b47d13030","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64a6dde98844d').iPhorm({"id":5,"uniqueId":"64a6dde98844d","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2285,10 +2255,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64a6b47d13030" class="iphorm iphorm-form-5" action="/feed/#iphorm-64a6b47d13030" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64a6dde98844d" class="iphorm iphorm-form-5" action="/feed/#iphorm-64a6dde98844d" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64a6b47d13030" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64a6dde98844d" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2297,22 +2267,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64a6b47d13030" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64a6b47d13030" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64a6dde98844d" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64a6dde98844d" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64a6b47d13030" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64a6b47d13030" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64a6dde98844d" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64a6dde98844d" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64a6b47d13030" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64a6b47d13030" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64a6dde98844d" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64a6dde98844d" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2322,7 +2292,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64a6b47d13030_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64a6dde98844d_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2341,7 +2311,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64a6b47d13030 script').remove();
+    jQuery('#iphorm-outer-64a6dde98844d script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
