@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-11T03:29:03Z</updated>
+  <updated>2023-07-11T06:32:53Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>The Office of Budget Responsibility</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/07/11/the-office-of-budget-responsibility/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The Office of Budget responsibility is a recent invention. George Osborne wanted a body that was said to  be independent that could assess government economic policy and set out in forecasts what the results were likely to be. To do this he transferred the Treasury model for forecasting the economy and some Treasury officials to this new body. It was given the privilege no other forecaster has of getting prior access to budget measures so when the budget is published the OBR can publish a set of forecasts that include the impact of the latest budget measures. Other independent forecasters can then catch up, putting the new budget measures into their models and running them to see what change results. The OBR forecasts and the average of private sector forecasts are often quite close to each other, with the old Treasury model still having some sway with a range of external economists.  Treasury officials clearly work closely with OBR ones, as they used to do when they were all part of the same organisation.</p>
+<p>The main problem with this system is the failure of the POBR to come up with reliable and accurate forecasts of the budget deficit. This matters hugely because their wrong forecasts unlike other people’s are used to mark the government’s homework. The main economic policy control is a derivative of the old Maastricht debt and deficit controls. The government aims to have debt falling as a proportion of GDP by the end of the five year forecast period if not before. This relies on the OBR forecasts of the difference between two large numbers, total spending and total revenue, five years hence.</p>
+<p>In recent years the OBR has been £100bn or more out in its same year forecasts, let alone in its five year forecasts. The OBR presumes to say the government needs to raise an extra £10 to say £30bn in taxes, when its deficit forecasts swing by far more than these sums year by year. Observing the pattern they tend to greatly exaggerate the deficit when the economy is growing and underestimate it when the economy is slowing or shrinking. The main errors occur on the revenue side. Their model does not seem to take much account of the behavioural effects of higher tax rates which may depress tax take, or the way in which lower tax rates may boost tax take. It certainly doe snot seem to recognise the great sensitivity of revenues to gr9wth rates.</p>
+<p>The independent OBR should follow what the Bank has decided. faced with its own failure to forecast inflation, crucial to its task, the Bank has announced a review of its models. The OBR needs to do the same, as it models cannot forecast deficits sensibly, leaving no sound basis for their advice on tax levels.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The Office of Budget responsibility is a recent invention. George Osborne wanted a body that was said to  be independent that could assess government economic policy and set out in forecasts what the results were likely to be. To do this he transferred the Treasury model for forecasting the economy and some Treasury officials to…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>https://johnredwoodsdiary.com/?p=35523</id>
+    <published>2023-07-11T04:00:50Z</published>
+    <updated>2023-07-11T04:00:50Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
   <title>Give local authorities the power to make sure new homes are affordable, MP asks minister</title>
   <link rel="alternate" href="http://timfarron.co.uk/en/article/2023/1442593/give-local-authorities-the-power-to-make-sure-new-homes-are-affordable-mp-asks-minister"/>
@@ -137,27 +158,6 @@ Jock’s Lodge, the junction between the A164 (Beverley to Humber Bridge) and A1
     <id>7446 at https://www.philipdunne.com</id>
     <published>2023-07-10T08:57:39Z</published>
     <updated>2023-07-10T08:57:39Z</updated>
-  </entry>
-  <entry>
-    <title>Interest rates now higher than at the time of Truss budget</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/07/10/interest-rates-now-higher-than-at-the-time-of-truss-budget/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The Bank of England has been up to its old tricks, hiking rates and selling bonds to hike mortgage rates some more. They think taking money away from mortgage holders will squeeze their ability to spend which will cut inflation by reducing demand.</p>
-<p>Will it? The extra money mortgage holders pay in interest certainly cannot be spent any longer by them on goods and services. The money however does not disappear. Much of it is passed onto savers who have deposits in the banks that lend the money. They will have more income to spend. Some of the extra interest is extra  bank profit, which leads to higher dividends so shareholders will have more money to spend.</p>
-<p>Higher mortgage rates therefore will not limit demand for goods and services as much as the Bank seems to think. It is possible the savers will not spend all their extra interest income, whilst it is likely the mortgage holders would have spent more of the money they now have to pass to the lenders. This is however a matter of degree. It is also likely the savers who tend to be older may well pass some of their deposit interest gain onto their children with mortgages to help them out.</p>
-<p>The further sell off in bonds underwrites my argument that the high mortgage rates come mainly from Bank of England rate hikes and bond sales.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Bank of England has been up to its old tricks, hiking rates and selling bonds to hike mortgage rates some more. They think taking money away from mortgage holders will squeeze their ability to spend which will cut inflation by reducing demand. Will it? The extra money mortgage holders pay in interest certainly cannot…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=35509</id>
-    <published>2023-07-10T04:07:09Z</published>
-    <updated>2023-07-10T04:07:09Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Tories have cut Policing in the North East</title>
@@ -867,7 +867,7 @@ willing to assist too.”&lt;/p&gt;
       <div xmlns="http://www.w3.org/1999/xhtml">
 <span property="schema:name">UK Wind Energy Week</span>
 
-<span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/index.php/user/12" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Andrew</span></span>
+<span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/user/12" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Andrew</span></span>
 
 <span property="schema:dateCreated" content="2023-06-26T13:53:00+00:00">Mon, 06/26/2023 - 14:53</span>
 </div>
@@ -1707,37 +1707,6 @@ Have a look, and see some of the things that I’ve been helping local residents
     <category term="Education"/>
   </entry>
   <entry>
-    <title>Berry Bros &amp; Rudd New Warehouse in Andover</title>
-    <link rel="alternate" href="https://kitmalthouse.com/2022/berry-bros-rudd-new-warehouse-in-andover/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=berry-bros-rudd-new-warehouse-in-andover" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. </p>
-
-
-
-<p>While much of their business is selling wine, most of it is helping wine buyers and collectors look after their stock, and the warehouse is where it is all stored. As I was shown round, I marvelled at the famous names on the shelves: Lafitte, Latour, Petrus etc. </p>
-
-
-
-<p>The Warehouse is chilled to 12 degrees throughout, but happily due to solar panels on the roof, will be carbon neutral. </p>
-
-
-
-<p>It’s a great vote of confidence in Andover and in the UK wine industry which I hope will continue to lead the world, with possibly the biggest collection of fine wines on the planet, here in North West Hampshire. </p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It was fascinating to visit the vast new Berry Bros warehouse in Andover recently. This family owned business is one of the world’s oldest and biggest wine merchants and they have just opened a spanking new multi million pound facility on the Andover Business Park. While much of their business is selling wine, most of […]</div>
-    </summary>
-    <author>
-      <name>Kit Malthouse</name>
-    </author>
-    <id>https://kitmalthouse.com/?p=2968</id>
-    <published>2022-11-05T08:26:32Z</published>
-    <updated>2022-11-05T08:26:32Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
-  <entry>
     <title>Dan Jarvis MP: Statement Regarding Sentencing</title>
     <link rel="alternate" href="http://www.danjarvis.org/statement_regarding_sentencing" type="text/html"/>
     <content type="xhtml">
@@ -2115,10 +2084,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64accc616def0" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64acf771c1352" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64accc616def0').iPhorm({"id":5,"uniqueId":"64accc616def0","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64acf771c1352').iPhorm({"id":5,"uniqueId":"64acf771c1352","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2193,10 +2162,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64accc616def0" class="iphorm iphorm-form-5" action="/feed/#iphorm-64accc616def0" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64acf771c1352" class="iphorm iphorm-form-5" action="/feed/#iphorm-64acf771c1352" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64accc616def0" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64acf771c1352" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2205,22 +2174,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64accc616def0" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64accc616def0" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64acf771c1352" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64acf771c1352" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64accc616def0" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64accc616def0" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64acf771c1352" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64acf771c1352" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64accc616def0" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64accc616def0" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64acf771c1352" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64acf771c1352" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2230,7 +2199,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64accc616def0_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64acf771c1352_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2249,7 +2218,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64accc616def0 script').remove();
+    jQuery('#iphorm-outer-64acf771c1352 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2309,7 +2278,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dx7HjR8yzvc_J3R-_5UPe7JKDeiyOmcZn8-O46Txaw69AeR-fhV8zNj1HDTMLwf4KQd_pacfCd09OTTT9mwOA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxeK2ySqqIT5YKyXVEUyNxmgvSJ2TTKhVFLK9Y7qlZSJzVoSBEkI1uvrE7-4WZ2ikIACoRzU542y2HgDryHQA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
