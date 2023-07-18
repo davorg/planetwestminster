@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-18T18:29:36Z</updated>
+  <updated>2023-07-18T21:25:07Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+		<author>
+			<name>Team JP</name>
+					</author>
+
+		<title type="html"><![CDATA[Ministers confirm they will begin publishing more data so FE students can compare chances of employment and earning power for each course]]></title>
+		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2023/07/18/ministers-confirm-they-will-begin-publishing-more-data-so-fe-students-can-compare-chances-of-employment-and-earning-power-for-each-course/"/>
+
+		<id>http://johnpenrose.org/wp/?p=5785</id>
+		<updated>2023-07-18T19:11:13Z</updated>
+		<published>2023-07-18T19:11:12Z</published>
+		<category scheme="http://johnpenrose.org/wp" term="Fairer Funding For Local Schools"/><category scheme="http://johnpenrose.org/wp" term="Local Campaigns"/><category scheme="http://johnpenrose.org/wp" term="Low Cost Britain"/><category scheme="http://johnpenrose.org/wp" term="National Campaigns"/><category scheme="http://johnpenrose.org/wp" term="UK Productivity &amp; Growth"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="http://johnpenrose.org/wp/2023/07/18/ministers-confirm-they-will-begin-publishing-more-data-so-fe-students-can-compare-chances-of-employment-and-earning-power-for-each-course/"><![CDATA[]]></content>
+		
+			</entry>
   <entry>
     <title>More money for local schools</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2023/07/18/more-money-for-local-schools-2/" type="text/html"/>
@@ -1214,41 +1231,6 @@ If you want to apply please register here:<br/>
     <category term="Wycombe"/>
   </entry>
   <entry>
-		<author>
-			<name>Team JP</name>
-					</author>
-
-		<title type="html"><![CDATA[John attends launch of new hearing care centre in Worle]]></title>
-		<link rel="alternate" type="text/html" href="http://johnpenrose.org/wp/2023/06/27/john-attends-launch-of-new-hearing-care-centre-in-worle/"/>
-
-		<id>http://johnpenrose.org/wp/?p=5768</id>
-		<updated>2023-06-27T08:11:47Z</updated>
-		<published>2023-06-27T08:11:47Z</published>
-		<category scheme="http://johnpenrose.org/wp" term="Local Campaigns"/><category scheme="http://johnpenrose.org/wp" term="Regenerating Weston"/>
-		<summary type="html"><![CDATA[A NEW hearing care centre has opened its doors in Worle. The Meadows &#38; Wood Hearing Care store will help residents with everything from tinnitus issues to hearing aid trials.&#160; A ribbon-cutting ceremony was held to celebrate the opening on Friday, June 23. John Penrose MP and the mayor of Weston, Cllr Ciaran Cronnelly, attended. [&#8230;]]]></summary>
-
-					<content type="html" xml:base="http://johnpenrose.org/wp/2023/06/27/john-attends-launch-of-new-hearing-care-centre-in-worle/"><![CDATA[
-<p>A NEW hearing care centre has opened its doors in Worle.</p>
-
-
-
-<p>The Meadows &amp; Wood Hearing Care store will help residents with everything from tinnitus issues to hearing aid trials.&nbsp;</p>
-
-
-
-<p>A ribbon-cutting ceremony was held to celebrate the opening on Friday, June 23. John Penrose MP and the mayor of Weston, Cllr Ciaran Cronnelly, attended.</p>
-
-
-
-<p>A spokesperson from the company said: &#8220;We have just opened our new premises in Worle. We still offer clinics in Shirehampton, Weston-super-Mare and Portishead as well as home visits.</p>
-
-
-
-<p>&#8220;Please don’t suffer in silence.</p>
-]]></content>
-		
-			</entry>
-  <entry>
     <title>Parents of young kids, especially mums, need more childcare support to get back in to work.</title>
     <link rel="alternate" href="https://www.conormcginn.co.uk/2023/06/26/parents-of-young-kids-especially-mums-need-more-childcare-support-to-get-back-in-to-work/" type="text/html"/>
     <author>
@@ -2225,10 +2207,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64b6d9f147df4" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64b703116ab04" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64b6d9f147df4').iPhorm({"id":5,"uniqueId":"64b6d9f147df4","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64b703116ab04').iPhorm({"id":5,"uniqueId":"64b703116ab04","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2303,10 +2285,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64b6d9f147df4" class="iphorm iphorm-form-5" action="/feed/#iphorm-64b6d9f147df4" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64b703116ab04" class="iphorm iphorm-form-5" action="/feed/#iphorm-64b703116ab04" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64b6d9f147df4" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64b703116ab04" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2315,22 +2297,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64b6d9f147df4" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64b6d9f147df4" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64b703116ab04" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64b703116ab04" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64b6d9f147df4" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64b6d9f147df4" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64b703116ab04" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64b703116ab04" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64b6d9f147df4" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64b6d9f147df4" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64b703116ab04" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64b703116ab04" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2340,7 +2322,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64b6d9f147df4_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64b703116ab04_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2359,7 +2341,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64b6d9f147df4 script').remove();
+    jQuery('#iphorm-outer-64b703116ab04 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
