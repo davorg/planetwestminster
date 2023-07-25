@@ -7,9 +7,20 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-25T09:27:22Z</updated>
+  <updated>2023-07-25T12:33:45Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Drowning Prevention Day</title>
+    <link rel="alternate" href="https://www.robin-millar.org.uk/news/drowning-prevention-day" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Today is World Drowning Prevention Day - a World Health Organisation initiative to reduce preventable deaths from drowning and to promote safety on and around the water.
+Last year a young woman from Llandudno tragically lost her life after getting into difficulty in the water while using a paddle…</div>
+    </content>
+    <id>https://www.robin-millar.org.uk/news/drowning-prevention-day</id>
+    <published>2023-07-25T13:00:00+01:00</published>
+    <updated>2023-07-25T13:00:00+01:00</updated>
+  </entry>
   <entry>
     <title>Ashfield MP visits mother-daughter run beauty business, to discuss the importance of supporting local companies</title>
     <link rel="alternate" href="https://www.leeanderson.org.uk/news/ashfield-mp-visits-mother-daughter-run-beauty-business-discuss-importance-supporting-local" type="text/html"/>
@@ -17,6 +28,26 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Lee Anderson MP visited the Beauty Station on Station Road in Sutton, as part of his first day of Summer Recess. Lee met with Helen Todd and her daughter Nicky Kershaw, who own the business together, to see first hand the great service they are delivering for clients. From starting in Helen’s…</div>
     </content>
     <id>https://www.leeanderson.org.uk/news/ashfield-mp-visits-mother-daughter-run-beauty-business-discuss-importance-supporting-local</id>
+    <published>2023-07-25T13:00:00+01:00</published>
+    <updated>2023-07-25T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Response to Horton's Bid Outcome</title>
+    <link rel="alternate" href="https://www.victoriaprentis.com/news/response-hortons-bid-outcome" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">On 25 May the Department for Health and Social Care released an update on the new hospital programme (NHP), in which they prioritised five hospitals deemed unsafe because they were constructed using aerated concrete (RAAC). It wasn’t clear to me then that the remaining bids – including the Horton’s…</div>
+    </content>
+    <id>https://www.victoriaprentis.com/news/response-hortons-bid-outcome</id>
+    <published>2023-07-25T13:00:00+01:00</published>
+    <updated>2023-07-25T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Community Chat: 👩‍⚕️🩺🏥 New Hospital For #Basingstoke 🏥🩺👨‍⚕️</title>
+    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/community-chat-new-hospital-basingstoke-0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Community Chat: 👩‍⚕️🩺🏥 New Hospital For #Basingstoke 🏥🩺👨‍⚕️</div>
+    </content>
+    <id>https://www.maria4basingstoke.co.uk/news/community-chat-new-hospital-basingstoke-0</id>
     <published>2023-07-25T13:00:00+01:00</published>
     <updated>2023-07-25T13:00:00+01:00</updated>
   </entry>
@@ -30,6 +61,23 @@ During the visit Graham sat in one of the service’s newest fire engines, which
     <id>https://www.grahamstuart.com/news/graham-learns-about-life-saving-work-patringtons-firefighters</id>
     <published>2023-07-25T13:00:00+01:00</published>
     <updated>2023-07-25T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>The National Trust in Dagenham &amp; Rainham</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/national-trust-dagenham-rainham" type="text/html"/>
+    <content type="html">
+&lt;span property="schema:name"&gt;The National Trust in Dagenham &amp; Rainham&lt;/span&gt;
+
+&lt;span rel="schema:author"&gt;&lt;span lang="" about="https://joncruddas.org.uk/user/12" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Andrew&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property="schema:dateCreated" content="2023-07-25T11:42:00+00:00"&gt;Tue, 07/25/2023 - 12:42&lt;/span&gt;
+</content>
+    <author>
+      <name>Andrew</name>
+    </author>
+    <id>1214 at https://joncruddas.org.uk</id>
+    <published>2023-07-25T11:42:00Z</published>
+    <updated>2023-07-25T11:42:00Z</updated>
   </entry>
   <entry>
     <title>Dunne congratulates successor as next Conservative candidate for South Shropshire</title>
@@ -97,6 +145,44 @@ During the visit Graham sat in one of the service’s newest fire engines, which
     <id>7451 at https://www.philipdunne.com</id>
     <published>2023-07-25T09:07:48Z</published>
     <updated>2023-07-25T09:07:48Z</updated>
+  </entry>
+  <entry>
+    <title>Promise of A9 Dualling Must Be Delivered</title>
+    <link rel="alternate" href="https://www.drewhendrymp.scot/promise-of-a9-dualling-must-be-delivered/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=promise-of-a9-dualling-must-be-delivered" type="text/html"/>
+    <content type="html">&lt;div id="dslc-theme-content"&gt;&lt;div id="dslc-theme-content-inner"&gt;&lt;p style="font-weight: 400;"&gt;The A9 dualling is a totemic issue for people living in the Highlands. From the moment we set off on the road, we know the risks it carries—the tragedies that can unfold, impacting not only those who act recklessly or impatiently but also innocent road users who fall victim to these avoidable accidents.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;For years, we endured the worry that comes with understanding just how dangerous the road can be – that&amp;#8217;s why the promise to dual the road was so welcome.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;But a promise is nothing without action, and serious action was needed to get this project over the line.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;There&amp;#8217;s no denying that the dualling project has faced its fair share of legitimate issues. We understand the immensity of the programme, but what matters is that we don&amp;#8217;t have a safe road yet and we were promised one.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;Clearly, it was a mistake for the Scottish Government to set the expectation of completing the entire dualling project by 2025 without ensuring the necessary resources, engineering, planning, and contractors could meet that timeline.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;And so, we find ourselves at this juncture – frustrated and disappointed.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;That&amp;#8217;s why last week&amp;#8217;s Courier&amp;#8217;s A9 summit was such an important intervention. It allowed families of those who&amp;#8217;ve lost loved ones, local campaigners and people from the business community to have their voices heard by the Cabinet Secretary and her officials.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;She will be in no doubt about the seismic impact this road&amp;#8217;s danger has on our local communities and regular road users, and I know from conversations I&amp;#8217;ve had and the Cabinet Secretary&amp;#8217;s own words at the Summit that getting this right is a top priority for her and the First Minister.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;Still, trust needs to be earned, and the people in the Highlands will not settle for anything less than a clear plan with achievable milestones for completion – and the budget commitment to back it up. My colleagues and I will certainly be on the case to ensure that outcome.&lt;/p&gt;
+&lt;p style="font-weight: 400;"&gt;
+&lt;p style="font-weight: 400;"&gt;We have seen major investment here by the Scottish Government in recent years, but people will quickly forget the new Justice centre, the £135m City region deal funding, the UHI campus, rail improvements, the new IRA school, the city flood prevention and the many other investments made here if the A9 dualling is not delivered.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.drewhendrymp.scot/promise-of-a9-dualling-must-be-delivered/"&gt;Promise of A9 Dualling Must Be Delivered&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.drewhendrymp.scot"&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The A9 dualling is a totemic issue for people living in the Highlands. From the moment we set off on the road, we know the risks it carries—the tragedies that can unfold, impacting not only those who act recklessly or impatiently but also innocent road users who fall victim to these avoidable accidents. For years, …</p>
+<p class="read-more"> <a class="" href="https://www.drewhendrymp.scot/promise-of-a9-dualling-must-be-delivered/"> <span class="screen-reader-text">Promise of A9 Dualling Must Be Delivered</span> Read More »</a></p>
+<p>The post <a rel="nofollow" href="https://www.drewhendrymp.scot/promise-of-a9-dualling-must-be-delivered/">Promise of A9 Dualling Must Be Delivered</a> appeared first on <a rel="nofollow" href="https://www.drewhendrymp.scot"/>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Drew Hendry MP</name>
+    </author>
+    <id>https://www.drewhendrymp.scot/?p=8025</id>
+    <published>2023-07-25T09:00:14Z</published>
+    <updated>2023-07-25T09:00:14Z</updated>
+    <category term="Uncategorised"/>
   </entry>
   <entry>
     <title>2023 Summer Reading Challenge</title>
@@ -173,13 +259,13 @@ During the visit Graham sat in one of the service’s newest fire engines, which
 
 					<content type="html" xml:base="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/"><![CDATA[<p>Hearing from local organisations is really important to me. That&#8217;s why on Friday I was pleased to pop down to visit local businesses in Beaumont Leys. I spent the afternoon hearing directly from organisations on Astill Lodge Road and Home Farm about how they are getting on and the challenges that they are facing.</p>
 <p>So many told me that they are really struggling under this Conservative Government with soaring energy bills and rents.</p>
-<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-84">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
-    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-84');
+<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-43">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
+    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-43');
     var linkNode = document.createElement('a');
     linkNode.setAttribute('href', "mailto:%6C%69%7A%2E%6B%65%6E%64%61%6C%6C%2E%6D%70%40%70%61%72%6C%69%61%6D%65%6E%74%2E%75%6B");
     tNode = document.createTextNode("liz.kendall.mp {at} parliament(.)uk");
     linkNode.appendChild(tNode);
-    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-84");
+    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-43");
     mailNode.parentNode.replaceChild(linkNode, mailNode);
 </script></p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/">Liz meets with Beaumont Leys businesses</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
@@ -259,26 +345,6 @@ During the visit Graham sat in one of the service’s newest fire engines, which
     <updated>2023-07-24T15:30:49Z</updated>
   </entry>
   <entry>
-    <title>Late July e-newsletter</title>
-    <link rel="alternate" href="https://www.robin-millar.org.uk/news/late-july-e-newsletter" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Click here to read my newsletter in Welsh or English</div>
-    </content>
-    <id>https://www.robin-millar.org.uk/news/late-july-e-newsletter</id>
-    <published>2023-07-24T13:00:00+01:00</published>
-    <updated>2023-07-24T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>MP hosts Retailers Roundtable meeting on ASB</title>
-    <link rel="alternate" href="https://www.maria4basingstoke.co.uk/news/mp-hosts-retailers-roundtable-meeting-asb" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maria Miller MP for Basingstoke recently hosted one of her regular Retailers Roundtable meetings on Anti-Social behaviour in our town centre and shops. Those attending included Terry Norton, deputy PCC, Insp Mike Thorne from Basingstoke police, Gary Cooper from Festival Place and Daniel White from…</div>
-    </content>
-    <id>https://www.maria4basingstoke.co.uk/news/mp-hosts-retailers-roundtable-meeting-asb</id>
-    <published>2023-07-24T13:00:00+01:00</published>
-    <updated>2023-07-24T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Anne Marie's Weekly Column</title>
     <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-208" type="text/html"/>
     <content type="xhtml">
@@ -356,6 +422,26 @@ During the visit Graham sat in one of the service’s newest fire engines, which
     <category term="Local"/>
     <category term="Media"/>
   </entry>
+  <entry xmlns:thr="http://purl.org/syndication/thread/1.0">
+		<author>
+			<name>oliverrosina@aol.com</name>
+					</author>
+
+		<title type="html"><![CDATA[BEST FOOT FORWARDS]]></title>
+		<link rel="alternate" type="text/html" href="https://www.angelarayner.co.uk/2023/07/24/best-foot-forwards-2/"/>
+
+		<id>https://www.angelarayner.co.uk/?p=504</id>
+		<updated>2023-07-24T09:10:00Z</updated>
+		<published>2023-07-24T09:10:00Z</published>
+		<category scheme="https://www.angelarayner.co.uk" term="NEWS"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="https://www.angelarayner.co.uk/2023/07/24/best-foot-forwards-2/"><![CDATA[]]></content>
+		
+					<link rel="replies" type="text/html" href="https://www.angelarayner.co.uk/2023/07/24/best-foot-forwards-2/#comments" thr:count="0"/>
+			<link rel="replies" type="application/atom+xml" href="https://www.angelarayner.co.uk/2023/07/24/best-foot-forwards-2/feed/atom/" thr:count="0"/>
+			<thr:total>0</thr:total>
+			</entry>
   <entry>
     <title>Dear Newcastle – Newsletter JULY 2023</title>
     <link rel="alternate" href="https://chionwurahmp.com/2023/07/dear-newcastle-newsletter-july-2023/" type="text/html"/>
@@ -436,23 +522,15 @@ During the visit Graham sat in one of the service’s newest fire engines, which
     <category term="Weekly Blog"/>
   </entry>
   <entry>
-    <title>C2C Update: July 2023</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/c2c-update-july-2023" type="text/html"/>
+    <title>Celebrating Womens Inspirational Journeys in Parliament </title>
+    <link rel="alternate" href="https://www.joymorrissey.uk/news/celebrating-womens-inspirational-journeys-parliament" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<span property="schema:name">C2C Update: July 2023</span>
-
-<span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/user/14" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Ione</span></span>
-
-<span property="schema:dateCreated" content="2023-07-21T14:49:00+00:00">Fri, 07/21/2023 - 15:49</span>
-</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">A pleasure to sponsor and host City Hindus and City Sikhs in Parliament learn about inspirational journeys of women shaping careers and empowering businesses across the globe.
+Thank you to all who attended and for sharing such valuable insights at the event!</div>
     </content>
-    <author>
-      <name>Ione</name>
-    </author>
-    <id>1213 at https://joncruddas.org.uk</id>
-    <published>2023-07-21T14:49:00Z</published>
-    <updated>2023-07-21T14:49:00Z</updated>
+    <id>https://www.joymorrissey.uk/news/celebrating-womens-inspirational-journeys-parliament</id>
+    <published>2023-07-21T13:00:00+01:00</published>
+    <updated>2023-07-21T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>Stradey Park Hotel campaigners take fight to Home Office</title>
@@ -678,16 +756,6 @@ areas.&lt;/p&gt;
     <category term="News"/>
   </entry>
   <entry>
-    <title>Great British Nuclear </title>
-    <link rel="alternate" href="https://www.joymorrissey.uk/news/great-british-nuclear" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This week we launched Great British Nuclear which will support 245 jobs in Beaconsfield. Increasing the UK's energy independence while creating high-skilled jobs will drive down energy bills - the nuclear industry will bring us one step closer to achieving our energy goals.</div>
-    </content>
-    <id>https://www.joymorrissey.uk/news/great-british-nuclear</id>
-    <published>2023-07-20T13:00:00+01:00</published>
-    <updated>2023-07-20T13:00:00+01:00</updated>
-  </entry>
-  <entry>
   <title>MP secures meeting with Health Minister over bringing radiotherapy to Kendal</title>
   <link rel="alternate" href="http://timfarron.co.uk/en/article/2023/1442669/mp-secures-meeting-with-health-minister-over-bringing-radiotherapy-to-kendal"/>
   <updated>2023-07-20T09:29:00Z</updated>
@@ -707,6 +775,23 @@ During a debate in Westminster Hall, Tim cited research undertaken by the All-Pa
 <address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
   <category term="Article"/>
 </entry>
+  <entry>
+		<author>
+			<name>Yasmin Qureshi</name>
+					</author>
+
+		<title type="html"><![CDATA[Procurement Bill &#8211; Transparency]]></title>
+		<link rel="alternate" type="text/html" href="https://www.yasminqureshi.org.uk/news/2023/07/19/procurement-bill-transparency/"/>
+
+		<id>https://www.yasminqureshi.org.uk/?p=1792</id>
+		<updated>2023-07-19T15:06:10Z</updated>
+		<published>2023-07-19T15:06:10Z</published>
+		<category scheme="https://www.yasminqureshi.org.uk" term="News"/><category scheme="https://www.yasminqureshi.org.uk" term="legislation"/><category scheme="https://www.yasminqureshi.org.uk" term="NAO. National Audit Office"/><category scheme="https://www.yasminqureshi.org.uk" term="Parliament"/><category scheme="https://www.yasminqureshi.org.uk" term="procurement"/><category scheme="https://www.yasminqureshi.org.uk" term="Procurement Bill"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="https://www.yasminqureshi.org.uk/news/2023/07/19/procurement-bill-transparency/"><![CDATA[]]></content>
+		
+			</entry>
   <entry>
     <title>Weekly Column</title>
     <link rel="alternate" href="https://www.brendanclarkesmith.com/news/weekly-column-22" type="text/html"/>
@@ -748,6 +833,18 @@ The IMF confirmed…</div>
     <updated>2023-07-19T10:35:56Z</updated>
     <category term="Blogs"/>
     <category term="Featured"/>
+  </entry>
+  <entry>
+    <title>Commission for Carbon Competitiveness Report</title>
+    <link rel="alternate" href="https://www.stephenkinnock.co.uk/commission-for-carbon-competitiveness-report/" type="text/html"/>
+    <author>
+      <name>joshuatuck</name>
+    </author>
+    <id>https://www.stephenkinnock.co.uk/?p=3518</id>
+    <published>2023-07-18T08:00:42Z</published>
+    <updated>2023-07-18T08:00:42Z</updated>
+    <category term="Parliament"/>
+    <category term="Press &amp; Articles"/>
   </entry>
   <entry>
     <title>UK Parliament Week 2023</title>
@@ -879,37 +976,6 @@ What do you think?</div>
     <category term="West Dunbartonshire Community Transport"/>
   </entry>
   <entry>
-    <title>Andover at PMQ</title>
-    <link rel="alternate" href="https://kitmalthouse.com/2023/andover-at-pmq/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=andover-at-pmq" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>This week I raised the issue of Andover’s Levelling Up Fund bid with the Deputy Prime Minister at PMQs. </p>
-
-
-
-<p>When you apply for a PMQ you enter a ballot along with every other member and so you have about a 1 in 400 chance of getting a question. This week I was lucky to be picked, although the Prime Minister was away at the NATO summit, so his Deputy Answered. </p>
-
-
-
-<p>What did we learn? It’s coming shortly, and they understand the importance of our town, and its bid. </p>
-
-
-
-<p>You can watch it here: <a href="https://parliamentlive.tv/event/index/2626ecff-0b5a-450c-91c1-f26027bb2819">https://parliamentlive.tv/event/index/2626ecff-0b5a-450c-91c1-f26027bb2819</a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This week I raised the issue of Andover’s Levelling Up Fund bid with the Deputy Prime Minister at PMQs. When you apply for a PMQ you enter a ballot along with every other member and so you have about a 1 in 400 chance of getting a question. This week I was lucky to be […]</div>
-    </summary>
-    <author>
-      <name>Kit Malthouse</name>
-    </author>
-    <id>https://kitmalthouse.com/?p=2997</id>
-    <published>2023-07-15T15:49:18Z</published>
-    <updated>2023-07-15T15:49:18Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
-  <entry>
     <title>Rushanara Ali on the 75th Anniversary of the NHS</title>
     <link rel="alternate" href="http://www.rushanaraali.org/rushanara_ali_75th_anniversary_nhs" type="text/html"/>
     <author>
@@ -962,18 +1028,6 @@ The post <a href="http://karinsmyth.com/2023/07/14/weekly-round-up-14th-july/">W
 This year was…</div>
     </content>
     <id>https://www.damiangreen.co.uk/news/our-man-westminster-celebrating-kent-county-show-2023</id>
-    <published>2023-07-13T13:00:00+01:00</published>
-    <updated>2023-07-13T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Meeting with Transport Secretary </title>
-    <link rel="alternate" href="https://www.victoriaprentis.com/news/meeting-transport-secretary" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">On Monday, I was pleased to sit down with Transport Secretary Mark Harper and Rail Minister Huw Merriman, alongside fellow Chiltern MPs Greg Smith, Rob Butler and Steve Baker.
- 
-We had a productive discussion on a number of rail-related issues which have been raised by our constituents, including:…</div>
-    </content>
-    <id>https://www.victoriaprentis.com/news/meeting-transport-secretary</id>
     <published>2023-07-13T13:00:00+01:00</published>
     <updated>2023-07-13T13:00:00+01:00</updated>
   </entry>
@@ -1086,34 +1140,6 @@ Yvonne Archibald and Dr Emma Platt attended the…</div>
     <category term="Uncategorized"/>
   </entry>
   <entry>
-    <title>Statement on Boundary Changes and the Next General Election</title>
-    <link rel="alternate" href="https://www.drewhendrymp.scot/statement-on-boundary-changes-and-the-next-general-election/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=statement-on-boundary-changes-and-the-next-general-election" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div id="dslc-theme-content"><div id="dslc-theme-content-inner"><p style="font-weight: 400;">Since being elected in 2015, it has been my absolute privilege to serve the diverse communities of the Inverness, Nairn, Badenoch and Strathspey constituency. Therefore, today’s Boundary Commission announcement brings both personal sadness and a wider concern for our region.</p>
-<p style="font-weight: 400;">The changes mean that at next year’s General Election, our region will only be represented by two constituencies, reduced from the current three, and that is bad news for us all.</p>
-<p style="font-weight: 400;">On a personal level, the re-drawn boundaries mean that, regardless of the wishes of the voters at the ballot box, I will no longer represent some of the communities I hold dear in the next election.</p>
-<p style="font-weight: 400;">While the plans to reduce representation without fully considering our region’s unique geography and distinct needs are disheartening, the Commission did see sense and made some changes from previous proposals. In that regard, I want to thank everyone who shared their views with the Boundary Commission.</p>
-<p style="font-weight: 400;">Our concerted campaigning means the communities of Culloden, Balloch, and Smithton have been returned to the Inverness constituency where they rightfully belong, and new constituency titles now rightly include other communities such as Skye, Nairn, and Strathspey.</p>
-<p style="font-weight: 400;">I look forward to the opportunity to continue serving the City of Inverness, Aird &amp; Loch Ness and other neighbouring communities while establishing new friendships with the residents of Skye, Fort William and Wester Ross communities as I seek to represent their distinct needs.</p>
-<p style="font-weight: 400;">Despite the challenges these changes bring, I remain dedicated to serving all our communities. Your voices and your needs are at the heart of my work and, together with my SNP colleagues, I will continue to strive for the very best outcomes for our communities.</p>
-</div></div><p>The post <a rel="nofollow" href="https://www.drewhendrymp.scot/statement-on-boundary-changes-and-the-next-general-election/">Statement on Boundary Changes and the Next General Election</a> appeared first on <a rel="nofollow" href="https://www.drewhendrymp.scot"/>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Since being elected in 2015, it has been my absolute privilege to serve the diverse communities of the Inverness, Nairn, Badenoch and Strathspey constituency. Therefore, today’s Boundary Commission announcement brings both personal sadness and a wider concern for our region. The changes mean that at next year’s General Election, our region will only be represented …</p>
-<p class="read-more"> <a class="" href="https://www.drewhendrymp.scot/statement-on-boundary-changes-and-the-next-general-election/"> <span class="screen-reader-text">Statement on Boundary Changes and the Next General Election</span> Read More »</a></p>
-<p>The post <a rel="nofollow" href="https://www.drewhendrymp.scot/statement-on-boundary-changes-and-the-next-general-election/">Statement on Boundary Changes and the Next General Election</a> appeared first on <a rel="nofollow" href="https://www.drewhendrymp.scot"/>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Drew Hendry MP</name>
-    </author>
-    <id>https://www.drewhendrymp.scot/?p=7857</id>
-    <published>2023-07-05T14:51:40Z</published>
-    <updated>2023-07-05T14:51:40Z</updated>
-    <category term="Release"/>
-  </entry>
-  <entry>
     <title>Further Education Debate in the House of Commons </title>
     <link rel="alternate" href="https://www.bexleyheathandcrayford.com/news/further-education-debate-house-commons" type="text/html"/>
     <content type="xhtml">
@@ -1207,6 +1233,19 @@ During his speech, Sir David reflected on his own experience working at Bexley C
     <category term="Driving Test Centre"/>
     <category term="Working4Wycombe"/>
     <category term="Wycombe"/>
+  </entry>
+  <entry>
+    <title>Parents of young kids, especially mums, need more childcare support to get back in to work.</title>
+    <link rel="alternate" href="https://www.conormcginn.co.uk/2023/06/26/parents-of-young-kids-especially-mums-need-more-childcare-support-to-get-back-in-to-work/" type="text/html"/>
+    <author>
+      <name>conormcginn</name>
+    </author>
+    <id>https://www.conormcginn.co.uk/?p=7626</id>
+    <published>2023-06-26T15:17:26Z</published>
+    <updated>2023-06-26T15:17:26Z</updated>
+    <category term="Conor in St Helens"/>
+    <category term="Conor in Westminster"/>
+    <category term="News"/>
   </entry>
   <entry>
     <title>Nottingham castle reopens for all</title>
@@ -1407,6 +1446,18 @@ We have announced a new general admission price of £12 per adult, allowing peop
     <published>2023-06-06T14:46:46Z</published>
     <updated>2023-06-06T14:46:46Z</updated>
     <category term="Local News"/>
+  </entry>
+  <entry>
+    <title>April newsletter</title>
+    <link rel="alternate" href="https://www.tulipsiddiq.com/2023/05/17/april-newsletter-2/" type="text/html"/>
+    <author>
+      <name>liamtaggart</name>
+    </author>
+    <id>https://www.tulipsiddiq.com/?p=333</id>
+    <published>2023-05-17T09:51:02Z</published>
+    <updated>2023-05-17T09:51:02Z</updated>
+    <category term="News"/>
+    <category term="Newsletters"/>
   </entry>
   <entry>
 		<author>
@@ -1773,6 +1824,75 @@ We have announced a new general admission price of £12 per adult, allowing peop
     <updated>2022-10-20T17:01:54+01:00</updated>
   </entry>
   <entry>
+		<author>
+			<name>petermiddlehurst</name>
+					</author>
+
+		<title type="html"><![CDATA[Climate and Environment Emergency: WWF Earth Hour]]></title>
+		<link rel="alternate" type="text/html" href="http://www.nickbrownmp.com/2022/04/12/climate-and-environment-emergency-wwf-earth-hour/"/>
+
+		<id>https://www.nickbrownmp.com/?p=663</id>
+		<updated>2022-04-12T20:20:46Z</updated>
+		<published>2022-04-12T19:53:23Z</published>
+		<category scheme="http://www.nickbrownmp.com" term="News"/>
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="http://www.nickbrownmp.com/2022/04/12/climate-and-environment-emergency-wwf-earth-hour/"><![CDATA[]]></content>
+		
+			</entry>
+  <entry>
+    <title>Keuntungan Saat Memainkan Situs Judi Slot Online</title>
+    <link rel="alternate" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/" type="text/html"/>
+    <content type="html">&lt;div class="pbs-main-wrapper"&gt;&lt;p&gt;&lt;a href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/"&gt;Keuntungan Saat Memainkan Situs Judi Slot Online&lt;/a&gt; &amp;#8211; Internet memiliki dampak luar biasa pada berbagai industri meskipun mungkin industri perjudian yang paling banyak mengalami perubahan. Perjudian online yang sederhana, dengan cepat menjadi industri multi-miliar dolar.&lt;/p&gt;
+&lt;p&gt;Ada sejumlah situs judi online yang menyediakan layanan hiburan dan perjudian kepada pengguna dari setiap bagian dunia. Di sini kita melihat manfaat utama yang bisa Anda dapatkan dari perjudian online.&lt;/p&gt;
+&lt;p&gt;Mari kita ulas bersama tentang keuntungan yang akan di dapatkan saat memainkan situs judi slot online ini yaitu;&lt;/p&gt;
+&lt;h2&gt;Apa Saja Keuntungan Saat Memainkan Situs Judi Slot Online?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kenyamanan&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Faktor utama dalam pertumbuhan industri perjudian online adalah kenyamanan. Anda dapat memainkan game favorit anda kapan saja dan dari mana saja. akan tetapi masih banyak orang lebih suka bermain dari kenyamanan rumah mereka di mana mereka merasa paling santai.&lt;/p&gt;
+&lt;p&gt;Smartphone dan laptop memiliki dampak yang signifikan juga. Bahkan ada penelitian yang dilakukan tentang kapan pengguna paling suka berjudi online. Hasilnya tampaknya mengarah ke waktu sela seperti saat bepergian, menunggu teman, atau membuat janji.  dan juga meningkatkan popularitas karena banyak penjudi yang rajin bermain game saat istirahat di kantor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Semua game di bawah satu atap&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Meskipun kasino darat memiliki katalog permainan yang cukup luas, tidak ada yang mengalahkan variasi dan jumlah pilihan yang tersedia di kasino online. Pengguna bahkan dapat memanfaatkan tren teknologi terbaru dan berjudi di permainan dealer langsung.&lt;/p&gt;
+&lt;p&gt;Slot Online khas Inggris akan menawarkan hal itu dan jika Anda ingin pengalaman yang sepenuhnya mendalam, kami pasti akan merekomendasikan Anda untuk memeriksanya.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Pengguna dengan temperamen dan preferensi yang berbeda dapat berharap untuk menemukan sesuatu atau yang lain yang sesuai dengan gaya mereka. Sebagian katalog terdiri dari judul slot termasuk slot 3-gulungan dan 5-gulungan, dan pengguna tidak perlu khawatir kehabisan permainan untuk dicoba.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Tawaran Promosi&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Saat Anda mengisi ulang, Anda pasti akan mendapatkan hadiah dan uang ekstra untuk dimainkan dalam hal bonus. Semakin banyak judul game yang Anda ingin mainkan, semakin banyak poin yang terakumulasi yang pada akhirnya mengarah pada lebih banyak hadiah dan peningkatan dalam uang mereka.&lt;/p&gt;
+&lt;p&gt;Penawaran lain juga tersedia di mana para pemain dapat mulai bermain tanpa harus menyetor satu sen pun.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Opsi Perbankan&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Opsi perbankan yang digunakan platform kasino online semuanya benar-benar aman dan memungkinkan seseorang untuk mendanai akunnya dengan mudah. Ada berbagai metode yang dapat dilakukan dan pengguna dapat memilih metode yang paling cocok untuk mereka. Bahkan banyak yang memberikan penawaran tambahan saat menggunakan layanan ini.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dapatkan Poin Hadiah&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pada setiap taruhan permainan meja atau mesin slot memungkinkan pengguna untuk mengumpulkan poin hadiah. Ini tercantum dalam akun pemain dan dapat tertukar dengan permainan, hadiah, atau manfaat lainnya.&lt;/p&gt;
+&lt;p&gt;Meskipun kasino tradisional juga memberikan poin hadiah, mereka biasanya membutuhkan waktu lebih lama untuk bertambah dengan platform online.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pilih taruhan yang Anda inginkan&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Platform kasino online memberi Anda kebebasan untuk bermain di level mana pun yang Anda inginkan. Di sisi lain, rumah kasino tradisional memiliki batasan ketat pada tingkat di mana pengguna dapat bermain terutama karena mereka harus mempertahankan pendirian mereka.&lt;/p&gt;
+&lt;p&gt;Di situs kasino online, seseorang dapat memulai dengan bermain secara gratis atau dengan taruhan minimum. Ini memungkinkan seseorang kesempatan untuk mengambilnya selangkah demi selangkah dan meningkatkannya secara progresif saat seseorang menjadi lebih nyaman, atau mendapatkan kemenangan beruntun.&lt;/p&gt;
+&lt;p&gt;Baca artikel lainnya di: &lt;a href="http://www.chrisleslie.org/link-situs-judi-bola-terpercaya-alternatif-solusi-paling-tepat-bermain/"&gt;Link Situs Judi Bola Terpercaya Alternatif, Solusi Paling Tepat Bermain&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/"&gt;Keuntungan Saat Memainkan Situs Judi Slot Online&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://www.chrisleslie.org"&gt;Chrisleslie&lt;/a&gt;.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Keuntungan Saat Memainkan Situs Judi Slot Online – Internet memiliki dampak luar biasa pada berbagai industri meskipun mungkin industri perjudian yang paling banyak mengalami perubahan. Perjudian online yang sederhana, dengan cepat menjadi industri multi-miliar dolar. Ada sejumlah situs judi online yang menyediakan layanan hiburan dan perjudian kepada pengguna dari setiap bagian dunia. Di sini kita […]</p>
+<p>The post <a rel="nofollow" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/">Keuntungan Saat Memainkan Situs Judi Slot Online</a> appeared first on <a rel="nofollow" href="http://www.chrisleslie.org">Chrisleslie</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Daniel Bennett</name>
+    </author>
+    <id>http://www.chrisleslie.org/?p=36</id>
+    <published>2022-03-07T09:19:25Z</published>
+    <updated>2022-03-07T09:19:25Z</updated>
+    <category term="Slot Online"/>
+  </entry>
+  <entry>
     <title>Backbench Business Committee</title>
     <link rel="alternate" href="https://www.ianmearns.org.uk/2022/01/28/backbench-business-committee/" type="text/html"/>
     <content type="xhtml">
@@ -1851,6 +1971,31 @@ We have announced a new general admission price of £12 per adult, allowing peop
     <id>425 at https://www.markpritchard.com</id>
     <published>2021-02-16T13:45:06Z</published>
     <updated>2021-02-16T13:45:06Z</updated>
+  </entry>
+  <entry>
+    <title>Very proud day today – the law change I fought for to protect pensioners comes into force</title>
+    <link rel="alternate" href="https://www.marktami.co.uk/2020/11/25/very-proud-day-today-the-law-change-i-fought-for-to-protect-pensioners-comes-into-force/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://www.marktami.co.uk/2020/11/25/very-proud-day-today-the-law-change-i-fought-for-to-protect-pensioners-comes-into-force/">Very proud day today – the law change I fought for to protect pensioners comes into force</a> appeared first on <a rel="nofollow" href="https://www.marktami.co.uk">Mark Tami</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://www.marktami.co.uk/2020/11/25/very-proud-day-today-the-law-change-i-fought-for-to-protect-pensioners-comes-into-force/">Very proud day today – the law change I fought for to protect pensioners comes into force</a> appeared first on <a rel="nofollow" href="https://www.marktami.co.uk">Mark Tami</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Dan Rose</name>
+    </author>
+    <id>https://www.marktami.co.uk/?p=171</id>
+    <published>2020-11-25T17:46:37Z</published>
+    <updated>2020-11-25T17:46:37Z</updated>
+    <category term="news"/>
+    <category term="AffectsAllofUs"/>
+    <category term="Alyn&amp;Deeside"/>
+    <category term="ChangeTheLaw"/>
+    <category term="Government"/>
+    <category term="Pension"/>
+    <category term="Win"/>
   </entry>
   <entry>
     <title>New Hospital in Sutton Confirmed</title>
@@ -2041,10 +2186,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64bf9560c7258" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64bfc11113a33" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64bf9560c7258').iPhorm({"id":5,"uniqueId":"64bf9560c7258","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64bfc11113a33').iPhorm({"id":5,"uniqueId":"64bfc11113a33","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2119,10 +2264,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64bf9560c7258" class="iphorm iphorm-form-5" action="/feed/#iphorm-64bf9560c7258" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64bfc11113a33" class="iphorm iphorm-form-5" action="/feed/#iphorm-64bfc11113a33" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64bf9560c7258" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64bfc11113a33" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2131,22 +2276,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64bf9560c7258" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64bf9560c7258" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64bfc11113a33" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64bfc11113a33" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64bf9560c7258" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64bf9560c7258" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64bfc11113a33" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64bfc11113a33" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64bf9560c7258" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64bf9560c7258" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64bfc11113a33" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64bfc11113a33" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2156,7 +2301,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64bf9560c7258_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64bfc11113a33_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2175,7 +2320,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64bf9560c7258 script').remove();
+    jQuery('#iphorm-outer-64bfc11113a33 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
