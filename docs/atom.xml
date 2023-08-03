@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-03T15:26:14Z</updated>
+  <updated>2023-08-03T18:27:06Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -126,12 +126,26 @@ If you are affected by any of the current issues and need help and advice then p
     <updated>2023-08-03T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Greg visits St. Scholastica's Retreat almshouses in Princes Risborough</title>
-    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-visits-st-scholasticas-retreat-almshouses-princes-risborough" type="text/html"/>
+    <title>Anne-Marie welcomes cut in beer duty helping 1,685 North East Pubs</title>
+    <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/anne-marie-welcomes-cut-beer-duty-helping-1685-north-east-pubs" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This morning Greg Smith MP was delighted to visit St. Scholastica's Retreat almshouses in Princes Risborough this morning, meeting with Warden Gordon Nunn. A wonderful, warm and welcoming collection of 36 homes, providing housing for Roman Catholics of limited means who are aged 60 years or over. …</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">In our rural North Northumberland villages, our pubs are the pumping heart of our communities, such as The Farriers Arms in Shilbottle. This week our ‘Brexit Pub Guarantee’ comes into force:
+1,685 North East Pubs helped
+Up to 11p cheaper per pint than supermarkets
+38,000 local pubs and bars…</div>
     </content>
-    <id>https://www.gregsmith.co.uk/news/greg-visits-st-scholasticas-retreat-almshouses-princes-risborough</id>
+    <id>https://www.teamtrevelyan.co.uk/news/anne-marie-welcomes-cut-beer-duty-helping-1685-north-east-pubs</id>
+    <published>2023-08-03T13:00:00+01:00</published>
+    <updated>2023-08-03T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Greg visits Lighthouse Princes Risborough</title>
+    <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-visits-lighthouse-princes-risborough" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This afternoon Greg Smith MP was delighted to visit Lighthouse in Princes Risborough.
+Lighthouse is a Christian holiday club for children aged 4-12, with Little Lighthouse for even younger ones accompanied by their parents.  Run by volunteers, Lighthouse is funded by donations with a small £75 a…</div>
+    </content>
+    <id>https://www.gregsmith.co.uk/news/greg-visits-lighthouse-princes-risborough</id>
     <published>2023-08-03T13:00:00+01:00</published>
     <updated>2023-08-03T13:00:00+01:00</updated>
   </entry>
@@ -382,49 +396,6 @@ You…</div>
     <published>2023-08-01T13:00:00+01:00</published>
     <updated>2023-08-01T13:00:00+01:00</updated>
   </entry>
-  <entry>
-    <title>Anne-Marie launches summer A-Z of North Northumberland</title>
-    <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/anne-marie-launches-summer-z-north-northumberland" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A week into Parliament’s recess, work and help by my team and I as your constituency MP doesn't stop. Nor does my postbag!
-In a bit of summer fun, I'm also highlighting our local area in my daily A-Z bingo. Follow along with the places I visit at the link below: 
-instagram.com/northumberlandgirl
- </div>
-    </content>
-    <id>https://www.teamtrevelyan.co.uk/news/anne-marie-launches-summer-z-north-northumberland</id>
-    <published>2023-08-01T13:00:00+01:00</published>
-    <updated>2023-08-01T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-  <title>Cumbria Better Connected group urge Transport Secretary to reject ticket office closure plans</title>
-  <link rel="alternate" href="http://timfarron.co.uk/en/article/2023/1442725/cumbria-better-connected-group-urge-transport-secretary-to-reject-ticket-office-closure-plans"/>
-  <updated>2023-08-01T10:55:00Z</updated>
-  <id>http://timfarron.co.uk/en/article/2023/1442725/cumbria-better-connected-group-urge-transport-secretary-to-reject-ticket-office-closure-plans</id>
-  <summary type="text">The Cumbria Better Connected campaign group have written to the Transport Secretary Mark Harper, urging him to reject plans put forward by rail companies to close ticket offices and significantly reduce staffing hours at stations in the county.
-The letter is signed by Westmorland and Lonsdale MP and group chair Tim Farron, Barrow and Furness MP Simon Fell, and also representatives from the RMT, Cumbria Tourism, Morecambe Bay Partnership, Ulverston BID, Cumbria Local Enterprise Partnership, local rail user groups and local councillors.</summary>
-  <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>The Cumbria Better Connected campaign group have written to the Transport Secretary Mark Harper, urging him to reject plans put forward by rail companies to close ticket offices and significantly reduce staffing hours at stations in the county.</p>
-<p>The letter is signed by Westmorland and Lonsdale MP and group chair Tim Farron, Barrow and Furness MP Simon Fell, and also representatives from the RMT, Cumbria Tourism, Morecambe Bay Partnership, Ulverston BID, Cumbria Local Enterprise Partnership, local rail user groups and local councillors.</p>
-<p>In the letter the group emphasise the importance of ticket offices to people who are elderly or who have disabilities, and to the millions of visitors who come to Cumbria and the Lake District every year.</p>
-<p>They also highlight the enormous proposed reduced staffing hours at stations in Cumbria such as:</p>
-<ul>
-<li>Ulverston station, where mobility scooter users and people in wheelchairs are dependent on staff to assist them across the tracks to access Platform 3, will be staffed for just two hours a day and not at all on Sundays.</li>
-</ul>
-<ul>
-<li>Grange-over-Sands station, situated in a town with a largely elderly population, will be staffed for just two hours a day and not at all on Sundays.</li>
-</ul>
-<ul>
-<li>Windermere station, home to one of Britain's biggest visitor destinations, will be staffed for just three and a half hours a day and not at all on Sundays.</li>
-</ul>
-<ul>
-<li>Oxenholme station, with connections to London, Scotland, Manchester Airport and the Lake District, is set to be staffed for 10.5 fewer hours a week than currently.</li>
-</ul>
-<p>Writing to Mark Harper, the group say: <em>"At a time when we desperately need to be encouraging people back onto the railways following the years of the COVID pandemic and to help us reduce our carbon emissions, we fear that these damaging set of proposals will do the exact opposite.</em></p>
-<p><em>"Times are changing, and we recognise that more people are buying their tickets online. However, many of the proposals put forward by Avanti will significantly reduce the hours that stations are staffed, while many of the proposals put forward by Northern will essentially remove rail staff from stations altogether.</em></p>
-<p><em>"This is against the clear guidance given by you and the Rail Minister when shaping this consultation. It will severely impair visitors' travel, and make previously accessible stations inaccessible. It will also clearly lead to local job losses as a result.</em></p>
-<p><em>"With that in mind we urge you to stand by rail staff and stations and urge Northern and Avanti to re-think their retrograde and short-sighted proposals."</em></p>
-<address>  Published and promoted by P Trollope on behalf of T Farron and the Liberal Democrats, all at Yard 2, Stricklandgate, Kendal<br/>Printed (hosted) by <a href="https://www.praterraines.co.uk/">Prater Raines Ltd</a>, 98 Sandgate High Street, Folkestone CT20 3BY</address></div></content>
-  <category term="Article"/>
-</entry>
   <entry>
     <title>Anne Marie's Weekly Column</title>
     <link rel="alternate" href="https://www.annemariemorris.co.uk/news/anne-maries-weekly-column-209" type="text/html"/>
@@ -726,13 +697,13 @@ As your MP, it’s my job to do whatever I…</div>
 
 					<content type="html" xml:base="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/"><![CDATA[<p>Hearing from local organisations is really important to me. That&#8217;s why on Friday I was pleased to pop down to visit local businesses in Beaumont Leys. I spent the afternoon hearing directly from organisations on Astill Lodge Road and Home Farm about how they are getting on and the challenges that they are facing.</p>
 <p>So many told me that they are really struggling under this Conservative Government with soaring energy bills and rents.</p>
-<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-54">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
-    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-54');
+<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-59">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
+    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-59');
     var linkNode = document.createElement('a');
     linkNode.setAttribute('href', "mailto:%6C%69%7A%2E%6B%65%6E%64%61%6C%6C%2E%6D%70%40%70%61%72%6C%69%61%6D%65%6E%74%2E%75%6B");
     tNode = document.createTextNode("liz.kendall.mp {at} parliament(.)uk");
     linkNode.appendChild(tNode);
-    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-54");
+    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-59");
     mailNode.parentNode.replaceChild(linkNode, mailNode);
 </script></p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/">Liz meets with Beaumont Leys businesses</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
@@ -2166,10 +2137,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64cbc6f754edb" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64cbf160ce307" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64cbc6f754edb').iPhorm({"id":5,"uniqueId":"64cbc6f754edb","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64cbf160ce307').iPhorm({"id":5,"uniqueId":"64cbf160ce307","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2244,10 +2215,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64cbc6f754edb" class="iphorm iphorm-form-5" action="/feed/#iphorm-64cbc6f754edb" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64cbf160ce307" class="iphorm iphorm-form-5" action="/feed/#iphorm-64cbf160ce307" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64cbc6f754edb" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64cbf160ce307" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2256,22 +2227,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64cbc6f754edb" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64cbc6f754edb" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64cbf160ce307" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64cbf160ce307" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64cbc6f754edb" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64cbc6f754edb" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64cbf160ce307" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64cbf160ce307" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64cbc6f754edb" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64cbc6f754edb" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64cbf160ce307" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64cbf160ce307" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2281,7 +2252,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64cbc6f754edb_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64cbf160ce307_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2300,7 +2271,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64cbc6f754edb script').remove();
+    jQuery('#iphorm-outer-64cbf160ce307 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
