@@ -7,18 +7,49 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-04T12:31:54Z</updated>
+  <updated>2023-08-04T15:28:06Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
-    <title>Warmer homes in Wester Hailes thanks to ambitious Council pilot</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13787/warmer-homes-in-wester-hailes-thanks-to-ambitious-council-pilot" type="text/html"/>
+    <title>Historic moment to transform Granton gasholder</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13788/historic-moment-to-transform-granton-gasholder" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A pilot project to radically improve residents’ homes in an area with high levels of poverty has been hailed by the Housing Minister.</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">The bell that floated up as water filled the historic gasholder in Granton Waterfront has been taken apart to make way for work to begin to restore the original 76 x 46 metre frame to look like new.</div>
     </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13787/warmer-homes-in-wester-hailes-thanks-to-ambitious-council-pilot</id>
-    <published>2023-08-04T13:02:00+01:00</published>
-    <updated>2023-08-04T13:02:00+01:00</updated>
+    <id>https://www.edinburgh.gov.uk/news/article/13788/historic-moment-to-transform-granton-gasholder</id>
+    <published>2023-08-04T15:22:00+01:00</published>
+    <updated>2023-08-04T15:22:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Summer Health Survey: Give Chesterfield MP Toby Perkins your views on the local NHS services</title>
+    <link rel="alternate" href="https://www.tobyperkins.org.uk/2023/08/04/summer-health-survey-give-chesterfield-mp-toby-perkins-your-views-on-the-local-nhs-services/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://www.tobyperkins.org.uk/2023/08/04/summer-health-survey-give-chesterfield-mp-toby-perkins-your-views-on-the-local-nhs-services/">Summer Health Survey: Give Chesterfield MP Toby Perkins your views on the local NHS services</a> appeared first on <a rel="nofollow" href="https://www.tobyperkins.org.uk">Toby Perkins Labour MP</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://www.tobyperkins.org.uk/2023/08/04/summer-health-survey-give-chesterfield-mp-toby-perkins-your-views-on-the-local-nhs-services/">Summer Health Survey: Give Chesterfield MP Toby Perkins your views on the local NHS services</a> appeared first on <a rel="nofollow" href="https://www.tobyperkins.org.uk">Toby Perkins Labour MP</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>craigbusby</name>
+    </author>
+    <id>https://www.tobyperkins.org.uk/?p=5265</id>
+    <published>2023-08-04T13:52:49Z</published>
+    <updated>2023-08-04T13:52:49Z</updated>
+    <category term="Featured"/>
+    <category term="News"/>
+  </entry>
+  <entry>
+    <title>Monthly Column – August 2023</title>
+    <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/monthly-column-august-2023" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">My last column shared just some of the hundreds of millions of your money being invested in North Northumberland.
+People are rightly asking about progress on dualling our stretch of the A1. Commuting, popping to the shops and driving to surgeries, I rely on local roads too. I know how important…</div>
+    </content>
+    <id>https://www.teamtrevelyan.co.uk/news/monthly-column-august-2023</id>
+    <published>2023-08-04T13:00:00+01:00</published>
+    <updated>2023-08-04T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>Dunne welcomes cheaper pints in pubs across South Shropshire</title>
@@ -248,19 +279,6 @@ If you are affected by any of the current issues and need help and advice then p
     <updated>2023-08-03T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Anne-Marie welcomes cut in beer duty helping 1,685 North East Pubs</title>
-    <link rel="alternate" href="https://www.teamtrevelyan.co.uk/news/anne-marie-welcomes-cut-beer-duty-helping-1685-north-east-pubs" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">In our rural North Northumberland villages, our pubs are the pumping heart of our communities, such as The Farriers Arms in Shilbottle. This week our ‘Brexit Pub Guarantee’ comes into force:
-1,685 North East Pubs helped
-Up to 11p cheaper per pint than supermarkets
-38,000 local pubs and bars…</div>
-    </content>
-    <id>https://www.teamtrevelyan.co.uk/news/anne-marie-welcomes-cut-beer-duty-helping-1685-north-east-pubs</id>
-    <published>2023-08-03T13:00:00+01:00</published>
-    <updated>2023-08-03T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>Greg visits Lighthouse Princes Risborough</title>
     <link rel="alternate" href="https://www.gregsmith.co.uk/news/greg-visits-lighthouse-princes-risborough" type="text/html"/>
     <content type="xhtml">
@@ -353,29 +371,6 @@ The Hub, when it opens later this year, will offer a counter service…</div>
     <id>https://www.bexleyheathandcrayford.com/news/evennett-welcomes-new-welling-banking-hub</id>
     <published>2023-08-02T13:00:00+01:00</published>
     <updated>2023-08-02T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Chesterfield MP supports Silver Sunday campaign</title>
-    <link rel="alternate" href="https://www.tobyperkins.org.uk/2023/08/02/chesterfield-mp-supports-silver-sunday-campaign/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://www.tobyperkins.org.uk/2023/08/02/chesterfield-mp-supports-silver-sunday-campaign/">Chesterfield MP supports Silver Sunday campaign</a> appeared first on <a rel="nofollow" href="https://www.tobyperkins.org.uk">Toby Perkins Labour MP</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>The post <a rel="nofollow" href="https://www.tobyperkins.org.uk/2023/08/02/chesterfield-mp-supports-silver-sunday-campaign/">Chesterfield MP supports Silver Sunday campaign</a> appeared first on <a rel="nofollow" href="https://www.tobyperkins.org.uk">Toby Perkins Labour MP</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>chriswilliams</name>
-    </author>
-    <id>https://www.tobyperkins.org.uk/?p=5264</id>
-    <published>2023-08-02T11:35:21Z</published>
-    <updated>2023-08-02T11:35:21Z</updated>
-    <category term="Campaign"/>
-    <category term="Featured"/>
-    <category term="News"/>
-    <category term="Press Release"/>
-    <category term="Uncategorised"/>
   </entry>
   <entry>
     <link rel="alternate" href="https://angusmacneilsnp.com/2023/08/02/macneil-hails-victory-for-island-communities-with-scrapping-of-hpma-plans-2/" type="text/html"/>
@@ -742,13 +737,13 @@ As your MP, it’s my job to do whatever I…</div>
 
 					<content type="html" xml:base="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/"><![CDATA[<p>Hearing from local organisations is really important to me. That&#8217;s why on Friday I was pleased to pop down to visit local businesses in Beaumont Leys. I spent the afternoon hearing directly from organisations on Astill Lodge Road and Home Farm about how they are getting on and the challenges that they are facing.</p>
 <p>So many told me that they are really struggling under this Conservative Government with soaring energy bills and rents.</p>
-<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-40">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
-    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-40');
+<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-18">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
+    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-18');
     var linkNode = document.createElement('a');
     linkNode.setAttribute('href', "mailto:%6C%69%7A%2E%6B%65%6E%64%61%6C%6C%2E%6D%70%40%70%61%72%6C%69%61%6D%65%6E%74%2E%75%6B");
     tNode = document.createTextNode("liz.kendall.mp {at} parliament(.)uk");
     linkNode.appendChild(tNode);
-    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-40");
+    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-18");
     mailNode.parentNode.replaceChild(linkNode, mailNode);
 </script></p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/">Liz meets with Beaumont Leys businesses</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
@@ -1033,37 +1028,6 @@ If a formal review of the BBC’s funding model is indeed to take place in the a
     <category term="NHS"/>
     <category term="West Dunbartonshire"/>
     <category term="West Dunbartonshire Community Transport"/>
-  </entry>
-  <entry>
-    <title>Andover at PMQ</title>
-    <link rel="alternate" href="https://kitmalthouse.com/2023/andover-at-pmq/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=andover-at-pmq" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>This week I raised the issue of Andover’s Levelling Up Fund bid with the Deputy Prime Minister at PMQs. </p>
-
-
-
-<p>When you apply for a PMQ you enter a ballot along with every other member and so you have about a 1 in 400 chance of getting a question. This week I was lucky to be picked, although the Prime Minister was away at the NATO summit, so his Deputy Answered. </p>
-
-
-
-<p>What did we learn? It’s coming shortly, and they understand the importance of our town, and its bid. </p>
-
-
-
-<p>You can watch it here: <a href="https://parliamentlive.tv/event/index/2626ecff-0b5a-450c-91c1-f26027bb2819">https://parliamentlive.tv/event/index/2626ecff-0b5a-450c-91c1-f26027bb2819</a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This week I raised the issue of Andover’s Levelling Up Fund bid with the Deputy Prime Minister at PMQs. When you apply for a PMQ you enter a ballot along with every other member and so you have about a 1 in 400 chance of getting a question. This week I was lucky to be […]</div>
-    </summary>
-    <author>
-      <name>Kit Malthouse</name>
-    </author>
-    <id>https://kitmalthouse.com/?p=2997</id>
-    <published>2023-07-15T15:49:18Z</published>
-    <updated>2023-07-15T15:49:18Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Rushanara Ali on the 75th Anniversary of the NHS</title>
@@ -2081,10 +2045,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64ccef91ec495" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64cd18e56cf52" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64ccef91ec495').iPhorm({"id":5,"uniqueId":"64ccef91ec495","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64cd18e56cf52').iPhorm({"id":5,"uniqueId":"64cd18e56cf52","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2159,10 +2123,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64ccef91ec495" class="iphorm iphorm-form-5" action="/feed/#iphorm-64ccef91ec495" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64cd18e56cf52" class="iphorm iphorm-form-5" action="/feed/#iphorm-64cd18e56cf52" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64ccef91ec495" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64cd18e56cf52" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2171,22 +2135,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64ccef91ec495" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64ccef91ec495" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64cd18e56cf52" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64cd18e56cf52" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64ccef91ec495" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64ccef91ec495" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64cd18e56cf52" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64cd18e56cf52" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64ccef91ec495" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64ccef91ec495" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64cd18e56cf52" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64cd18e56cf52" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2196,7 +2160,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64ccef91ec495_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64cd18e56cf52_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2215,7 +2179,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64ccef91ec495 script').remove();
+    jQuery('#iphorm-outer-64cd18e56cf52 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2275,7 +2239,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dydh4fbW3Xlf-Z3TydmPFL9q7jb_7ikDhKRIROHzF_NaJ_Pj7XyRL-QRRbuhp6tUAoZqssNjKeSEVcS4H6byg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyNejQBl9WDKcjeJ_0MhKooyUXkunf9k7-ZvNbiukwgqdUbvBmANOW-SOuoy8ZIJrUM7S_n8k5BIFI4BGbLtg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
