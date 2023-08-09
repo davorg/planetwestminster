@@ -7,9 +7,75 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-09T09:29:09Z</updated>
+  <updated>2023-08-09T12:31:54Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>The Funeral of Mel Dyke - Dan Jarvis MP Eulogy</title>
+    <link rel="alternate" href="http://www.danjarvis.org/thefuneralofmeldyke" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><em>[Check against delivery]</em></p>
+<p> </p>
+<p>It’s a privilege and an honour to be here to pay tribute to Mel Dyke.</p>
+<p> </p>
+<p>What a life she lived and what a legacy she leaves behind: Mother, Grandmother, Great-Grandmother!</p>
+<p>Teacher, author, mentor, patron and a true Barnsley and Yorkshire champion.</p>
+<p>Wise, generous, funny, tough, and a fine friend to so many of us.</p>
+<p>I’ll always remember the very first time I met Mel.</p>
+<p>I knocked on <em>her</em> door, during my by-election.</p>
+<p>I can’t <em>quite</em> remember if she called me ‘<em>young man’</em>, I think she did, but she certainly said that she was <em>pleased to see me</em> and straight away invited me in for a talk.</p>
+<p> </p>
+<p><em>She</em> would be doing most of the talking!</p></div>
+    </content>
+    <author>
+      <name>Admin</name>
+    </author>
+    <id>http://www.danjarvis.org/thefuneralofmeldyke</id>
+    <published>2023-08-09T13:22:24+01:00</published>
+    <updated>2023-08-09T13:22:24+01:00</updated>
+  </entry>
+  <entry>
+    <title>Evictions of Afghan Refugees</title>
+    <link rel="alternate" href="https://www.stephenkinnock.co.uk/evictions-of-afghan-refugees/" type="text/html"/>
+    <author>
+      <name>joshuatuck</name>
+    </author>
+    <id>https://www.stephenkinnock.co.uk/?p=3549</id>
+    <published>2023-08-09T12:01:31Z</published>
+    <updated>2023-08-09T12:01:31Z</updated>
+    <category term="Press &amp; Articles"/>
+  </entry>
+  <entry>
+    <title>Lee Anderson MP meets with constituent about the dangers of online scams </title>
+    <link rel="alternate" href="https://www.leeanderson.org.uk/news/lee-anderson-mp-meets-constituent-about-dangers-online-scams" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">With the rise of the internet, online scams have become increasingly prevalent and have had a devastating impact on victims. Many of the scams that occur today are highly sophisticated and can be hard to spot, leaving individuals feeling particularly vulnerable. Lee Anderson MP has dealt with…</div>
+    </content>
+    <id>https://www.leeanderson.org.uk/news/lee-anderson-mp-meets-constituent-about-dangers-online-scams</id>
+    <published>2023-08-09T13:00:00+01:00</published>
+    <updated>2023-08-09T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Royal Mail</title>
+    <link rel="alternate" href="https://www.victoriaprentis.com/news/royal-mail" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Some of my constituents have been in touch to tell me that their postal deliveries have been very unpredictable over the past few months.
+As a consequence, I wrote to Royal Mail back in June to share my constituents' concerns. I was told that the Banbury Delivery Office had faced resourcing issues…</div>
+    </content>
+    <id>https://www.victoriaprentis.com/news/royal-mail</id>
+    <published>2023-08-09T13:00:00+01:00</published>
+    <updated>2023-08-09T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>What do you think west Edinburgh could look like in the future?</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13791/what-do-you-think-west-edinburgh-could-look-like-in-the-future-" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Council Leader Cammy Day writes in today's Evening News about three projects we're working on in the west of city where we are looking to get your views. </div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13791/what-do-you-think-west-edinburgh-could-look-like-in-the-future-</id>
+    <published>2023-08-09T10:31:00+01:00</published>
+    <updated>2023-08-09T10:31:00+01:00</updated>
+  </entry>
   <entry>
     <title>Folkestone Harbour Regeneration</title>
     <link rel="alternate" href="https://damiancollins.com/folkestone-harbour-regeneration/" type="text/html"/>
@@ -45,27 +111,6 @@
     <published>2023-08-09T04:00:33Z</published>
     <updated>2023-08-09T04:00:33Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Edinburgh pupils receive their exam results</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13790/edinburgh-pupils-receive-their-exam-results" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Levels of attainment for pupils across Edinburgh remain above those achieved before the Covid pandemic, while passes in vocational courses continue to climb, according to exam results released today.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13790/edinburgh-pupils-receive-their-exam-results</id>
-    <published>2023-08-08T16:26:00+01:00</published>
-    <updated>2023-08-08T16:26:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Age UK Oxfordshire's Memory Garden Bed</title>
-    <link rel="alternate" href="https://www.victoriaprentis.com/news/age-uk-oxfordshires-memory-garden-bed" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It really was lovely to attend the opening of Age UK Oxfordshire's memory garden bed at the Bridge Street Community Garden on Thursday. Nestled in the heart of Banbury, this wonderful space has been dedicated as a special place where people can meet and remember loved ones.
-It was great to see so…</div>
-    </content>
-    <id>https://www.victoriaprentis.com/news/age-uk-oxfordshires-memory-garden-bed</id>
-    <published>2023-08-08T13:00:00+01:00</published>
-    <updated>2023-08-08T13:00:00+01:00</updated>
   </entry>
   <entry>
     <title>Celebrate Travel Agents Day</title>
@@ -647,17 +692,6 @@ The Hub, when it opens later this year, will offer a counter service…</div>
 		<category term="Local News"/>
 	</entry>
   <entry>
-    <title> Lee Anderson MP meets with local residents about Anti-Social Behaviour in Portland Park</title>
-    <link rel="alternate" href="https://www.leeanderson.org.uk/news/lee-anderson-mp-meets-local-residents-about-anti-social-behaviour-portland-park" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Anti-social behaviour is an issue that many local communities face and can be a challenging problem to address, however it important that a solution is always sought, in order to protect people who, live in the affected areas.  
-Lee Anderson MP met with local residents on the 21st of July at Wild…</div>
-    </content>
-    <id>https://www.leeanderson.org.uk/news/lee-anderson-mp-meets-local-residents-about-anti-social-behaviour-portland-park</id>
-    <published>2023-07-28T13:00:00+01:00</published>
-    <updated>2023-07-28T13:00:00+01:00</updated>
-  </entry>
-  <entry>
     <title>New Rapid Electric Car Charging Comes to Welwyn Hatfield</title>
     <link rel="alternate" href="https://www.shapps.com/new-rapid-electric-car-charging-comes-to-welwyn-hatfield/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-rapid-electric-car-charging-comes-to-welwyn-hatfield" type="text/html"/>
     <content type="html">
@@ -781,13 +815,13 @@ As your MP, it’s my job to do whatever I…</div>
 
 					<content type="html" xml:base="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/"><![CDATA[<p>Hearing from local organisations is really important to me. That&#8217;s why on Friday I was pleased to pop down to visit local businesses in Beaumont Leys. I spent the afternoon hearing directly from organisations on Astill Lodge Road and Home Farm about how they are getting on and the challenges that they are facing.</p>
 <p>So many told me that they are really struggling under this Conservative Government with soaring energy bills and rents.</p>
-<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-43">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
-    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-43');
+<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-87">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
+    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-87');
     var linkNode = document.createElement('a');
     linkNode.setAttribute('href', "mailto:%6C%69%7A%2E%6B%65%6E%64%61%6C%6C%2E%6D%70%40%70%61%72%6C%69%61%6D%65%6E%74%2E%75%6B");
     tNode = document.createTextNode("liz.kendall.mp {at} parliament(.)uk");
     linkNode.appendChild(tNode);
-    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-43");
+    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-87");
     mailNode.parentNode.replaceChild(linkNode, mailNode);
 </script></p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/">Liz meets with Beaumont Leys businesses</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
@@ -929,18 +963,6 @@ If a formal review of the BBC’s funding model is indeed to take place in the a
 					<content type="html" xml:base="https://www.yasminqureshi.org.uk/news/2023/07/19/procurement-bill-transparency/"><![CDATA[]]></content>
 		
 			</entry>
-  <entry>
-    <title>Commission for Carbon Competitiveness Report</title>
-    <link rel="alternate" href="https://www.stephenkinnock.co.uk/commission-for-carbon-competitiveness-report/" type="text/html"/>
-    <author>
-      <name>joshuatuck</name>
-    </author>
-    <id>https://www.stephenkinnock.co.uk/?p=3518</id>
-    <published>2023-07-18T08:00:42Z</published>
-    <updated>2023-07-18T08:00:42Z</updated>
-    <category term="Parliament"/>
-    <category term="Press &amp; Articles"/>
-  </entry>
   <entry>
     <title>PRAISE FOR WEST DUNBARTONSHIRE COMMUNITY TRANSPORT VOLUNTEERS</title>
     <link rel="alternate" href="https://martindocherty.scot/2023/07/17/praise-for-west-dunbartonshire-community-transport-volunteers/" type="text/html"/>
@@ -1651,21 +1673,6 @@ This year was…</div>
     <category term="Education"/>
   </entry>
   <entry>
-    <title>Dan Jarvis MP: Statement Regarding Sentencing</title>
-    <link rel="alternate" href="http://www.danjarvis.org/statement_regarding_sentencing" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>I was deeply concerned to read the decision taken by the Court in this <a href="https://www.bbc.co.uk/news/uk-england-south-yorkshire-63313556">case</a>.</p>
-<p>Given the very serious nature of the crimes committed, and that the perpetrator pleaded guilty to all 10 offences, I find it very difficult to understand how he was not deemed a serious threat to the public and remanded in custody.</p>
-<p>I will be urgently raising these concerns with the Crown Prosecution Service and the Attorney General’s office.</p></div>
-    </content>
-    <author>
-      <name>Admin</name>
-    </author>
-    <id>http://www.danjarvis.org/statement_regarding_sentencing</id>
-    <published>2022-10-20T17:01:54+01:00</published>
-    <updated>2022-10-20T17:01:54+01:00</updated>
-  </entry>
-  <entry>
 		<author>
 			<name>petermiddlehurst</name>
 					</author>
@@ -1682,6 +1689,58 @@ This year was…</div>
 					<content type="html" xml:base="http://www.nickbrownmp.com/2022/04/12/climate-and-environment-emergency-wwf-earth-hour/"><![CDATA[]]></content>
 		
 			</entry>
+  <entry>
+    <title>Keuntungan Saat Memainkan Situs Judi Slot Online</title>
+    <link rel="alternate" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/" type="text/html"/>
+    <content type="html">&lt;div class="pbs-main-wrapper"&gt;&lt;p&gt;&lt;a href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/"&gt;Keuntungan Saat Memainkan Situs Judi Slot Online&lt;/a&gt; &amp;#8211; Internet memiliki dampak luar biasa pada berbagai industri meskipun mungkin industri perjudian yang paling banyak mengalami perubahan. Perjudian online yang sederhana, dengan cepat menjadi industri multi-miliar dolar.&lt;/p&gt;
+&lt;p&gt;Ada sejumlah situs judi online yang menyediakan layanan hiburan dan perjudian kepada pengguna dari setiap bagian dunia. Di sini kita melihat manfaat utama yang bisa Anda dapatkan dari perjudian online.&lt;/p&gt;
+&lt;p&gt;Mari kita ulas bersama tentang keuntungan yang akan di dapatkan saat memainkan situs judi slot online ini yaitu;&lt;/p&gt;
+&lt;h2&gt;Apa Saja Keuntungan Saat Memainkan Situs Judi Slot Online?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kenyamanan&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Faktor utama dalam pertumbuhan industri perjudian online adalah kenyamanan. Anda dapat memainkan game favorit anda kapan saja dan dari mana saja. akan tetapi masih banyak orang lebih suka bermain dari kenyamanan rumah mereka di mana mereka merasa paling santai.&lt;/p&gt;
+&lt;p&gt;Smartphone dan laptop memiliki dampak yang signifikan juga. Bahkan ada penelitian yang dilakukan tentang kapan pengguna paling suka berjudi online. Hasilnya tampaknya mengarah ke waktu sela seperti saat bepergian, menunggu teman, atau membuat janji.  dan juga meningkatkan popularitas karena banyak penjudi yang rajin bermain game saat istirahat di kantor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Semua game di bawah satu atap&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Meskipun kasino darat memiliki katalog permainan yang cukup luas, tidak ada yang mengalahkan variasi dan jumlah pilihan yang tersedia di kasino online. Pengguna bahkan dapat memanfaatkan tren teknologi terbaru dan berjudi di permainan dealer langsung.&lt;/p&gt;
+&lt;p&gt;Slot Online khas Inggris akan menawarkan hal itu dan jika Anda ingin pengalaman yang sepenuhnya mendalam, kami pasti akan merekomendasikan Anda untuk memeriksanya.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Pengguna dengan temperamen dan preferensi yang berbeda dapat berharap untuk menemukan sesuatu atau yang lain yang sesuai dengan gaya mereka. Sebagian katalog terdiri dari judul slot termasuk slot 3-gulungan dan 5-gulungan, dan pengguna tidak perlu khawatir kehabisan permainan untuk dicoba.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Tawaran Promosi&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Saat Anda mengisi ulang, Anda pasti akan mendapatkan hadiah dan uang ekstra untuk dimainkan dalam hal bonus. Semakin banyak judul game yang Anda ingin mainkan, semakin banyak poin yang terakumulasi yang pada akhirnya mengarah pada lebih banyak hadiah dan peningkatan dalam uang mereka.&lt;/p&gt;
+&lt;p&gt;Penawaran lain juga tersedia di mana para pemain dapat mulai bermain tanpa harus menyetor satu sen pun.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Opsi Perbankan&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Opsi perbankan yang digunakan platform kasino online semuanya benar-benar aman dan memungkinkan seseorang untuk mendanai akunnya dengan mudah. Ada berbagai metode yang dapat dilakukan dan pengguna dapat memilih metode yang paling cocok untuk mereka. Bahkan banyak yang memberikan penawaran tambahan saat menggunakan layanan ini.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dapatkan Poin Hadiah&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pada setiap taruhan permainan meja atau mesin slot memungkinkan pengguna untuk mengumpulkan poin hadiah. Ini tercantum dalam akun pemain dan dapat tertukar dengan permainan, hadiah, atau manfaat lainnya.&lt;/p&gt;
+&lt;p&gt;Meskipun kasino tradisional juga memberikan poin hadiah, mereka biasanya membutuhkan waktu lebih lama untuk bertambah dengan platform online.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pilih taruhan yang Anda inginkan&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Platform kasino online memberi Anda kebebasan untuk bermain di level mana pun yang Anda inginkan. Di sisi lain, rumah kasino tradisional memiliki batasan ketat pada tingkat di mana pengguna dapat bermain terutama karena mereka harus mempertahankan pendirian mereka.&lt;/p&gt;
+&lt;p&gt;Di situs kasino online, seseorang dapat memulai dengan bermain secara gratis atau dengan taruhan minimum. Ini memungkinkan seseorang kesempatan untuk mengambilnya selangkah demi selangkah dan meningkatkannya secara progresif saat seseorang menjadi lebih nyaman, atau mendapatkan kemenangan beruntun.&lt;/p&gt;
+&lt;p&gt;Baca artikel lainnya di: &lt;a href="http://www.chrisleslie.org/link-situs-judi-bola-terpercaya-alternatif-solusi-paling-tepat-bermain/"&gt;Link Situs Judi Bola Terpercaya Alternatif, Solusi Paling Tepat Bermain&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/"&gt;Keuntungan Saat Memainkan Situs Judi Slot Online&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://www.chrisleslie.org"&gt;Chrisleslie&lt;/a&gt;.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Keuntungan Saat Memainkan Situs Judi Slot Online – Internet memiliki dampak luar biasa pada berbagai industri meskipun mungkin industri perjudian yang paling banyak mengalami perubahan. Perjudian online yang sederhana, dengan cepat menjadi industri multi-miliar dolar. Ada sejumlah situs judi online yang menyediakan layanan hiburan dan perjudian kepada pengguna dari setiap bagian dunia. Di sini kita […]</p>
+<p>The post <a rel="nofollow" href="http://www.chrisleslie.org/keuntungan-saat-memainkan-situs-judi-slot-online/">Keuntungan Saat Memainkan Situs Judi Slot Online</a> appeared first on <a rel="nofollow" href="http://www.chrisleslie.org">Chrisleslie</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Daniel Bennett</name>
+    </author>
+    <id>http://www.chrisleslie.org/?p=36</id>
+    <published>2022-03-07T09:19:25Z</published>
+    <updated>2022-03-07T09:19:25Z</updated>
+    <category term="Slot Online"/>
+  </entry>
   <entry>
     <title>Backbench Business Committee</title>
     <link rel="alternate" href="https://www.ianmearns.org.uk/2022/01/28/backbench-business-committee/" type="text/html"/>
@@ -1976,10 +2035,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64d35c3a60617" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64d3871f4f82b" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64d35c3a60617').iPhorm({"id":5,"uniqueId":"64d35c3a60617","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64d3871f4f82b').iPhorm({"id":5,"uniqueId":"64d3871f4f82b","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2054,10 +2113,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64d35c3a60617" class="iphorm iphorm-form-5" action="/feed/#iphorm-64d35c3a60617" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64d3871f4f82b" class="iphorm iphorm-form-5" action="/feed/#iphorm-64d3871f4f82b" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64d35c3a60617" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64d3871f4f82b" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2066,22 +2125,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64d35c3a60617" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64d35c3a60617" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64d3871f4f82b" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64d3871f4f82b" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64d35c3a60617" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64d35c3a60617" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64d3871f4f82b" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64d3871f4f82b" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64d35c3a60617" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64d35c3a60617" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64d3871f4f82b" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64d3871f4f82b" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2091,7 +2150,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64d35c3a60617_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64d3871f4f82b_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2110,7 +2169,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64d35c3a60617 script').remove();
+    jQuery('#iphorm-outer-64d3871f4f82b script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2170,7 +2229,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxJNLEOZkfRdb6LJ6tyaSKMCOI-xO9Lj5x_0gqgSduNBf9g8GGi3SzXGKmr4ouQiuUL7nC1N09S5XUT87KVTg' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxZhfbct6cazmRzvS0raije_UFzzm3HvqeFkyxrowtIcbIlH_Q99bFV3SgPD0NOy-yHgXkJPYtPHx75mHAk4A' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
