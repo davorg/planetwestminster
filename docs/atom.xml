@@ -7,9 +7,32 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-13T03:24:48Z</updated>
+  <updated>2023-08-13T06:27:25Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Controlling debt interest</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/08/13/controlling-debt-interest/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>The apparent cost of UK debt interest has shot up in the last two years. Some of this is the result of the state continuing to borrow a lot more on top of a large established debt. Some of it is the extra cost of the new borrowing now interest rates have gone up. These issues need addressing by a mixture of more revenue from faster growth and less spending on various programmes as often outlined here.</p>
+<p>There are however other large elements in the interest bubble that depend on the accounting conventions and the strange decisions made about bond purchases and sales by the Bank and Treasury. The index linked debt entails paying cash interest payments as with  normal government bonds and these are properly annual expenditure. There is then the need to repay the inflated value of the bonds on redemption, where there is no cash outflow until the date of repayment. In practice the government just borrows the inflated value back again without ever having to pay out of running revenues. This should be a contingent capital liability.</p>
+<p>The large amount of gilts held by the Bank of England are no longer a debt of the state to the private sector but a debt to itself. Here the government indemnifies the Bank against losses, so the Treasury is currently incurring losses it has to make good every time the Bank sells one of these bonds at a large loss in the market. These costs could be cut if the Bank stopped selling the bonds, waiting instead for their repayment when the losses would be smaller.</p>
+<p>The Treasury also pays the Bank for running losses. The Bank pays out more interest to commercial banks on the deposits they hold with it, than it gets in interest on all the bonds it holds. It deliberately bought these bonds at very high prices offering very low income, making this problem worse. The OBR reckons  every increase in the Bank’s bank rate increases government interest costs by £10.8bn.</p>
+<p>The European Central Bank, faced with similar problems of large losses on bond capital values sells fewer of them than the Bank of England. Facing running losses, the ECB has recently announced that from September commercial banks will not receive any interest on the reserve deposits they have to place with the ECB, eliminating much of the loss on holding low income yielding bonds.</p>
+<p>The UK government needs to  get Treasury and Bank here to review its current practice with a  view to getting material reductions in the apparent costs of debt interest. That would give the Treasury more flexibility to set out a growth strategy to start growing the revenues faster. This is one occasion when copying an EU idea could help.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The apparent cost of UK debt interest has shot up in the last two years. Some of this is the result of the state continuing to borrow a lot more on top of a large established debt. Some of it is the extra cost of the new borrowing now interest rates have gone up. These…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>https://johnredwoodsdiary.com/?p=35689</id>
+    <published>2023-08-13T04:17:36Z</published>
+    <updated>2023-08-13T04:17:36Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Job Opportunity – Constituency Assistant/Caseworker – Closing date 4th September</title>
     <link rel="alternate" href="https://chionwurahmp.com/2023/08/job-opportunity-parliamentary-assistant-caseworker-closing-date-4th-september/" type="text/html"/>
@@ -74,67 +97,6 @@
     <category term="Keeping You Informed"/>
     <category term="Other"/>
     <category term="Your community"/>
-  </entry>
-  <entry>
-    <title>My article for Conservative Home – a more productive and less costly state</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/08/12/my-article-for-conservative-home/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div id="post-181658" class="post-181658 post type-post status-publish format-standard has-post-thumbnail hentry category-columnists category-featured tag-bank-of-england tag-education tag-employment tag-free-schools tag-grammar-schools tag-immigration tag-planning tag-planning-policy tag-public-spending tag-reducing-demand-for-government tag-sir-john-redwood-mp">
-<article id="post-post-181658">
-<div class="row">
-<div class="col-md-12 col-lg-9 col-12">
-<div class="ch-post__content entry-content transparent secondary--text mb-6 v-card v-card--flat v-sheet theme--light">
-<div dir="ltr">
-<div dir="ltr">
-<p>Conservatives want more prosperity and happiness for the many. We believe that greater freedom, lower tax rates, and more enterprise is the best way to bring that about. We do not want an ever bigger state taxing too much, driving people into dependence, and forcing people to conform.</p>
-<p>In the second half of the last century, Europe conducted a great experiment. Eastern Europe with Russia adopted the single currency of the rouble, widespread nationalisation, a customs union, social housing, and education based on conformity, with approved state thoughts and technology pioneered in government labs.</p>
-<p>Western Europe allowed more free enterprise, variety of thought, widespread private ownership of homes and businesses, and substantial competition in everything from technology to service provision.</p>
-<p>The West was the clear winner, achieving far higher living standards and greater happiness and freedoms for citizens; we won the technological war (after early successes for the USSR with space travel) when the USA put a man on the moon and announced the Star Wars anti-missile system.</p>
-<p>The disfiguring wall dividing the two Berlins was put in by the communists to keep their people in against their will. Whilst Westerners were free to go east if the East allowed them, the USSR ended up having to shoot people to deter more from trying to flee their state controlled society.</p>
-<p>In this century, however, there has been a notable failure to follow up on the great successes of freedom, free enterprise, and democracy.</p>
-<p>It is true the USA has exploited its success to drive the amazing digital revolution and take the top slots in the global corporate world, creating the main players in software, mobile computing, online retailing, social media, and downloaded entertainment. Yet there is now a drift in the UK, the USA and the EU away from the idea that free peoples can achieve great things, towards a view that state planning, higher taxes, and more subsidies, bans, and rules are necessary to success.</p>
-<p>As <a href="https://conservativehome.com/2023/05/15/if-you-want-tax-cuts-you-must-first-have-less-supply-of-government-and-that-means-reducing-the-demand-for-it/">Paul Goodman has warned</a> when setting up the ConservativeHome study of how we can manage with less government, the current big-government trends threaten us with higher taxes, poorer people, and worse public services.</p>
-<p>The search for ideas to help strengthen families, foster better education. and allow more well-paid jobs is an essential task.</p>
-<p>We cannot afford great free healthcare and more generous welfare for those who cannot obtain a good job without growing the economy and raising productivity; both those aims require us to help more people into well-paid work where, aided by new technology, the pay reflects productivity.</p>
-<p>And it is true that young people who come from loving and supportive homes have more chance of doing well than those who suffer from a lack of adult care and respect for them; that people who gain good skills and qualifications from education will get the better-paid jobs.</p>
-<p>Of the <a href="https://conservativehome.com/2023/07/31/reducing-demand-for-government-summary-of-contributor-proposals-1-families/">three</a> <a href="https://conservativehome.com/2023/08/01/reducing-demand-for-government-summary-of-contributor-proposals-2-schools/">areas</a> <a href="https://conservativehome.com/2023/08/02/reducing-demand-for-government-summary-of-contributor-proposals-3-jobs/">covered</a> by the Reducing Demand for Government series, education saw the most radical ideas advanced. There is a general wish to see the free school revolution completed, with more schools becoming academies. Those academies should pursue excellence, offering more out of hours activities with a richer range of options, foster greater parental engagement, and offer better pay and staffing arrangements.</p>
-<p>The implication is people want more parental and pupil choice, and a system where in most places there is a genuine choice of school. This will lead to more parental engagement and more gentle competitive pressure to achieve higher standards and a broader range of activities, including public speaking (now called oracy), music, and sports.</p>
-<p>Places should be paid for by the state but chosen by parents and pupils; they become the clients who can go elsewhere if the school disappoints.</p>
-<p>There is also a wish to see some expansion of grammar schools, with the provision of new ones where communities want them. There is much pent up demand for grammar places, and tensions where there are boundaries between grammar provision and no grammar provision. Grammar schools remain a good way to educate the more academically-minded. and allow children from all backgrounds to compete more successfully against pupils from the best-endowed private schools.</p>
-<p>On jobs, contributors shared the Government’s concern about dubious degrees that do not lead easily to well-paid careers. Now many are educated to the age of 21 it is important the last three years (usually paid for by a loan) are well used, with an eye to employment success.</p>
-<p>There is enthusiasm for plans to reform welfare further to make sure that, in all cases, working is worthwhile, and to provide financial and other support to those who have difficulties in adapting to a normal working regime. Others wished to remove the ready supply of cheap labour from abroad, which the Treasury thinks is an aid to growth.</p>
-<p>Suffice to say, that belief is wrong – and not just because it relies on looking at output rather than output per head. The Treasury also fails to  take into account the big costs entailed by the extra (subsidised homes), surgeries, hospitals, schools, and utility provision needed to cater to the inflow, or the impact on productivity of persevering with low-paid jobs instead of investing in people and machine power so real incomes rise.</p>
-<p>One wide-ranging contribution proposed fewer prison and fewer pills, more childcare close to home, and more at-home care. This could help social progress, with more people freed to work and fewer dependent on state institutions.</p>
-<p>A carbon border tax, on the other hand, would just add to the inflation and inefficiencies which emissions taxes already impose, whilst the idea that we need to devolve more power to elected mayors misses the point: that we want government to get out of the way of enterprise, not impose more taxes on us to pay for more government direction.</p>
-<p>Planning reform is always popular and probably necessary, as the current system does impose huge costs and delays.</p>
-<p>The ideas for stronger families all had merit; most took the form of offering better tax breaks or more subsidies to ease the pressures on family budgets.</p>
-<p>It would indeed to be good to leave families with more of their own money to spend, and supplement those who cannot for understandable reasons get the better paid jobs to pay the bills. Conservatives should favour more by way of tax cuts, cementing the link between work and better living standards.</p>
-<p>There is also a case for greater fairness in tax between the couple where both go to work and the couple where one stays at home to look after the children whilst they are young.</p>
-<p>However, as both the wish to improve education and to offer more help to families require more public spending, not less, these plans only make sense if government is willing to be tougher in other areas. Here are a few ways it could do so.</p>
-<p>Stop the Bank of England selling more bonds at large losses, as the Treasury could do. Place a freeze on Civil Service and quango recruitment to start to reverse the plunge in public sector productivity in recent years (whilst allowing additional recruitment of teachers, medics and uniformed personnel).</p>
-<p>Delay the state costs of carbon capture and storage schemes until world competition and the private sector have come up with cheaper and better answers, and suspend, now most who want one have one, the free roll out of smart meters. Reduce grants for anti-vehicle schemes.</p>
-<p>Move more Civil Service staff out of expensive central London offices, and get some property savings from the new pattern of part-homeworking. Stop local authorities borrowing to buy property and other investments that they do not need for their own activities.</p>
-<p>Sell the remaining shares in Nat West and privatise Channel 4. Stop issuing so much index-linked debt, and shift to borrowing more for longer periods to get the debt costs down a bit.</p>
-<p>There are many more ways of taking a good few billions out of current budgets. We need only ministers with the will to do it.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</article>
-</div>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Conservatives want more prosperity and happiness for the many. We believe that greater freedom, lower tax rates, and more enterprise is the best way to bring that about. We do not want an ever bigger state taxing too much, driving people into dependence, and forcing people to conform. In the second half of the last…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=35686</id>
-    <published>2023-08-12T04:00:08Z</published>
-    <updated>2023-08-12T04:00:08Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Tory ‘Small Boats Week’ has been a Catalogue of Chaos</title>
@@ -886,13 +848,13 @@ As your MP, it’s my job to do whatever I…</div>
 
 					<content type="html" xml:base="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/"><![CDATA[<p>Hearing from local organisations is really important to me. That&#8217;s why on Friday I was pleased to pop down to visit local businesses in Beaumont Leys. I spent the afternoon hearing directly from organisations on Astill Lodge Road and Home Farm about how they are getting on and the challenges that they are facing.</p>
 <p>So many told me that they are really struggling under this Conservative Government with soaring energy bills and rents.</p>
-<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-20">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
-    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-20');
+<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-18">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
+    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-18');
     var linkNode = document.createElement('a');
     linkNode.setAttribute('href', "mailto:%6C%69%7A%2E%6B%65%6E%64%61%6C%6C%2E%6D%70%40%70%61%72%6C%69%61%6D%65%6E%74%2E%75%6B");
     tNode = document.createTextNode("liz.kendall.mp {at} parliament(.)uk");
     linkNode.appendChild(tNode);
-    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-20");
+    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-18");
     mailNode.parentNode.replaceChild(linkNode, mailNode);
 </script></p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/">Liz meets with Beaumont Leys businesses</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
@@ -2106,10 +2068,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64d84ce227143" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64d877ae62dec" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64d84ce227143').iPhorm({"id":5,"uniqueId":"64d84ce227143","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64d877ae62dec').iPhorm({"id":5,"uniqueId":"64d877ae62dec","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2184,10 +2146,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64d84ce227143" class="iphorm iphorm-form-5" action="/feed/#iphorm-64d84ce227143" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64d877ae62dec" class="iphorm iphorm-form-5" action="/feed/#iphorm-64d877ae62dec" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64d84ce227143" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64d877ae62dec" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2196,22 +2158,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64d84ce227143" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64d84ce227143" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64d877ae62dec" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64d877ae62dec" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64d84ce227143" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64d84ce227143" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64d877ae62dec" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64d877ae62dec" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64d84ce227143" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64d84ce227143" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64d877ae62dec" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64d877ae62dec" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2221,7 +2183,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64d84ce227143_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64d877ae62dec_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2240,7 +2202,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64d84ce227143 script').remove();
+    jQuery('#iphorm-outer-64d877ae62dec script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
