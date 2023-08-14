@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-14T09:26:03Z</updated>
+  <updated>2023-08-14T12:32:14Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
   <entry>
@@ -30,6 +30,33 @@ Basingstoke MP Maria Miller said. “With the Government’s £2 bus fare cap…
     <id>https://www.maria4basingstoke.co.uk/news/basingstoke-mp-calls-residents-take-advantage-governments-ps2-bus-fare-cap-explore-hampshire</id>
     <published>2023-08-14T13:00:00+01:00</published>
     <updated>2023-08-14T13:00:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Bringing Edinburgh’s LGBTQ+ stories into the light</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13793/bringing-edinburgh-s-lgbtq-stories-into-the-light" type="text/html"/>
+    <content type="text">Museums &amp; Galleries Edinburgh has recently completed a partnership project which aims to share Edinburgh’s unique stories of LGBTQ+ history with digital and real-life visitors. </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13793/bringing-edinburgh-s-lgbtq-stories-into-the-light</id>
+    <published>2023-08-14T11:33:00+01:00</published>
+    <updated>2023-08-14T11:33:00+01:00</updated>
+  </entry>
+  <entry>
+    <title>Jon Cruddas MP Opposition to ULEZ</title>
+    <link rel="alternate" href="https://joncruddas.org.uk/jon-cruddas-mp-opposition-ulez" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<span property="schema:name">Jon Cruddas MP Opposition to ULEZ</span>
+
+<span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/user/14" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Ione</span></span>
+
+<span property="schema:dateCreated" content="2023-08-14T10:16:00+00:00">Mon, 08/14/2023 - 11:16</span>
+</div>
+    </content>
+    <author>
+      <name>Ione</name>
+    </author>
+    <id>1221 at https://joncruddas.org.uk</id>
+    <published>2023-08-14T10:16:00Z</published>
+    <updated>2023-08-14T10:16:00Z</updated>
   </entry>
   <entry>
     <title>Delivering 5 pledges</title>
@@ -197,25 +224,6 @@ Basingstoke MP Maria Miller said. “With the Government’s £2 bus fare cap…
 			<thr:total>0</thr:total>
 			</entry>
   <entry>
-    <title>Important Updates Regarding Dagenham Police Station</title>
-    <link rel="alternate" href="https://joncruddas.org.uk/important-updates-regarding-dagenham-police-station" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<span property="schema:name">Important Updates Regarding Dagenham Police Station</span>
-
-<span rel="schema:author"><span lang="" about="https://joncruddas.org.uk/user/14" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Ione</span></span>
-
-<span property="schema:dateCreated" content="2023-08-11T14:24:00+00:00">Fri, 08/11/2023 - 15:24</span>
-</div>
-    </content>
-    <author>
-      <name>Ione</name>
-    </author>
-    <id>1220 at https://joncruddas.org.uk</id>
-    <published>2023-08-11T14:24:00Z</published>
-    <updated>2023-08-11T14:24:00Z</updated>
-  </entry>
-  <entry>
     <title>Full Fibre steam ahead for Banbury</title>
     <link rel="alternate" href="https://www.victoriaprentis.com/news/full-fibre-steam-ahead-banbury" type="text/html"/>
     <content type="xhtml">
@@ -310,16 +318,6 @@ They're open from 7-5 Mon-Fri (coffee shop till 2.30pm) and 8-1 Sat (coffee shop
     <id>https://www.gregsmith.co.uk/news/greg-visits-twyford-village-stores-and-coffee-shop</id>
     <published>2023-08-10T13:00:00+01:00</published>
     <updated>2023-08-10T13:00:00+01:00</updated>
-  </entry>
-  <entry>
-    <title>Gas engineers reenact historic lunch at Granton gasholder</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13792/gas-engineers-reenact-historic-lunch-at-granton-gasholder" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Gas engineers gathered in Granton Waterfront today to reenact a historic lunch which took place prior to the iconic Granton gasholder being put into use in 1901.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13792/gas-engineers-reenact-historic-lunch-at-granton-gasholder</id>
-    <published>2023-08-09T15:02:00+01:00</published>
-    <updated>2023-08-09T15:02:00+01:00</updated>
   </entry>
   <entry>
     <title>Dunne encourages applications for National Lottery Cost of Living Fund </title>
@@ -850,13 +848,13 @@ As your MP, it’s my job to do whatever I…</div>
 
 					<content type="html" xml:base="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/"><![CDATA[<p>Hearing from local organisations is really important to me. That&#8217;s why on Friday I was pleased to pop down to visit local businesses in Beaumont Leys. I spent the afternoon hearing directly from organisations on Astill Lodge Road and Home Farm about how they are getting on and the challenges that they are facing.</p>
 <p>So many told me that they are really struggling under this Conservative Government with soaring energy bills and rents.</p>
-<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-19">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
-    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-19');
+<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-47">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
+    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-47');
     var linkNode = document.createElement('a');
     linkNode.setAttribute('href', "mailto:%6C%69%7A%2E%6B%65%6E%64%61%6C%6C%2E%6D%70%40%70%61%72%6C%69%61%6D%65%6E%74%2E%75%6B");
     tNode = document.createTextNode("liz.kendall.mp {at} parliament(.)uk");
     linkNode.appendChild(tNode);
-    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-19");
+    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-47");
     mailNode.parentNode.replaceChild(linkNode, mailNode);
 </script></p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/">Liz meets with Beaumont Leys businesses</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
@@ -2070,10 +2068,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64d9f2feeec5c" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64da1ea63bdb5" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64d9f2feeec5c').iPhorm({"id":5,"uniqueId":"64d9f2feeec5c","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64da1ea63bdb5').iPhorm({"id":5,"uniqueId":"64da1ea63bdb5","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2148,10 +2146,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64d9f2feeec5c" class="iphorm iphorm-form-5" action="/feed/#iphorm-64d9f2feeec5c" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64da1ea63bdb5" class="iphorm iphorm-form-5" action="/feed/#iphorm-64da1ea63bdb5" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64d9f2feeec5c" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64da1ea63bdb5" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2160,22 +2158,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64d9f2feeec5c" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64d9f2feeec5c" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64da1ea63bdb5" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64da1ea63bdb5" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64d9f2feeec5c" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64d9f2feeec5c" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64da1ea63bdb5" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64da1ea63bdb5" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64d9f2feeec5c" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64d9f2feeec5c" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64da1ea63bdb5" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64da1ea63bdb5" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2185,7 +2183,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64d9f2feeec5c_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64da1ea63bdb5_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2204,7 +2202,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64d9f2feeec5c script').remove();
+    jQuery('#iphorm-outer-64da1ea63bdb5 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
