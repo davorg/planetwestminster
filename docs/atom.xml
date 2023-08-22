@@ -7,9 +7,32 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-22T03:28:05Z</updated>
+  <updated>2023-08-22T06:29:00Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Some questions on carbon accounting</title>
+    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/08/22/some-questions-on-carbon-accounting/" type="text/html"/>
+    <content type="html">&lt;p&gt;In order to close the gap with net zero ambitions governments and companies pursuing this agenda need to revise the way they account for it. Here are some questions they need to answer.&lt;/p&gt;
+&lt;p&gt;1. As China, Russia, India produce more than 40% of the world’s CO 2 output and their output is still growing, how do we get to the 2030 and 2035 targets? What actions are being taken to get the largest and fastest growing outputs by these countries  to be reined in?&lt;/p&gt;
+&lt;p&gt;2.Why does the system assume electric vehicles are a win for less CO 2? Will the figures include the fact that many EVs are being recharged with electricity that may come from more fossil fuel than renewable generation? What allowance is made for all the CO 2 produced in mining  and smelting the raw materials for an EV and its battery? And for total assembly and delivery? How many miles does an EV have to travel before it generates less CO 2 than carrying on with an older ICE vehicle,assuming it can get 100% renewable electricity or putting in accurate figures for the CO 2 content of the electricity likely to be used.&lt;/p&gt;
+&lt;p&gt;3. Why does the accounting system credit a country with lower CO2 because it has closed down fossil fuel based activities, only to import the products needed? This will usually raise world CO 2 by the amount of extra transport involved.&lt;/p&gt;
+&lt;p&gt;4. When attributing success to more renewables shouldn’t you need to also factor in the extra  costs and extra CO 2 from the standby fossil fuel generation needed to prevent black out when the wind drops?&lt;/p&gt;
+&lt;p&gt;5. What will be the CO 2 impact of needing to put in so much more grid capacity and cable to allow a major switch from gas to electricity?&lt;/p&gt;
+&lt;p&gt;6. When calculating the CO 2 impact of rail travel it is important to include connecting travel by road vehicle and do a whole journey calculation. It is also important to use a realistic mix of electric and diesel trains and allow for times in stations with engines running.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">In order to close the gap with net zero ambitions governments and companies pursuing this agenda need to revise the way they account for it. Here are some questions they need to answer. 1. As China, Russia, India produce more than 40% of the world’s CO 2 output and their output is still growing, how…</div>
+    </summary>
+    <author>
+      <name>johnredwood</name>
+    </author>
+    <id>http://johnredwoodsdiary.com/?p=35736</id>
+    <published>2023-08-22T04:03:50Z</published>
+    <updated>2023-08-22T04:03:50Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Adapting to New Norms: The Synergy Between Distance Learning and Integrated Pest Management</title>
     <link rel="alternate" href="https://www.lucianaberger.com/adapting-to-new-norms-the-synergy-between-distance-learning-and-integrated-pest-management/" type="text/html"/>
@@ -169,28 +192,6 @@
     <category term="Keeping You Informed"/>
     <category term="Other"/>
     <category term="Your community"/>
-  </entry>
-  <entry>
-    <title>Nationalised roads</title>
-    <link rel="alternate" href="http://johnredwoodsdiary.com/2023/08/21/nationalised-roads/" type="text/html"/>
-    <content type="html">&lt;p&gt;Our road system is badly run, delivering a poor service to all the people struggling to get to work, to drop children off at school and getting to the shops. It lets down delivery drivers, large trucks bringing  essential supplies and business vehicles carrying people to do work in our homes and commercial premises.&lt;/p&gt;
-&lt;p&gt;It is a typical nationalised monopoly. It believes in keeping us short of roadspace on the bizarre grounds that if they built more roads we would use them more. Any normal business is delighted to expand when it hits on a popular product or service.&lt;/p&gt;
-&lt;p&gt;The highways authorities take special delight in making life as difficult  as possible for their tax paying customers. They regularly restrict access, narrow lanes, increase junction delays and change rules on road use. They  compound this by setting traps to get more fines revenue out of complex and changing regulations.&lt;/p&gt;
-&lt;p&gt;They fail to maintain the surfaces of many roads, letting potholes grow until more extensive and expensive repairs are needed. The state grossly overcharges for use of the roads, collecting far more in motoring taxes than it defrays in road costs.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;They insist on putting cables and pipes under the middle of main road requiring digging up the road every time a repair, replacement or increase of facility is needed.&lt;/p&gt;
-&lt;p&gt;Why? We depend on the roads for so much of our lifestyle.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Our road system is badly run, delivering a poor service to all the people struggling to get to work, to drop children off at school and getting to the shops. It lets down delivery drivers, large trucks bringing  essential supplies and business vehicles carrying people to do work in our homes and commercial premises. It…</div>
-    </summary>
-    <author>
-      <name>johnredwood</name>
-    </author>
-    <id>http://johnredwoodsdiary.com/?p=35733</id>
-    <published>2023-08-21T04:02:39Z</published>
-    <updated>2023-08-21T04:02:39Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Llandudno’s Irish Bar wins ‘Best Community Pub’ in Robin's Aberconwy Pub of The Year 2023 contest</title>
@@ -918,13 +919,13 @@ The post <a href="http://karinsmyth.com/2023/07/27/home-office-public-consultati
 
 					<content type="html" xml:base="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/"><![CDATA[<p>Hearing from local organisations is really important to me. That&#8217;s why on Friday I was pleased to pop down to visit local businesses in Beaumont Leys. I spent the afternoon hearing directly from organisations on Astill Lodge Road and Home Farm about how they are getting on and the challenges that they are facing.</p>
 <p>So many told me that they are really struggling under this Conservative Government with soaring energy bills and rents.</p>
-<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-89">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
-    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-89');
+<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-93">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
+    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-93');
     var linkNode = document.createElement('a');
     linkNode.setAttribute('href', "mailto:%6C%69%7A%2E%6B%65%6E%64%61%6C%6C%2E%6D%70%40%70%61%72%6C%69%61%6D%65%6E%74%2E%75%6B");
     tNode = document.createTextNode("liz.kendall.mp {at} parliament(.)uk");
     linkNode.appendChild(tNode);
-    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-89");
+    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-93");
     mailNode.parentNode.replaceChild(linkNode, mailNode);
 </script></p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/">Liz meets with Beaumont Leys businesses</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
@@ -1126,6 +1127,37 @@ If a formal review of the BBC’s funding model is indeed to take place in the a
     <category term="NHS"/>
     <category term="West Dunbartonshire"/>
     <category term="West Dunbartonshire Community Transport"/>
+  </entry>
+  <entry>
+    <title>Andover at PMQ</title>
+    <link rel="alternate" href="https://kitmalthouse.com/2023/andover-at-pmq/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=andover-at-pmq" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<p>This week I raised the issue of Andover’s Levelling Up Fund bid with the Deputy Prime Minister at PMQs. </p>
+
+
+
+<p>When you apply for a PMQ you enter a ballot along with every other member and so you have about a 1 in 400 chance of getting a question. This week I was lucky to be picked, although the Prime Minister was away at the NATO summit, so his Deputy Answered. </p>
+
+
+
+<p>What did we learn? It’s coming shortly, and they understand the importance of our town, and its bid. </p>
+
+
+
+<p>You can watch it here: <a href="https://parliamentlive.tv/event/index/2626ecff-0b5a-450c-91c1-f26027bb2819">https://parliamentlive.tv/event/index/2626ecff-0b5a-450c-91c1-f26027bb2819</a></p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This week I raised the issue of Andover’s Levelling Up Fund bid with the Deputy Prime Minister at PMQs. When you apply for a PMQ you enter a ballot along with every other member and so you have about a 1 in 400 chance of getting a question. This week I was lucky to be […]</div>
+    </summary>
+    <author>
+      <name>Kit Malthouse</name>
+    </author>
+    <id>https://kitmalthouse.com/?p=2997</id>
+    <published>2023-07-15T15:49:18Z</published>
+    <updated>2023-07-15T15:49:18Z</updated>
+    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Rushanara Ali on the 75th Anniversary of the NHS</title>
@@ -2041,10 +2073,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64e42b2227993" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64e4558377e49" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64e42b2227993').iPhorm({"id":5,"uniqueId":"64e42b2227993","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64e4558377e49').iPhorm({"id":5,"uniqueId":"64e4558377e49","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2119,10 +2151,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64e42b2227993" class="iphorm iphorm-form-5" action="/feed/#iphorm-64e42b2227993" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64e4558377e49" class="iphorm iphorm-form-5" action="/feed/#iphorm-64e4558377e49" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64e42b2227993" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64e4558377e49" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2131,22 +2163,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64e42b2227993" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64e42b2227993" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64e4558377e49" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64e4558377e49" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64e42b2227993" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64e42b2227993" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64e4558377e49" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64e4558377e49" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64e42b2227993" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64e42b2227993" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64e4558377e49" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64e4558377e49" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2156,7 +2188,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64e42b2227993_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64e4558377e49_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2175,7 +2207,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64e42b2227993 script').remove();
+    jQuery('#iphorm-outer-64e4558377e49 script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2235,7 +2267,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwBNd9QXU2INulHfZn4ZSbd_HFnmjRjM-lBafGYTdZMFJ5maqDWn28gkxzjCqKtf_I2moMyJhJDk4NjVkxY5Q' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzYXyiS0mmLifRs5Dykf8Wxt86xqky2mP9_p4pAWL8a1pOd7xXfgd7XIIdKFUNdHIQMVOIIXUB91_ZVjKHnCA' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
