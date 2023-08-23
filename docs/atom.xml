@@ -7,9 +7,19 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-23T06:27:30Z</updated>
+  <updated>2023-08-23T09:29:12Z</updated>
   <link rel="self" href="https://mps.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://mps.theplanetarium.org/</id>
+  <entry>
+    <title>Commemorating UNESCO’s International Day for the Remembrance of the Slave Trade and its Abolition</title>
+    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13796/commemorating-unesco-s-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Council Leader Cammy Day writes in today's Evening News about the UNESCO International Day for the Remembrance of the Slave Trade and its Abolition. </div>
+    </content>
+    <id>https://www.edinburgh.gov.uk/news/article/13796/commemorating-unesco-s-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition</id>
+    <published>2023-08-23T09:09:00+01:00</published>
+    <updated>2023-08-23T09:09:00+01:00</updated>
+  </entry>
   <entry>
     <title>Strengthening Our Communities Through Young People</title>
     <link rel="alternate" href="https://www.drewhendrymp.scot/strengthening-our-communities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=strengthening-our-communities" type="text/html"/>
@@ -42,16 +52,16 @@
     <title>More funny numbers from the OBR</title>
     <link rel="alternate" href="http://johnredwoodsdiary.com/2023/08/23/more-funny-numbers-from-the-obr/" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>So we learn that UK state borrowing was £11.3 bn less in the first four months of this financial year than the OBR forecast.Spending was up so the main reason for a further large error once again was understating tax revenues. Income  tax was up by a massive 13% . the OBR often understates revenue when the economy grows a little.</p>
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>So we learn that UK state borrowing was £11.3 bn less in the first four months of this financial year than the OBR forecast.Spending was up so the main reason for a further large error once again was understating tax revenues. Income  tax was up by a massive 13% . The OBR often understates revenue when the economy grows a little.</p>
 <p>I renew my question to Ministers. Why do you make the OBR five year forecast of the deficit the key control on your economic choices? As the OBR cannot get within £10 bn for the immediate year why believe the 5 year forecast? If the OBR model regularly understates tax revenue why accept advice to hike tax rates?</p>
 <p>The numbers were further distorted by the transfer of £14 bn to the Bank of England to pay losses, taking the total to an astonishing £24 bn in just four months. The Bank’s decision to sell bonds at the low prices it has driven them down to instead of holding them to repayment has added to the misery and inflated government ex Bank borrowing and spending.</p>
 <p>Spending on benefits was up £11bn, on staff costs £8.2 bn  and  grants to Councils up £3 bn, making a total increase of £24 bn so far this year. If the government would introduce a freeze on public sector recruiting save for key personnel like medics and uniformed roles the government could start to control some of these outgoings.</p>
-<p>Debt interest remains very elevated, More than half the stated costs do not entail any cash payments out or additional borrowing given the way the accounts treat indexation of some bonds.</p>
-<p>The government needs to look through these confusing numbers and forecasts. The underlying reality is it could cut the rate of increase in spending, boost public sector productivity and cut some  tax rates to grow the economy and revenues more.</p>
+<p>Debt interest remains very elevated. More than half the stated costs do not entail any cash payments out or additional borrowing given the way the accounts treat indexation of some bonds.</p>
+<p>The government needs to look through these confusing numbers and forecasts. The underlying reality is it could cut the rate of increase in spending, boost public sector productivity and cut some  tax rates to grow the economy and revenues more. OBR forecasts are an ill fitting restraining jacket that falls apart every time it meets reality. Why keep stitching it up again when it delivers wrong forecasts and wrong policy responses?</p>
 </div>
     </content>
     <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">So we learn that UK state borrowing was £11.3 bn less in the first four months of this financial year than the OBR forecast.Spending was up so the main reason for a further large error once again was understating tax revenues. Income  tax was up by a massive 13% . the OBR often understates revenue…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">So we learn that UK state borrowing was £11.3 bn less in the first four months of this financial year than the OBR forecast.Spending was up so the main reason for a further large error once again was understating tax revenues. Income  tax was up by a massive 13% . The OBR often understates revenue…</div>
     </summary>
     <author>
       <name>johnredwood</name>
@@ -542,16 +552,6 @@ Commenting, Greg said, "A real pleasure to visit DAF Trucks UK HQ in Haddenham e
     <updated>2023-08-16T13:00:00+01:00</updated>
   </entry>
   <entry>
-    <title>Welcome to the start of the new school year</title>
-    <link rel="alternate" href="https://www.edinburgh.gov.uk/news/article/13794/welcome-to-the-start-of-the-new-school-year" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Education, Children and Families Convener, Councillor Joan Griffiths, extends a warm welcome to all our young people, families, carers and teaching staff with the start of the new school year today.</div>
-    </content>
-    <id>https://www.edinburgh.gov.uk/news/article/13794/welcome-to-the-start-of-the-new-school-year</id>
-    <published>2023-08-15T20:40:00+01:00</published>
-    <updated>2023-08-15T20:40:00+01:00</updated>
-  </entry>
-  <entry>
     <title>MP demands clarity on changes to adult care charges</title>
     <link rel="alternate" href="https://www.tobyperkins.org.uk/2023/08/15/mp-demands-clarity-on-changes-to-adult-care-charges/" type="text/html"/>
     <content type="xhtml">
@@ -1005,13 +1005,13 @@ The post <a href="http://karinsmyth.com/2023/07/27/home-office-public-consultati
 
 					<content type="html" xml:base="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/"><![CDATA[<p>Hearing from local organisations is really important to me. That&#8217;s why on Friday I was pleased to pop down to visit local businesses in Beaumont Leys. I spent the afternoon hearing directly from organisations on Astill Lodge Road and Home Farm about how they are getting on and the challenges that they are facing.</p>
 <p>So many told me that they are really struggling under this Conservative Government with soaring energy bills and rents.</p>
-<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-16">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
-    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-16');
+<p>As ever, if you have any issues or concerns, please do not hesitate to contact me at any time by emailing <span id="emob-yvm.xraqnyy.zc@cneyvnzrag.hx-66">liz.kendall.mp {at} parliament(.)uk</span><script type="text/javascript">
+    var mailNode = document.getElementById('emob-yvm.xraqnyy.zc@cneyvnzrag.hx-66');
     var linkNode = document.createElement('a');
     linkNode.setAttribute('href', "mailto:%6C%69%7A%2E%6B%65%6E%64%61%6C%6C%2E%6D%70%40%70%61%72%6C%69%61%6D%65%6E%74%2E%75%6B");
     tNode = document.createTextNode("liz.kendall.mp {at} parliament(.)uk");
     linkNode.appendChild(tNode);
-    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-16");
+    linkNode.setAttribute('id', "emob-yvm.xraqnyy.zc@cneyvnzrag.hx-66");
     mailNode.parentNode.replaceChild(linkNode, mailNode);
 </script></p>
 <p>The post <a rel="nofollow" href="https://lizkendall.org/liz-meets-with-beaumont-leys-businesses/">Liz meets with Beaumont Leys businesses</a> appeared first on <a rel="nofollow" href="https://lizkendall.org">Liz Kendall</a>.</p>
@@ -2098,10 +2098,10 @@ and bring services closer to local communities.&lt;/p&gt;
 6) Statistics for the number of patients who are admitted on towards at each hospital from A&amp;amp;E.&lt;br /&gt;
 7) An assessment of the impact to the Welsh Ambulance Service, Ambulance response times, handover response times, in terms of waiting times at hospitals, blue light trauma travel times&lt;br /&gt;
 and non-emergency transport between hospitals.&lt;/p&gt;
-&lt;div id="iphorm-outer-64e5a6b4cccca" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
+&lt;div id="iphorm-outer-64e5d14698f8f" class="iphorm-outer iphorm-outer-5 iphorm-uniform-theme-default iphorm-responsive" &gt;
     &lt;script type="text/javascript"&gt;
         jQuery(document).ready(function($) {
-                        $('#iphorm-64e5a6b4cccca').iPhorm({"id":5,"uniqueId":"64e5a6b4cccca","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
+                        $('#iphorm-64e5d14698f8f').iPhorm({"id":5,"uniqueId":"64e5d14698f8f","useAjax":true,"successMessageTimeout":10,"resetFormValues":"","clElementIds":[],"clDependentElementIds":[],"centerFancybox":true,"centerFancyboxSpeed":true});
                         if ($.isFunction($.fn.qtip)) {
                 $('.iphorm-tooltip-hover', iPhorm.instance.$form).qtip({
                     style: {
@@ -2176,10 +2176,10 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                         $('.iphorm-group-row &gt; div:last-child:not(:first-child)', iPhorm.instance.$form).add('.iphorm-group-row:last-child', iPhorm.instance.$form).addClass('last-child');
                     });
     &lt;/script&gt;
-    &lt;form id="iphorm-64e5a6b4cccca" class="iphorm iphorm-form-5" action="/feed/#iphorm-64e5a6b4cccca" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
+    &lt;form id="iphorm-64e5d14698f8f" class="iphorm iphorm-form-5" action="/feed/#iphorm-64e5d14698f8f" method="post" enctype="multipart/form-data" novalidate="novalidate"&gt;
         &lt;div class="iphorm-inner iphorm-inner-5" &gt;
             &lt;input type="hidden" name="iphorm_id" value="5" /&gt;
-            &lt;input type="hidden" name="iphorm_uid" value="64e5a6b4cccca" /&gt;
+            &lt;input type="hidden" name="iphorm_uid" value="64e5d14698f8f" /&gt;
             &lt;input type="hidden" name="form_url" value="https://www.chrisbryantmp.org.uk/feed/" /&gt;
             &lt;input type="hidden" name="referring_url" value="" /&gt;
             &lt;input type="hidden" name="post_id" value="5238" /&gt;
@@ -2188,22 +2188,22 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                         &lt;div class="iphorm-elements iphorm-elements-5 iphorm-clearfix" &gt;
                 &lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_1-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_1-element-spacer"&gt;
-        &lt;label for="iphorm_5_1_64e5a6b4cccca" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64e5a6b4cccca" type="text" name="iphorm_5_1"  value=""  /&gt;
+        &lt;label for="iphorm_5_1_64e5d14698f8f" class="iphorm_5_1-outer-label" &gt;Name&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_1-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_1" id="iphorm_5_1_64e5d14698f8f" type="text" name="iphorm_5_1"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_2-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-required" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_2-element-spacer"&gt;
-        &lt;label for="iphorm_5_2_64e5a6b4cccca" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64e5a6b4cccca" type="email" name="iphorm_5_2"  value=""  /&gt;
+        &lt;label for="iphorm_5_2_64e5d14698f8f" class="iphorm_5_2-outer-label" &gt;Email address&lt;span class="iphorm-required"&gt;(required)&lt;/span&gt;&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_2-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_2" id="iphorm_5_2_64e5d14698f8f" type="email" name="iphorm_5_2"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
     &lt;/div&gt;&lt;div class="iphorm-element-wrap iphorm-element-wrap-text iphorm_5_3-element-wrap iphorm-clearfix iphorm-labels-above iphorm-element-optional" &gt;
     &lt;div class="iphorm-element-spacer iphorm-element-spacer-text iphorm_5_3-element-spacer"&gt;
-        &lt;label for="iphorm_5_3_64e5a6b4cccca" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
-            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64e5a6b4cccca" type="text" name="iphorm_5_3"  value=""  /&gt;
+        &lt;label for="iphorm_5_3_64e5d14698f8f" class="iphorm_5_3-outer-label" &gt;Post Code&lt;/label&gt;        &lt;div class="iphorm-input-wrap iphorm-input-wrap-text iphorm_5_3-input-wrap" &gt;
+            &lt;input class="iphorm-element-text  iphorm_5_3" id="iphorm_5_3_64e5d14698f8f" type="text" name="iphorm_5_3"  value=""  /&gt;
                     &lt;/div&gt;
         &lt;div class="iphorm-errors-wrap iphorm-hidden" &gt;
     &lt;/div&gt;    &lt;/div&gt;
@@ -2213,7 +2213,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
             &lt;div class="iphorm-input-ul iphorm-input-checkbox-ul iphorm_5_4-input-ul iphorm-options-block iphorm-clearfix" &gt;
                             &lt;div class="iphorm-input-li iphorm-input-checkbox-li iphorm_5_4-input-li" &gt;
                     &lt;label  class="iphorm_5_4_1_label"&gt;
-                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64e5a6b4cccca_1" value="Yes"  /&gt;
+                        &lt;input class="iphorm-element-checkbox iphorm_5_4 iphorm_5_4_1" type="checkbox" name="iphorm_5_4[]" id="iphorm_5_4_64e5d14698f8f_1" value="Yes"  /&gt;
                         Yes                    &lt;/label&gt;
                 &lt;/div&gt;
                         &lt;/div&gt;
@@ -2232,7 +2232,7 @@ and non-emergency transport between hospitals.&lt;/p&gt;
                                             &lt;/div&gt;
             &lt;/form&gt;
     &lt;script type="text/javascript"&gt;
-    jQuery('#iphorm-outer-64e5a6b4cccca script').remove();
+    jQuery('#iphorm-outer-64e5d14698f8f script').remove();
     &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;The post &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk/ae-at-the-royal-glam/"&gt;A&amp;#038;E at The Royal Glam&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.chrisbryantmp.org.uk"&gt;Chris Bryant&lt;/a&gt;.&lt;/p&gt;
@@ -2292,7 +2292,7 @@ They were not able to prepare and have had to suffer serious financial consequen
 We have a historic debt of honour to them.&lt;br /&gt;
 &lt;br /&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxfx1-3L1dEQK2GfpVylRG7FF3Jdpn8fxdl9TA6mAqz6YgpTX6zO5NMTyMKfLWTZX3ruKKFMcjywDxdddpx7Q' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwBNd9QXU2INulHfZn4ZSbd_HFnmjRjM-lBafGYTdZMFJ5maqDWn28gkxzjCqKtf_I2moMyJhJDk4NjVkxY5Q' class='b-hbp-video b-uploaded' frameborder='0'&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;br /&gt;</content>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
     <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/1154433042546714956/posts/default/4629899519655446558"/>
