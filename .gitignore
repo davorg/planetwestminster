@@ -1,2 +1,4 @@
 *.log
 MPs\ Feeds.tsv
+docs/atom.xml
+docs/index.html
