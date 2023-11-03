@@ -11,9 +11,6 @@ feed:
   file: docs/atom.xml
   format: Atom
 feeds:
-  - title: 'lab: Aberavon: Stephen Kinnock'
-    feed: https://www.stephenkinnock.co.uk/category/pressandarticles/feed/
-    web: https://www.stephenkinnock.co.uk/
   - title: 'con: Aberconwy: Robin Millar'
     feed: https://www.robin-millar.org.uk/news/feed
     web: https://www.robin-millar.org.uk/
