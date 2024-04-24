@@ -7,7 +7,7 @@ img {
   height: auto;
 }
 
-nav.navbar-fixed-top {
+nav.navbar.fixed-top {
   background-image: url(/image/hoc_fade.jpg);
   background-position: top right;
   background-repeat: no-repeat;
