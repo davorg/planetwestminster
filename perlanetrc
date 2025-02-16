@@ -173,9 +173,6 @@ feeds:
   - title: 'con: Epsom and Ewell: Chris Grayling'
     feed: https://chrisgrayling.net/feed/
     web: https://chrisgrayling.net/
-  - title: 'con: Esher and Walton: Dominic Raab'
-    feed: http://dominicraab.com/feed/atom/
-    web: http://www.dominicraab.com/
   - title: 'con: Folkestone and Hythe: Damian Collins'
     feed: http://damiancollins.com/feed/
     web: http://www.damiancollins.com/
