@@ -122,9 +122,6 @@ feeds:
   - title: 'con: Chippenham: Michelle Donelan'
     feed: https://michelledonelan.co.uk/feed/
     web: http://michelledonelan.co.uk/
-  - title: 'con: Cities of London and Westminster: Mark Field'
-    feed: http://markfieldmp.com/home/feed/
-    web: http://www.markfieldmp.com/
   - title: 'lab: Clapham and Brixton Hill: Bell Ribeiro-Addy'
     feed: https://bellribeiroaddy.com/feed/
     web: https://bellribeiroaddy.com/
