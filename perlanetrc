@@ -125,6 +125,9 @@ feeds:
   - title: 'con: Cities of London and Westminster: Mark Field'
     feed: http://markfieldmp.com/home/feed/
     web: http://www.markfieldmp.com/
+  - title: 'lab: Clapham and Brixton Hill: Bell Ribeiro-Addy'
+    feed: https://bellribeiroaddy.com/feed/
+    web: https://bellribeiroaddy.com/
   - title: 'lab: Clwyd South: Susan Elan Jones'
     feed: http://www.susanelanjones.co.uk/feed/
     web: http://www.susanelanjones.co.uk/
