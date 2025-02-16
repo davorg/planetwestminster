@@ -22,6 +22,10 @@ nav.navbar.fixed-top {
   background-color: white;
 }
 
+.main-container {
+  padding-top: 135px;
+}
+
 /*
 
 .lab .panel-heading, .lab .panel-footer {
