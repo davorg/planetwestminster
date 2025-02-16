@@ -52,10 +52,10 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li id="all" class="filter active"><a class="nav-link" href="#">All</a></li>
-            <li id="con" class="filter"><a class="nav-link" href="#">Con</a></li>
             <li id="lab" class="filter"><a class="nav-link" href="#">Lab</a></li>
-            <li id="snp" class="filter"><a class="nav-link" href="#">SNP</a></li>
+            <li id="con" class="filter"><a class="nav-link" href="#">Con</a></li>
             <li id="ld" class="filter"><a class="nav-link" href="#">Lib Dem</a></li>
+            <li id="snp" class="filter"><a class="nav-link" href="#">SNP</a></li>
             <li id="dup" class="filter"><a class="nav-link" href="#">DUP</a></li>
             <li id="other" class="filter"><a class="nav-link" href="#">Others</a></li>
           </ul>
