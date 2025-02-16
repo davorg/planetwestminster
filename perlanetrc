@@ -317,9 +317,6 @@ feeds:
   - title: 'con: North West Hampshire: Kit Malthouse'
     feed: http://kitmalthouse.com/feed/
     web: http://www.kitmalthouse.com/
-  - title: 'lab: Nottingham East: Chris Leslie'
-    feed: http://www.chrisleslie.org/feed/
-    web: http://www.chrisleslie.org/
   - title: 'lab: Nottingham North: Alex Norris'
     feed: http://nottinghamlabour.org.uk/feed/
     web: http://www.nottinghamlabour.org.uk
