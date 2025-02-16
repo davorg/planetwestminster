@@ -66,7 +66,7 @@
       <div class="row">
         <div class="col-2">
           <h2>About</h2>
-          <p>Built by <a href="https://twitter.com/davorg/">Dave Cross</a>.</p>
+          <p>Built by <a href="https://links.davecross.co.uk/">Dave Cross</a>.</p>
           <p>Powered by <a href="https://metacpan.org/release/Perlanet">Perlanet</a></p>
           <h2>Subscribe</h2>
           <p><a href="/atom.xml"><img alt="Feed" src="/image/feed.gif" /> Subscribe</a>
