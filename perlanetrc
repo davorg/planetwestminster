@@ -179,9 +179,6 @@ feeds:
   - title: 'lab: Gateshead: Ian Mearns'
     feed: http://www.ianmearns.org.uk/feed/
     web: http://www.ianmearns.org.uk/
-  - title: 'snp: Glasgow Central: Alison Thewliss'
-    feed: http://bellgrovebelle.blogspot.com/feeds/posts/default
-    web: http://bellgrovebelle.blogspot.co.uk/
   - title: 'snp: Glasgow East: David Linden'
     feed: http://www.davidlinden.scot/feed
     web: http://www.davidlinden.scot/
