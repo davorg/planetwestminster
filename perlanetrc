@@ -11,9 +11,6 @@ feed:
   file: docs/atom.xml
   format: Atom
 feeds:
-  - title: 'con: Aberconwy: Robin Millar'
-    feed: https://www.robin-millar.org.uk/news/feed
-    web: https://www.robin-millar.org.uk/
   - title: 'con: Aldridge-Brownhills: Wendy Morton'
     feed: http://wendymorton.co.uk/feed/
     web: http://wendymorton.co.uk/
