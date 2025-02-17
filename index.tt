@@ -1,13 +1,18 @@
 [% page = {
-    con   => 'con',
     lab   => 'lab',
-    snp   => 'snp',
+    con   => 'con',
     ld    => 'ld',
+    snp   => 'snp',
+    sf    => 'other',
+    ind   => 'other',
+    ref   => 'other',
     dup   => 'dup',
     green => 'other',
-    ind   => 'other',
     pc    => 'other',
-    sf    => 'other',
+    sdlp  => 'other',
+    all   => 'other',
+    uup   => 'other',
+    tuv   => 'other'
     speaker => 'other',
   } -%]
 <!DOCTYPE html>
