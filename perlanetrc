@@ -12,8 +12,8 @@ feed:
   format: Atom
 feeds:
   - title: 'con: Aldridge-Brownhills: Wendy Morton'
-    feed: http://wendymorton.co.uk/feed/
-    web: http://wendymorton.co.uk/
+    feed: https://wendymorton.co.uk/feed/
+    web: https://wendymorton.co.uk/
   - title: 'lab: Alyn and Deeside: Mark Tami'
     feed: http://www.marktami.co.uk/feed/
     web: http://www.marktami.co.uk/
