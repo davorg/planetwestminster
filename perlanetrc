@@ -21,36 +21,21 @@ feeds:
   - feed: https://wendymorton.co.uk/feed/
     title: 'con: Aldridge-Brownhills: Wendy Morton'
     web: https://wendymorton.co.uk/
-  - feed: https://www.marktami.co.uk/feed/
-    title: 'lab: Alyn and Deeside: Mark Tami'
-    web: https://www.marktami.co.uk/
-  - feed: https://www.nigelmillsmp.com/feed/atom/
-    title: 'con: Amber Valley: Nigel Mills'
-    web: https://www.nigelmillsmp.com/
   - feed: https://www.brendanoharamp.scot/feed/atom
     title: "snp: Argyll and Bute: Brendan O'Hara"
     web: https://www.brendanoharamp.scot/
   - feed: https://www.andrewgriffith.uk/news/feed
     title: 'con: Arundel and South Downs: Andrew Griffith'
     web: https://www.andrewgriffith.uk/
-  - feed: https://www.leeanderson.org.uk/news/feed
-    title: 'con: Ashfield: Lee Anderson'
-    web: https://www.leeanderson.org.uk/
-  - feed: https://www.damiangreen.co.uk/news/feed
-    title: 'con: Ashford: Damian Green'
-    web: http://www.damiangreen.co.uk/
-  - feed: https://www.angelarayner.co.uk/feed/atom/
-    title: 'lab: Ashton-under-Lyne: Angela Rayner'
-    web: https://www.angelarayner.co.uk/
   - feed: https://www.victoriaprentis.com/news/feed/
     title: 'con: Banbury: Victoria Prentis'
     web: https://victoriaprentis.com/
   - feed: https://www.danjarvis.org/news.rss
     title: 'lab: Barnsley Central: Dan Jarvis'
     web: https://www.danjarvis.org/
-  - feed: https://www.maria4basingstoke.co.uk/news/feed
-    title: 'con: Basingstoke: Maria Miller'
-    web: https://www.maria4basingstoke.co.uk/
+  - feed: https://www.lukemurphy.org.uk/feed/
+    title: 'lab: Basingstoke: Luke Murphy'
+    web: https://www.lukemurphy.org.uk/
   - feed: https://www.brendanclarkesmith.com/news/feed
     title: 'con: Bassetlaw: Brendan Clarke-Smith'
     web: https://www.brendanclarkesmith.com/
@@ -129,9 +114,6 @@ feeds:
   - feed: https://bellribeiroaddy.com/feed/
     title: 'lab: Clapham and Brixton Hill: Bell Ribeiro-Addy'
     web: https://bellribeiroaddy.com/
-  - feed: https://www.susanelanjones.co.uk/feed/
-    title: 'lab: Clwyd South: Susan Elan Jones'
-    web: https://www.susanelanjones.co.uk/
   - feed: http://www.steve4croydon.com/feed/
     title: 'lab: Croydon North: Steve Reed'
     web: http://www.steve4croydon.com
@@ -153,24 +135,15 @@ feeds:
   - feed: http://grahamemorris.org.uk/?feed=rss2
     title: 'lab: Easington: Grahame Morris'
     web: http://www.grahamemorris.org.uk/
-  - feed: http://www.samgyimah.com/feed/
-    title: 'con: East Surrey: Sam Gyimah'
-    web: http://www.samgyimah.com/
-  - feed: http://gregknight.com/feed/
-    title: 'con: East Yorkshire: Greg Knight'
-    web: http://gregknight.com/
+  - feed: https://www.clairecoutinho.com/news/feed
+    title: 'con: East Surrey: Claire Coutinho'
+    web: https://www.clairecoutinho.com/
   - feed: https://www.stephenlloyd.org.uk/en/feed/atom1
     title: 'ld: Eastbourne: Stephen Lloyd'
     web: https://www.stephenlloyd.org.uk
-  - feed: https://tommysheppardmp.scot/index.php?format=feed&type=rss
-    title: 'snp: Edinburgh East: Tommy Sheppard'
-    web: https://tommysheppardmp.scot/
   - feed: https://www.edinburgh.gov.uk/rss/news
     title: 'snp: Edinburgh North and Leith: Deidre Brock'
     web: https://www.edinburgh.gov.uk/councillors/44/deidre_brock
-  - feed: https://www.alecshelbrooke.co.uk/feed/
-    title: 'con: Elmet and Rothwell: Alec Shelbrooke'
-    web: https://www.alecshelbrooke.co.uk/
   - feed: https://www.eleanorlaing.com/rss.xml
     title: 'con: Epping Forest: Eleanor Laing'
     web: https://www.eleanorlaing.com/
@@ -204,15 +177,9 @@ feeds:
   - feed: http://new.roberthalfon.com/feed/
     title: 'con: Harlow: Robert Halfon'
     web: https://www.roberthalfon.com/
-  - feed: https://www.mikepenning.com/rss.xml
-    title: 'con: Hemel Hempstead: Mike Penning'
-    web: https://www.mikepenning.com/
   - feed: https://www.jesse4hereford.com/home.rss
     title: 'con: Hereford and South Herefordshire: Jesse Norman'
     web: https://www.jesse4hereford.com/
-  - feed: https://lizmcinnesmp.org.uk/blog.rss
-    title: 'lab: Heywood and Middleton: Liz McInnes'
-    web: https://www.lizmcinnesmp.org.uk/
   - feed: https://ruthforhighpeak.co.uk/feed/
     title: 'lab: High Peak: Ruth George'
     web: https://ruthforhighpeak.co.uk
@@ -234,9 +201,6 @@ feeds:
   - feed: http://www.lesleylaird.com/feed/
     title: 'lab: Kirkcaldy and Cowdenbeath: Lesley Laird'
     web: http://www.lesleylaird.com/
-  - feed: https://www.jeffreydonaldson.org/blog/feed
-    title: 'dup: Lagan Valley: Jeffrey M. Donaldson'
-    web: https://www.jeffreydonaldson.org/
   - feed: https://www.shivaniraja.uk/news/feed
     title: 'con: Leicester East: Shivani Raja'
     web: https://www.shivaniraja.uk/
@@ -318,9 +282,6 @@ feeds:
   - feed: https://kitmalthouse.com/feed/
     title: 'con: North West Hampshire: Kit Malthouse'
     web: https://www.kitmalthouse.com/
-  - feed: https://nottinghamlabour.org.uk/feed/
-    title: 'lab: Nottingham North: Alex Norris'
-    web: https://www.nottinghamlabour.org.uk
   - feed: https://www.debbieabrahams.org.uk/feed
     title: 'lab: Oldham East and Saddleworth: Debbie Abrahams'
     web: https://www.debbieabrahams.org.uk/
@@ -330,9 +291,9 @@ feeds:
   - feed: https://www.petewishartmp.com/home/feed/
     title: 'snp: Perth and North Perthshire: Pete Wishart'
     web: https://www.petewishartmp.com/
-  - feed: https://www.pennymordaunt.com/feed.xml
-    title: 'con: Portsmouth North: Penny Mordaunt'
-    web: https://www.pennymordaunt.com/
+  - feed: https://amandamartin.org.uk/feed/
+    title: 'lab: Portsmouth North: Amanda Martin'
+    web: https://amandamartin.org.uk/
   - feed: https://stephenjmorgan.org/feed/
     title: 'lab: Portsmouth South: Stephen Morgan'
     web: https://stephenjmorgan.org
