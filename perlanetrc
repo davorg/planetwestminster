@@ -236,9 +236,9 @@ feeds:
   - title: 'dup: Lagan Valley: Jeffrey M. Donaldson'
     feed: http://www.jeffreydonaldson.org/blog/feed
     web: http://www.jeffreydonaldson.org/
-  - title: 'lab: Leicester East: Keith Vaz'
-    feed: http://www.keithvazmp.com/feed/
-    web: http://www.keithvazmp.com/
+  - title: 'con: Leicester East: Shivani Raja'
+    feed: https://www.shivaniraja.uk/news/feed
+    web: https://www.shivaniraja.uk/
   - title: 'lab: Leicester West: Liz Kendall'
     feed: https://www.lizkendall.org/feed/atom/
     web: http://www.lizkendall.org/
