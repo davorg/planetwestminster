@@ -26,9 +26,9 @@ feeds:
   - title: "snp: Argyll and Bute: Brendan O'Hara"
     feed: http://www.brendanoharamp.scot/feed/atom
     web: http://www.brendanoharamp.scot/
-  - title: 'con: Arundel and South Downs: Nick Herbert'
-    feed: http://feeds.feedburner.com/NickHerbertNewsAndBlog
-    web: http://www.nickherbert.com/
+  - title: 'con: Arundel and South Downs: Andrew Griffith'
+    feed: https://www.andrewgriffith.uk/news/feed
+    web: https://www.andrewgriffith.uk/
   - title: 'con: Ashfield: Lee Anderson'
     feed: https://www.leeanderson.org.uk/news/feed
     web: https://www.leeanderson.org.uk/
