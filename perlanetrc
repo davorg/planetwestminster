@@ -84,9 +84,9 @@ feeds:
   - feed: ''
     title: 'lab: Bangor Aberconwy: Claire Hughes'
     web: ''
-  - feed: ''https://www.nesilcaliskan.com/feed/
+  - feed: 'https://www.nesilcaliskan.com/feed/'
     title: 'lab: Barking: Nesil Caliskan'
-    web: ''https://www.nesilcaliskan.com/
+    web: 'https://www.nesilcaliskan.com/'
   - feed: 'https://www.danjarvis.org/news.rss'
     title: 'lab: Barnsley North: Dan Jarvis'
     web: 'https://www.danjarvis.org/'
@@ -102,27 +102,27 @@ feeds:
   - feed: 'https://www.lukemurphy.org.uk/feed/'
     title: 'lab: Basingstoke: Luke Murphy'
     web: 'https://www.lukemurphy.org.uk/'
-  - feed: ''https://www.jowhite.uk/feed/
+  - feed: 'https://www.jowhite.uk/feed/'
     title: 'lab: Bassetlaw: Jo White'
-    web: ''https://www.jowhite.uk/
+    web: 'https://www.jowhite.uk/'
   - feed: ''
     title: 'ld: Bath: Wera Hobhouse'
-    web: ''https://www.werahobhouse.co.uk/
+    web: 'https://www.werahobhouse.co.uk/'
   - feed: ''
     title: 'lab: Bathgate and Linlithgow: Kirsteen Sullivan'
     web: ''
   - feed: ''
     title: 'lab: Battersea: Marsha De Cordova'
-    web: ''https://marshadecordova.laboursites.org/
+    web: 'https://marshadecordova.laboursites.org/'
   - feed: 'https://www.joymorrissey.uk/news/feed'
     title: 'con: Beaconsfield: Joy Morrissey'
     web: 'https://www.joymorrissey.uk/'
-  - feed: ''https://liamconlon.com/feed/
+  - feed: 'https://liamconlon.com/feed/'
     title: 'lab: Beckenham and Penge: Liam Conlon'
-    web: ''https://liamconlon.com/
-  - feed: ''https://mohammadyasin.org/feed/
+    web: 'https://liamconlon.com/'
+  - feed: 'https://mohammadyasin.org/feed/'
     title: 'lab: Bedford: Mohammad Yasin'
-    web: ''https://mohammadyasin.org/
+    web: 'https://mohammadyasin.org/'
   - feed: ''
     title: 'dup: Belfast East: Gavin Robinson'
     web: ''
@@ -137,7 +137,7 @@ feeds:
     web: ''
   - feed: ''
     title: 'lab: Bermondsey and Old Southwark: Neil Coyle'
-    web: ''https://neilcoyle.laboursites.org/
+    web: 'https://neilcoyle.laboursites.org/'
   - feed: 'https://www.johnlamont.org/news/feed'
     title: 'con: Berwickshire, Roxburgh and Selkirk: John Lamont'
     web: 'https://www.johnlamont.org/'
@@ -147,9 +147,9 @@ feeds:
   - feed: 'https://www.grahamstuart.com/news/feed'
     title: 'con: Beverley and Holderness: Graham Stuart'
     web: 'https://www.grahamstuart.com/'
-  - feed: ''https://www.drkieranmullan.org.uk/news/feed
+  - feed: 'https://www.drkieranmullan.org.uk/news/feed'
     title: 'con: Bexhill and Battle: Dr Kieran Mullan'
-    web: ''https://www.drkieranmullan.org.uk/
+    web: 'https://www.drkieranmullan.org.uk/'
   - feed: ''
     title: 'lab: Bexleyheath and Crayford: Daniel Francis'
     web: ''
@@ -164,19 +164,19 @@ feeds:
     web: https://www.preetkaurgill.co.uk/
   - feed: ''
     title: 'lab: Birmingham Erdington: Paulette Hamilton'
-    web: ''https://paulettehamilton.org/
+    web: 'https://paulettehamilton.org/'
   - feed: ''
     title: 'lab: Birmingham Hall Green and Moseley: Tahir Ali'
-    web: ''https://tahirali.laboursites.org/
-  - feed: ''https://www.liambyrnemp.co.uk/blog-feed.xml
+    web: 'https://tahirali.laboursites.org/'
+  - feed: 'https://www.liambyrnemp.co.uk/blog-feed.xml'
     title: 'lab: Birmingham Hodge Hill and Solihull North: Liam Byrne'
-    web: ''https://www.liambyrnemp.co.uk/
+    web: 'https://www.liambyrnemp.co.uk/'
   - feed: ''
     title: 'lab: Birmingham Ladywood: Shabana Mahmood'
-    web: ''https://www.shabanamahmood.org/
+    web: 'https://www.shabanamahmood.org/'
   - feed: ''
     title: 'lab: Birmingham Northfield: Laurence Turner'
-    web: ''https://laurence4northfield.com/
+    web: 'https://laurence4northfield.com/'
   - feed: ''
     title: 'ind: Birmingham Perry Barr: Ayoub Khan'
     web: ''
@@ -185,7 +185,7 @@ feeds:
     web: ''
   - feed: ''
     title: 'lab: Birmingham Yardley: Jess Phillips'
-    web: ''https://jessphillips.net/
+    web: 'https://jessphillips.net/'
   - feed: ''
     title: 'lab: Bishop Auckland: Sam Rushworth'
     web: ''
@@ -200,13 +200,13 @@ feeds:
     web: ''
   - feed: ''
     title: 'lab: Blackpool South: Chris Webb'
-    web: ''https://www.chriswebb.org/
+    web: 'https://www.chriswebb.org/'
   - feed: ''
     title: 'lab: Blaenau Gwent and Rhymney: Nick Smith'
-    web: ''https://nick-smith.net/
-  - feed: ''https://liztwist.co.uk/feed/
+    web: 'https://nick-smith.net/'
+  - feed: 'https://liztwist.co.uk/feed/'
     title: 'lab: Blaydon and Consett: Liz Twist'
-    web: ''https://liztwist.co.uk/
+    web: 'https://liztwist.co.uk/'
   - feed: ''
     title: 'lab: Blyth and Ashington: Ian Lavery'
     web: ''
