@@ -82,7 +82,7 @@
 [% FOR f IN config.feeds;
    bits = f.title.split(':\s*');
    party = bits.0 -%]
-            <li class="link link-[% page.$party %]"><a href="[% f.web | html %]">[% bits.2 %], [% bits.1 %] ([% bits.0 %])</a></li>
+            <li class="link link-[% page.$party %]">[% IF f.web %]<a href="[% f.web | html %]">[% END %][% bits.2 %], [% bits.1 %] ([% bits.0 %])[% IF f.web %]</a>[% END %]</li>
 [% END -%]
           </ul>
         </div><!-- col-2 -->
