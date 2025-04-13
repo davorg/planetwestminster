@@ -26,6 +26,10 @@ nav.navbar.fixed-top {
   padding-top: 135px;
 }
 
+#card-body p {
+  padding-top: 1em;
+}
+
 /*
 
 .lab .panel-heading, .lab .panel-footer {
